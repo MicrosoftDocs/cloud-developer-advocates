@@ -1,4 +1,4 @@
 # [Cloud Developer Advocates](index.md)
- ## [Tim Heuer](tim-heuer.md)
- ## [Ashley Mcnamara](ashley-mcnamara.md)
- ## [John Papa](john-papa.md)
+## [Tim Heuer](tim-heuer.md)
+## [Ashley Mcnamara](ashley-mcnamara.md)
+## [John Papa](john-papa.md)
