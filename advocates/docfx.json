@@ -3,7 +3,8 @@
     "content": [
       {
         "files": [
-          "**/*.md"
+          "**/*.md",
+          "**/*.yml"
         ],
         "exclude": [
           "**/obj/**",
@@ -18,8 +19,11 @@
     "resource": [
       {
         "files": [
-          "**/*.png",
-          "**/*.jpg"
+          "includes/**/*.svg",
+          "includes/**/*.png",
+          "includes/**/*.jpg",
+          "includes/**/*.jpeg",
+          "includes/**/*.gif"
         ],
         "exclude": [
           "**/obj/**",
