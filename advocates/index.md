@@ -3,10 +3,6 @@ layout: LandingPage
 hide_bc: true
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
-output: 
-  html_document:
-     css: site.css
-     self_contained: no
 ---
 
 <div id="main" class="v2">
