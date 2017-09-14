@@ -12,6 +12,7 @@ description: Trusted advisors to developer and IT professionals.
             <li> <a href="ashley-mcnamara">Ashley McNamara</a></li>
             <li><a href="tim-heuer">Tim Heuer</a></li>
             <li><a href="john-papa">John Papa</a></li>
+            <li><a href="john-papa">Bryan Liston</a></li>
         </ul>
     </div>
  </div>
