@@ -62,7 +62,7 @@ description: Trusted advisors to developer and IT professionals.
                             </div>
                             <div class="cardText">
                                 <h3>Load balanced VMs</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio sem. Fusce laoreet ut nulla ullamcorper sollicitudin.</p>
+                                <p>Lorem ipsum dolor sit amet, consectetur Aadipiscing elit. In sit amet odio sem. Fusce laoreet ut nulla ullamcorper sollicitudin.</p>
                             </div>
                         </div>
                     </div>
