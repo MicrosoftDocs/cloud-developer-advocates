@@ -8,10 +8,13 @@ description: Trusted advisors to developer and IT professionals.
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocate List </h1>
-        <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
+        <div>Trusted advisors to developer and IT professionals.</div><br/>
+        <div style="text-align:center;width:100%;">
+            <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
+        </div>
     </div>
     <div class="content">
-        <ul class="panelContent cardsK">
+        <ul class="panelContent cardsW">
             <li>
                 <a href="http://azure.microsoft.com/" data-linktype="external">
                 <div class="cardSize">
