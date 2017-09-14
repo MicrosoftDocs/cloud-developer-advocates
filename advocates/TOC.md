@@ -2,3 +2,4 @@
 ## [Tim Heuer](tim-heuer.md)
 ## [Ashley Mcnamara](ashley-mcnamara.md)
 ## [John Papa](john-papa.md)
+## [Bryan Liston](bryan-liston.md)
