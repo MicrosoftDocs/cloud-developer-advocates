@@ -14,6 +14,7 @@ description: Trusted advisors to developer and IT professionals.
         </div>
     </div>
     <div class="content">
+        <h2> Advocates </h2>
         <ul class="panelContent cardsW">
             <li>
                 <a href="http://azure.microsoft.com/" data-linktype="external">
@@ -21,7 +22,7 @@ description: Trusted advisors to developer and IT professionals.
                     <div class="cardPadding">
                         <div class="card">
                             <div class="cardImageOuter">
-                                <div class="cardImage bgdAccent1">
+                                <div class="cardImage">
                                     <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
                                 </div>
                             </div>
@@ -40,7 +41,7 @@ description: Trusted advisors to developer and IT professionals.
                     <div class="cardPadding">
                         <div class="card">
                             <div class="cardImageOuter">
-                                <div class="cardImage bgdAccent1">
+                                <div class="cardImage">
                                     <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
                                 </div>
                             </div>
@@ -59,7 +60,7 @@ description: Trusted advisors to developer and IT professionals.
                     <div class="cardPadding">
                         <div class="card">
                             <div class="cardImageOuter">
-                                <div class="cardImage bgdAccent1">
+                                <div class="cardImage">
                                     <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
                                 </div>
                             </div>
