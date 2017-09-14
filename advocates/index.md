@@ -4,7 +4,7 @@ hide_bc: true
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
-
+<link rel="stylesheet" href="site.css ">
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocate List </h1>
