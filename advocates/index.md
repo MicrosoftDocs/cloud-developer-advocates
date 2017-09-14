@@ -3,6 +3,10 @@ layout: LandingPage
 hide_bc: true
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
+output: 
+  html_document:
+     css: site.css
+     self_contained: no
 ---
 
 <div id="main" class="v2">
@@ -27,8 +31,109 @@ description: Trusted advisors to developer and IT professionals.
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Single VM</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio sem. Fusce laoreet ut nulla ullamcorper sollicitudin.</p>
+                                <h3>Aaron Wislang</h3>
+                                <p>@as_w</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="http://azure.microsoft.com/" data-linktype="external">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Aaron Wislang</h3>
+                                <p>@as_w</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="http://azure.microsoft.com/" data-linktype="external">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Aaron Wislang</h3>
+                                <p>@as_w</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="http://azure.microsoft.com/" data-linktype="external">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Aaron Wislang</h3>
+                                <p>@as_w</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="http://azure.microsoft.com/" data-linktype="external">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Aaron Wislang</h3>
+                                <p>@as_w</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="http://azure.microsoft.com/" data-linktype="external">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Aaron Wislang</h3>
+                                <p>@as_w</p>
+                                <p>Linux</p>
                             </div>
                         </div>
                     </div>
