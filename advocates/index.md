@@ -1,5 +1,5 @@
 --- 
-layout: HubPage
+layout: LandingPage
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
