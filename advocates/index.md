@@ -8,7 +8,7 @@ description: Trusted advisors to developer and IT professionals.
     <div class="container">
         <h1> Cloud Developer Advocate List </h1>
         <div>Trusted advisors to developer and IT professionals.</div><br/>
-        <div style="text-align:center;width:100%;">
+        <div style="text-align:center;width:100%;padding-bottom:24px;">
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
         </div>
     </div>
