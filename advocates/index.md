@@ -1,5 +1,5 @@
 --- 
-layout: LandingPage
+layout: HubPage
 hide_bc: true
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
@@ -22,19 +22,19 @@ description: Trusted advisors to developer and IT professionals.
         <h2> Advocates </h2>
         <ul class="panelContent cardsW">
             <li>
-                <a href="http://azure.microsoft.com/" data-linktype="external">
+                <a href="./aaron-wislang" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
+                                    <img src="./media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal">
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
-                                <p>Linux</p>
+                                <h3>Aaron Wislang</h3><br/>
+                                @as_w<br/>
+                                Linux
                             </div>
                         </div>
                     </div>

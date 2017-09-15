@@ -19,16 +19,14 @@
     "resource": [
       {
         "files": [
-          "includes/**/*.svg",
-          "includes/**/*.png",
-          "includes/**/*.jpg",
-          "includes/**/*.jpeg",
-          "includes/**/*.gif",
           "**/*.svg",
           "**/*.png",
           "**/*.jpg",
           "**/*.jpeg",
-          "**/*.gif"
+          "**/*.gif",
+          "**/*.js",
+          "**/*.css",
+          "**"
         ],
         "exclude": [
           "**/obj/**",
