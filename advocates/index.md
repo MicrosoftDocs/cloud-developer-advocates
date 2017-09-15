@@ -36,7 +36,8 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/brian-clark.png" alt="Picture of Brian Clark" data-linktype="internal">
+                                    <img src="media/profiles/brian-clark.png" alt="Picture of Brian Clark" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
@@ -56,7 +57,8 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/brian-peek.png" alt="Picture of Brian Peek" data-linktype="internal">
+                                    <img src="media/profiles/brian-peek.png" alt="Picture of Brian Peek" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
@@ -76,7 +78,8 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/brian-ketelsen.png" alt="Picture of Brian Ketelsen" data-linktype="internal">
+                                    <img src="media/profiles/brian-ketelsen.png" alt="Picture of Brian Ketelsen" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
@@ -96,7 +99,8 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/asim-hussain.png" alt="Picture of Asim Hussain" data-linktype="internal">
+                                    <img src="media/profiles/asim-hussain.png" alt="Picture of Asim Hussain" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
@@ -116,7 +120,8 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/ashley-mcnamara.png" alt="Picture of Ashley McNamara" data-linktype="internal">
+                                    <img src="media/profiles/ashley-mcnamara.png" alt="Picture of Ashley McNamara" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
@@ -136,7 +141,8 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/abel-wang.png" alt="Picture of Abel Wang" data-linktype="internal">
+                                    <img src="media/profiles/abel-wang.png" alt="Picture of Abel Wang" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
@@ -156,7 +162,8 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/anthony-chu.png" alt="Picture of Anthony Chu" data-linktype="internal">
+                                    <img src="media/profiles/anthony-chu.png" alt="Picture of Anthony Chu" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
@@ -176,7 +183,8 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal">
+                                    <img src="media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
