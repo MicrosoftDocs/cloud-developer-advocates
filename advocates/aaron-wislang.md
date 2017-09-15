@@ -1,34 +1,32 @@
 ---
-title: John Papa - Cloud Developer Advocate
-description: Home page John Papa, a Microsoft Cloud Developer Advocate
-services: N/A
-author: thedanfernandez
-manager: jeffsand
+title: Aaron Wislang - Cloud Developer Advocate
+description: Home page for Aaron Wislang, a Microsoft Cloud Developer Advocate
+services: N / A
+author: Aaron Wislang
+manager: Bryan Liston
 ms.topic: article
-ms.date: 09/12/2017
-ms.author: danielfe
----
+ms.date: 2017-09-15
+ms.author: Aaron Wislang
+-- -
 
-![Image of Aaron Wislang](./media/profiles/aaron-wislang.png)
+![Image of Aaron Wislang](media/profiles/aaron-wislang.png)
 
 # Aaron Wislang
 
-Cloud Developer Advocate
+Principal Cloud Developer Advocate
 
 ## Connect
-
-[Twitter](https://twitter.com/as_w) | LinkedIn | YouTube | Facebook
+[Twitter](https://twitter.com/as_w) | [LinkedIn](https://linkedin.com/in/aaron-wislang)
 
 ## Bio
 
-Husband, father, & Catholic enjoying life with my family. Disney fanatic, developer advocate @ Microsoft, HTML/CSS/JavaScript dev, speaker, & Pluralsight author
+Aaron is a Senior Cloud Developer Advocate at Microsoft with well over a decade of software development, systems architecture & security experience across the major clouds, development platforms and industries. His current areas of focus include Code (Go, .NET. python), Clouds, Containers (Docker, Kubernetes) & Security as well as Microsoft, Linux & other Open Source platforms. He joined Microsoft from Rackspace where he was a Senior Systems Architect & Software Developer on the Azure Product & Engineering team.  Aaron and his wife live in Toronto, Canada with their two boys and their turtle, all of whom hope to call Seattle home one day soon!
 
 ## Skills
 
-* Skill #1
-* Skill #2
-* Skill #3
+* Linux
+
 
 ## My Projects
 
-* [5-part series - MEAN & Cosmos DB](https://johnpapa.net/angular-cosmosdb-1/)
+* Add some projects here

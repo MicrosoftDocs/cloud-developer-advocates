@@ -26,19 +26,79 @@ alert('abc');
         <h2> Advocates </h2>
         <ul class="panelContent cardsW">
             <li>
-                <a href="./aaron-wislang" data-linktype="internal">
+                <a href="./brian-clark" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="./media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal">
+                                    <img src="media/profiles/brian-clark.png" alt="Picture of Brian Clark" data-linktype="internal">
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
+                                <h3>Brian Clark</h3>
+                                <p>@_clarkio</p>
+                                <p>JavaScript / Node.js / Python</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./brian-peek" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/brian-peek.png" alt="Picture of Brian Peek" data-linktype="internal">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Brian Peek</h3>
+                                <p>@BrianPeek</p>
+                                <p>Emerging / Gaming</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./brian-ketelsen" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/brian-ketelsen.png" alt="Picture of Brian Ketelsen" data-linktype="internal">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Brian Ketelsen</h3>
+                                <p>@bketelsen</p>
                                 <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./asim-hussain" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/asim-hussain.png" alt="Picture of Asim Hussain" data-linktype="internal">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Asim Hussain</h3>
+                                <p>@jawache</p>
+                                <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
                     </div>
@@ -52,31 +112,12 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="./media/profiles/ashley-mcnamara.png" alt="Picture of Ashley McNamara" data-linktype="internal">
+                                    <img src="media/profiles/ashley-mcnamara.png" alt="Picture of Ashley McNamara" data-linktype="internal">
                                 </div>
                             </div>
                             <div class="cardText">
                                 <h3>Ashley McNamara</h3>
                                 <p>@ashleymcnamara</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </a>
-            </li>
-            <li>
-                <a href="http://azure.microsoft.com/" data-linktype="external">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
                                 <p>Linux</p>
                             </div>
                         </div>
@@ -85,97 +126,59 @@ alert('abc');
                 </a>
             </li>
             <li>
-                <a href="http://azure.microsoft.com/" data-linktype="external">
+                <a href="./abel-wang" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
+                                    <img src="media/profiles/abel-wang.png" alt="Picture of Abel Wang" data-linktype="internal">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Abel Wang</h3>
+                                <p>@</p>
+                                <p>DevOps</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./anthony-chu" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/anthony-chu.png" alt="Picture of Anthony Chu" data-linktype="internal">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Anthony Chu</h3>
+                                <p>@nthonyChu</p>
+                                <p>.NET / Xamarin</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./aaron-wislang" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal">
                                 </div>
                             </div>
                             <div class="cardText">
                                 <h3>Aaron Wislang</h3>
                                 <p>@as_w</p>
                                 <p>Linux</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </a>
-            </li>
-            <li>
-                <a href="http://azure.microsoft.com/" data-linktype="external">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
-                                <p>Linux</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </a>
-            </li>
-            <li>
-                <a href="http://azure.microsoft.com/" data-linktype="external">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
-                                <p>Linux</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </a>
-            </li>
-            <li>
-                <a href="http://azure.microsoft.com/" data-linktype="external">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>Load balanced VMs</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In sit amet odio sem. Fusce laoreet ut nulla ullamcorper sollicitudin.</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                </a>
-            </li>
-            <li>
-                <a href="http://azure.microsoft.com/" data-linktype="external">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>Load balanced VMs</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur Aadipiscing elit. In sit amet odio sem. Fusce laoreet ut nulla ullamcorper sollicitudin.</p>
                             </div>
                         </div>
                     </div>
