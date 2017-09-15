@@ -7,7 +7,7 @@ manager: Scott Cate
 ms.topic: article
 ms.date: 2017-09-15
 ms.author: Anthony Chu
--- -
+---
 
 ![Image of Anthony Chu](media/profiles/anthony-chu.png)
 

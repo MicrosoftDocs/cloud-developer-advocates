@@ -7,7 +7,7 @@ manager: John Papa
 ms.topic: article
 ms.date: 2017-09-15
 ms.author: Brian Clark
--- -
+---
 
 ![Image of Brian Clark](media/profiles/brian-clark.png)
 

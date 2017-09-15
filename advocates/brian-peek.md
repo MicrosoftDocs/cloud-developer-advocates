@@ -7,7 +7,7 @@ manager: Tim Heuer
 ms.topic: article
 ms.date: 2017-09-15
 ms.author: Brian Peek
--- -
+---
 
 ![Image of Brian Peek](media/profiles/brian-peek.png)
 

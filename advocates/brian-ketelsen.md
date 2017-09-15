@@ -7,7 +7,7 @@ manager: Bryan Liston
 ms.topic: article
 ms.date: 2017-09-15
 ms.author: Brian Ketelsen
--- -
+---
 
 ![Image of Brian Ketelsen](media/profiles/brian-ketelsen.png)
 

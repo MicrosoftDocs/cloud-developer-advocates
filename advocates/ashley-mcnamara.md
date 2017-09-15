@@ -7,7 +7,7 @@ manager: Bryan Liston
 ms.topic: article
 ms.date: 2017-09-15
 ms.author: Ashley McNamara
--- -
+---
 
 ![Image of Ashley McNamara](media/profiles/ashley-mcnamara.png)
 

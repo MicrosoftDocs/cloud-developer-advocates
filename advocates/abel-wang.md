@@ -7,7 +7,7 @@ manager: Donovan Brown
 ms.topic: article
 ms.date: 2017-09-15
 ms.author: Abel Wang
--- -
+---
 
 ![Image of Abel Wang](media/profiles/abel-wang.png)
 

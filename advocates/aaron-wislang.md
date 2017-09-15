@@ -7,7 +7,7 @@ manager: Bryan Liston
 ms.topic: article
 ms.date: 2017-09-15
 ms.author: Aaron Wislang
--- -
+---
 
 ![Image of Aaron Wislang](media/profiles/aaron-wislang.png)
 
