@@ -1,6 +1,6 @@
 --- 
 layout: LandingPage
-hide_bc: true
+hide_bc: false
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
@@ -36,9 +36,9 @@ alert('abc');
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Aaron Wislang</h3><br/>
-                                @as_w<br/>
-                                Linux
+                                <h3>Aaron Wislang</h3>
+                                <p>@as_w</p>
+                                <p>Linux</p>
                             </div>
                         </div>
                     </div>
@@ -46,19 +46,18 @@ alert('abc');
                 </a>
             </li>
             <li>
-                <a href="http://azure.microsoft.com/" data-linktype="external">
+                <a href="./ashley-mcnamara" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="https://docs.microsoft.com/en-us/media/common/placeholder.svg" alt="Azure Architecture" data-linktype="external">
+                                    <img src="./media/profiles/ashley-mcnamara.png" alt="Picture of Ashley McNamara" data-linktype="internal">
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
-                                <p>Linux</p>
+                                <h3>Ashley McNamara</h3>
+                                <p>@ashleymcnamara</p>
                             </div>
                         </div>
                     </div>
