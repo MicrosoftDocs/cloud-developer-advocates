@@ -4,6 +4,7 @@ hide_bc: true
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocate List </h1>
@@ -14,7 +15,7 @@ description: Trusted advisors to developer and IT professionals.
     </div>
     <div class="container">
         <div>
-        <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/NYTNow/timelines/576828964162965504">CDA Test Collection</a> {{<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>}}
+        <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/NYTNow/timelines/576828964162965504">CDA Test Collection</a>
             <img style="display:none;" width="100%" alt="Placeholder for a twitter widget to be added later" src="https://taylorlove.info/assets/img/twitter_collection_placeholder.png" />
         </div>
     </div>
