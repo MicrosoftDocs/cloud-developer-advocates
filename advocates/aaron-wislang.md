@@ -9,7 +9,7 @@ ms.date: 09/12/2017
 ms.author: danielfe
 ---
 
-![Image of Aaron Wislang](https://pbs.twimg.com/profile_images/888397702391902208/CupdIngs_400x400.jpg)
+![Image of Aaron Wislang](./media/profiles/aaron-wislang.png)
 
 # Aaron Wislang
 
