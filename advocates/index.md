@@ -14,7 +14,7 @@ alert('abc');
 
 <div id="main" class="v2">
     <div class="container">
-        <h1> Cloud Developer Advocate List </h1>
+        <h1> Cloud Developer Advocate</h1>
         <div>Trusted advisors to developer and IT professionals for Microsoft.</div><br/>
         <div style="text-align:center;width:100%;padding-bottom:24px;"><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
@@ -23,7 +23,7 @@ alert('abc');
     <div class="container">
         <div>
         <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/NYTNow/timelines/576828964162965504">CDA Twitter Collection</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-            <img style="display:block;" width="100%" alt="Placeholder for a twitter widget to be added later" src="https://taylorlove.info/assets/img/twitter_collection_placeholder.png" />
+            <img style="display:none;" width="100%" alt="Placeholder for a twitter widget to be added later" src="https://taylorlove.info/assets/img/twitter_collection_placeholder.png" />
         </div>
     </div>
     <div class="content">
@@ -63,7 +63,7 @@ alert('abc');
                             </div>
                             <div class="cardText">
                                 <h3>Abel Wang</h3>
-                                <p>@</p>
+                                <p>@AbelSquidHead</p>
                                 <p>DevOps</p>
                             </div>
                         </div>
