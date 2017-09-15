@@ -4,10 +4,14 @@ hide_bc: false
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
+<head>
 <script>
 alert('abc');
 </script>
 <link rel="stylesheet" type="text/css" href="./media/index.css">
+</head>
+
+
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocate List </h1>
@@ -18,8 +22,8 @@ alert('abc');
     </div>
     <div class="container">
         <div>
-        <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/NYTNow/timelines/576828964162965504">CDA Test Collection</a>
-            <img style="display:none;" width="100%" alt="Placeholder for a twitter widget to be added later" src="https://taylorlove.info/assets/img/twitter_collection_placeholder.png" />
+        <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/NYTNow/timelines/576828964162965504">CDA Twitter Collection</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <img style="display:block;" width="100%" alt="Placeholder for a twitter widget to be added later" src="https://taylorlove.info/assets/img/twitter_collection_placeholder.png" />
         </div>
     </div>
     <div class="content">
