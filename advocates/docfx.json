@@ -23,7 +23,12 @@
           "includes/**/*.png",
           "includes/**/*.jpg",
           "includes/**/*.jpeg",
-          "includes/**/*.gif"
+          "includes/**/*.gif",
+          "**/*.svg",
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.jpeg",
+          "**/*.gif"
         ],
         "exclude": [
           "**/obj/**",
