@@ -14,7 +14,7 @@ description: Trusted advisors to developer and IT professionals.
     </div>
     <div class="container">
         <div>
-            <img width="100%" alt="Placeholder for a twitter widget to be added later" src="./assets/images/twitter_collection_placeholder.png" />
+            <img width="100%" alt="Placeholder for a twitter widget to be added later" src="https://taylorlove.info/assets/img/twitter_collection_placeholder.png" />
         </div>
     </div>
     <div class="content">
