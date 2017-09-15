@@ -12,6 +12,11 @@ description: Trusted advisors to developer and IT professionals.
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
         </div>
     </div>
+    <div class="container">
+        <div>
+            <img width="100%" alt="Placeholder for a twitter widget to be added later" src="./assets/images/twitter_collection_placeholder.png" />
+        </div>
+    </div>
     <div class="content">
         <h2> Advocates </h2>
         <ul class="panelContent cardsW">
