@@ -7,7 +7,7 @@ description: Trusted advisors to developer and IT professionals.
 <script>
 alert('abc');
 </script>
-
+<link rel="stylesheet" type="text/css" href="./media/index.css">
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocate List </h1>
