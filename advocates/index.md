@@ -4,13 +4,17 @@ hide_bc: true
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
-<link rel="stylesheet" href="site.css ">
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocate List </h1>
         <div>Trusted advisors to developer and IT professionals.</div><br/>
-        <div style="text-align:center;width:100%;">
+        <div style="text-align:center;width:100%;padding-bottom:24px;">
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
+        </div>
+    </div>
+    <div class="container">
+        <div>
+            <img width="100%" alt="Placeholder for a twitter widget to be added later" src="https://taylorlove.info/assets/img/twitter_collection_placeholder.png" />
         </div>
     </div>
     <div class="content">
