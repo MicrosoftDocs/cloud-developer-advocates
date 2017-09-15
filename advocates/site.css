@@ -1,9 +1,0 @@
-#MVP-CDA-Grid .cardPadding{
-    padding-bottom:36px;
-}
-#MVP-CDA-Grid .panelContent>li {
-    -webkit-flex: 0 1 25%;
-    -ms-flex: 0 1 25%;
-    -webkit-box-flex: 0;
-    flex: 0 1 25%;
-}
