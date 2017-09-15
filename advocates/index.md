@@ -4,12 +4,15 @@ hide_bc: true
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
 ---
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script>
+alert('abc');
+</script>
+
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocate List </h1>
         <div>Trusted advisors to developer and IT professionals.</div><br/>
-        <div style="text-align:center;width:100%;padding-bottom:24px;">
+        <div style="text-align:center;width:100%;padding-bottom:24px;"><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
         </div>
     </div>
