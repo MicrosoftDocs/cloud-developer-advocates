@@ -491,6 +491,48 @@ alert('abc');
                 </div>
                 </a>
             </li>
+            <li>
+                <a href="./laurent-bugnion" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/laurent-bugnion.png" alt="Picture of Laurent Bugnion" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Laurent Bugnion</h3>
+                                <p>@LBugnion</p>
+                                <p>.NET / Xamarin</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./matthew-soucoup" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/matthew-soucoup.png" alt="Picture of Matthew Soucoup" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Matthew Soucoup</h3>
+                                <p>@codemillmatt</p>
+                                <p>Xamarin</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
         </ul>
     </div>
 </div>

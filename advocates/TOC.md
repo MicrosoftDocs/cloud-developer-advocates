@@ -21,3 +21,5 @@
 ## [Jessica Frazelle](jessica-frazelle)
 ## [John Papa](john-papa)
 ## [Kris Nova](kris-nova)
+## [Laurent Bugnion](laurent-bugnion)
+## [Matthew Soucoup](matthew-soucoup)
