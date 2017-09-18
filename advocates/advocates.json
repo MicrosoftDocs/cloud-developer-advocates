@@ -25,7 +25,7 @@
     "ContactMetadata": {
       "ContactMetadataID": "37676ddc-f415-48e9-9b74-206e06ea3327",
       "ContactID": "715d0fcd-5a35-47c4-b9f0-80fc70c1051f",
-      "Biography": "Brian focuses on web development leveraging technologies such as Angular and Node.js. His experience also includes some .NET, Java and iOS. He is enthusiastic about secure application development best practices and co-authored the Security guide for Angular's documentation. Brian started speaking around Disney internal conferences, where he worked for the past 7 years, and moved on to Code Camps and large conferences such as DevIntersection/Anglebrackets. Brian is also an Author at Pluralsight and has produced courses on topics ranging from security to mobile development. He loves to spend time with his family (which will soon include his daughter due in July) and two dogs. You can find Brian on twitter or read what he's recently been up to at clarkio.com.\nhttps://twitter.com/clarkio\n",
+      "Biography": "Brian focuses on web development leveraging technologies such as Angular and Node.js. His experience also includes some .NET, Java and iOS. He is enthusiastic about secure application development best practices and co-authored the Security guide for Angular's documentation. Brian started speaking around Disney internal conferences, where he worked for the past 7 years, and moved on to Code Camps and large conferences such as DevIntersection/Anglebrackets. Brian is also an Author at Pluralsight and has produced courses on topics ranging from security to mobile development. He loves to spend time with his family (which will soon include his daughter due in July) and two dogs. You can find Brian on twitter or read what he's recently been up to at clarkio.com. \nhttps://twitter.com/clarkio",
       "Location": "Orlando, Florida, US",
       "FocusArea": "JavaScript / Node.js / Python",
       "ManagerFullName": "John Papa",
@@ -397,6 +397,240 @@
       "Location": "Franklin, TN, US",
       "FocusArea": "JavaScript / Node.js / Python",
       "ManagerFullName": "John Papa",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Cecil",
+    "MiddleName": "",
+    "LastName": "Phillip",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "cecilphillip",
+        "GitHubAlias": "cecilphillip",
+        "StackOverflowAlias": "333082/cecilphillip",
+        "LinkedInAlias": "",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "http://cecilphillip.com",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I remember when my father bought us our first computer. At the time, there weren't many personal computers in Antigua, so you could imagine how excited we were. It was a Compaq Presario that ran Windows 95 with 56k modem that woke up the house whenever you tried to get on the internet. This is the machine that I created my first \"web page\" on; my name in bold letters on a white background. As trivial as it sounds, at that moment I knew what I wanted to have a career in computing.\n\nOriginally from St. John's, Antigua, I'm a teacher, podcaster and software developer residing in South Florida with many years of experience building applications on the .NET Framework. Currently I specialize in building solutions utilizing C#, ASP.NET, JavaScript and Azure. I have a passion for software architecture, testing, and web technologies. I also co-host the 'Away from The Keyboard Podcast'. Throughout my career I've been able to continue that cycle of learning, experimenting and teaching. I think those habits are what lead me to start speaking at Code Camps and eventually teaching at Miami Dade College. There is honestly no better feeling than seeing the lightbulb go off in someone's eyes after you've helped them learn something new or work through a problem. [https://twitter.com/cecilphillip](https://twitter.com/cecilphillip) ",
+      "Location": "Tampa, FL, US",
+      "FocusArea": ".NET / Xamarin",
+      "ManagerFullName": "Scott Cate",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "cephilli"
+    }
+  },
+  {
+    "FirstName": "Damian",
+    "MiddleName": "",
+    "LastName": "Brady",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "damovisa",
+        "GitHubAlias": "damovisa",
+        "StackOverflowAlias": "77546/damovisa",
+        "LinkedInAlias": "damianbrady",
+        "HackerNewsAlias": "damovisa",
+        "InstagramAlias": "damovisa",
+        "FacebookAlias": "",
+        "WebBlog": "https://damovisa.me",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "Damian is a Cloud Developer Advocate at Microsoft specializing in DevOps, recently moved from Australia to Toronto, Canada.\n\nHe's an ex-Microsoft MVP in Visual Studio and Developer Technologies, with a background in software development in a broad range of industries. When in Australia, he co-organizes the Brisbane .Net User Group, and the annual DeveloperDeveloperDeveloper Brisbane conference. He regularly speaks at conferences, User Groups, and other events around the world, and he's been an occasional guest on various podcasts such as .NET Rocks and Hanselminutes.\n\nMost of the time you'll find him talking to developers and IT Pros to help them get the most out of their DevOps strategies. [https://twitter.com/damovisa](https://twitter.com/damovisa)",
+      "Location": "Toronto, Canada",
+      "FocusArea": "DevOps",
+      "ManagerFullName": "Donovan Brown",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Donovan",
+    "MiddleName": "",
+    "LastName": "Brown",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "DonovanBrown",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on Microsoft's Cloud Developer Advocacy team. Why is DevOps one of the hottest topics? Because it hurts the most. Luckily, Donovan's unofficial tag line is [#RubDevOpsOnIt](https://twitter.com/search?q=%23RubDevOpsOnIt&src=typd)and he's here to make it all better. Before joining Microsoft, Donovan spent seven years as a Process Consultant and a Certified Scrum Master. Developer Tools are his thing. Donovan has travelled the globe helping companies in the U.S., Canada, India, Germany, and the UK develop solutions using agile practices, Visual Studio, and Team Foundation Server in industries as broad as Communications, Health Care, Energy, and Financial Services. What else keeps the wheels spinning on The Man in The Black Shirt? Donovan's also an avid programmer, often finding ways to integrate software into his other hobbies and activities, one of which is Professional Air Hockey where he has ranked as high as 11 in the world.\n\n[http://twitter.com/DonovanBrown](http://twitter.com/DonovanBrown)",
+      "Location": "Houston, TX, US",
+      "FocusArea": "DevOps",
+      "ManagerFullName": "Jeff Sandquist",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Erik",
+    "MiddleName": "",
+    "LastName": "St. Martin",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "erikstmartin",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "My curiosity of computers began in my early childhood years playing on a family member's Macintosh SE. I was too young to understand the world of programming then, but it was enough to peak my interest. In my teen years the internet became very popular and I was infatuated with the concept of building my own websites, and like all teenage computer geeks the thrill of \"learning to hack\". I cut my teeth building my own websites and learned to program by modifying open-source forum software in Perl and PHP, and running my own Counter-Strike servers. Before I knew it I was being offered money to program as a profession. I've been in the open-source and Linux world ever since.\n\nI spent a lot of my early career as a Web Developer at Disney working on their e-commerce platforms in Java and their own internal language and spent the rest of my career moving further and further down the stack as my interests in deeply technical topics, systems programming and distributed computing became a passion. After that, I did a several year stint working for startups building high-scale distributed systems for things like fraud detection, mostly in Ruby and the Go programming language.\n\nThe past couple years I've been at Comcast working on Kubernetes, Docker and distributed systems designing and building their linear video streaming platform that provides cable video for millions across the country. It really resonated with my love for high-scale distributed systems and unique challenging problems.\n\nOutside of engineering roles, I've been very passionate about helping educate and build communities around the Go programming language, Kubernetes and Docker. I've contributed to all of these projects, co-authored a book on Go, co-host a podcast about Go and co-organize GopherCon, an annual conference for the Go programming language that attracts 1,500 developers each year.\n\nIn my downtime I'm very interested in information security, and teaching myself linux internals, assembly, embedded programming and electronics and have a couple hobby projects like a bbq grill controller I try to sneak time into as I can. [https://twitter.com/erikstmartin](https://twitter.com/erikstmartin)",
+      "Location": "Land O' Lakes, Florida, US",
+      "FocusArea": "",
+      "ManagerFullName": "Bryan Liston",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Jasmine",
+    "MiddleName": "",
+    "LastName": "Greenaway",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "paladique",
+        "GitHubAlias": "paladique",
+        "StackOverflowAlias": "5040855/jasmine",
+        "LinkedInAlias": "jasminegreenaway",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I've been working professionally as a .NET dev since late 2009. This has led me to some amazing opportunities such as getting credited in a AAA quality game, traveling the world, and getting the chance to use Visual Studio's extensibility framework in an open source environment. I'm living the hipster dream in Brooklyn, NY, the place to get \"small, artisanal\" batches of goods, and where the kale flows in abundance 😊 \n\nI also teach front and back end web as an adjunct professor at a local community college, and co-organize BrooklynJS - a monthly meetup with lightning talks and musical guests. Outside of work, I enjoy taking various classes I find from Groupon, playing video or board games, exploring the city, and also enjoy sampling wines, oysters, or teas.",
+      "Location": "New York, NY, US",
+      "FocusArea": ".NET / Xamarin",
+      "ManagerFullName": "Scott Cate",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "JasmineG"
+    }
+  },
+  {
+    "FirstName": "Jeremy",
+    "MiddleName": "",
+    "LastName": "Likness",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "JeremyLikness",
+        "GitHubAlias": "JeremyLikness",
+        "StackOverflowAlias": "228918/jeremy-likness",
+        "LinkedInAlias": "JeremyLikness",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "https://blog.jeremylikness.com/",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I've always had a passion for computers. I was left home alone when my parents had to work when I was seven, and because we didn't own any games for our TI-99/4A I did what I imagine any other kid would have done: I cracked open the manual and keyed in a BASIC program that made a little icon dance. From that point I was hooked, moving from that to machine language on a Commodore 64 and on to languages like Fortran, COBOL, Pascal, RPG/ILE, C, C++, and the rest was history. For the past 20 years I've been building enterprise applications, the first half of my career on the product side (for example, I was the third employee at AirWatch back when it was called Wandering WiFi because we started out as a hotspot provider before doing mobile device management) and the last half as a consultant working for Wintellect and more recently iVision. I've managed teams my entire career and one of my first published articles was in a magazine called News/400 about managing teams in 1998.\n\nMy family has a passion for the outdoors. I do a lot of hiking and have done some section hikes on the Appalachian trail with my daughter. As a family, we summited our first \"14er\" last summer (Mt. Sherman in Colorado) and then my daughter and I hiked a half marathon up Pike's Peak. We are a vegan family although sometimes we might let eggs slide when it's too tough to put something decent together. We've been on a 99.99% plant-based diet for three years now. I've always loved the game of pool and shoot a competitive nine-ball and one pocket game. I do CrossFit on a regular basis and love to read fantasy and science fiction.   [https://twitter.com/jeremylikness](https://twitter.com/jeremylikness)",
+      "Location": "Atlanta, GA, US",
+      "FocusArea": ".NET",
+      "ManagerFullName": "Scott Cate",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "jeliknes"
+    }
+  },
+  {
+    "FirstName": "Jessica",
+    "MiddleName": "",
+    "LastName": "Frazelle",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "jessfraz",
+        "GitHubAlias": "jessfraz",
+        "StackOverflowAlias": "1250388/jessie-frazelle",
+        "LinkedInAlias": "",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "https://blog.jessfraz.com/",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "",
+      "Location": "New York, NY, US",
+      "FocusArea": "Linux / Open Source",
+      "ManagerFullName": "Bryan Liston",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "John",
+    "MiddleName": "",
+    "LastName": "Papa",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "john_papa",
+        "GitHubAlias": "johnpapa",
+        "StackOverflowAlias": "papajohn",
+        "LinkedInAlias": "papajohn",
+        "HackerNewsAlias": "johnpapa7",
+        "InstagramAlias": "thejohnpapa",
+        "FacebookAlias": "",
+        "WebBlog": "https://johnpapa.net",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "John Papa is a dedicated father and husband, a Principal Developer Advocate with Microsoft, and an alumnus of the Google Developer Expert, Microsoft RD and MVP programs. His passions are deploying and teaching modern web technologies, and enjoying everything Disney with his family. John is a co-host of the popular Adventures in Angular podcast, author of the Angular Style Guide, and many popular Pluralsight courses. [https://twitter.com/john_papa](https://twitter.com/john_papa)",
+      "Location": "Orlando, FL, US",
+      "FocusArea": "JavaScript / Node.js / Python",
+      "ManagerFullName": "Jeff Sandquist",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "jopapa"
+    }
+  },
+  {
+    "FirstName": "Kris",
+    "MiddleName": "",
+    "LastName": "Nova",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "Hi, I am Kris Nova. I am a back-end infrastructure engineer, with a focus in distributed container orchestration. I love the back-end side of the stack, and have an expertise in computing infrastructure. I contribute to Kubernetes, Go, and many open source projects. I run Archlinux on my surface book, if you want to know more ask me! I enjoy mountain climbing and randomly go on ridiculous adventures. I have a border collie named Charlie, and likes to take naps on top of me while I code. Ask me about Linux and Go!",
+      "Location": "Boulder, CO, US",
+      "FocusArea": "Linux",
+      "ManagerFullName": "Brian Liston",
       "InTheSpotLight": false,
       "MicrosoftEmailAlias": null
     }
