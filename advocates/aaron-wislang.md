@@ -5,7 +5,7 @@ services: N / A
 author: Aaron Wislang
 manager: Bryan Liston
 ms.topic: article
-ms.date: 2017-09-15
+ms.date: 2017-09-18
 ms.author: Aaron Wislang
 ---
 
@@ -16,7 +16,7 @@ ms.author: Aaron Wislang
 Principal Cloud Developer Advocate
 
 ## Connect
-[Twitter](https://twitter.com/as_w) | [LinkedIn](https://linkedin.com/in/aaron-wislang)
+[Twitter](https://twitter.com/as_w) | [LinkedIn](https://linkedin.com/in/aaron-wislang) | [Github](https://github.com/asw101) | [StackOverflow](https://stackoverflow.com/users/334117/aaron)
 
 ## Bio
 

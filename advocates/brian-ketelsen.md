@@ -5,7 +5,7 @@ services: N / A
 author: Brian Ketelsen
 manager: Bryan Liston
 ms.topic: article
-ms.date: 2017-09-15
+ms.date: 2017-09-18
 ms.author: Brian Ketelsen
 ---
 
@@ -16,7 +16,7 @@ ms.author: Brian Ketelsen
 Principal Cloud Developer Advocate
 
 ## Connect
-[Twitter](https://twitter.com/bketelsen) | [LinkedIn](https://linkedin.com/in/brianketelsen)
+[Twitter](https://twitter.com/bketelsen) | [LinkedIn](https://linkedin.com/in/brianketelsen) | [WebBlog](https://brianketelsen.com) | [Github](https://github.com/bketelsen)
 
 ## Bio
 

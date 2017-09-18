@@ -5,7 +5,7 @@ services: N / A
 author: Ashley McNamara
 manager: Bryan Liston
 ms.topic: article
-ms.date: 2017-09-15
+ms.date: 2017-09-18
 ms.author: Ashley McNamara
 ---
 
@@ -16,7 +16,7 @@ ms.author: Ashley McNamara
 Principal Cloud Developer Advocate
 
 ## Connect
-[Twitter](https://twitter.com/ashleymcnamara) | [LinkedIn](https://linkedin.com/in/ashleymcnamara1)
+[Twitter](https://twitter.com/ashleymcnamara) | [LinkedIn](https://linkedin.com/in/ashleymcnamara1) | [Facebook](https://facebook.com/ashley.mcnamara1) | [WebBlog](http://medium.com/@ashleymcnamara) | [Github](https://github.com/ashleymcnamara) | [Instagram](https://www.instagram.com/ashleymcnamara)
 
 ## Bio
 

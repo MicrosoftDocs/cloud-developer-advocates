@@ -5,7 +5,7 @@ services: N / A
 author: Anthony Chu
 manager: Scott Cate
 ms.topic: article
-ms.date: 2017-09-15
+ms.date: 2017-09-18
 ms.author: Anthony Chu
 ---
 
@@ -16,7 +16,7 @@ ms.author: Anthony Chu
 Principal Cloud Developer Advocate
 
 ## Connect
-[Twitter](https://twitter.com/nthonyChu) | [LinkedIn](https://linkedin.com/in/chuanthony)
+[Twitter](https://twitter.com/nthonyChu) | [LinkedIn](https://linkedin.com/in/chuanthony) | [WebBlog](http://anthonychu.ca/feed/rss/index.xml) | [Github](https://github.com/anthonychu) | [StackOverflow](https://stackoverflow.com/users/3199781/anthony-chu)
 
 ## Bio
 
@@ -32,7 +32,8 @@ https://twitter.com/nthonyChu
 
 ## Skills
 
-* .NET / Xamarin
+* .NET
+* Xamarin
 
 
 ## My Projects

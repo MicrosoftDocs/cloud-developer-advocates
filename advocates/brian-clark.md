@@ -5,7 +5,7 @@ services: N / A
 author: Brian Clark
 manager: John Papa
 ms.topic: article
-ms.date: 2017-09-15
+ms.date: 2017-09-18
 ms.author: Brian Clark
 ---
 
@@ -16,7 +16,7 @@ ms.author: Brian Clark
 Principal Cloud Developer Advocate
 
 ## Connect
-[Twitter](https://twitter.com/_clarkio) | [LinkedIn](https://linkedin.com/in/brianclarkdev)
+[Twitter](https://twitter.com/_clarkio) | [LinkedIn](https://linkedin.com/in/brianclarkdev) | [WebBlog](https://www.clarkio.com/feed.xml) | [Github](https://github.com/clarkio) | [StackOverflow](https://stackoverflow.com/users/3381712/brian-clark) | [Instagram](https://www.instagram.com/_clarkio)
 
 ## Bio
 
@@ -26,7 +26,9 @@ https://twitter.com/clarkio
 
 ## Skills
 
-* JavaScript / Node.js / Python
+* JavaScript
+* Node.js
+* Python
 
 
 ## My Projects

@@ -5,7 +5,7 @@ services: N / A
 author: Asim Hussain
 manager: John Papa
 ms.topic: article
-ms.date: 2017-09-15
+ms.date: 2017-09-18
 ms.author: Asim Hussain
 ---
 
@@ -16,7 +16,7 @@ ms.author: Asim Hussain
 Principal Cloud Developer Advocate
 
 ## Connect
-[Twitter](https://twitter.com/jawache) | [LinkedIn](https://linkedin.com/in/jawache)
+[Twitter](https://twitter.com/jawache) | [LinkedIn](https://linkedin.com/in/jawache) | [WebBlog](http://codecraft.tv) | [Github](https://github.com/jawache) | [StackOverflow](https://stackoverflow.com/users/134085/jawache) | [Instagram](https://www.instagram.com/jawache)
 
 ## Bio
 
@@ -26,7 +26,9 @@ https://twitter.com/jawache
 
 ## Skills
 
-* JavaScript / Node.js / Python
+* JavaScript
+* Node.js
+* Python
 
 
 ## My Projects

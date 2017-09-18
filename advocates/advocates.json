@@ -1,0 +1,430 @@
+[
+  {
+    "ContactID": "715d0fcd-5a35-47c4-b9f0-80fc70c1051f",
+    "FirstName": "Brian",
+    "MiddleName": "",
+    "LastName": "Clark",
+    "ImageName": "BrianClark",
+    "FullName": "Brian Clark",
+    "PhotoUrl": "../Content/Images/Profiles/BrianClark.png",
+    "ContactSocialMedia": {
+      "ContactSocialMediaID": "a244982a-1147-4c83-bc26-923b08c2c6c6",
+      "ContactID": "715d0fcd-5a35-47c4-b9f0-80fc70c1051f",
+      "SocialMediaMetaData": {
+        "TwitterAlias": "_clarkio",
+        "GitHubAlias": "clarkio",
+        "StackOverflowAlias": "3381712/brian-clark",
+        "LinkedInAlias": "brianclarkdev",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "_clarkio",
+        "FacebookAlias": "",
+        "WebBlog": "https://www.clarkio.com/feed.xml",
+        "CodePen": "clarkio"
+      }
+    },
+    "ContactMetadata": {
+      "ContactMetadataID": "37676ddc-f415-48e9-9b74-206e06ea3327",
+      "ContactID": "715d0fcd-5a35-47c4-b9f0-80fc70c1051f",
+      "Biography": "Brian focuses on web development leveraging technologies such as Angular and Node.js. His experience also includes some .NET, Java and iOS. He is enthusiastic about secure application development best practices and co-authored the Security guide for Angular's documentation. Brian started speaking around Disney internal conferences, where he worked for the past 7 years, and moved on to Code Camps and large conferences such as DevIntersection/Anglebrackets. Brian is also an Author at Pluralsight and has produced courses on topics ranging from security to mobile development. He loves to spend time with his family (which will soon include his daughter due in July) and two dogs. You can find Brian on twitter or read what he's recently been up to at clarkio.com.\nhttps://twitter.com/clarkio\n",
+      "Location": "Orlando, Florida, US",
+      "FocusArea": "JavaScript / Node.js / Python",
+      "ManagerFullName": "John Papa",
+      "InTheSpotLight": true,
+      "MicrosoftEmailAlias": "brcl"
+    }
+  },
+  {
+    "ContactID": "d451e630-795c-4c01-822c-5e71cdbc9e1f",
+    "FirstName": "Brian",
+    "MiddleName": "",
+    "LastName": "Peek",
+    "ImageName": "BrianPeek",
+    "FullName": "Brian Peek",
+    "PhotoUrl": "../Content/Images/Profiles/BrianPeek.png",
+    "ContactSocialMedia": {
+      "ContactSocialMediaID": "d9897eed-6d84-4449-a7c9-dbd86d2c7569",
+      "ContactID": "d451e630-795c-4c01-822c-5e71cdbc9e1f",
+      "SocialMediaMetaData": {
+        "TwitterAlias": "BrianPeek",
+        "GitHubAlias": "BrianPeek",
+        "StackOverflowAlias": "1950046/brian-peek",
+        "LinkedInAlias": "BrianPeek",
+        "HackerNewsAlias": "BrianPeek",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "https://brianpeek.com",
+        "CodePen": "BrianPeek"
+      }
+    },
+    "ContactMetadata": {
+      "ContactMetadataID": "b58d4cce-41f2-4248-9a80-d95c78947ec3",
+      "ContactID": "d451e630-795c-4c01-822c-5e71cdbc9e1f",
+      "Biography": "I've been at Microsoft for 5.5 years, and a contractor for another 6 years prior. In my last role, I worked on docs.microsoft.com, writing C++ and gamedev docs. Before that, I worked on the TED team in DX, helping game developer partners port their titles to Windows and Windows Phone. Our team shipped titles like Candy Crush, as well as popular indie games like Prune and Monument Valley. Prior to that, I started at Microsoft working on [Coding4Fun](http://channel9.msdn.com/coding4fun/) under Channel 9. From that role, I'm probably most known for my [.NET Wiimote library](http://github.com/BrianPeek/WiimoteLib), but I have also written a [pile of articles and projects](https://brianpeek.com/projects/), worked a bit on the Kinect for Windows SDK, the Microsoft Mustang ([Project Detroit](http://channel9.msdn.com/coding4fun/articles/Project-Detroit-An-Overview)), [BoxingBots](http://channel9.msdn.com/coding4fun/projects/BoxingBots), and the [LEGO EV3 Sentry Bot](http://channel9.msdn.com/Blogs/BUILD-Conference-Highlights/Lego). I have also co-authored two now-outdated books: \"[Coding4Fun: 10 .NET Programming Projects for Wiimote, YouTube, World of Warcraft, and More](http://www.amazon.com/Coding4fun-Programming-Projects-Wiimote-Warcraft/dp/B005SN8BCS/ref=sr_1_1?ie=UTF8&qid=1326495821&sr=8-1)\" and \"[Debugging ASP.NET](http://www.amazon.com/Debugging-ASP-NET-Jonathan-Goodyear/dp/0735711410/ref=sr_1_1?ie=UTF8&qid=1326495859&sr=8-1)\". Prior to all that, I worked in several small (and one large) consulting companies you’ve never heard of.  \n\nWhen I'm not working, I'm probably restoring the pinballs in my garage, playing a game, or working on yet another gamedev or emulation project I'll probably never finish (an Atari Lynx game presently). I have several closets filled with gaming memorabilia, original console dev kits, and a variety of other rare and unique gaming items. \n\nFind me at [https://twitter.com/BrianPeek](https://twitter.com/BrianPeek) and [https://brianpeek.com/](https://brianpeek.com/)\n",
+      "Location": "Upstate NY, US",
+      "FocusArea": "Emerging / Gaming",
+      "ManagerFullName": "Tim Heuer",
+      "InTheSpotLight": true,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "ContactID": "f04c6ce2-0f0d-4edb-a5c8-39b3c7cc3057",
+    "FirstName": "Brian",
+    "MiddleName": "",
+    "LastName": "Ketelsen",
+    "ImageName": "BrianKetelsen",
+    "FullName": "Brian Ketelsen",
+    "PhotoUrl": "../Content/Images/Profiles/BrianKetelsen.png",
+    "ContactSocialMedia": {
+      "ContactSocialMediaID": "d9897eed-6d84-4449-a7c9-dbd86d2c7569",
+      "ContactID": "f04c6ce2-0f0d-4edb-a5c8-39b3c7cc3057",
+      "SocialMediaMetaData": {
+        "TwitterAlias": "bketelsen",
+        "GitHubAlias": "bketelsen",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "brianketelsen",
+        "HackerNewsAlias": "bketelsen",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "https://brianketelsen.com",
+        "CodePen": null
+      }
+    },
+    "ContactMetadata": {
+      "ContactMetadataID": "b58d4cce-41f2-4248-9a80-d95c78947ec3",
+      "ContactID": "f04c6ce2-0f0d-4edb-a5c8-39b3c7cc3057",
+      "Biography": "Brian Ketelsen is probably most widely known for his role in the Go community: co-organizing Gophercon, co-hosting the GoTime.FM podcast, and co-authoring Go in Action for Manning Press. He's been programming since he was 10, starting on a TI-99 4A. His broad background includes roles as a DBA, Developer, CIO, and nearly everything in-between. Brian built his first custom Linux distribution in 2007, which was used by colleges and companies like IBM to make developing with Ruby on Rails easier. Biggest contribution to Open Source: SkyDNS, which powers service discovery in Kubernetes.",
+      "Location": "Tampa, FL, US",
+      "FocusArea": "Linux",
+      "ManagerFullName": "Bryan Liston",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "ContactID": "d0544998-9502-4f2e-8b4c-c6dd4e80c770",
+    "FirstName": "Asim",
+    "MiddleName": "",
+    "LastName": "Hussain",
+    "ImageName": "AsimHussain",
+    "FullName": "Asim Hussain",
+    "PhotoUrl": "../Content/Images/Profiles/AsimHussain.png",
+    "ContactSocialMedia": {
+      "ContactSocialMediaID": "8b54bac9-575f-4764-ae74-1813a6189e18",
+      "ContactID": "d0544998-9502-4f2e-8b4c-c6dd4e80c770",
+      "SocialMediaMetaData": {
+        "TwitterAlias": "jawache",
+        "GitHubAlias": "jawache",
+        "StackOverflowAlias": "134085/jawache",
+        "LinkedInAlias": "jawache",
+        "HackerNewsAlias": "jawache",
+        "InstagramAlias": "jawache",
+        "FacebookAlias": "",
+        "WebBlog": "http://codecraft.tv",
+        "CodePen": "jawache"
+      }
+    },
+    "ContactMetadata": {
+      "ContactMetadataID": "879e4f3e-8aa5-4b91-8e32-8728646b4cf9",
+      "ContactID": "d0544998-9502-4f2e-8b4c-c6dd4e80c770",
+      "Biography": "I wrote my first program at 11 on a Sharp MZ-700, my first job after University was working at the European Space Agency in their Mission Control Centre. Since then I’ve done stretches at Morgan Stanley, JP Morgan as well as a bit of contracting at Google.\nI have experience with a wide variety of technologies, but I primarily focus these days on Python & JavaScript. I have a deep background in consulting and in the past few years have spent a lot of time engaging with the various JavaScript communities through writing, creating online courses while also speaking all over Europe, the USA, and the Middle East.\nhttps://twitter.com/jawache",
+      "Location": "London, UK",
+      "FocusArea": "JavaScript / Node.js / Python",
+      "ManagerFullName": "John Papa",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "ContactID": "68fc9d34-0b7c-4096-aef1-1257e2abdaeb",
+    "FirstName": "Ashley",
+    "MiddleName": "",
+    "LastName": "McNamara",
+    "ImageName": "AshleyMcNamara",
+    "FullName": "Ashley McNamara",
+    "PhotoUrl": "../Content/Images/Profiles/AshleyMcNamara.png",
+    "ContactSocialMedia": {
+      "ContactSocialMediaID": "848f919a-dbc2-4ec9-8752-f1119605a9a7",
+      "ContactID": "68fc9d34-0b7c-4096-aef1-1257e2abdaeb",
+      "SocialMediaMetaData": {
+        "TwitterAlias": "ashleymcnamara",
+        "GitHubAlias": "ashleymcnamara",
+        "StackOverflowAlias": "ashleymcnamara",
+        "LinkedInAlias": "ashleymcnamara1",
+        "HackerNewsAlias": "ashleymcnamara",
+        "InstagramAlias": "ashleymcnamara",
+        "FacebookAlias": "ashley.mcnamara1",
+        "WebBlog": "http://medium.com/@ashleymcnamara",
+        "CodePen": null
+      }
+    },
+    "ContactMetadata": {
+      "ContactMetadataID": "10f60585-a8a7-46b5-ad65-ffd7392331b6",
+      "ContactID": "68fc9d34-0b7c-4096-aef1-1257e2abdaeb",
+      "Biography": "I've been in the tech industry for almost 20 years, though not always in the most traditional ways. \nAt 13 I built my own using spare parts my dad had laying around and I've been a hardware nerd ever since. I have spent my time teaching photoshop workshops, doing business mentoring, building websites, and auditing social media and SEO. I did that for about 10 years, but in 2011, I decided to take this front-end dev thing full time. I took up consulting and got to work with some really cool start-ups and some not so cool enterprises, but in doing so I found myself working with OpenStack. The OpenStack community was rad, and I wanted to contribute so I started with DOCS and after doing that for a while I decided I wanted to do more, so I joined Hackbright as an Engineering Fellow and learned Python. I graduated and was immediately hired by Rackspace. Since then, I've become a huge contributor in the Linux and Go communities and have finally found my happy place as a developer advocate. \nIn my spare time, I'm a mentor at WeWork, General Assembly, AngelHack, and CapitalFactory and I�m on the board of multiple engineering groups including Redis Austin, Big Data Analytics Club, and Austin All Girl Hack Night. My passion is helping more underrepresented individuals join and feel comfortable in tech and I'm often a resource for new developers trying to find their way.\nhttps://twitter.com/ashleymcnamara",
+      "Location": "Austin, TX, US",
+      "FocusArea": "Linux",
+      "ManagerFullName": "Bryan Liston",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "ContactID": "797b0bac-d068-4fc3-b309-405142becdda",
+    "FirstName": "Abel",
+    "MiddleName": "",
+    "LastName": "Wang",
+    "ImageName": "AbelWang",
+    "FullName": "Abel Wang",
+    "PhotoUrl": "../Content/Images/Profiles/AbelWang.png",
+    "ContactSocialMedia": {
+      "ContactSocialMediaID": "956e2131-925d-4b8d-8d95-c5e493d76f6f",
+      "ContactID": "797b0bac-d068-4fc3-b309-405142becdda",
+      "SocialMediaMetaData": {
+        "TwitterAlias": "AbelSquidHead",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "abel-wang-9a37694",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": null
+      }
+    },
+    "ContactMetadata": {
+      "ContactMetadataID": "0fa765a2-a137-481c-8a85-6a1eb93586b4",
+      "ContactID": "797b0bac-d068-4fc3-b309-405142becdda",
+      "Biography": "Abel Wang is a Senior Cloud Developer Advocate specializing in DevOps and Azure with a background in application development.  Before joining Microsoft, Abel spent seven years as a Process Consultant and a Certified Scrum Master helping customers globally develop solutions using agile practices and Team Foundation Server.  Prior to that, Abel founded and sold his own software company.  When not working, Abel is either writing code (yes, that's what he does for fun), playing his guitar or training for The Great Wall Marathon.  https://twitter.com/AbelSquidHead",
+      "Location": "Seattle, WA, US",
+      "FocusArea": "DevOps",
+      "ManagerFullName": "Donovan Brown",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "ContactID": "7fcc9405-0afb-427c-99e9-dfe457ef0443",
+    "FirstName": "Anthony",
+    "MiddleName": "",
+    "LastName": "Chu",
+    "ImageName": "AnthonyChu",
+    "FullName": "Anthony Chu",
+    "PhotoUrl": "../Content/Images/Profiles/AnthonyChu.png",
+    "ContactSocialMedia": {
+      "ContactSocialMediaID": "8efd7b52-21ae-40d5-ae10-3e96bc250697",
+      "ContactID": "7fcc9405-0afb-427c-99e9-dfe457ef0443",
+      "SocialMediaMetaData": {
+        "TwitterAlias": "nthonyChu",
+        "GitHubAlias": "anthonychu",
+        "StackOverflowAlias": "3199781/anthony-chu",
+        "LinkedInAlias": "chuanthony",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "http://anthonychu.ca/feed/rss/index.xml",
+        "CodePen": null
+      }
+    },
+    "ContactMetadata": {
+      "ContactMetadataID": "c648a96b-c9cb-4e5a-b6bb-6e7ee862e360",
+      "ContactID": "7fcc9405-0afb-427c-99e9-dfe457ef0443",
+      "Biography": "My career began in 1997 with stints at several internships and startups. My first languages were JavaScript (who would've thought it'd still be a thing today?) and Perl (regex FTW!). In 2002, the dot-com bubble burst and I ended up as a .NET dev at a large enterprise. I was there for over 10 years until I finally got tired of being a real-life Dilbert and started to follow my passions again. Most recently, I was a software architect at an e-commerce startup in Vancouver, BC. In addition to our technical accomplishments, I am proud of the teams we built and the collaborative and DevOps culture that we created.\n\nA few years ago, I discovered and fell in love with Azure. I started blogging, presenting and hosting meetups and events about the platform. I also enjoy interacting with the product teams to make Azure better. I eventually became an Azure MVP, and now has led me to join APEX as a Cloud Developer Advocate. I feel extremely fortunate to be able to do what I love as my full-time 'job' and to have an opportunity to make Azure awesome while working alongside an amazing group of people.\n\nThese days, I split my time building applications in .NET and Node. The Azure technologies that I'm super excited about include: Azure Functions, ACS/Kubernetes, and VSTS.\n\nWhen I'm not in front of a keyboard, I enjoy living in Vancouver and hanging out with my wife and 2 children. I also play hockey, but I am really bad at it; I'm surprised they haven't kicked me out of Canada for that.\n\nhttps://twitter.com/nthonyChu",
+      "Location": "Vancouver, Canada",
+      "FocusArea": ".NET / Xamarin",
+      "ManagerFullName": "Scott Cate",
+      "InTheSpotLight": true,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "ContactID": "a4b00e66-a85f-4e18-a0e6-8dd3e41b1fb3",
+    "FirstName": "Aaron",
+    "MiddleName": "",
+    "LastName": "Wislang",
+    "ImageName": "AaronWislang",
+    "FullName": "Aaron Wislang",
+    "PhotoUrl": "../Content/Images/Profiles/AaronWislang.png",
+    "ContactSocialMedia": {
+      "ContactSocialMediaID": "8efd7b52-21ae-40d5-ae10-3e96bc250697",
+      "ContactID": "a4b00e66-a85f-4e18-a0e6-8dd3e41b1fb3",
+      "SocialMediaMetaData": {
+        "TwitterAlias": "as_w",
+        "GitHubAlias": "asw101",
+        "StackOverflowAlias": "334117/aaron",
+        "LinkedInAlias": "aaron-wislang",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": null
+      }
+    },
+    "ContactMetadata": {
+      "ContactMetadataID": "c648a96b-c9cb-4e5a-b6bb-6e7ee862e360",
+      "ContactID": "a4b00e66-a85f-4e18-a0e6-8dd3e41b1fb3",
+      "Biography": "Aaron is a Senior Cloud Developer Advocate at Microsoft with well over a decade of software development, systems architecture & security experience across the major clouds, development platforms and industries. His current areas of focus include Code (Go, .NET. python), Clouds, Containers (Docker, Kubernetes) & Security as well as Microsoft, Linux & other Open Source platforms. He joined Microsoft from Rackspace where he was a Senior Systems Architect & Software Developer on the Azure Product & Engineering team.  Aaron and his wife live in Toronto, Canada with their two boys and their turtle, all of whom hope to call Seattle home one day soon!",
+      "Location": "Toronto, Canada",
+      "FocusArea": "Linux",
+      "ManagerFullName": "Bryan Liston",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Bernd",
+    "MiddleName": "",
+    "LastName": "Verst",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "BerndVerst",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "Bernd Verst comes to us from the United States Government ([18F](https://18f.gsa.gov/) / General Services Administration) working on Cloud.gov (based on Cloud Foundry and Kubernetes). Prior to working at Cloud.gov, Bernd has worked at Google Cloud, Twitter (where he used Apache Mesos) and several startups in the valley (using AWS).\nBernd is a big fan of PaaS and Container technologies, in particular Kubernetes. As a Pythonista he is excited to help shape the Azure Python experience. Bernd is passionate about mentoring people who are just starting out in the tech industry.",
+      "Location": "San Francisco, CA, US",
+      "FocusArea": "Linux",
+      "ManagerFullName": "Bryan Liston",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Brian",
+    "MiddleName": "",
+    "LastName": "Benz",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "bbenz",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "brianbenz",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "Brian is a Senior Developer Advocate at Microsoft, helping Java developers to get the most out of Azure. Before Joining Microsoft, he was a solution architect, consultant, developer, author and presenter at IBM, Deloitte, and other companies. Find him on Twitter! [https://twitter.com/bbenz](https://twitter.com/bbenz)",
+      "Location": "Las Vegas, NV, US",
+      "FocusArea": "Java",
+      "ManagerFullName": "Jeff Sandquist",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Bridget",
+    "MiddleName": "",
+    "LastName": "Kromhou",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "bridgetkromhout",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "https://bridgetkromhout.com",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I'm excited to join Bryan Liston's dream team of Cloud Developer Advocates! I'm a [technologist](https://bridgetkromhout.com), [podcaster](https://www.arresteddevops.com), [conference speaker](https://bridgetkromhout.com/speaking/), and [devopsdays](https://www.devopsdays.org/) organizer. Despite [trading being on call for being on a plane](https://twitter.com/bridgetkromhout/status/730835258418057216), I'm still [team #opslife](https://twitter.com/bridgetkromhout/status/628355127066365952). I like snow, bicycles, and gardening, and I live in Minneapolis with my spouse [Joe](https://twitter.com/joelaha) and our two kitties. [https://twitter.com/bridgetkromhout](https://twitter.com/bridgetkromhout)",
+      "Location": "Minneapolis, MN, USA",
+      "FocusArea": "",
+      "ManagerFullName": "Bryan Liston",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Bryan",
+    "MiddleName": "",
+    "LastName": "Liston",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "listonb",
+        "GitHubAlias": "listonb",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "listonb",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "listonb",
+        "FacebookAlias": "listonb",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "Previously I worked at Amazon on AWS, most recently I was a Developer Advocate for AWS Lambda, but I was also involved with DynamoDB and RDS Operations, as well as a stint in the Solution Architecture organization where I helped build out the AWS DevOps professional certification. I've been doing Linux/DevOps related work for the past 15 years in some form or another, developing software and architecting systems/infrastructure. [https://twitter.com/listonb](https://twitter.com/listonb)",
+      "Location": "Redmond, WA, US",
+      "FocusArea": "Linux",
+      "ManagerFullName": "Jeff Sandquist",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "brliston"
+    }
+  },
+  {
+    "FirstName": "Burke",
+    "MiddleName": "",
+    "LastName": "Holland",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "burkeholland",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "burkeholland",
+        "HackerNewsAlias": "burke_holland",
+        "InstagramAlias": "burkeholland",
+        "FacebookAlias": "burkeholland",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I was most recently the Director of Developer Relations for Telerik which was acquired by Progress Software. Prior to that I held various software engineering roles in retail, healthcare and a really hard year at a startup in the music industry. I started my career as an ASP.NET WebForms developer, but quickly moved to Flex and then eventually JavaScript after Apple killed Flash (Thanks Apple!). \n\n I went to the University of Tennessee at Martin (go Skyhawks?) where I studied Information Systems. Prior to that I served in the US Coast Guard where I painted and cleaned things on the Mississippi River.\n\n I live in Franklin, TN which is a small town outside of Nashville, the greatest city in the world. I play the bass guitar and try to rekindle my dreams of rock stardom. I like to run every day and I'm also a huge fan of napping. I have three boys (all in middle school) so I spend the majority of my time being a dad and working with my kids on their hobbies. I'm also big into home improvement so I spend entirely too much time and money at Lowes. [https://twitter.com/burkeholland](https://twitter.com/burkeholland)",
+      "Location": "Franklin, TN, US",
+      "FocusArea": "JavaScript / Node.js / Python",
+      "ManagerFullName": "John Papa",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "",
+    "MiddleName": "",
+    "LastName": "",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "",
+        "GitHubAlias": "",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "",
+      "Location": "",
+      "FocusArea": "",
+      "ManagerFullName": "",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  }
+]

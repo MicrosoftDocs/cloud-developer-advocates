@@ -135,6 +135,48 @@ alert('abc');
                 </a>
             </li>
             <li>
+                <a href="./bernd-verst" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/bernd-verst.png" alt="Picture of Bernd Verst" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Bernd Verst</h3>
+                                <p>@BerndVerst</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./brian-benz" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/brian-benz.png" alt="Picture of Brian Benz" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Brian Benz</h3>
+                                <p>@bbenz</p>
+                                <p>Java</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
                 <a href="./brian-clark" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
@@ -191,6 +233,69 @@ alert('abc');
                                 <h3>Brian Peek</h3>
                                 <p>@BrianPeek</p>
                                 <p>Emerging / Gaming</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./bridget-kromhou" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/bridget-kromhou.png" alt="Picture of Bridget Kromhou" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Bridget Kromhou</h3>
+                                <p>@bridgetkromhout</p>
+                                <p></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./bryan-liston" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/bryan-liston.png" alt="Picture of Bryan Liston" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Bryan Liston</h3>
+                                <p>@listonb</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./burke-holland" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/burke-holland.png" alt="Picture of Burke Holland" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Burke Holland</h3>
+                                <p>@burkeholland</p>
+                                <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
                     </div>
