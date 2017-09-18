@@ -1,17 +1,17 @@
 ---
-title: Bridget Kromhou - Cloud Developer Advocate
-description: Home page for Bridget Kromhou, a Microsoft Cloud Developer Advocate
+title: Bridget Kromhout - Cloud Developer Advocate
+description: Home page for Bridget Kromhout, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Bridget Kromhou
+author: Bridget Kromhout
 manager: Bryan Liston
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Bridget Kromhou
+ms.author: Bridget Kromhout
 ---
 
-![Image of Bridget Kromhou](media/profiles/bridget-kromhou.png)
+![Image of Bridget Kromhout](media/profiles/bridget-kromhout.png)
 
-# Bridget Kromhou
+# Bridget Kromhout
 
 Principal Cloud Developer Advocate
 

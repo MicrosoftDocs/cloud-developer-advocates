@@ -240,18 +240,18 @@ alert('abc');
                 </a>
             </li>
             <li>
-                <a href="./bridget-kromhou" data-linktype="internal">
+                <a href="./bridget-kromhout" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/bridget-kromhou.png" alt="Picture of Bridget Kromhou" data-linktype="internal" 
+                                    <img src="media/profiles/bridget-kromhout.png" alt="Picture of Bridget Kromhout" data-linktype="internal" 
                                     style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Bridget Kromhou</h3>
+                                <h3>Bridget Kromhout</h3>
                                 <p>@bridgetkromhout</p>
                                 <p></p>
                             </div>

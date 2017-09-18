@@ -9,6 +9,6 @@
 ## [Brian Clark](brian-clark)
 ## [Brian Ketelsen](brian-ketelsen)
 ## [Brian Peek](brian-peek)
-## [Bridget Kromhou](bridget-kromhou)
+## [Bridget Kromhout](bridget-kromhout)
 ## [Bryan Liston](bryan-liston)
 ## [Burke Holland](burke-holland)
