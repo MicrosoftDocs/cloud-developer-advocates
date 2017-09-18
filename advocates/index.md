@@ -15,7 +15,7 @@ alert('abc');
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocates</h1>
-        <div><h2>Trusted advisors to developer and IT professionals and Microsoft.</h2></div><br/>
+        <div><h2>Trusted advisors to developer and IT professionals and Microsoft</h2></div><br/>
         <div style="text-align:center;width:100%;padding-bottom:24px;">
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
         </div>
