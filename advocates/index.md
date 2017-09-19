@@ -701,6 +701,27 @@ alert('abc');
                 </div>
                 </a>
             </li>
+            <li>
+                <a href="./steven-murawski" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/steven-murawski.png" alt="Picture of Steven Murawski" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Steven Murawski</h3>
+                                <p>@stevenmurawski</p>
+                                <p>DevOps</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
         </ul>
     </div>
 </div>
