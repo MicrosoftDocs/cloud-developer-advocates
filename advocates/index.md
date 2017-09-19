@@ -15,7 +15,7 @@ alert('abc');
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocates</h1>
-        <div><h2>Trusted advisors to developer and IT professionals and Microsoft.</h2></div><br/>
+        <div><h2>Trusted advisors to developer and IT professionals and Microsoft</h2></div><br/>
         <div style="text-align:center;width:100%;padding-bottom:24px;">
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
         </div>
@@ -533,6 +533,29 @@ alert('abc');
                 </div>
                 </a>
             </li>
+            
+            <li>
+                <a href="./zachary-deptawa" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/zachary-deptawa.png" alt="Picture of Zachary Deptawa" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Zachary Deptawa</h3>
+                                <p>@zdeptawa</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            
         </ul>
     </div>
 </div>
