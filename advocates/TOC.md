@@ -32,4 +32,6 @@
 ## [Shayne Boyer](shayne-boyer)
 ## [Simona Cotin](simona-cotin)
 ## [Steven Murawski](steven-murawski)
+## [Tim Heuer](tim-heuer)
+## [Vadim Karpusenko](vadim-karpusenko)
 ## [Zachary Deptawa](zachary-deptawa)

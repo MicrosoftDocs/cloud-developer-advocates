@@ -723,6 +723,48 @@ alert('abc');
                 </a>
             </li>
             <li>
+                <a href="./tim-heuer" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/tim-heuer.png" alt="Picture of Tim Heuer" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Tim Heuer</h3>
+                                <p>@timheuer</p>
+                                <p>.NET / Xamarin</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./vadim-karpusenko" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/vadim-karpusenko.png" alt="Picture of Vadim Karpusenko" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Vadim Karpusenko</h3>
+                                <p>@vadi</p>
+                                <p>Emerging / ML, AI</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
                 <a href="./zachary-deptawa" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">

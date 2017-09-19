@@ -932,6 +932,62 @@
     }
   },
   {
+    "FirstName": "Tim",
+    "MiddleName": "",
+    "LastName": "Heuer",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "timheuer",
+        "GitHubAlias": "timheuer",
+        "StackOverflowAlias": "705/tim-heuer",
+        "LinkedInAlias": "timheuer",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "timheuer",
+        "FacebookAlias": "timheuer",
+        "WebBlog": "http://timheuer.com/blog/",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I've been working as a software developer ever since my studies in law. O_O – hey, tech paid the bills more than law accumulated them.  I've worked for Microsoft for 12 years and always in developer space, I absolutely love software development.  Prior to Microsoft I wrote software for healthcare systems and interop systems (remember Site Server anyone?) to bridge brick-and-mortar AS400 systems to the Interwebs to sell their goods online.  I've primarily worked on front-end technologies and specialized in UI frameworks with my time working on the WPF, Silverlight, Windows Phone and Windows teams being the lead for the XAML framework.  I love the challenges cross-platform brings to developers and how the cloud is a common denominator for mobile!  I'm very excited to help .NET developers building mobile apps be successful on Azure! \n\nIn my spare time, I've become addicted to cycling and can usually be found trying to ride off whatever food I just ate in hopes to be able to eat some more.  While I'm not in school anymore, I'm constantly being educated on what the cool kids are doing through my son and daughter and escaping with my wife whenever we can.  \n\n[https://twitter.com/timheuer](https://twitter.com/timheuer) ",
+      "Location": "Redmond, WA, US",
+      "FocusArea": ".NET / Xamarin",
+      "ManagerFullName": "Jeff Sandquist",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "timheuer",
+      "Projects": [
+        "[Build 2017 UI Recap](http://timheuer.com/blog/archive/2017/05/15/build-2017-recap-windows-ui-xaml.aspx)"
+      ]
+    }
+  },
+  {
+    "FirstName": "Vadim",
+    "MiddleName": "",
+    "LastName": "Karpusenko",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "vadi",
+        "GitHubAlias": "vakarpus",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "karpusenko",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "Before joining Microsoft, I was working at Intel Corporation as a Machine Learning/Deep Learning/AI and Modern Code (aka Parallel programming and Optimization) Technical Evangelist; and as Principal HPC Research and Consulting Engineer at Colfax International involved in training and consultancy projects on data mining, software development and statistical analysis of complex systems. My research interests are in the areas of physical modeling with HPC clusters, highly parallel architectures, code optimization; machine learning and AI. \n\nI hold a PhD in computational biophysics from North Carolina State University for my research on the free energy and stability of helical secondary structures of proteins. I am a co-author of the book, \"Parallel Programming and Optimization with Intel® Xeon Phi™ Coprocessors\", and was a lead instructor of a developer training course of the same name. 6 hours of this video material is available on Intel website, and soon on Coursera. \n\nAfter work I'm a CrossFit enthusiast, newbie VR gamer, and a mentor for \"Codding Interview\" meetup. I live in downtown of Seattle and still actively exploring Puget Sound area. I moved here from California (where I lived for 5 years) less than 2 months ago. If you want to join me on a hike – let me know!\n\n  [https://twitter.com/vadi](https://twitter.com/vadi) ",
+      "Location": "Redmond, WA, US",
+      "FocusArea": "Emerging / ML, AI",
+      "ManagerFullName": "Jeff Sandquist",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "vakarpus",
+      "Projects": []
+    }
+  },
+  {
     "FirstName": "",
     "MiddleName": "",
     "LastName": "",
