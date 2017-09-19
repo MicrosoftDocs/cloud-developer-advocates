@@ -533,6 +533,174 @@ alert('abc');
                 </div>
                 </a>
             </li>
+            <li>
+                <a href="./maxime-rouiller" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/maxime-rouiller.png" alt="Picture of Maxime Rouiller" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Maxime Rouiller</h3>
+                                <p>@maximrouiller</p>
+                                <p>.NET / Xamarin</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./paige-bailey" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/paige-bailey.png" alt="Picture of Paige Bailey" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Paige Bailey</h3>
+                                <p>@DynamicWebPaige</p>
+                                <p>Data + BI</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./prashant-sridharan" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/prashant-sridharan.png" alt="Picture of Prashant Sridharan" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Prashant Sridharan</h3>
+                                <p>@CoolAssPuppy</p>
+                                <p>Evangelism PM</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./ruth-yakubu" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/ruth-yakubu.png" alt="Picture of Ruth Yakubu" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Ruth Yakubu</h3>
+                                <p>@ruthieyakubu</p>
+                                <p>Data</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./scott-cate" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/scott-cate.png" alt="Picture of Scott Cate" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Scott Cate</h3>
+                                <p>@ScottCate</p>
+                                <p>.NET / Xamarin</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./seth-juarez" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/seth-juarez.png" alt="Picture of Seth Juarez" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Seth Juarez</h3>
+                                <p>@sethjuarez</p>
+                                <p>Emerging / ML, AI</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./shayne-boyer" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/shayne-boyer.png" alt="Picture of Shayne Boyer" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Shayne Boyer</h3>
+                                <p>@spboyer </p>
+                                <p>.NET / Xamarin</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            <li>
+                <a href="./simona-cotin" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/simona-cotin.png" alt="Picture of Simona Cotin" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Simona Cotin</h3>
+                                <p>@simona_cotin</p>
+                                <p>JavaScript / Node.js / Python</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
         </ul>
     </div>
 </div>
