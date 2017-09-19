@@ -691,12 +691,91 @@
     }
   },
   {
-    "FirstName": "",
+    "FirstName": "Maxime",
     "MiddleName": "",
-    "LastName": "",
+    "LastName": "Rouiller",
     "ContactSocialMedia": {
       "SocialMediaMetaData": {
-        "TwitterAlias": "",
+        "TwitterAlias": "maximrouiller",
+        "GitHubAlias": "MaximRouiller",
+        "StackOverflowAlias": "24975/maxime-rouiller",
+        "LinkedInAlias": "MaximRouiller",
+        "HackerNewsAlias": "MaximRouiller",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "https://blog.decayingcode.com",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I've been in the tech industry for about 15 years. I've always been working with .NET for as far as I can remember. I've built my profile on being a master of all trade. I've setup VMs, SharePoint environments, build servers and what not. I've coded from desktop apps to server apps, but I've truly found my passion around the web, however. Since then, I've been consulting independently for 3 years before seeing an opportunity to join Microsoft. I co-manage a local user group in Montreal, I own my own blog and in my spare time, I'm harassing the Microsoft product teams on Twitter with constructive criticism. \n\nIf you want to talk bread and bicycling, I'm your man. \n\n[https://twitter.com/maximrouiller](https://twitter.com/maximrouiller)",
+      "Location": "Montreal, Canada",
+      "FocusArea": ".NET / Xamarin",
+      "ManagerFullName": "Scott Cate",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "marouill"
+    }
+  },
+  {
+    "FirstName": "Paige",
+    "MiddleName": "",
+    "LastName": "Bailey",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "DynamicWebPaige",
+        "GitHubAlias": "DynamicWebPaige",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "DynamicWebPaige",
+        "HackerNewsAlias": "DynamicWebPaige",
+        "InstagramAlias": "DynamicWebPaige",
+        "FacebookAlias": "DynamicWebPaige",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "My education was focused on the earth sciences (geophysics, carbonate geology) and computer science (data analytics); and previous work experience was geared toward data science and plug-in development for the energy industry. Technical skills: Python (10 years) and R (4 years), with 2 years' experience building data science products using Hadoop and its associated dongles (especially Spark). \n\nWhen I'm not sitting in front of glowing rectangular screens at work, I absolutely adore hiking / kayaking / mountain-biking around Texas' glorious Green Belt; resuscitating Apples; and (poorly!) attempting to play bass guitar. Personal passions are sustainable energy and climate change research; STEM education reform; and empowering local governments via data science  [https://twitter.com/DynamicWebPaige](https://twitter.com/DynamicWebPaige)",
+      "Location": "Houston, TX, US",
+      "FocusArea": "Data + BI",
+      "ManagerFullName": "Jeff Sandquist",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null
+    }
+  },
+  {
+    "FirstName": "Prashant",
+    "MiddleName": "",
+    "LastName": "Sridharan",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "CoolAssPuppy",
+        "GitHubAlias": "CoolAssPuppy",
+        "StackOverflowAlias": "1698740/prashant-sridharan",
+        "LinkedInAlias": "prashantsridharan",
+        "HackerNewsAlias": "CoolAssPuppy",
+        "InstagramAlias": "CoolAssPuppy",
+        "FacebookAlias": "prashant.sridharan",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "This is my third stint at Microsoft. My last time here, I was the Director of Product Management for Visual Studio. In between these last 10 years, I worked in exec Developer Marketing and Developer Relations roles at Amazon AWS, Facebook, and Twitter. I've also failed at numerous startups along the way. In my spare time, I'm snowboarding (always in Whistler) and at SoulCycle (I'm the Guinness World Record Holder for most spin classes in a year...seriously).",
+      "Location": "San Francisco, CA, US",
+      "FocusArea": "Evangelism PM",
+      "ManagerFullName": "Jeff Sandquist",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "prashant",
+      "Projects": []
+    }
+  },
+  {
+    "FirstName": "Ruth",
+    "MiddleName": "",
+    "LastName": "Yakubu",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "ruthieyakubu",
         "GitHubAlias": "",
         "StackOverflowAlias": "",
         "LinkedInAlias": "",
@@ -708,12 +787,148 @@
       }
     },
     "ContactMetadata": {
-      "Biography": "",
-      "Location": "",
-      "FocusArea": "",
-      "ManagerFullName": "",
+      "Biography": "This CDA hasn't provided a biography yet.",
+      "Location": "New York, NY, US",
+      "FocusArea": "Data",
+      "ManagerFullName": "Tim Heuer",
       "InTheSpotLight": false,
-      "MicrosoftEmailAlias": null
+      "MicrosoftEmailAlias": null,
+      "Projects": []
+    }
+  },
+  {
+    "FirstName": "Scott",
+    "MiddleName": "",
+    "LastName": "Cate",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "ScottCate",
+        "GitHubAlias": "ScottCate",
+        "StackOverflowAlias": "92882/scottcate",
+        "LinkedInAlias": "ScottCate",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "scottcate",
+        "FacebookAlias": "scottcateaz",
+        "WebBlog": "http://scottcate.com",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I'm a lifetime techie. I'm still doing today what I started at a very young age: copying code from people much smarter than me. Back then it was a magazine, now it's Stack Overflow. Who's with me? I have spent my career building and selling software companies ranging in size from five employees to 300+ employees. My Microsoft tech career started with an Access Database connected to a classic ASP website. Then .NET was released, and everything has been getting better day-by-day. From .NET 1.0, 1.1, 2.0….. every 3-6-12 months life added new and better ways of developing. Remember before nuget? That wasn't very long ago!\n\nAlong the way, I have always been a fan of teaching. With a motto of \"Learn. Build. Share.\" I started and nurtured several long term local communities in Arizona. I love screen casting, and sharing \"HOW DO I\" videos about software. Mainly I focused on Visual Studio Tips/Tricks, but I'm excited to expand these efforts. I also love presenting on stage, the bigger the stage the happier I am. In my spare time, I love the ocean. Beaches, boating, diving, snorkeling, all of it. Family time is best spent learning new languages (I'm currently failing Spanish) and being in the sand and the water with my family! \n\n[https://twitter.com/scottcate](https://twitter.com/scottcate)",
+      "Location": "Playa del Carmen, Mexico",
+      "FocusArea": ".NET / Xamarin",
+      "ManagerFullName": "Tim Heuer",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "scottca",
+      "Projects": []
+    }
+  },
+  {
+    "FirstName": "Seth",
+    "MiddleName": "",
+    "LastName": "Juarez",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "sethjuarez",
+        "GitHubAlias": "sethjuarez",
+        "StackOverflowAlias": "241111/seth-juarez",
+        "LinkedInAlias": "sethjuarez",
+        "HackerNewsAlias": "sethjuarez",
+        "InstagramAlias": "sethfrijoles",
+        "FacebookAlias": "",
+        "WebBlog": "https://sethjuarez.com",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I am a Cloud Developer Advocate and also the main host of Channel 9.\n\nI received my Bachelor's Degree in Computer Science at UNLV with a Minor in Mathematics and completed my Master's Degree at the University of Utah in the field of Computer Science. I currently am interested in Artificial Intelligence specifically in the realm of Machine Learning. These days am working on a .NET library meant to simplify the usage of the common machine learning algorithms. \n\n [https://twitter.com/sethjuarez](https://twitter.com/sethjuarez)",
+      "Location": "Redmond, WA, US",
+      "FocusArea": "Emerging / ML, AI",
+      "ManagerFullName": "Tim Heuer",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": null,
+      "Projects": []
+    }
+  },
+  {
+    "FirstName": "Shayne",
+    "MiddleName": "",
+    "LastName": "Boyer",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "spboyer ",
+        "GitHubAlias": "spboyer ",
+        "StackOverflowAlias": "595213/shayne-boyer",
+        "LinkedInAlias": "shayneboyer ",
+        "HackerNewsAlias": "spboyer ",
+        "InstagramAlias": "spboyer",
+        "FacebookAlias": "shayneboyer ",
+        "WebBlog": "https://tattoocoder.com",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I started at the age of around 10 when my Dad bought that tan colored mammoth of a machined called the Commodore 64. My tools of the trade where hours of reading code to him out of the back of Compute Magazine with a ruler going blind in the process. Ugh! It really was a long night if something was mis-typed... But I tell you I can read code like no one's business and I got to the point where I could see what was coming next and so on. \n\nWell, he decided to upgrade to the fancy Commodore 128 and I got the 64 to dink around with, well since I had so much experience reading the code to him, I decided I would give it a hack and wrote my first text based role playing game at 11. It was fun for me to play and so started the journey. \n\nI didn't touch a PC again until after college when AOL came out, then \"view source\" was discovered and I learned HTML that way. I've started User Groups for Windows Phone, worked in Government Software, Public Records Systems, created major reservations systems for Cruise Companies and worked for a mouse. \n\nI love to teach regardless of the student, and I'm not afraid to be the student. In my off time, I enjoy any time with my wife and kids or training for my next triathlon.    \n\n[https://twitter.com/spboyer](https://twitter.com/spboyer)",
+      "Location": "DeLand, FL, US",
+      "FocusArea": ".NET / Xamarin",
+      "ManagerFullName": "Scott Cate",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "shboyer",
+      "Projects": []
+    }
+  },
+  {
+    "FirstName": "Simona",
+    "MiddleName": "",
+    "LastName": "Cotin",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "simona_cotin",
+        "GitHubAlias": "simonaco",
+        "StackOverflowAlias": "",
+        "LinkedInAlias": "simona-cotin",
+        "HackerNewsAlias": "",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "I fell in love with coding 15 years ago. Ever since I have hacked all kinds of projects in C/C++, Delphi, C#, PHP, Java, Python, Lisp, Javascript and hoping to learn Go this year. I started my career writing Delphi for Rad Studio at Borland (or Embarcadero). While working for Corvil and Arista Networks, developed a passion for data analytics platforms and network data as well as Angular with Typescript (right before it became super popular).\n\nBetween organizing meetups at AngularJS Dublin and now Javascript London, I also enjoy mentoring at communities like Women Who Code, ngGirls and codebar. I share my excitement for Angular and Azure at conferences in Europe and the US aiming to win the hearts and minds of developers.\n\nI currently live in London, UK where I moved to from Dublin, Ireland. Before that I spent some time in Geneva, Switzerland and most of my life in Romania - where I was born. Outside of work I am a foodie, with a preference for everything Italian. \n\n[https://twitter.com/simona\\_cotin](https://twitter.com/simona_cotin)",
+      "Location": "London, UK",
+      "FocusArea": "JavaScript / Node.js / Python",
+      "ManagerFullName": "John Papa",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "sicotin",
+      "Projects": []
+    }
+  },
+  {
+    "FirstName": "Steven",
+    "MiddleName": "",
+    "LastName": "Murawski",
+    "ContactSocialMedia": {
+      "SocialMediaMetaData": {
+        "TwitterAlias": "stevenmurawski",
+        "GitHubAlias": "smurawski",
+        "StackOverflowAlias": "1233/steven-murawski",
+        "LinkedInAlias": "usepowershell",
+        "HackerNewsAlias": "stevenjmurawski",
+        "InstagramAlias": "",
+        "FacebookAlias": "",
+        "WebBlog": "https://stevenmurawski.com",
+        "CodePen": ""
+      }
+    },
+    "ContactMetadata": {
+      "Biography": "Steven is a Cloud Developer Advocate at Microsoft. Steven focuses on DevOps scenarios with Azure (and founding member of the League of Extraordinary Cloud DevOps Advocates). Steven is an active member of the Chef and WinOps communities and a maintainer for several open source projects, including Chef, Habitat, and Test-Kitchen.\n\nPrior to joining Microsoft, Steven has been a Principal Software Development Engineer at Chef and a Site Reliability Engineer at Stack Overflow.  While at Stack Overflow, Steven pioneered the use of PowerShell Desired State Configuration. \n\nYou'll find Steven at a variety of conferences, as well as a frequent guest on podcasts around operations and DevOps topics. \n\n [https://twitter.com/StevenMurawski](https://twitter.com/StevenMurawski)",
+      "Location": "Oconomowoc, WI, US",
+      "FocusArea": "DevOps",
+      "ManagerFullName": "Donovan Brown",
+      "InTheSpotLight": false,
+      "MicrosoftEmailAlias": "stmuraws",
+      "Projects": []
     }
   },
   {
@@ -739,7 +954,8 @@
       "FocusArea": "",
       "ManagerFullName": "",
       "InTheSpotLight": false,
-      "MicrosoftEmailAlias": null
+      "MicrosoftEmailAlias": null,
+      "Projects": []
     }
   }
 ]
