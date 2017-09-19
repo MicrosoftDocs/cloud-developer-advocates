@@ -533,6 +533,29 @@ alert('abc');
                 </div>
                 </a>
             </li>
+            
+            <li>
+                <a href="./zachary-deptawa" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/zachary-deptawa.png" alt="Picture of Zachary Deptawa" data-linktype="internal" 
+                                    style="width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Zachary Deptawa</h3>
+                                <p>@zdeptawa</p>
+                                <p>Linux</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            
         </ul>
     </div>
 </div>
