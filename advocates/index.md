@@ -540,7 +540,7 @@ alert('abc');
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/maxime-rouiller.png" alt="Picture of Maxime Rouiller" data-linktype="internal"style="width:220px;height:220px;">
+                                    <img src="media/profiles/maxime-rouiller.png" alt="Picture of Maxime Rouiller" data-linktype="internal" style="width:220px;height:220px;">
                                 </div>
                             </div>
                             <div class="cardText">
@@ -548,7 +548,6 @@ alert('abc');
                                 <p>@maximrouiller</p>
                                 <p>.NET / Xamarin</p>
                             </div>
-                               
                         </div>
                     </div>
                 </div>
