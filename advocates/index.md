@@ -3,6 +3,7 @@ layout: LandingPage
 hide_bc: false
 title: Microsoft Cloud Developer Advocates
 description: Trusted advisors to developer and IT professionals.
+twitterWidgets: true
 ---
 <div id="main" class="v2">
     <div class="container">
