@@ -13,7 +13,6 @@ ms.author: Jeremy Likness
 
 # Jeremy Likness
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/JeremyLikness) | [LinkedIn](https://linkedin.com/in/JeremyLikness) | [WebBlog](https://blog.jeremylikness.com/) | [Github](https://github.com/JeremyLikness) | [StackOverflow](https://stackoverflow.com/users/228918/jeremy-likness)

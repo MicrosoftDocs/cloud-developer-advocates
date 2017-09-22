@@ -13,7 +13,6 @@ ms.author: Erik St. Martin
 
 # Erik St. Martin
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/erikstmartin) | LinkedIn

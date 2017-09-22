@@ -13,8 +13,6 @@ ms.author: Bryan Liston
 
 # Bryan Liston
 
-Principal Cloud Developer Advocate
-
 ## Connect
 [Twitter](https://twitter.com/listonb) | [LinkedIn](https://linkedin.com/in/listonb) | [Facebook](https://facebook.com/listonb) | [Github](https://github.com/listonb) | [Instagram](https://www.instagram.com/listonb)
 

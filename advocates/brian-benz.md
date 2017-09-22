@@ -13,7 +13,6 @@ ms.author: Brian Benz
 
 # Brian Benz
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/bbenz) | [LinkedIn](https://linkedin.com/in/brianbenz)

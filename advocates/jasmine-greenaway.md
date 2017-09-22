@@ -13,7 +13,6 @@ ms.author: Jasmine Greenaway
 
 # Jasmine Greenaway
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/paladique) | [LinkedIn](https://linkedin.com/in/jasminegreenaway) | [Github](https://github.com/paladique) | [StackOverflow](https://stackoverflow.com/users/5040855/jasmine)

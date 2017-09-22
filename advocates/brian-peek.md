@@ -13,8 +13,6 @@ ms.author: brpeek
 
 # Brian Peek
 
-Senior Cloud Developer Advocate
-
 ## Connect
 [Twitter](https://twitter.com/BrianPeek) | [LinkedIn](https://linkedin.com/in/BrianPeek) | [Blog](https://brianpeek.com) | [Github](https://github.com/BrianPeek)
 

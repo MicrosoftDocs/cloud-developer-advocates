@@ -13,7 +13,6 @@ ms.author: Tim Heuer
 
 # Tim Heuer
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/timheuer) | [LinkedIn](https://linkedin.com/in/timheuer) | [Facebook](https://facebook.com/timheuer) | [WebBlog](http://timheuer.com/blog/) | [Github](https://github.com/timheuer) | [StackOverflow](https://stackoverflow.com/users/705/tim-heuer) | [Instagram](https://www.instagram.com/timheuer)

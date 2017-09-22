@@ -13,7 +13,6 @@ ms.author: Donovan Brown
 
 # Donovan Brown
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/DonovanBrown) | LinkedIn

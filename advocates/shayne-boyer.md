@@ -13,7 +13,6 @@ ms.author: Shayne Boyer
 
 # Shayne Boyer
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/spboyer ) | [LinkedIn](https://linkedin.com/in/shayneboyer ) | [Facebook](https://facebook.com/shayneboyer ) | [WebBlog](https://tattoocoder.com) | [Github](https://github.com/spboyer ) | [StackOverflow](https://stackoverflow.com/users/595213/shayne-boyer) | [Instagram](https://www.instagram.com/spboyer)
