@@ -25,9 +25,20 @@ My family has a passion for the outdoors. I do a lot of hiking and have done som
 
 ## Skills
 
+* CosmosDB
+* Docker
 * .NET
+* .NET Core
+* Node.js
+* SQL Server
+* TypeScript
 
+## My Projects and Presentations
 
-## My Projects
-
-* Add some projects here
+* [Upcoming Presentations](https://blog.jeremylikness.com/upcoming-talks-eaf27ff8a3a7)
+* [Past Presentations](https://blog.jeremylikness.com/past-presentations/home)
+* [Micro-Locator](https://github.com/JeremyLikness/micro-locator)
+* [Sterling NoSQL Database for .NET Core](https://github.com/JeremyLikness/sterling-net-core)
+* [Serverless URL Shortener using Azure Functions](https://github.com/JeremyLikness/serverless-url-shortener)
+* [CosmosDB Nutrition Database Example](https://github.com/JeremyLikness/explore-cosmos-db)
+* [6502 Emulator written in TypeScript and Angular with Redux](https://github.com/JeremyLikness/redux6502)
