@@ -13,8 +13,6 @@ ms.author: Kris Nova
 
 # Kris Nova
 
-Principal Cloud Developer Advocate
-
 ## Connect
 Twitter | LinkedIn
 
