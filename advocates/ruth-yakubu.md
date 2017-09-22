@@ -13,7 +13,6 @@ ms.author: Ruth Yakubu
 
 # Ruth Yakubu
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/ruthieyakubu) | LinkedIn
