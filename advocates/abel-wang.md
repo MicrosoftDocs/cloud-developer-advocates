@@ -13,7 +13,7 @@ ms.author: Abel Wang
 
 # Abel Wang
 
-Principal Cloud Developer Advocate
+
 
 ## Connect
 [Twitter](https://twitter.com/AbelSquidHead) | [LinkedIn](https://linkedin.com/in/abel-wang-9a37694)
