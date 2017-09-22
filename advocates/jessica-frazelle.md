@@ -13,7 +13,6 @@ ms.author: Jessica Frazelle
 
 # Jessica Frazelle
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/jessfraz) | LinkedIn | [WebBlog](https://blog.jessfraz.com/) | [Github](https://github.com/jessfraz) | [StackOverflow](https://stackoverflow.com/users/1250388/jessie-frazelle)
