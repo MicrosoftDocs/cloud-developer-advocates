@@ -28,9 +28,16 @@ John Papa is a dedicated father and husband, a Principal Developer Advocate with
 
 * JavaScript
 * Node.js
-* Python
-
+* Angular
+* TypeScript
 
 ## My Projects
 
-* [5-part series - MEAN & Cosmos DB](https://johnpapa.net/angular-cosmosdb-1/)
+* [Angular Style Guide](https://angular.io/guide/styleguide)
+* [AngularJS Style Guide](http://jpapa.me/a1styleguide)
+* [Angular Tour of Heroes Tutorial](http://jpapa.me/angulartoh)
+* [MEAN & Cosmos DB Tutorial](https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-develop-mongodb-nodejs)
+* [Angular Snippets for VS Code](http://jpapa.me/asnippets)
+* [Azure Serverless Functions Snippets](http://jpapa.me/serverlessfunc)
+
+
