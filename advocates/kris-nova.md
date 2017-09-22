@@ -16,17 +16,27 @@ ms.author: Kris Nova
 Principal Cloud Developer Advocate
 
 ## Connect
-Twitter | LinkedIn
+[Twitter](https://twitter.com/Kris__Nova) | [LinkedIn](https://www.linkedin.com/in/kris-nova/) | [GitHub](https://github.com/kris-nova)
 
 ## Bio
 
-Hi, I am Kris Nova. I am a back-end infrastructure engineer, with a focus in distributed container orchestration. I love the back-end side of the stack, and have an expertise in computing infrastructure. I contribute to Kubernetes, Go, and many open source projects. I run Archlinux on my surface book, if you want to know more ask me! I enjoy mountain climbing and randomly go on ridiculous adventures. I have a border collie named Charlie, and likes to take naps on top of me while I code. Ask me about Linux and Go!
+Kris Nova is a Senior Developer Advocate for Microsoft with an emphasis in containers and the Linux operating system. She lives and breathes open source. She believes in advocating for the best interest of the software, and keeping the design process open and honest. She is a backend infrastructure engineer, with roots in Linux, and C. She has a deep technical background in the Go programming language, and has authored many successful tools in Go. She is a Kubernetes maintainer, and the creator of kubicorn, a successful Kubernetes infrastructure management tool. She organizes a special interest group in Kubernetes, and is a leader in the community. Kris understands the grievances with running cloud native infrastructure via a distributed cloud native application, and is authoring an O'Reilly book on the topic called Cloud Native Infrastructure.
 
 ## Skills
 
+* Kubernetes 
+* Cloud Native Infrastructure
+* Public Speaking
 * Linux
+* Go
+* Containers
+* Climbing Mountains
 
 
 ## My Projects
 
-* Add some projects here
+* [Kubernetes](https://github.com/kubernetes/kubernetes)
+* [Go](https://github.com/golang/go)
+* [Kops](https://github.com/kubernetes/kops)
+* [Kubicorn](https://github.com/kris-nova/kubicorn)
+
