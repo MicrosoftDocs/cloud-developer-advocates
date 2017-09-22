@@ -13,7 +13,6 @@ ms.author: Laurent Bugnion
 
 # Laurent Bugnion
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/LBugnion) | [LinkedIn](https://linkedin.com/in/LBugnion) | [Facebook](https://facebook.com/LBugnion) | [WebBlog](http://blog.galasoft.ch) | [Github](https://github.com/LBugnion) | [StackOverflow](https://stackoverflow.com/users/12233/lbugnion) | [Instagram](https://www.instagram.com/LBugnion)
