@@ -13,8 +13,6 @@ ms.author: Scott Cate
 
 # Scott Cate
 
-Principal Cloud Developer Advocate
-
 ## Connect
 [Twitter](https://twitter.com/ScottCate) | [LinkedIn](https://linkedin.com/in/ScottCate) | [Facebook](https://facebook.com/scottcateaz) | [WebBlog](http://scottcate.com) | [Github](https://github.com/ScottCate) | [StackOverflow](https://stackoverflow.com/users/92882/scottcate) | [Instagram](https://www.instagram.com/scottcate)
 
