@@ -13,7 +13,6 @@ ms.author: Burke Holland
 
 # Burke Holland
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/burkeholland) | [LinkedIn](https://linkedin.com/in/burkeholland) | [Facebook](https://facebook.com/burkeholland) | [Instagram](https://www.instagram.com/burkeholland)
