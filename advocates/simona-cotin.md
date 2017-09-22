@@ -13,7 +13,6 @@ ms.author: Simona Cotin
 
 # Simona Cotin
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/simona_cotin) | [LinkedIn](https://linkedin.com/in/simona-cotin) | [Github](https://github.com/simonaco)
