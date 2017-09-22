@@ -13,8 +13,6 @@ ms.author: Steven Murawski
 
 # Steven Murawski
 
-Principal Cloud Developer Advocate
-
 ## Connect
 [Twitter](https://twitter.com/stevenmurawski) | [LinkedIn](https://linkedin.com/in/usepowershell) | [WebBlog](https://stevenmurawski.com) | [Github](https://github.com/smurawski) | [StackOverflow](https://stackoverflow.com/users/1233/steven-murawski)
 
