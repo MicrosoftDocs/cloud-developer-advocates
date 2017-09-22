@@ -13,7 +13,6 @@ ms.author: Cecil Phillip
 
 # Cecil Phillip
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/cecilphillip) | LinkedIn | [WebBlog](http://cecilphillip.com) | [Github](https://github.com/cecilphillip) | [StackOverflow](https://stackoverflow.com/users/333082/cecilphillip)
