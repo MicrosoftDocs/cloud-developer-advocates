@@ -13,7 +13,6 @@ ms.author: Paige Bailey
 
 # Paige Bailey
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/DynamicWebPaige) | [LinkedIn](https://linkedin.com/in/DynamicWebPaige) | [Facebook](https://facebook.com/DynamicWebPaige) | [Github](https://github.com/DynamicWebPaige) | [Instagram](https://www.instagram.com/DynamicWebPaige)
