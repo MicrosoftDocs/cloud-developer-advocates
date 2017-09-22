@@ -31,7 +31,7 @@ I have self-published or dabbled in building modern and retro gamedev projects o
 * GameDev
 * Emerging tech
 * IoT / hardware
-* VR / AR/ MR
+* VR / AR / MR
 * .NET / C#
 * C++
 
