@@ -24,7 +24,6 @@ twitterWidgets: true
         <h2> Advocates </h2>
         <ul class="panelContent cardsW">
             <li>
-                <a href="./aaron-wislang" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -35,17 +34,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
+                                <h3><a href="./aaron-wislang" data-linktype="internal">Aaron Wislang</a></h3>
+                                <p><a href="http://twitter.com/as_w">@as_w</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./abel-wang" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -56,17 +53,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Abel Wang</h3>
-                                <p>@AbelSquidHead</p>
+                                <h3><a href="./abel-wang" data-linktype="internal">Abel Wang</a></h3>
+                                <p><a href="http://twitter.com/AbelSquidHead">@AbelSquidHead</a></p>
                                 <p>DevOps</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./anthony-chu" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -77,17 +72,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Anthony Chu</h3>
-                                <p>@nthonyChu</p>
+                                <h3><a href="./anthony-chu" data-linktype="internal">Anthony Chu</a></h3>
+                                <p><a href="http://twitter.com/nthonyChu">@nthonyChu</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./ashley-mcnamara" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -98,17 +91,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Ashley McNamara</h3>
-                                <p>@ashleymcnamara</p>
+                                <h3><a href="./ashley-mcnamara" data-linktype="internal">Ashley McNamara</a></h3>
+                                <p><a href="http://twitter.com/ashleymcnamara">@ashleymcnamara</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./asim-hussain" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -119,17 +110,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Asim Hussain</h3>
-                                <p>@jawache</p>
+                                <h3><a href="./asim-hussain" data-linktype="internal">Asim Hussain</a></h3>
+                                <p><a href="http://twitter.com/jawache">@jawache</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./bernd-verst" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -140,17 +129,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Bernd Verst</h3>
-                                <p>@BerndVerst</p>
+                                <h3><a href="./bernd-verst" data-linktype="internal">Bernd Verst</a></h3>
+                                <p><a href="http://twitter.com/BerndVerst">@BerndVerst</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./brian-benz" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -161,17 +148,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Brian Benz</h3>
-                                <p>@bbenz</p>
+                                <h3><a href="./brian-benz" data-linktype="internal">Brian Benz</a></h3>
+                                <p><a href="http://twitter.com/bbenz">@bbenz</a></p>
                                 <p>Java</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./brian-clark" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -182,17 +167,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Brian Clark</h3>
-                                <p>@_clarkio</p>
+                                <h3><a href="./brian-clark" data-linktype="internal">Brian Clark</a></h3>
+                                <p><a href="http://twitter.com/_clarkio">@_clarkio</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./brian-ketelsen" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -203,17 +186,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Brian Ketelsen</h3>
-                                <p>@bketelsen</p>
+                                <h3><a href="./brian-ketelsen" data-linktype="internal">Brian Ketelsen</a></h3>
+                                <p><a href="http://twitter.com/bketelsen">@bketelsen</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./brian-peek" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -224,17 +205,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Brian Peek</h3>
-                                <p>@BrianPeek</p>
+                                <h3><a href="./brian-peek" data-linktype="internal">Brian Peek</a></h3>
+                                <p><a href="http://twitter.com/BrianPeek">@BrianPeek</a></p>
                                 <p>Emerging / Gaming</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./bridget-kromhout" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -245,17 +224,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Bridget Kromhout</h3>
-                                <p>@bridgetkromhout</p>
+                                <h3><a href="./bridget-kromhout" data-linktype="internal">Bridget Kromhout</a></h3>
+                                <p><a href="http://twitter.com/bridgetkromhout">@bridgetkromhout</a></p>
                                 <p></p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./bryan-liston" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -266,17 +243,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Bryan Liston</h3>
-                                <p>@listonb</p>
+                                <h3><a href="./bryan-liston" data-linktype="internal">Bryan Liston</a></h3>
+                                <p><a href="http://twitter.com/listonb">@listonb</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./burke-holland" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -287,17 +262,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Burke Holland</h3>
-                                <p>@burkeholland</p>
+                                <h3><a href="./burke-holland" data-linktype="internal">Burke Holland</a></h3>
+                                <p><a href="http://twitter.com/burkeholland">@burkeholland</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./cecil-phillip" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -308,17 +281,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Cecil Phillip</h3>
-                                <p>@cecilphillip</p>
+                                <h3><a href="./cecil-phillip" data-linktype="internal">Cecil Phillip</a></h3>
+                                <p><a href="http://twitter.com/cecilphillip">@cecilphillip</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./damian-brady" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -329,17 +300,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Damian Brady</h3>
-                                <p>@damovisa</p>
+                                <h3><a href="./damian-brady" data-linktype="internal">Damian Brady</a></h3>
+                                <p><a href="http://twitter.com/damovisa">@damovisa</a></p>
                                 <p>DevOps</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./donovan-brown" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -350,17 +319,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Donovan Brown</h3>
-                                <p>@DonovanBrown</p>
+                                <h3><a href="./donovan-brown" data-linktype="internal">Donovan Brown</a></h3>
+                                <p><a href="http://twitter.com/DonovanBrown">@DonovanBrown</a></p>
                                 <p>DevOps</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./erik-st-martin" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -371,17 +338,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Erik St. Martin</h3>
-                                <p>@erikstmartin</p>
+                                <h3><a href="./erik-st-martin" data-linktype="internal">Erik St. Martin</a></h3>
+                                <p><a href="http://twitter.com/erikstmartin">@erikstmartin</a></p>
                                 <p></p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./jasmine-greenaway" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -392,17 +357,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Jasmine Greenaway</h3>
-                                <p>@paladique</p>
+                                <h3><a href="./jasmine-greenaway" data-linktype="internal">Jasmine Greenaway</a></h3>
+                                <p><a href="http://twitter.com/paladique">@paladique</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./jeremy-likness" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -413,17 +376,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Jeremy Likness</h3>
-                                <p>@JeremyLikness</p>
+                                <h3><a href="./jeremy-likness" data-linktype="internal">Jeremy Likness</a></h3>
+                                <p><a href="http://twitter.com/JeremyLikness">@JeremyLikness</a></p>
                                 <p>.NET</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./jessica-frazelle" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -434,17 +395,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Jessica Frazelle</h3>
-                                <p>@jessfraz</p>
+                                <h3><a href="./jessica-frazelle" data-linktype="internal">Jessica Frazelle</a></h3>
+                                <p><a href="http://twitter.com/jessfraz">@jessfraz</a></p>
                                 <p>Linux / Open Source</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./john-papa" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -455,17 +414,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>John Papa</h3>
-                                <p>@john_papa</p>
+                                <h3><a href="./john-papa" data-linktype="internal">John Papa</a></h3>
+                                <p><a href="http://twitter.com/john_papa">@john_papa</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./kris-nova" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -476,17 +433,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Kris Nova</h3>
-                                <p>@</p>
+                                <h3><a href="./kris-nova" data-linktype="internal">Kris Nova</a></h3>
+                                <p><a href="http://twitter.com/Kris__Nova">@Kris__Nova</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./laurent-bugnion" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -497,17 +452,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Laurent Bugnion</h3>
-                                <p>@LBugnion</p>
+                                <h3><a href="./laurent-bugnion" data-linktype="internal">Laurent Bugnion</a></h3>
+                                <p><a href="http://twitter.com/LBugnion">@LBugnion</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./matthew-soucoup" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -518,17 +471,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Matthew Soucoup</h3>
-                                <p>@codemillmatt</p>
-                                <p>Xamarin</p>
+                                <h3><a href="./matthew-soucoup" data-linktype="internal">Matthew Soucoup</a></h3>
+                                <p><a href="http://twitter.com/codemillmatt">@codemillmatt</a></p>
+                                <p>.NET / Xamarin</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./maxime-rouiller" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -538,17 +489,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Maxime Rouiller</h3>
-                                <p>@maximrouiller</p>
-                                <p>.NET / Xamarin</p>
+                                <h3><a href="./maxime-rouiller" data-linktype="internal">Maxime Rouiller</a></h3>
+                                <p><a href="http://twitter.com/maximrouiller">@maximrouiller</a></p>
+                                <p>.NET</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./paige-bailey" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -559,17 +508,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Paige Bailey</h3>
-                                <p>@DynamicWebPaige</p>
-                                <p>Data + BI</p>
+                                <h3><a href="./paige-bailey" data-linktype="internal">Paige Bailey</a></h3>
+                                <p><a href="http://twitter.com/DynamicWebPaige">@DynamicWebPaige</a></p>
+                                <p>Data / AI / ML</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./prashant-sridharan" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -580,17 +527,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Prashant Sridharan</h3>
-                                <p>@CoolAssPuppy</p>
-                                <p>Evangelism PM</p>
+                                <h3><a href="./prashant-sridharan" data-linktype="internal">Prashant Sridharan</a></h3>
+                                <p><a href="http://twitter.com/CoolAssPuppy">@CoolAssPuppy</a></p>
+                                <p>Chief Herder</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./ruth-yakubu" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -601,17 +546,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Ruth Yakubu</h3>
-                                <p>@ruthieyakubu</p>
-                                <p>Data</p>
+                                <h3><a href="./ruth-yakubu" data-linktype="internal">Ruth Yakubu</a></h3>
+                                <p><a href="http://twitter.com/ruthieyakubu">@ruthieyakubu</a></p>
+                                <p>Data / AI</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./scott-cate" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -622,17 +565,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Scott Cate</h3>
-                                <p>@ScottCate</p>
-                                <p>.NET / Xamarin</p>
+                                <h3><a href="./scott-cate" data-linktype="internal">Scott Cate</a></h3>
+                                <p><a href="http://twitter.com/scottcate">@ScottCate</a></p>
+                                <p>.NET</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./seth-juarez" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -643,17 +584,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Seth Juarez</h3>
-                                <p>@sethjuarez</p>
-                                <p>Emerging / ML, AI</p>
+                                <h3><a href="./seth-juarez" data-linktype="internal">Seth Juarez</a></h3>
+                                <p><a href="http://twitter.com/sethjuarez">@sethjuarez</a></p>
+                                <p>Emerging / ML / AI / Channel 9</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./shayne-boyer" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -664,17 +603,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Shayne Boyer</h3>
-                                <p>@spboyer </p>
-                                <p>.NET / Xamarin</p>
+                                <h3><a href="./shayne-boyer" data-linktype="internal">Shayne Boyer</a></h3>
+                                <p><a href="http://twitter.com/spboyer">@spboyer</a></p>
+                                <p>.NET</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./simona-cotin" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -685,17 +622,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Simona Cotin</h3>
-                                <p>@simona_cotin</p>
+                                <h3><a href="./simona-cotin" data-linktype="internal">Simona Cotin</a></h3>
+                                <p><a href="http://twitter.com/simona_cotin">@simona_cotin</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./steven-murawski" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -706,17 +641,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Steven Murawski</h3>
-                                <p>@stevenmurawski</p>
+                                <h3><a href="./steven-murawski" data-linktype="internal">Steven Murawski</a></h3>
+                                <p><a href="http://twitter.com/stevenmurawski">@stevenmurawski</a></p>
                                 <p>DevOps</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./tim-heuer" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -727,17 +660,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Tim Heuer</h3>
-                                <p>@timheuer</p>
+                                <h3><a href="./tim-heuer" data-linktype="internal">Tim Heuer</a></h3>
+                                <p><a href="http://twitter.com/timheuer">@timheuer</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./vadim-karpusenko" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -748,17 +679,15 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Vadim Karpusenko</h3>
-                                <p>@vadi</p>
-                                <p>Emerging / ML, AI</p>
+                                <h3><a href="./vadim-karpusenko" data-linktype="internal">Vadim Karpusenko</a></h3>
+                                <p><a href="http://twitter.com/vadi">@vadi</a></p>
+                                <p>AI / ML / Data Science</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
             <li>
-                <a href="./zachary-deptawa" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
                         <div class="card">
@@ -768,14 +697,13 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Zachary Deptawa</h3>
-                                <p>@zdeptawa</p>
+                                <h3><a href="./zachary-deptawa" data-linktype="internal">Zachary Deptawa</a></h3>
+                                <p><a href="http://twitter.com/zdeptawa">@zdeptawa</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
                     </div>
                 </div>
-                </a>
             </li>
         </ul>
     </div>
