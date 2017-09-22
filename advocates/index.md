@@ -8,7 +8,7 @@ twitterWidgets: true
 <div id="main" class="v2">
     <div class="container">
         <h1> Cloud Developer Advocates</h1>
-        <div><h2>We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let’s meet up and talk cloud and all things developer! </h2></div><br/>
+        <div><h3>We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let’s meet up and talk cloud and all things developer! </h3></div><br/>
         <div style="text-align:center;width:100%;padding-bottom:24px;">
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
         </div>
