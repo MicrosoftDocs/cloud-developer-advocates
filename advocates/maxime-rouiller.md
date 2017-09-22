@@ -13,7 +13,6 @@ ms.author: Maxime Rouiller
 
 # Maxime Rouiller
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/maximrouiller) | [LinkedIn](https://linkedin.com/in/MaximRouiller) | [WebBlog](https://blog.decayingcode.com) | [Github](https://github.com/MaximRouiller) | [StackOverflow](https://stackoverflow.com/users/24975/maxime-rouiller)
