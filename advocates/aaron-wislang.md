@@ -13,7 +13,7 @@ ms.author: Aaron Wislang
 
 # Aaron Wislang
 
-Principal Cloud Developer Advocate
+
 
 ## Connect
 [Twitter](https://twitter.com/as_w) | [LinkedIn](https://linkedin.com/in/aaron-wislang) | [Github](https://github.com/asw101) | [StackOverflow](https://stackoverflow.com/users/334117/aaron)
