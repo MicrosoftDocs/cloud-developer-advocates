@@ -34,10 +34,10 @@ My family has a passion for the outdoors. I do a lot of hiking and have done som
 * SQL Server
 * TypeScript
 
+## My Projects and Presentations
 
-
-## My Projects
-
+* [Upcoming Presentations](https://blog.jeremylikness.com/upcoming-talks-eaf27ff8a3a7)
+* [Past Presentations](https://blog.jeremylikness.com/past-presentations/home)
 * [Micro-Locator](https://github.com/JeremyLikness/micro-locator)
 * [Sterling NoSQL Database for .NET Core](https://github.com/JeremyLikness/sterling-net-core)
 * [Serverless URL Shortener using Azure Functions](https://github.com/JeremyLikness/serverless-url-shortener)
