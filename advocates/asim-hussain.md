@@ -13,7 +13,6 @@ ms.author: Asim Hussain
 
 # Asim Hussain
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/jawache) | [LinkedIn](https://linkedin.com/in/jawache) | [WebBlog](http://codecraft.tv) | [Github](https://github.com/jawache) | [StackOverflow](https://stackoverflow.com/users/134085/jawache) | [Instagram](https://www.instagram.com/jawache)
