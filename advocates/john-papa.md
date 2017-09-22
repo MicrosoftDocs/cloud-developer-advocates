@@ -13,7 +13,6 @@ ms.author: John Papa
 
 # John Papa
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/john_papa) | [LinkedIn](https://linkedin.com/in/papajohn) | [WebBlog](https://johnpapa.net) | [Github](https://github.com/johnpapa) | [Instagram](https://www.instagram.com/thejohnpapa)
