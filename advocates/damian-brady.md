@@ -13,7 +13,6 @@ ms.author: Damian Brady
 
 # Damian Brady
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/damovisa) | [LinkedIn](https://linkedin.com/in/damianbrady) | [WebBlog](https://damovisa.me) | [Github](https://github.com/damovisa) | [StackOverflow](https://stackoverflow.com/users/77546/damovisa) | [Instagram](https://www.instagram.com/damovisa)

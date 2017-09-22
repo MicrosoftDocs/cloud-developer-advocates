@@ -13,7 +13,6 @@ ms.author: Anthony Chu
 
 # Anthony Chu
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/nthonyChu) | [LinkedIn](https://linkedin.com/in/chuanthony) | [WebBlog](http://anthonychu.ca/feed/rss/index.xml) | [Github](https://github.com/anthonychu) | [StackOverflow](https://stackoverflow.com/users/3199781/anthony-chu)

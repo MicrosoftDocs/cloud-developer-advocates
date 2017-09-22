@@ -13,7 +13,6 @@ ms.author: Bernd Verst
 
 # Bernd Verst
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/BerndVerst) | LinkedIn

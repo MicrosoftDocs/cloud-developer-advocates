@@ -13,7 +13,6 @@ ms.author: Seth Juarez
 
 # Seth Juarez
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/sethjuarez) | [LinkedIn](https://linkedin.com/in/sethjuarez) | [WebBlog](https://sethjuarez.com) | [Github](https://github.com/sethjuarez) | [StackOverflow](https://stackoverflow.com/users/241111/seth-juarez) | [Instagram](https://www.instagram.com/sethfrijoles)

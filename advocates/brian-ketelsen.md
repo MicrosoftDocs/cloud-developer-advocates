@@ -13,7 +13,6 @@ ms.author: Brian Ketelsen
 
 # Brian Ketelsen
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/bketelsen) | [LinkedIn](https://linkedin.com/in/brianketelsen) | [WebBlog](https://brianketelsen.com) | [Github](https://github.com/bketelsen)

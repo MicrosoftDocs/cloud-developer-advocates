@@ -13,7 +13,6 @@ ms.author: Brian Peek
 
 # Brian Peek
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/BrianPeek) | [LinkedIn](https://linkedin.com/in/BrianPeek) | [WebBlog](https://brianpeek.com) | [Github](https://github.com/BrianPeek) | [StackOverflow](https://stackoverflow.com/users/1950046/brian-peek)

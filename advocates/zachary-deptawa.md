@@ -13,7 +13,6 @@ ms.author: Zachary Deptawa
 
 # Zachary Deptawa
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/zdeptawa) | [LinkedIn](https://www.linkedin.com/in/zdeptawa/) | [Github](https://github.com/zdeptawa) | 

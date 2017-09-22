@@ -13,7 +13,6 @@ ms.author: Prashant Sridharan
 
 # Prashant Sridharan
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/CoolAssPuppy) | [LinkedIn](https://linkedin.com/in/prashantsridharan) | [Facebook](https://facebook.com/prashant.sridharan) | [Github](https://github.com/CoolAssPuppy) | [StackOverflow](https://stackoverflow.com/users/1698740/prashant-sridharan) | [Instagram](https://www.instagram.com/CoolAssPuppy)

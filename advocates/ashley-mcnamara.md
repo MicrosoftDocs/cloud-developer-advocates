@@ -13,8 +13,6 @@ ms.author: Ashley McNamara
 
 # Ashley McNamara
 
-Principal Cloud Developer Advocate
-
 ## Connect
 [Twitter](https://twitter.com/ashleymcnamara) | [LinkedIn](https://linkedin.com/in/ashleymcnamara1) | [Facebook](https://facebook.com/ashley.mcnamara1) | [WebBlog](http://medium.com/@ashleymcnamara) | [Github](https://github.com/ashleymcnamara) | [Instagram](https://www.instagram.com/ashleymcnamara)
 

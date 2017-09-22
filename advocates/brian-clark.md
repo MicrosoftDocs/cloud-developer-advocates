@@ -13,7 +13,6 @@ ms.author: Brian Clark
 
 # Brian Clark
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/_clarkio) | [LinkedIn](https://linkedin.com/in/brianclarkdev) | [WebBlog](https://www.clarkio.com/feed.xml) | [Github](https://github.com/clarkio) | [StackOverflow](https://stackoverflow.com/users/3381712/brian-clark) | [Instagram](https://www.instagram.com/_clarkio)

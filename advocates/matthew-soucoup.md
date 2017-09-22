@@ -13,7 +13,6 @@ ms.author: Matthew Soucoup
 
 # Matthew Soucoup
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/codemillmatt) | [LinkedIn](https://linkedin.com/in/msoucoup) | [WebBlog](https://codemilltech.com) | [Github](https://github.com/codemillmatt) | [StackOverflow](https://stackoverflow.com/users/6621061/matt-soucoup)

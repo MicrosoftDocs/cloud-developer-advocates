@@ -13,7 +13,6 @@ ms.author: Vadim Karpusenko
 
 # Vadim Karpusenko
 
-Principal Cloud Developer Advocate
 
 ## Connect
 [Twitter](https://twitter.com/vadi) | [LinkedIn](https://linkedin.com/in/karpusenko) | [Github](https://github.com/vakarpus)
