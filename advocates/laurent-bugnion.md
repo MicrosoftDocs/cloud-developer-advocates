@@ -25,8 +25,13 @@ I come to Microsoft after a long career in the industry as a software developer.
 
 * .NET
 * Xamarin
-
+* Model-View-ViewModel
+* XAML
+* Blend
+* User experience
 
 ## My Projects
 
-* Add some projects here
+* [MVVM Light Toolkit](http://www.mvvmlight.net)
+* [My presentations and samples](http://galasoft.ch/presentations)
+* [My blog](http://blog.galasoft.ch)
