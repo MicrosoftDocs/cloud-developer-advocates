@@ -609,6 +609,29 @@ twitterWidgets: true
                 </div>
                 </a>
             </li>
+            
+            <li>
+                <a href="./sarah-drasner" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/sarah-drasner.jpg" alt="Picture of Sarah Drasner" data-linktype="internal" 
+                                    style="border-radius:50%; width:220px;height:220px;">
+                                </div>
+                            </div>
+                            <div class="cardText" style="margin-left: 4em;">
+                                <h3>Sarah Drasner</h3>
+                                <p>@sarah_edo</p>
+                                <p>Data</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                </a>
+            </li>
+            
             <li>
                 <a href="./scott-cate" data-linktype="internal">
                 <div class="cardSize">
