@@ -27,6 +27,7 @@
 ## [Paige Bailey](paige-bailey)
 ## [Prashant Sridharan](prashant-sridharan)
 ## [Ruth Yakubu](ruth-yakubu)
+## [Sarah Drasner](sarah-drasner)
 ## [Scott Cate](scott-cate)
 ## [Seth Juarez](seth-juarez)
 ## [Shayne Boyer](shayne-boyer)
