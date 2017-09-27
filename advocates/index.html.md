@@ -13,12 +13,7 @@ twitterWidgets: true
             <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
         </div>
     </div>
-    <div class="container">
-    <h2>Recent Tweets</h2>
-        <div>
-        <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/NYTNow/timelines/576828964162965504">CDA Twitter Collection</a>
-        </div>
-    </div>
+
     <div class="content">
         <h2> Advocates </h2>
         <ul class="panelContent cardsW">
@@ -800,5 +795,11 @@ twitterWidgets: true
                 </a>
             </li>
         </ul>
+    </div>
+   <div class="container">
+    <h2>Recent Tweets</h2>
+        <div>
+        <a class="twitter-grid" data-partner="tweetdeck" href="https://twitter.com/msdev/timelines/912416037856985089">CDA Twitter Collection</a>
+       </div>
     </div>
 </div>
