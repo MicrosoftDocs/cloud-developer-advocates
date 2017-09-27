@@ -14,24 +14,33 @@ ms.author: Burke Holland
 # Burke Holland
 
 
-## Connect
+## Connect 📞
 [Twitter](https://twitter.com/burkeholland) | [LinkedIn](https://linkedin.com/in/burkeholland) | [Facebook](https://facebook.com/burkeholland) | [Instagram](https://www.instagram.com/burkeholland)
 
-## Bio
+## Bio 🔥
 
-I was most recently the Director of Developer Relations for Telerik which was acquired by Progress Software. Prior to that I held various software engineering roles in retail, healthcare and a really hard year at a startup in the music industry. I started my career as an ASP.NET WebForms developer, but quickly moved to Flex and then eventually JavaScript after Apple killed Flash (Thanks Apple!). 
+Burke is a web developer living in Nashville, TN; the greatest city in the world. He likes JavaScript a lot because it's the only way he Node to Express himself. Get it? Is this thing on? 🎤
 
- I went to the University of Tennessee at Martin (go Skyhawks?) where I studied Information Systems. Prior to that I served in the US Coast Guard where I painted and cleaned things on the Mississippi River.
+Nevermind.
 
- I live in Franklin, TN which is a small town outside of Nashville, the greatest city in the world. I play the bass guitar and try to rekindle my dreams of rock stardom. I like to run every day and I'm also a huge fan of napping. I have three boys (all in middle school) so I spend the majority of my time being a dad and working with my kids on their hobbies. I'm also big into home improvement so I spend entirely too much time and money at Lowes. [https://twitter.com/burkeholland](https://twitter.com/burkeholland)
+Look, Burke blogs only slightly better than he codes and definitely not as good as he talks about himself in the third person. The legal requirement for living in Nashville is to play a 🎸, so Burke plays the bass and tries in vain to rekindle his dreams of rock stardom. He's also a huge fun of running, lengthy bios and sarcasm.
 
-## Skills
+Burke works on the Azure team on behalf of JavaScript developers everywhere. You can find him on various social media networks and writing all the best words at <a href="https://www.burkeknowswords.com">burkeknowswords.com</a>
+
+## Skills 💡
 
 * JavaScript
 * Node.js
-* Python
+* React
+* NativeScript
 
 
-## My Projects
+## My Projects 👩‍💻
 
-* Add some projects here
+* [React Express Starter Kit](http://bitly.com/express-react-starter)
+* [React Cosmos DB](http://reactcosmosdb.com)
+* [vscodecandothat.com](http://vscodecandothat.com)
+* [NativeScript Status Bar](https://github.com/burkeholland/nativescript-statusbar)
+* [NativeScript LanScan](https://github.com/burkeholland/nativescript-lan-scan)
+* [Instasharp](https://github.com/instasharp)
+
