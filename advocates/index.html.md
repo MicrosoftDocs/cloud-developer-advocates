@@ -612,7 +612,7 @@ twitterWidgets: true
                         <div class="card">
                             <div class="cardImageOuter">
                                 <div class="cardImage">
-                                    <img src="media/profiles/sarah-drasner.jpg" alt="Picture of Sarah Drasner" data-linktype="internal" 
+                                    <img src="media/profiles/sarah-drasner.png" alt="Picture of Sarah Drasner" data-linktype="internal" 
                                     style="border-radius:50%; width:220px;height:220px;">
                                 </div>
                             </div>
