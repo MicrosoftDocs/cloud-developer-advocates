@@ -24,7 +24,3 @@ Previously I worked at Amazon on AWS, most recently I was a Developer Advocate f
 
 * Linux
 
-
-## My Projects
-
-* Add some projects here
