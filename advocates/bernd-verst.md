@@ -27,6 +27,4 @@ Bernd is a big fan of PaaS and Container technologies, in particular Kubernetes.
 * Linux
 
 
-## My Projects
 
-* Add some projects here
