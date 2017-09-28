@@ -2,20 +2,20 @@
 title: Maxime Rouiller - Cloud Developer Advocate
 description: Home page for Maxime Rouiller, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Maxime Rouiller
-manager: Scott Cate
+author: marouill
+manager: scottca
 ms.topic: article
-ms.date: 2017-09-18
-ms.author: Maxime Rouiller
+ms.date: 2017-09-28
+ms.author: marouill
 ---
 
-![Image of Maxime Rouiller](media/profiles/maxime-rouiller.png)
+![Awesome Image of Maxime Rouiller](media/profiles/maxime-rouiller.png)
 
 # Maxime Rouiller
 
 
 ## Connect
-[Twitter](https://twitter.com/maximrouiller) | [LinkedIn](https://linkedin.com/in/MaximRouiller) | [WebBlog](https://blog.decayingcode.com) | [Github](https://github.com/MaximRouiller) | [StackOverflow](https://stackoverflow.com/users/24975/maxime-rouiller)
+[Twitter](https://twitter.com/maximrouiller) | [LinkedIn](https://linkedin.com/in/MaximRouiller) | [Blog](https://blog.decayingcode.com) | [Github](https://github.com/MaximRouiller) | [StackOverflow](https://stackoverflow.com/users/24975/maxime-rouiller)
 
 ## Bio
 
@@ -35,4 +35,4 @@ If you want to talk bread and bicycling, I'm your man.
 
 ## My Projects
 
-* [Azure Virtual Size Browser](http://vmsizebrowser.azurewebsites.net/)
+* [Azure Virtual Size Browser](http://vmsizebrowser.azurewebsites.net/) | [GitHub](https://github.com/MaximRouiller/VmSizeBrowser)
