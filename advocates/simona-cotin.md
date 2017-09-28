@@ -34,6 +34,4 @@ I currently live in London, UK where I moved to from Dublin, Ireland. Before tha
 * Python
 
 
-## My Projects
 
-* Add some projects here
