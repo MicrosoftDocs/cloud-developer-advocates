@@ -28,6 +28,3 @@ Sarah is an award-winning Speaker, Senior Developer Advocate for Microsoft, and 
 * Python
 
 
-## My Projects
-
-* Add some projects here
