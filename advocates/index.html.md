@@ -52,7 +52,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Abel Wang</h3>
-                                <p>@AbelSquidHead</p>
+                                <p><a href="http://twitter.com/AbelSquidHead">@AbelSquidHead</a></p>
                                 <p>DevOps</p>
                             </div>
                         </div>
@@ -73,7 +73,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Anthony Chu</h3>
-                                <p>@nthonyChu</p>
+                                <p><a href="http://twitter.com/nthonyChu">@nthonyChu</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
@@ -94,7 +94,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Ashley McNamara</h3>
-                                <p>@ashleymcnamara</p>
+                                <p><a href="http://twitter.com/ashleymcnamara">@ashleymcnamara</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
@@ -115,7 +115,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Asim Hussain</h3>
-                                <p>@jawache</p>
+                                <p><a href="http://twitter.com/jawache">@jawache</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
@@ -136,7 +136,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Bernd Verst</h3>
-                                <p>@BerndVerst</p>
+                                <p><a href="http://twitter.com/BerndVerst">@BerndVerst</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
@@ -157,7 +157,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Brian Benz</h3>
-                                <p>@bbenz</p>
+                                <p><a href="http://twitter.com/bbenz">@bbenz</a></p>
                                 <p>Java</p>
                             </div>
                         </div>
@@ -178,7 +178,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Brian Clark</h3>
-                                <p>@_clarkio</p>
+                                <p><a href="http://twitter.com/_clarkio">@_clarkio</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
@@ -199,7 +199,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Brian Ketelsen</h3>
-                                <p>@bketelsen</p>
+                                <p><a href="http://twitter.com/bketelsen">@bketelsen</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
@@ -220,7 +220,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Brian Peek</h3>
-                                <p>@BrianPeek</p>
+                                <p><a href="http://twitter.com/BrianPeek">@BrianPeek</a></p>
                                 <p>Emerging / Gaming</p>
                             </div>
                         </div>
@@ -241,7 +241,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Bridget Kromhout</h3>
-                                <p>@bridgetkromhout</p>
+                                <p><a href="http://twitter.com/bridgetkromhout">@bridgetkromhout</a></p>
                                 <p></p>
                             </div>
                         </div>
@@ -262,7 +262,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Bryan Liston</h3>
-                                <p>@listonb</p>
+                                <p><a href="http://twitter.com/listonb">@listonb</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
@@ -283,7 +283,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Burke Holland</h3>
-                                <p>@burkeholland</p>
+                                <p><a href="http://twitter.com/burkeholland">@burkeholland</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
@@ -304,7 +304,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Cecil Phillip</h3>
-                                <p>@cecilphillip</p>
+                                <p><a href="http://twitter.com/cecilphillip">@cecilphillip</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
@@ -325,7 +325,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Damian Brady</h3>
-                                <p>@damovisa</p>
+                                <p><a href="http://twitter.com/damovisa">@damovisa</a></p>
                                 <p>DevOps</p>
                             </div>
                         </div>
@@ -346,7 +346,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Donovan Brown</h3>
-                                <p>@DonovanBrown</p>
+                                <p><a href="http://twitter.com/DonovanBrown">@DonovanBrown</a></p>
                                 <p>DevOps</p>
                             </div>
                         </div>
@@ -367,7 +367,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Erik St. Martin</h3>
-                                <p>@erikstmartin</p>
+                                <p><a href="http://twitter.com/erikstmartin">@erikstmartin</a></p>
                                 <p></p>
                             </div>
                         </div>
@@ -388,7 +388,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Jasmine Greenaway</h3>
-                                <p>@paladique</p>
+                                <p><a href="http://twitter.com/paladique">@paladique</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
@@ -409,7 +409,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Jeremy Likness</h3>
-                                <p>@JeremyLikness</p>
+                                <p><a href="http://twitter.com/JeremyLikness">@JeremyLikness</a></p>
                                 <p>.NET</p>
                             </div>
                         </div>
@@ -430,7 +430,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Jessica Frazelle</h3>
-                                <p>@jessfraz</p>
+                                <p><a href="http://twitter.com/jessfraz">@jessfraz</a></p>
                                 <p>Linux / Open Source</p>
                             </div>
                         </div>
@@ -451,7 +451,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>John Papa</h3>
-                                <p>@john_papa</p>
+                                <p><a href="http://twitter.com/john_papa">@john_papa</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
@@ -472,7 +472,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Kris Nova</h3>
-                                <p>@</p>
+                                <p><a href="http://twitter.com/Kris__Nova">@Kris__Nova</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
@@ -493,7 +493,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Laurent Bugnion</h3>
-                                <p>@LBugnion</p>
+                                <p><a href="http://twitter.com/LBugnion">@LBugnion</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
@@ -514,8 +514,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Matthew Soucoup</h3>
-                                <p>@codemillmatt</p>
-                                <p>Xamarin</p>
+                                <p><a href="http://twitter.com/codemillmatt">@codemillmatt</a></p>
+                                <p>.NET / Xamarin</p>
                             </div>
                         </div>
                     </div>
@@ -534,8 +534,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Maxime Rouiller</h3>
-                                <p>@maximrouiller</p>
-                                <p>.NET / Xamarin</p>
+                                <p><a href="http://twitter.com/maximrouiller">@maximrouiller</a></p>
+                                <p>.NET</p>
                             </div>
                         </div>
                     </div>
@@ -555,8 +555,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Paige Bailey</h3>
-                                <p>@DynamicWebPaige</p>
-                                <p>Data + BI</p>
+                                <p><a href="http://twitter.com/DynamicWebPaige">@DynamicWebPaige</a></p>
+                                <p>Data / AI / ML</p>
                             </div>
                         </div>
                     </div>
@@ -576,8 +576,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Prashant Sridharan</h3>
-                                <p>@CoolAssPuppy</p>
-                                <p>Evangelism PM</p>
+                                <p><a href="http://twitter.com/CoolAssPuppy">@CoolAssPuppy</a></p>
+                                <p>Chief Herder</p>
                             </div>
                         </div>
                     </div>
@@ -597,8 +597,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Ruth Yakubu</h3>
-                                <p>@ruthieyakubu</p>
-                                <p>Data</p>
+                                <p><a href="http://twitter.com/ruthieyakubu">@ruthieyakubu</a></p>
+                                <p>Data / AI</p>
                             </div>
                         </div>
                     </div>
@@ -618,7 +618,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Sarah Drasner</h3>
-                                <p>@sarah_edo</p>
+								<p><a href="http://twitter.com/sarah_edo">@sarah_edo</a></p>
                                 <p>Data</p>
                             </div>
                         </div>
@@ -639,8 +639,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Scott Cate</h3>
-                                <p>@ScottCate</p>
-                                <p>.NET / Xamarin</p>
+                                <p><a href="http://twitter.com/scottcate">@ScottCate</a></p>
+                                <p>.NET</p>
                             </div>
                         </div>
                     </div>
@@ -660,8 +660,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Seth Juarez</h3>
-                                <p>@sethjuarez</p>
-                                <p>Emerging / ML, AI</p>
+                                <p><a href="http://twitter.com/sethjuarez">@sethjuarez</a></p>
+                                <p>Emerging / ML / AI / Channel 9</p>
                             </div>
                         </div>
                     </div>
@@ -681,8 +681,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Shayne Boyer</h3>
-                                <p>@spboyer </p>
-                                <p>.NET / Xamarin</p>
+                                <p><a href="http://twitter.com/spboyer">@spboyer</a></p>
+                                <p>.NET</p>
                             </div>
                         </div>
                     </div>
@@ -702,7 +702,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Simona Cotin</h3>
-                                <p>@simona_cotin</p>
+                                <p><a href="http://twitter.com/simona_cotin">@simona_cotin</a></p>
                                 <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
@@ -723,7 +723,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Steven Murawski</h3>
-                                <p>@stevenmurawski</p>
+                                <p><a href="http://twitter.com/stevenmurawski">@stevenmurawski</a></p>
                                 <p>DevOps</p>
                             </div>
                         </div>
@@ -744,7 +744,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Tim Heuer</h3>
-                                <p>@timheuer</p>
+                                <p><a href="http://twitter.com/timheuer">@timheuer</a></p>
                                 <p>.NET / Xamarin</p>
                             </div>
                         </div>
@@ -765,8 +765,8 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Vadim Karpusenko</h3>
-                                <p>@vadi</p>
-                                <p>Emerging / ML, AI</p>
+                                <p><a href="http://twitter.com/vadi">@vadi</a></p>
+                                <p>AI / ML / Data Science</p>
                             </div>
                         </div>
                     </div>
@@ -785,7 +785,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText" style="margin-left: 4em;">
                                 <h3>Zachary Deptawa</h3>
-                                <p>@zdeptawa</p>
+                                <p><a href="http://twitter.com/zdeptawa">@zdeptawa</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
