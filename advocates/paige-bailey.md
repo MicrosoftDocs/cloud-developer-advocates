@@ -28,6 +28,3 @@ When I'm not sitting in front of glowing rectangular screens at work, I absolute
 * Data + BI
 
 
-## My Projects
-
-* Add some projects here
