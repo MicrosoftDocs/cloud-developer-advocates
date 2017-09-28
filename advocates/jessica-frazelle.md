@@ -27,6 +27,3 @@ ms.author: Jessica Frazelle
 * Open Source
 
 
-## My Projects
-
-* Add some projects here
