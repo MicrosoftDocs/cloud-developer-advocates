@@ -26,6 +26,4 @@ This is my third stint at Microsoft. My last time here, I was the Director of Pr
 * Evangelism PM
 
 
-## My Projects
 
-* Add some projects here
