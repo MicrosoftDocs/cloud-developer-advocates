@@ -31,6 +31,3 @@ You'll find Steven at a variety of conferences, as well as a frequent guest on p
 * DevOps
 
 
-## My Projects
-
-* Add some projects here
