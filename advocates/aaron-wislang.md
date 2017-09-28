@@ -10,8 +10,11 @@ ms.author: Aaron Wislang
 ---
 
 ![Image of Aaron Wislang](media/profiles/aaron-wislang.png)
-<div><img src="media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal" 
-                                    style="width:220px;height:220px;"></div>
+<div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage"><img src="media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal" style="border-radius:50%;width:220px;height:220px;">
+                                  </div></div></div></div>
 # Aaron Wislang
 
 
