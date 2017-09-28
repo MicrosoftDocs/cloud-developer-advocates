@@ -30,6 +30,4 @@ Most of the time you'll find him talking to developers and IT Pros to help them 
 * DevOps
 
 
-## My Projects
 
-* Add some projects here
