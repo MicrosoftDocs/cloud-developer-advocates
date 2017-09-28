@@ -33,6 +33,3 @@ After work I'm a CrossFit enthusiast, newbie VR gamer, and a mentor for "Codding
 * ML, AI
 
 
-## My Projects
-
-* Add some projects here
