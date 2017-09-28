@@ -36,7 +36,10 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+        "brand": "advocates",
+        "uhfHeaderId": "MSDocsHeader-Advocates"
+     },
     "fileMetadata": {},
     "template": [],
     "dest": "cloud-developer-advocates"
