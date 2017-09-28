@@ -2,7 +2,7 @@
 title: Maxime Rouiller - Cloud Developer Advocate
 description: Home page for Maxime Rouiller, a Microsoft Cloud Developer Advocate
 services: N / A
-author: marouill
+author: MaximRouiller
 manager: scottca
 ms.topic: article
 ms.date: 2017-09-28
