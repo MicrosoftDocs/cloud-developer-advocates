@@ -10,7 +10,8 @@ ms.author: Aaron Wislang
 ---
 
 ![Image of Aaron Wislang](media/profiles/aaron-wislang.png)
-
+<div><img src="media/profiles/aaron-wislang.png" alt="Picture of Aaron Wislang" data-linktype="internal" 
+                                    style="width:220px;height:220px;"></div>
 # Aaron Wislang
 
 
