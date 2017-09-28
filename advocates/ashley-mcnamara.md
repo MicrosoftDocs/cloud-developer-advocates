@@ -27,7 +27,3 @@ https://twitter.com/ashleymcnamara
 
 * Linux
 
-
-## My Projects
-
-* Add some projects here
