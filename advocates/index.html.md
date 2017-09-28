@@ -31,7 +31,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText">
                                 <h3>Aaron Wislang</h3>
-                                <p>@as_w</p>
+                                <p><a href="http://twitter.com/as_w">@as_w</a></p>
                                 <p>Linux</p>
                             </div>
                         </div>
