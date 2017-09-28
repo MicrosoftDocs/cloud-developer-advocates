@@ -26,6 +26,3 @@ This CDA hasn't provided a biography yet.
 * Data
 
 
-## My Projects
-
-* Add some projects here
