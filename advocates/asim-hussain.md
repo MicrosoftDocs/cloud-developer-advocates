@@ -30,6 +30,4 @@ https://twitter.com/jawache
 * Python
 
 
-## My Projects
 
-* Add some projects here
