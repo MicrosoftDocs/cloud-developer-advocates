@@ -27,10 +27,12 @@ If you want to talk bread and bicycling, I'm your man.
 
 ## Skills
 
-* .NET
-* Xamarin
-
+* .NET / .NET Core
+* JavaScript
+* Virtual Machines
+* Service Fabric
+* IoT
 
 ## My Projects
 
-* Add some projects here
+* [Azure Virtual Size Browser](http://vmsizebrowser.azurewebsites.net/)
