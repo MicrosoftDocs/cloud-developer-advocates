@@ -35,6 +35,4 @@ I love to teach regardless of the student, and I'm not afraid to be the student.
 * Xamarin
 
 
-## My Projects
 
-* Add some projects here
