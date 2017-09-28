@@ -24,6 +24,3 @@ I'm excited to join Bryan Liston's dream team of Cloud Developer Advocates! I'm 
 
 
 
-## My Projects
-
-* Add some projects here
