@@ -31,6 +31,4 @@ I received my Bachelor's Degree in Computer Science at UNLV with a Minor in Math
 * ML, AI
 
 
-## My Projects
 
-* Add some projects here
