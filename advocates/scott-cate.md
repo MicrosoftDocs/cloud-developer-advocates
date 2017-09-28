@@ -30,6 +30,4 @@ Along the way, I have always been a fan of teaching. With a motto of "Learn. Bui
 * Xamarin
 
 
-## My Projects
 
-* Add some projects here
