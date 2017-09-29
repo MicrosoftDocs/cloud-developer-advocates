@@ -74,7 +74,7 @@ twitterWidgets: true
                             <div class="cardText">
                                 <h3>Anthony Chu</h3>
                                 <p><a href="http://twitter.com/nthonyChu">@nthonyChu</a></p>
-                                <p>.NET / Xamarin</p>
+                                <p>.NET</p>
                             </div>
                         </div>
                     </div>
