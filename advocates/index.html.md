@@ -137,7 +137,7 @@ twitterWidgets: true
                             <div class="cardText">
                                 <h3>Bernd Verst</h3>
                                 <p><a href="http://twitter.com/BerndVerst">@BerndVerst</a></p>
-                                <p>Linux</p>
+                                <p>Linux / Containers / Python</p>
                             </div>
                         </div>
                     </div>
