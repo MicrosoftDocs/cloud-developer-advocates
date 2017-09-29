@@ -799,7 +799,7 @@ twitterWidgets: true
     <div class="container">
         <h2>Recent Tweets</h2>
         <div>
-            <a class="twitter-timeline" data-partner="tweetdeck" href="https://twitter.com/msdev/timelines/912416037856985089">CDA Twitter Collection</a>
+            <a class="twitter-timeline" width="800px" data-partner="tweetdeck" href="https://twitter.com/msdev/timelines/912416037856985089">CDA Twitter Collection</a>
         </div>
     </div>
 </div>
