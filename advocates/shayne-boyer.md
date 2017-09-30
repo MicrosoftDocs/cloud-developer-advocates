@@ -2,11 +2,11 @@
 title: Shayne Boyer - Cloud Developer Advocate
 description: Home page for Shayne Boyer, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Shayne Boyer
+author: spboyer
 manager: Scott Cate
 ms.topic: article
-ms.date: 2017-09-18
-ms.author: Shayne Boyer
+ms.date: 2017-09-29
+ms.author: shboyer
 ---
 
 ![Image of Shayne Boyer](media/profiles/shayne-boyer.png)
@@ -15,7 +15,7 @@ ms.author: Shayne Boyer
 
 
 ## Connect
-[Twitter](https://twitter.com/spboyer ) | [LinkedIn](https://linkedin.com/in/shayneboyer ) | [Facebook](https://facebook.com/shayneboyer ) | [WebBlog](https://tattoocoder.com) | [Github](https://github.com/spboyer ) | [StackOverflow](https://stackoverflow.com/users/595213/shayne-boyer) | [Instagram](https://www.instagram.com/spboyer)
+[Twitter](https://twitter.com/spboyer ) | [LinkedIn](https://linkedin.com/in/shayneboyer ) | [WebBlog](https://tattoocoder.com) | [Github](https://github.com/spboyer )
 
 ## Bio
 
@@ -31,8 +31,9 @@ I love to teach regardless of the student, and I'm not afraid to be the student.
 
 ## Skills
 
-* .NET
-* Xamarin
+* .NET / .NET Core
+* Docker
+* Node.js
 
 
 
