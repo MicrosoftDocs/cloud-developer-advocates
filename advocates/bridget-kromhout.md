@@ -20,7 +20,6 @@ Principal Cloud Developer Advocate
 
 ## Bio
 
-I'm excited to join Bryan Liston's dream team of Cloud Developer Advocates! I'm a [technologist](https://bridgetkromhout.com), [podcaster](https://www.arresteddevops.com), [conference speaker](https://bridgetkromhout.com/speaking/), and [devopsdays](https://www.devopsdays.org/) organizer. Despite [trading being on call for being on a plane](https://twitter.com/bridgetkromhout/status/730835258418057216), I'm still [team #opslife](https://twitter.com/bridgetkromhout/status/628355127066365952). I like snow, bicycles, and gardening, and I live in Minneapolis with my spouse [Joe](https://twitter.com/joelaha) and our two kitties. [https://twitter.com/bridgetkromhout](https://twitter.com/bridgetkromhout)
-
+Bridget Kromhout is a Principal Cloud Developer Advocate at Microsoft. Her CS degree emphasis was in theory, but she now deals with the concrete (if 'cloud' can be considered tangible). After 15 years as an operations engineer, she traded being on call for being on a plane. A frequent speaker and program committee member for tech conferences, she leads the [devopsdays](https://www.devopsdays.org/) organization globally and the devops community at home in Minneapolis. She podcasts with [Arrested DevOps](https://www.arresteddevops.com), blogs at [bridgetkromhout.com](https://bridgetkromhout.com), and is [active in a Twitterverse near you](https://twitter.com/bridgetkromhout).
 
 
