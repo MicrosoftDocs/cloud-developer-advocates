@@ -619,7 +619,7 @@ twitterWidgets: true
                             <div class="cardText">
                                 <h3>Sarah Drasner</h3>
                                 <p><a href="http://twitter.com/sarah_edo">@sarah_edo</a></p>
-                                <p>Data</p>
+                                <p>JavaScript / Node.js / Python</p>
                             </div>
                         </div>
                     </div>
