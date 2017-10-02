@@ -29,4 +29,4 @@ Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on 
 ## My Projects
 
 * [Yo Team](https://www.npmjs.com/package/generator-team)
-* [TFS/VSTS PowerShell Module](https://www.powershellgallery.com/packages/Team/)
+* [TFS/VSTS PowerShell Module](https://www.powershellgallery.com/packages/vsTeam/)
