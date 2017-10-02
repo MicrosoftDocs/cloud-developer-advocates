@@ -26,6 +26,3 @@ Brian is a Senior Developer Advocate at Microsoft, helping Java developers to ge
 * Java
 
 
-## My Projects
-
-* Add some projects here

@@ -28,7 +28,4 @@ When I’m not working you can find me hanging out with my family, writing music
 * Linux
 
 
-## My Projects
-
-* Add some projects here
 

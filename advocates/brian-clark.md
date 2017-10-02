@@ -29,6 +29,3 @@ https://twitter.com/clarkio
 * Python
 
 
-## My Projects
-
-* Add some projects here

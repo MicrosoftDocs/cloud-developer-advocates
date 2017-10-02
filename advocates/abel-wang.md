@@ -27,6 +27,3 @@ Abel Wang is a Senior Cloud Developer Advocate specializing in DevOps and Azure 
 * DevOps
 
 
-## My Projects
-
-* Add some projects here

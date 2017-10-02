@@ -29,6 +29,4 @@ Originally from St. John's, Antigua, I'm a teacher, podcaster and software devel
 * Xamarin
 
 
-## My Projects
 
-* Add some projects here

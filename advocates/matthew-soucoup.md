@@ -26,6 +26,4 @@ I love mobile and cloud development - and have been developing mobile apps with 
 * Xamarin
 
 
-## My Projects
 
-* Add some projects here

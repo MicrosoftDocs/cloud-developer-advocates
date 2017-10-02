@@ -23,9 +23,11 @@ This is my third stint at Microsoft. My last time here, I was the Director of Pr
 
 ## Skills
 
-* Evangelism PM
+* Developer Marketing
+* Developer Relations
+* iOS development
+* Ruby on Rails
+* Burritos
 
 
-## My Projects
 
-* Add some projects here

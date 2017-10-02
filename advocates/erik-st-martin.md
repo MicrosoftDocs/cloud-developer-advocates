@@ -31,6 +31,4 @@ In my downtime I'm very interested in information security, and teaching myself 
 
 
 
-## My Projects
 
-* Add some projects here

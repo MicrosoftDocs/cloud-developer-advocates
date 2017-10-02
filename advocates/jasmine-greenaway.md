@@ -29,6 +29,4 @@ I also teach front and back end web as an adjunct professor at a local community
 * Xamarin
 
 
-## My Projects
 
-* Add some projects here

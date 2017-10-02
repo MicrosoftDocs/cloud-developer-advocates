@@ -26,6 +26,3 @@ Brian Ketelsen is probably most widely known for his role in the Go community: c
 * Linux
 
 
-## My Projects
-
-* Add some projects here

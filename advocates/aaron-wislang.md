@@ -26,7 +26,3 @@ Aaron is a Senior Cloud Developer Advocate at Microsoft with well over a decade 
 
 * Linux
 
-
-## My Projects
-
-* Add some projects here
