@@ -2,11 +2,11 @@
 title: Jessica Frazelle - Cloud Developer Advocate
 description: Home page for Jessica Frazelle, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Jessica Frazelle
-manager: Bryan Liston
+author: jessfraz
+manager: listonb
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Jessica Frazelle
+ms.author: jessfraz
 ---
 
 ![Image of Jessica Frazelle](media/profiles/jessica-frazelle.png)

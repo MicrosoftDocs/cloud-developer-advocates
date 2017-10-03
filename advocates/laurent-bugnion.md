@@ -2,11 +2,11 @@
 title: Laurent Bugnion - Cloud Developer Advocate
 description: Home page for Laurent Bugnion, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Laurent Bugnion
-manager: Tim Heuer
+author: LBugnion
+manager: timheuer
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Laurent Bugnion
+ms.author: lbugnion
 ---
 
 ![Image of Laurent Bugnion](media/profiles/laurent-bugnion.png)

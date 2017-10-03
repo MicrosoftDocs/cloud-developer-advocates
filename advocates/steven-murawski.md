@@ -2,11 +2,11 @@
 title: Steven Murawski - Cloud Developer Advocate
 description: Home page for Steven Murawski, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Steven Murawski
-manager: Donovan Brown
+author: smurawski
+manager: DarqueWarrior
 ms.topic: article
 ms.date: 2017-10-02
-ms.author: Steven Murawski
+ms.author: stmuraws
 ---
 
 ![Image of Steven Murawski](media/profiles/steven-murawski.png)

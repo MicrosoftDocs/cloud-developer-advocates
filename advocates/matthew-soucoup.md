@@ -2,11 +2,11 @@
 title: Matthew Soucoup - Cloud Developer Advocate
 description: Home page for Matthew Soucoup, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Matthew Soucoup
-manager: Tim Heuer
+author: codemillmatt
+manager: timheuer
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Matthew Soucoup
+ms.author: masoucou
 ---
 
 ![Image of Matthew Soucoup](media/profiles/matthew-soucoup.png)

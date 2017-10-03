@@ -2,11 +2,11 @@
 title: Paige Bailey - Cloud Developer Advocate
 description: Home page for Paige Bailey, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Paige Bailey
-manager: Jeff Sandquist
+author: DynamicWebPaige
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Paige Bailey
+ms.author: pabailey
 ---
 
 ![Image of Paige Bailey](media/profiles/paige-bailey.png)

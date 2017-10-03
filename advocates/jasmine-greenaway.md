@@ -2,11 +2,11 @@
 title: Jasmine Greenaway - Cloud Developer Advocate
 description: Home page for Jasmine Greenaway, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Jasmine Greenaway
-manager: Scott Cate
+author: paladique
+manager: scottcate
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Jasmine Greenaway
+ms.author: jasmineg
 ---
 
 ![Image of Jasmine Greenaway](media/profiles/jasmine-greenaway.png)
