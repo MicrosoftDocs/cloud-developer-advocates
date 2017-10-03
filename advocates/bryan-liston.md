@@ -2,11 +2,11 @@
 title: Bryan Liston - Cloud Developer Advocate
 description: Home page for Bryan Liston, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Bryan Liston
-manager: Jeff Sandquist
+author: listonb
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Bryan Liston
+ms.author: brliston
 ---
 
 ![Image of Bryan Liston](media/profiles/bryan-liston.png)
