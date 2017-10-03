@@ -72,7 +72,7 @@ twitterWidgets: true
                                 </div>
                             </div>
                             <div class="cardText">
-                                <h3>Abel Wang</h3>
+                                <h3>Alena Hall</h3>
                                 <p><a href="https://twitter.com/lenadroid">@lenadroid</a></p>
                                 <p>High Scale / Big Data</p>
                             </div>
