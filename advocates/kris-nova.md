@@ -2,11 +2,11 @@
 title: Kris Nova - Cloud Developer Advocate
 description: Home page for Kris Nova, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Kris Nova
-manager: Brian Liston
+author: kris-nova
+manager: listonb
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Kris Nova
+ms.author: krnova
 ---
 
 ![Image of Kris Nova](media/profiles/kris-nova.png)

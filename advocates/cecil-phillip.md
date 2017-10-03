@@ -2,11 +2,11 @@
 title: Cecil Phillip - Cloud Developer Advocate
 description: Home page for Cecil Phillip, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Cecil Phillip
-manager: Scott Cate
+author: cecilphillip
+manager: scottcate
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Cecil Phillip
+ms.author: cephilli
 ---
 
 ![Image of Cecil Phillip](media/profiles/cecil-phillip.png)

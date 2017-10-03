@@ -2,11 +2,11 @@
 title: Damian Brady - Cloud Developer Advocate
 description: Home page for Damian Brady, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Damian Brady
-manager: Donovan Brown
+author: damovisa
+manager: DarqueWarrior
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Damian Brady
+ms.author: dabrady
 ---
 
 ![Image of Damian Brady](media/profiles/damian-brady.png)

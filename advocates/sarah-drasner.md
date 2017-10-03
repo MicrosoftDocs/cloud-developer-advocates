@@ -3,10 +3,10 @@ title: Sarah Drasner - Cloud Developer Advocate
 description: Home page for Sarah Drasner, a Microsoft Cloud Developer Advocate
 services: N / A
 author: Sarah Drasner
-manager: John Papa
+manager: johnpapa
 ms.topic: article
 ms.date: 2017-09-24
-ms.author: Sarah Drasner
+ms.author: sdras
 ---
 
 ![Image of Sarah Drasner](media/profiles/sarah-drasner.jpg)
