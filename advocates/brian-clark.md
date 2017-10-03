@@ -3,7 +3,7 @@ title: Brian Clark - Cloud Developer Advocate
 description: Home page for Brian Clark, a Microsoft Cloud Developer Advocate
 services: N / A
 author: clarkio
-manager: jopapa
+manager: johnpapa
 ms.topic: article
 ms.date: 2017-09-18
 ms.author: brcl
