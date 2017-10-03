@@ -1,6 +1,7 @@
 # [Cloud Developer Advocates](index.md)
 ## [Aaron Wislang](aaron-wislang)
 ## [Abel Wang](abel-wang)
+## [Alena Hall](alena-hall)
 ## [Anthony Chu](anthony-chu)
 ## [Ashley McNamara](ashley-mcnamara)
 ## [Asim Hussain](asim-hussain)
