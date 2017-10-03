@@ -29,5 +29,4 @@ I love interesting conferences and exchange of experience related to distributed
 ## Skills
 
 * High Scale
-* High Scale
 * Big Data
