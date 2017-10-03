@@ -61,6 +61,27 @@ twitterWidgets: true
             </a>
         </li>
         <li>
+            <a href="./alena-hall" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/alena-hall.png" alt="Picture of Alena Hall" data-linktype="internal"
+                                         style="border-radius:50%; width:150px;height:150px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Abel Wang</h3>
+                                <p><a href="https://twitter.com/lenadroid">@lenadroid</a></p>
+                                <p>High Scale / Big Data</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
             <a href="./anthony-chu" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
