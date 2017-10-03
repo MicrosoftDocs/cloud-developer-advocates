@@ -2,11 +2,11 @@
 title: Brian Benz - Cloud Developer Advocate
 description: Home page for Brian Benz, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Brian Benz
-manager: Jeff Sandquist
+author: bbenz
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Brian Benz
+ms.author: bbenz
 ---
 
 ![Image of Brian Benz](media/profiles/brian-benz.png)
