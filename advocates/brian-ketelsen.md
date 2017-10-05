@@ -24,5 +24,7 @@ Brian Ketelsen is probably most widely known for his role in the Go community: c
 ## Skills
 
 * Linux
+* Go
+* Containers
 
 
