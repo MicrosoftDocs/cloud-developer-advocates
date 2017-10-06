@@ -2,7 +2,7 @@
 title: Erik St. Martin - Cloud Developer Advocate
 description: Home page for Erik St. Martin, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Erik St. Martin
+author: erikstmartin
 manager: listonb
 ms.topic: article
 ms.date: 2017-09-18
