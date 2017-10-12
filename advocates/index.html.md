@@ -787,7 +787,7 @@ twitterWidgets: true
                             <div class="cardText">
                                 <h3>Vadim Karpusenko</h3>
                                 <p><a href="http://twitter.com/vadi">@vadi</a></p>
-                                <p>AI / ML / Data Science</p>
+                                <p>HPC / AI / ML / DL</p>
                             </div>
                         </div>
                     </div>
