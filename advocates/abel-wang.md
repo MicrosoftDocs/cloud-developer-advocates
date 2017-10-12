@@ -3,10 +3,10 @@ title: Abel Wang - Cloud Developer Advocate
 description: Home page for Abel Wang, a Microsoft Cloud Developer Advocate
 services: N / A
 author: Abel Wang
-manager: Donovan Brown
+manager: DarqueWarrior
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Abel Wang
+ms.author: abewan
 ---
 
 ![Image of Abel Wang](media/profiles/abel-wang.png)
@@ -27,6 +27,3 @@ Abel Wang is a Senior Cloud Developer Advocate specializing in DevOps and Azure 
 * DevOps
 
 
-## My Projects
-
-* Add some projects here

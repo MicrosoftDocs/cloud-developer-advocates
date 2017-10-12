@@ -2,11 +2,11 @@
 title: John Papa - Cloud Developer Advocate
 description: Home page for John Papa, a Microsoft Cloud Developer Advocate
 services: N / A
-author: John Papa
-manager: Jeff Sandquist
+author: johnpapa
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: John Papa
+ms.author: jopapa
 ---
 
 ![Image of John Papa](media/profiles/john-papa.png)

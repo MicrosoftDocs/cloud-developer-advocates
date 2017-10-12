@@ -2,11 +2,11 @@
 title: Brian Ketelsen - Cloud Developer Advocate
 description: Home page for Brian Ketelsen, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Brian Ketelsen
-manager: Bryan Liston
+author: bketelsen
+manager: listonb
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Brian Ketelsen
+ms.author: brketels
 ---
 
 ![Image of Brian Ketelsen](media/profiles/brian-ketelsen.png)
@@ -24,8 +24,7 @@ Brian Ketelsen is probably most widely known for his role in the Go community: c
 ## Skills
 
 * Linux
+* Go
+* Containers
 
 
-## My Projects
-
-* Add some projects here

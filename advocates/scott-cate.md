@@ -2,11 +2,11 @@
 title: Scott Cate - Cloud Developer Advocate
 description: Home page for Scott Cate, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Scott Cate
-manager: Tim Heuer
+author: scottcate
+manager: timheuer
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Scott Cate
+ms.author: scottca
 ---
 
 ![Image of Scott Cate](media/profiles/scott-cate.png)
@@ -30,6 +30,4 @@ Along the way, I have always been a fan of teaching. With a motto of "Learn. Bui
 * Xamarin
 
 
-## My Projects
 
-* Add some projects here

@@ -2,11 +2,11 @@
 title: Asim Hussain - Cloud Developer Advocate
 description: Home page for Asim Hussain, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Asim Hussain
-manager: John Papa
+author: jawache
+manager: johnpapa
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Asim Hussain
+ms.author: ashussai
 ---
 
 ![Image of Asim Hussain](media/profiles/asim-hussain.png)
@@ -30,6 +30,4 @@ https://twitter.com/jawache
 * Python
 
 
-## My Projects
 
-* Add some projects here

@@ -2,11 +2,11 @@
 title: Brian Clark - Cloud Developer Advocate
 description: Home page for Brian Clark, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Brian Clark
-manager: John Papa
+author: clarkio
+manager: johnpapa
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Brian Clark
+ms.author: brcl
 ---
 
 ![Image of Brian Clark](media/profiles/brian-clark.png)
@@ -29,6 +29,3 @@ https://twitter.com/clarkio
 * Python
 
 
-## My Projects
-
-* Add some projects here

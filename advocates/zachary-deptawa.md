@@ -2,11 +2,11 @@
 title: Zachary Deptawa - Cloud Developer Advocate
 description: Home page for Aaron Wislang, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Zachary Deptawa
-manager: Bryan Liston
+author: zdeptawa
+manager: listonb
 ms.topic: Linux
 ms.date: 2017-09-18
-ms.author: Zachary Deptawa
+ms.author: zdeptawa
 ---
 
 ![Image of Bryan Liston](media/profiles/zachary-deptawa.png)
@@ -28,7 +28,4 @@ When I’m not working you can find me hanging out with my family, writing music
 * Linux
 
 
-## My Projects
-
-* Add some projects here
 

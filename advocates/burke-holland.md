@@ -2,11 +2,11 @@
 title: Burke Holland - Cloud Developer Advocate
 description: Home page for Burke Holland, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Burke Holland
-manager: John Papa
+author: burkeholland
+manager: johnpapa
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Burke Holland
+ms.author: buhollan
 ---
 
 ![Image of Burke Holland](media/profiles/burke-holland.png)

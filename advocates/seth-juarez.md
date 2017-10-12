@@ -2,11 +2,11 @@
 title: Seth Juarez - Cloud Developer Advocate
 description: Home page for Seth Juarez, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Seth Juarez
-manager: Tim Heuer
+author: sethjuarez
+manager: timheuer
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Seth Juarez
+ms.author: sejuare
 ---
 
 ![Image of Seth Juarez](media/profiles/seth-juarez.png)
@@ -31,6 +31,4 @@ I received my Bachelor's Degree in Computer Science at UNLV with a Minor in Math
 * ML, AI
 
 
-## My Projects
 
-* Add some projects here

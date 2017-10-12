@@ -2,11 +2,11 @@
 title: Vadim Karpusenko - Cloud Developer Advocate
 description: Home page for Vadim Karpusenko, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Vadim Karpusenko
-manager: Jeff Sandquist
+author: vakarpus
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-19
-ms.author: Vadim Karpusenko
+ms.author: vakarpus
 ---
 
 ![Image of Vadim Karpusenko](media/profiles/vadim-karpusenko.png)
@@ -33,6 +33,3 @@ After work I'm a CrossFit enthusiast, newbie VR gamer, and a mentor for "Codding
 * ML, AI
 
 
-## My Projects
-
-* Add some projects here

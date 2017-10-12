@@ -2,11 +2,11 @@
 title: Simona Cotin - Cloud Developer Advocate
 description: Home page for Simona Cotin, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Simona Cotin
-manager: John Papa
+author: simonaco
+manager: johnpapa
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Simona Cotin
+ms.author: sicotin
 ---
 
 ![Image of Simona Cotin](media/profiles/simona-cotin.png)
@@ -34,6 +34,4 @@ I currently live in London, UK where I moved to from Dublin, Ireland. Before tha
 * Python
 
 
-## My Projects
 
-* Add some projects here

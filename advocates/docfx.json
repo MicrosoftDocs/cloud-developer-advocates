@@ -25,8 +25,7 @@
           "**/*.jpeg",
           "**/*.gif",
           "**/*.js",
-          "**/*.css",
-          "**/*.html"
+          "**/*.css"
         ],
         "exclude": [
           "**/obj/**",
@@ -36,7 +35,10 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+        "brand": "advocates",
+        "uhfHeaderId": "MSDocsHeader-Advocates"
+     },
     "fileMetadata": {},
     "template": [],
     "dest": "cloud-developer-advocates"

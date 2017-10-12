@@ -2,11 +2,11 @@
 title: Bryan Liston - Cloud Developer Advocate
 description: Home page for Bryan Liston, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Bryan Liston
-manager: Jeff Sandquist
+author: listonb
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Bryan Liston
+ms.author: brliston
 ---
 
 ![Image of Bryan Liston](media/profiles/bryan-liston.png)
@@ -18,13 +18,14 @@ ms.author: Bryan Liston
 
 ## Bio
 
-Previously I worked at Amazon on AWS, most recently I was a Developer Advocate for AWS Lambda, but I was also involved with DynamoDB and RDS Operations, as well as a stint in the Solution Architecture organization where I helped build out the AWS DevOps professional certification. I've been doing Linux/DevOps related work for the past 15 years in some form or another, developing software and architecting systems/infrastructure. [https://twitter.com/listonb](https://twitter.com/listonb)
+I've had my head in the clouds for over 5 years. Most of that time has been spent in operations, automation, software development and advocacy. I love helping improve products to make developers lives easier. Prior to Microsoft I worked at AWS as an Operations Manager, Engineer, Solutions Architect, and Developer Advocate. I've been doing Linux/DevOps-related work for the past 15 years in some form or another, developing software and architecting systems/infrastructure. I have a passion for supporting open source software and communities.
 
 ## Skills
 
 * Linux
+* Containers
+* Python
+* Node.js
 
-
-## My Projects
-
-* Add some projects here
+# Other Stuff
+* [Channel9 Contributions](https://channel9.msdn.com/Niners/listonb)
