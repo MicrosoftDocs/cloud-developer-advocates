@@ -36,3 +36,4 @@ If you want to talk bread and bicycling, I'm your man.
 ## My Projects
 
 * [Azure Virtual Size Browser](http://vmsizebrowser.azurewebsites.net/) | [GitHub](https://github.com/MaximRouiller/VmSizeBrowser)
+* [Visual Studio Code Slugify Extension](https://marketplace.visualstudio.com/items?itemName=maximerouiller.slugify-vscode) | [GitHub](https://github.com/MaximRouiller/slugify-vscode)
