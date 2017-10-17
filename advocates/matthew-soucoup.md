@@ -31,12 +31,18 @@ Matthew Soucoup is a Senior Cloud Developer Advocate at Microsoft spreading the 
 * XAML
 
 ## My Projects
+
 * [Xamarin.Forms View-Model First Navigation](https://github.com/codemillmatt/codemill.vmfirstnav)
 * [Blog](https://codemilltech.com)
 
 ## Upcoming Talks
-* Animating Xamarin.Forms - __Mobile Era__ - Oslo, Norway - October, 6, 2017
+
 * Lessons Learned from Making Resilient Apps with Azure Mobile App Services - __CodeMash__ - Sandusky, OH - January 10, 2018
 
 ## Past Talks
-* [Found on GitHub here](https://github.com/codemillmatt/conference-talks)
+
+* [Making Apps More Human (Microsoft Cognitive Services)](https://github.com/codemillmatt/cognitive-tourist)
+* [Going Beyond the Basics with Xamarin.Forms](https://github.com/codemillmatt/conference-talks/tree/master/beyonds-basics)
+* [Building Three Beautiful Apps at Once - An Intro to Xamarin.Forms](https://github.com/codemillmatt/conference-talks/tree/master/three-apps)
+* [Animating Xamarin.Forms](https://github.com/codemillmatt/forms-animations)
+* [Pre-2017 archived on GitHub here](https://github.com/codemillmatt/conference-talks)
