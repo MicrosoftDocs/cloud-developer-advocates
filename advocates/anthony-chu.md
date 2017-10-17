@@ -3,7 +3,7 @@ title: Anthony Chu - Cloud Developer Advocate
 description: Home page for Anthony Chu, a Microsoft Cloud Developer Advocate
 services: N / A
 author: anthonychu
-manager: scottca
+manager: scottcate
 ms.topic: article
 ms.date: 2017-09-27
 ms.author: antchu

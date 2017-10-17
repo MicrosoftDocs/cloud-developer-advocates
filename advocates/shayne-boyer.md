@@ -3,7 +3,7 @@ title: Shayne Boyer - Cloud Developer Advocate
 description: Home page for Shayne Boyer, a Microsoft Cloud Developer Advocate
 services: N / A
 author: spboyer
-manager: Scott Cate
+manager: scottcate
 ms.topic: article
 ms.date: 2017-09-29
 ms.author: shboyer

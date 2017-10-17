@@ -10,7 +10,7 @@ twitterWidgets: true
         <h1> Cloud Developer Advocates</h1>
         <div><h3>We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let’s meet up and talk cloud and all things developer! </h3></div><br />
         <div style="text-align:center;width:100%;padding-bottom:24px;">
-            <img width="500" alt="Microsoft + Advocate logo" src="https://raw.githubusercontent.com/ashleymcnamara/Developer-Advocate-Bit/master/BitMicrosoft.png" />
+            <img width="500px" alt="Microsoft + Advocate logo" src="media/BitMicrosoft.png" />
         </div>
     </div>
 
@@ -54,6 +54,27 @@ twitterWidgets: true
                                 <h3>Abel Wang</h3>
                                 <p><a href="http://twitter.com/AbelSquidHead">@AbelSquidHead</a></p>
                                 <p>DevOps</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="./alena-hall" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/alena-hall.png" alt="Picture of Alena Hall" data-linktype="internal"
+                                         style="border-radius:50%; width:150px;height:150px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Alena Hall</h3>
+                                <p><a href="https://twitter.com/lenadroid">@lenadroid</a></p>
+                                <p>High Scale / Big Data</p>
                             </div>
                         </div>
                     </div>
@@ -766,7 +787,7 @@ twitterWidgets: true
                             <div class="cardText">
                                 <h3>Vadim Karpusenko</h3>
                                 <p><a href="http://twitter.com/vadi">@vadi</a></p>
-                                <p>AI / ML / Data Science</p>
+                                <p>HPC / AI / ML / DL</p>
                             </div>
                         </div>
                     </div>

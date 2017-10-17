@@ -2,11 +2,11 @@
 title: Donovan Brown - Cloud Developer Advocate
 description: Home page for Donovan Brown, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Donovan Brown
-manager: Jeff Sandquist
+author: darquewarrior
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Donovan Brown
+ms.author: dbrown
 ---
 
 ![Image of Donovan Brown](media/profiles/donovan-brown.png)
@@ -29,4 +29,4 @@ Meet The Man in the Black Shirt. Donovan Brown is a Principal DevOps Manager on 
 ## My Projects
 
 * [Yo Team](https://www.npmjs.com/package/generator-team)
-* [TFS/VSTS PowerShell Module](https://www.powershellgallery.com/packages/Team/)
+* [TFS/VSTS PowerShell Module](https://www.powershellgallery.com/packages/vsTeam/)

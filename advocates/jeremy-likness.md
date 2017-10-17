@@ -2,11 +2,11 @@
 title: Jeremy Likness - Cloud Developer Advocate
 description: Home page for Jeremy Likness, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Jeremy Likness
-manager: Scott Cate
+author: JeremyLikness
+manager: scottcate
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Jeremy Likness
+ms.author: jeliknes
 ---
 
 ![Image of Jeremy Likness](media/profiles/jeremy-likness.png)

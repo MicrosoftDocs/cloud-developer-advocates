@@ -2,11 +2,11 @@
 title: Damian Brady - Cloud Developer Advocate
 description: Home page for Damian Brady, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Damian Brady
-manager: Donovan Brown
+author: damovisa
+manager: DarqueWarrior
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Damian Brady
+ms.author: dabrady
 ---
 
 ![Image of Damian Brady](media/profiles/damian-brady.png)
@@ -15,19 +15,19 @@ ms.author: Damian Brady
 
 
 ## Connect
-[Twitter](https://twitter.com/damovisa) | [LinkedIn](https://linkedin.com/in/damianbrady) | [WebBlog](https://damovisa.me) | [Github](https://github.com/damovisa) | [StackOverflow](https://stackoverflow.com/users/77546/damovisa) | [Instagram](https://www.instagram.com/damovisa)
+[Twitter](https://twitter.com/damovisa) | [LinkedIn](https://linkedin.com/in/damianbrady) | [Blog](https://damovisa.me) | [Github](https://github.com/damovisa) | [StackOverflow](https://stackoverflow.com/users/77546/damovisa)
 
 ## Bio
 
-Damian is a Cloud Developer Advocate at Microsoft specializing in DevOps, recently moved from Australia to Toronto, Canada.
+Damian is an Australian CDA specializing in DevOps. He's currently based in Toronto, Canada, but will be moving back to Australia - the land of the dangerous creatures and beautiful beaches - in 2018.
 
-He's an ex-Microsoft MVP in Visual Studio and Developer Technologies, with a background in software development in a broad range of industries. When in Australia, he co-organizes the Brisbane .Net User Group, and the annual DeveloperDeveloperDeveloper Brisbane conference. He regularly speaks at conferences, User Groups, and other events around the world, and he's been an occasional guest on various podcasts such as .NET Rocks and Hanselminutes.
+Formerly a dev at [Octopus Deploy](https://octopus.com) and a Microsoft MVP, he has a background in software development and consulting in a broad range of industries. In Australia, he co-organised the Brisbane .Net User Group, and launched the now annual [DDD Brisbane](http://dddbrisbane.com) conference. He regularly speaks at conferences, User Groups, and other events around the world, and he's been an occasional guest on various podcasts like [.NET Rocks](https://dotnetrocks.com) and [Hanselminutes](https://hanselminutes.com).
 
 Most of the time you'll find him talking to developers and IT Pros to help them get the most out of their DevOps strategies. [https://twitter.com/damovisa](https://twitter.com/damovisa)
 
 ## Skills
 
 * DevOps
-
-
-
+* ASP.NET
+* Software architecture
+* Self-inflicted sports injuries

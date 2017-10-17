@@ -2,11 +2,11 @@
 title: Prashant Sridharan - Cloud Developer Advocate
 description: Home page for Prashant Sridharan, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Prashant Sridharan
-manager: Jeff Sandquist
+author: CoolAssPuppy
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Prashant Sridharan
+ms.author: prashant
 ---
 
 ![Image of Prashant Sridharan](media/profiles/prashant-sridharan.png)

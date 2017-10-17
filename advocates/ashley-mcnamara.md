@@ -2,11 +2,11 @@
 title: Ashley McNamara - Cloud Developer Advocate
 description: Home page for Ashley McNamara, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Ashley McNamara
-manager: Bryan Liston
+author: ashleymcnamara
+manager: listonb
 ms.topic: article
 ms.date: 2017-09-18
-ms.author: Ashley McNamara
+ms.author: ashmc
 ---
 
 ![Image of Ashley McNamara](media/profiles/ashley-mcnamara.png)

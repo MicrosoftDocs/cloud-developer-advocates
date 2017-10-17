@@ -2,11 +2,11 @@
 title: Tim Heuer - Cloud Developer Advocate
 description: Home page for Tim Heuer, a Microsoft Cloud Developer Advocate
 services: N / A
-author: Tim Heuer
-manager: Jeff Sandquist
+author: timheuer
+manager: jeffsand
 ms.topic: article
 ms.date: 2017-09-19
-ms.author: Tim Heuer
+ms.author: timheuer
 ---
 
 ![Image of Tim Heuer](media/profiles/tim-heuer.png)
