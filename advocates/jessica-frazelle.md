@@ -19,10 +19,16 @@ ms.author: jessfraz
 
 ## Bio
 
+Jessie Frazelle has served as a maintainer of Docker, contributor to Runc, Golang, Kubernetes, and the Linux kernel as well as other projects. She is known for her work on the Docker project, her work to make containers more secure, and for running everything in containers on her desktop. 
 
+She made the site [contained.af](https://contained.af) to show that containers can be secure if configured properly and to teach people about Linux internals.
+
+She has a stong fondness for syscalls and seccomp. She also loves LDFLAGS and LD_PRELOAD and finds compiling binaries in a million different ways and terribad hacks to be fun.
 
 ## Skills
 
+* Containers
+* Security
 * Linux
 * Open Source
 
