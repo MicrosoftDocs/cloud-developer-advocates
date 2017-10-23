@@ -9,7 +9,7 @@ ms.date: 2017-09-18
 ms.author: pabailey
 ---
 
-![Image of Paige Bailey](media/profiles/paige-bailey.png)
+![Image of Paige Bailey](https://avatars2.githubusercontent.com/u/3712347?s=460&v=4)
 
 # Paige Bailey
 
