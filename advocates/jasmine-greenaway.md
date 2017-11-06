@@ -26,7 +26,5 @@ I also teach front and back end web as an adjunct professor at a local community
 ## Skills
 
 * .NET
-* Xamarin
-
 
 
