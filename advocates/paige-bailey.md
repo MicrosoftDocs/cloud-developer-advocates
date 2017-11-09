@@ -29,12 +29,28 @@ When I'm not sitting in front of glowing rectangular screens at work, I absolute
 
 ## Upcoming Events
 
+* [Developer Week 2017](http://www.developerweek.com/Austin/) (_Austin, TX_)
+* [DevReach 2017](http://devreach.com/) (_Sofia, Bulgaria_)
+* [Microsoft Connect();](https://www.microsoft.com/en-us/connectevent/default.aspx) (_New York City, NY_)
+* [OpenCamps NYC](http://www.opencamps.org/2017) (_New York City, NY_)
+* [CodeMotion Madrid 2017](https://2017.codemotion.es/en/) (_Madrid, Spain_)
+* [PyData NYC 2017](https://pydata.org/nyc2017/) (_New York City, NY_)
+* [DISC Unconference 2017](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/) (_New York City, NY_)
+* ChickTech Workshop (_Austin, TX_)
+* [Tech Summit Toronto 2017](https://www.microsoft.com/en-ca/techsummit/toronto) (_Toronto, Canada_)
+* [Tech Summit Birmingham 2018](https://www.microsoft.com/en-gb/techsummit/birmingham) (_Birmingham, Al_)
+* [Data Day Texas 2018](http://datadaytexas.com/) (_Austin, TX_)
+* [Anaconda Con 2018](https://2018.anacondacon.io/) (_Austin, TX_)
+* [Tech Summit Frankfurt 2018](https://www.microsoft.com/de-de/techsummit/frankfurt) (_Frankfurt, Germany_)
+* [Tech Summit Switzerland 2018](https://www.microsoft.com/en-us/techsummit/default.aspx) (_Zurich, Switzerland_)
+
+## Past Events
+
+* [Quicken Loans TechCon 2017](http://qltechcon.com/) (_Detroit, MI_)
+* [Microsoft Ignite 2017](https://www.microsoft.com/en-us/ignite/default.aspx) (_Orlando, FL_)
+* [Florida PyCon 2017](http://flpy.org/) (_Orlando, FL)
+* [CodeCamp NYC 2017](http://codecampnyc.org/) (_New York City, NY_)
+* [Azure Red Shirt Dev Tour - Dallas 2017](https://azure.microsoft.com/en-us/community/events/azure-red-shirt-dev-tour-dallas/) (_Dallas, TX_)
 * [Jazoon Tech Days Autumn 2017](http://jazoon.com/) (_Zurich, Switzerland_)
 * [HackTX - The UT Austin Hackathon](https://hacktx.com/) (_Austin, TX_)
 * [PASS Summit 2017](http://www.pass.org/summit/2017/Home.aspx) (_Seattle, WA_)
-* [Developer Week 2017](http://www.developerweek.com/Austin/) (_Austin, TX_)
-* [DevReach 2017](http://devreach.com/) (_Sofia, Bulgaria_)
-* [OpenCamps NYC](http://www.opencamps.org/2017) (_New York City, NY_)
-* [CodeMotion 2017](https://2017.codemotion.es/en/) (_Madrid, Spain_)
-* [PyData NYC 2017](https://pydata.org/nyc2017/) (_New York City, NY_)
-* ChickTech Workshop (_Austin, TX_)
