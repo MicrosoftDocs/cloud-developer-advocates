@@ -10,5 +10,5 @@ items:
   - name: Shayne Boyer
     uid: advocates.shayne-boyer
   - name: Paige Bailey
-    href: advocates.paige-bailey
+    uid: advocates.paige-bailey
 # Add more to the list. Be careful to preserve spaces and hyphen format.

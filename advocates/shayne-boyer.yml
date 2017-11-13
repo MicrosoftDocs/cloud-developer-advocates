@@ -21,7 +21,7 @@ remarks: |
 tagline: Do you even tagline, bro?
 image:
   alt: "Alternative text for the image"
-  src: https://developer.microsoft.com/en-us/advocates/media/profiles/shayne-boyer.png
+  src: media/profiles/shayne-boyer.png
 twitter: https://twitter.com/spboyer
 github: http://github.com
 blog: https://tattoocoder.com/
