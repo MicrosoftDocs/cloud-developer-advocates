@@ -1,0 +1,87 @@
+### YamlMime:ProfileList
+title: Cloud Developer Advocates
+description: |
+  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let’s meet up and talk cloud and all things developer!
+  > [!div class="banner-container"]
+  ![Microsoft + Advocate logo](https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png)
+metadata:
+  title: Microsoft Cloud Developer Advocates
+  description: Trusted advisors to developer and IT professionals.
+  twitterWidgets: true
+profiles:
+- uid: advocates.aaron-wislang
+  name: Aaron Wislang
+  tagline: Linux
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/aaron-wislang.png
+    alt: Aaron Wislang Profile Image
+  location: Redmond, WA, United States
+  twitter: as_w
+- uid: advocates.abel-wang
+  name: Abel Wang
+  tagline: DevOps
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/abel-wang.png
+    alt: Abel Wang Profile Image
+  location: Redmond, WA, United States
+  twitter: AbelSquidHead
+- uid: advocates.alena-hall
+  name: Alena Hall
+  tagline: High Scale / Big Data
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/alena-hall.png
+    alt: Alena Hall Profile Image
+  location: Redmond, WA, United States
+  twitter: lenadroid
+- uid: advocates.anthony-chu
+  name: Anthony Chu
+  tagline: .NET
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/anthony-chu.png
+    alt: Anthony Chu - Cloud Developer Advocate
+  location: Redmond, WA, USA
+  twitter: nthonyChu
+- uid: advocates.ashley-mcnamara
+  name: Ashley McNamara
+  tagline: Linux
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/ashley-mcnamara.png
+    alt: Ashley McNamara - Cloud Developer Advocate
+  location: Redmond, WA, USA
+  twitter: ashleymcnamara
+- uid: advocates.asim-hussain
+  name: Asim Hussain
+  tagline: JavaScript / Nodejs / Python
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/asim-hussain.png
+    alt: Asim Hussain - Cloud Developer Advocate
+  location: Redmond, WA, USA
+  twitter: jawache
+- uid: advocates.bernd-verst
+  name: Bernd Verst
+  tagline: Linux / Containers / Python
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/bernd-verst.png
+    alt: Bernd Verst - Cloud Developer Advocate
+  location: Redmond, WA, USA
+  twitter: BerndVerst
+- uid: advocates.shayne-boyer
+  name: Shayne Boyer
+  tagline: Javascript, C#
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/shayne-boyer.png
+    alt: Shayne Boyer Profile Picture
+  location: Seattle, WA, United States
+  twitter: shayneboyer
+- uid: advocates.tim-heuer
+  name: Tim Heuer
+  tagline: Xamarin, .NET
+  image:
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/tim-heuer.png
+    alt: Tim Heuer Glamour Shot
+  location: Redmond, WA, United States
+  twitter: timheuer
+profileTitle: Advocates
+twitterTimeline:
+  title: CDATwitterCollection
+  href: https://twitter.com/msdev/timelines/912416037856985089

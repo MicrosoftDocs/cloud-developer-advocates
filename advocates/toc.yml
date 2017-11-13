@@ -1,0 +1,14 @@
+metadata:
+  sample_key: sample_value
+  daysTillAutumn: 4
+  isTodaySpringQuinox: false
+items:
+- name: Cloud Developer Advocates
+  href: index.yml
+  expanded: true
+  items:
+  - name: Shayne Boyer
+    uid: advocates.shayne-boyer
+  - name: Paige Bailey
+    href: advocates.paige-bailey
+# Add more to the list. Be careful to preserve spaces and hyphen format.
