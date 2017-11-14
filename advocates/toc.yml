@@ -1,7 +1,5 @@
 metadata:
-  sample_key: sample_value
-  daysTillAutumn: 4
-  isTodaySpringQuinox: false
+  name: advocates_toc
 items:
 - name: Cloud Developer Advocates
   href: index.yml
