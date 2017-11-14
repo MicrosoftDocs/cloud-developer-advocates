@@ -16,14 +16,21 @@
                 "ProfileList": "Content"
             },
             "build_entry_point": "docs",
-            "template_folder": "../Template.Docs/drop/_themes"
+            "template_folder": "_themes"
         }
     ],
     "notification_subscribers": [],
     "branches_to_filter": [],
     "skip_source_output_uploading": false,
     "need_preview_pull_request": true,
-    "dependent_repositories": [],
+    "dependent_repositories": [
+        {
+            "path_to_root": "_themes",
+            "url": "https://github.com/Microsoft/templates.docs.msft",
+            "branch": "master",
+            "branch_mapping": {}
+        }
+    ],
     "branch_target_mapping": {},
     "need_generate_pdf_url_template": false
 }
