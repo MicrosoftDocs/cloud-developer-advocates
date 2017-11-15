@@ -5,8 +5,10 @@ items:
   href: index.yml
   expanded: true
   items:
+  - name: Aaron Wislang
+    uid: advocates.aaron-wislang
+  - name: Paige Bailey
+    uid: advocates.paige-bailey  
   - name: Shayne Boyer
     uid: advocates.shayne-boyer
-  - name: Paige Bailey
-    uid: advocates.paige-bailey
 # Add more to the list. Be careful to preserve spaces and hyphen format.
