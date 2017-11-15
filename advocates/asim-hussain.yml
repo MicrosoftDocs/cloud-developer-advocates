@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: advocates.asim-hussain
+name: Asim Hussain
+metadata:
+  title: Asim Hussain - Cloud Advocate
+  description: Home page for Asim Hussain, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio 
+  I wrote my first program at 11 on a Sharp MZ-700, my first job after University was working at the European Space Agency in their Mission Control Centre. Since then I’ve done stretches at Morgan Stanley, JP Morgan as well as a bit of contracting at Google.
+  I have experience with a wide variety of technologies, but I primarily focus these days on Python & JavaScript. I have a deep background in consulting and in the past few years have spent a lot of time engaging with the various JavaScript communities through writing, creating online courses while also speaking all over Europe, the USA, and the Middle East.
+
+  ## Skills
+  * JavaScript
+  * Node.js
+  * Python
+
+image:
+  alt: "Alternative text for the image"
+  src: media/profiles/asim-hussain.png 
+twitter: https://twitter.com/jawache
+github: https://github.com/jawache
+blog: http://codecraft.tv
+instagram: https://www.instagram.com/jawache
+stackoverflow: https://stackoverflow.com/users/134085/jawache
+linkedin: https://linkedin.com/in/jawache

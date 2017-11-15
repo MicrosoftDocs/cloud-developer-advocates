@@ -1,0 +1,27 @@
+### YamlMime:Profile
+uid: advocates.bryan-liston
+name: Bryan Liston
+metadata:
+  title: Bryan Liston - Cloud Advocate
+  description: Home page for Bryan Liston, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio 
+  I've had my head in the clouds for over 5 years. Most of that time has been spent in operations, automation, software development and advocacy. I love helping improve products to make developers lives easier. Prior to Microsoft I worked at AWS as an Operations Manager, Engineer, Solutions Architect, and Developer Advocate. I've been doing Linux/DevOps-related work for the past 15 years in some form or another, developing software and architecting systems/infrastructure. I have a passion for supporting open source software and communities.
+  
+  ## Skills
+  * Linux
+  * Containers
+  * Python
+  * Node.js
+
+  ## Other Stuff
+  * [Channel9 Contributions](https://channel9.msdn.com/Niners/listonb)
+
+image:
+  alt: "Alternative text for the image"
+  src: media/profiles/bryan-liston.png
+twitter: https://twitter.com/listonb
+github: https://github.com/listonb
+facebook: https://facebook.com/listonb
+instagram: https://www.instagram.com/listonb
+linkedin: https://linkedin.com/in/listonb
