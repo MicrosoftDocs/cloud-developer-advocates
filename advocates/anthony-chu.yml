@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: advocates.anthony-chu
+name: Anthony Chu
+metadata:
+  title: Anthony Chu - Cloud Advocate
+  description: Home page for Anthony Chu, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  Before joining Microsoft as a Cloud Developer Advocate, I was a software architect at an e-commerce platform in Vancouver, BC. I'm a long-time ASP.NET developer and I'm currently focusing on .NET in Azure, but I'm also passionate about other technologies, such as: Node.js, containers, and Kubernetes. 
+
+  You can find me on Twitter at [@nthonyChu](https://twitter.com/nthonychu).
+  
+  ## Skills
+  * ASP.NET
+  * Node.js
+  * Kubernetes
+
+  ## My projects
+  * [NotBacon](https://docs.microsoft.com/sandbox/demos/notbacon)
+
+  ## Upcoming events
+  * [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive) - Vancouver, BC - October 4 - 6, 2017
+  * [APIStrat](http://events.linuxfoundation.org/events/apistrat) - Portland, OR - October 31 - November 2, 2017
+
+image:
+  alt: "Alternative text for the image"
+  src: media/profiles/anthony-chu.png
+twitter: https://twitter.com/nthonyChu
+github: https://github.com/anthonychu
+blog: https://anthonychu.ca/
+stackoverflow: https://stackoverflow.com/users/3199781/anthony-chu
+linkedin: https://linkedin.com/in/chuanthony
