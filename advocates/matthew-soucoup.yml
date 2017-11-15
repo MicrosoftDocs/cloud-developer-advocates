@@ -1,0 +1,39 @@
+### YamlMime:Profile
+uid: advocates.matthew-soucoup
+name: Matthew Soucoup
+metadata:
+  title: Matthew Soucoup - Cloud Advocate
+  description: Home page for Matthew Soucoup, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  Matthew Soucoup is a Senior Cloud Developer Advocate at Microsoft spreading the love of integrating Azure with Xamarin. Matt is also a Pluralsight author, a Telerik Developer Expert and prior to joining Microsoft a founder of a successful consulting firm targeting .NET and web development. Matt loves sharing his passion and insight for mobile and cloud development by blogging, writing articles, and presenting at conferences such as Xamarin Evolve, CodeMash, VS Live, and Mobile Era. When not behind a computer screen, Matt gardens hot peppers, rides bikes, and loves Wisconsin micro-brews and cheese. Follow Matt on Twitter at @codemillmatt and his personal blog at codemilltech.com.
+
+  ## Skills
+  * Xamarin
+  * .NET
+  * iOS APIs
+  * Android APIs
+  * XAML
+
+  ## My Projects
+  * [Xamarin.Forms View-Model First Navigation](https://github.com/codemillmatt/codemill.vmfirstnav)
+  * [Blog](https://codemilltech.com)
+
+  ## Upcoming Talks
+  * Lessons Learned from Making Resilient Apps with Azure Mobile App Services - __CodeMash__ - Sandusky, OH - January 10, 2018
+
+  ## Past Talks
+  * [Making Apps More Human (Microsoft Cognitive Services)](https://github.com/codemillmatt/cognitive-tourist)
+  * [Going Beyond the Basics with Xamarin.Forms](https://github.com/codemillmatt/conference-talks/tree/master/beyonds-basics)
+  * [Building Three Beautiful Apps at Once - An Intro to Xamarin.Forms](https://github.com/codemillmatt/conference-talks/tree/master/three-apps)
+  * [Animating Xamarin.Forms](https://github.com/codemillmatt/forms-animations)
+  * [Pre-2017 archived on GitHub here](https://github.com/codemillmatt/conference-talks)
+
+image:
+  alt: "Alternative text for the image"
+  src: media/profiles/matthew-soucoup.png
+twitter: https://twitter.com/codemillmatt
+github: https://github.com/codemillmatt
+blog: https://codemilltech.com
+stackoverflow: https://stackoverflow.com/users/6621061/matt-soucoup
+linkedin: https://linkedin.com/in/msoucoup

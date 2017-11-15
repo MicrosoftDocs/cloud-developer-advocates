@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: advocates.seth-juarez
+name: Seth Juarez
+metadata:
+  title: Seth Juarez - Cloud Advocate
+  description: Home page for Seth Juarez, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  I am a Cloud Developer Advocate and also the main host of Channel 9.
+
+  I received my Bachelor's Degree in Computer Science at UNLV with a Minor in Mathematics and completed my Master's Degree at the University of Utah in the field of Computer Science. I currently am interested in Artificial Intelligence specifically in the realm of Machine Learning. These days am working on a .NET library meant to simplify the usage of the common machine learning algorithms. 
+
+  ## Skills
+  * Emerging
+  * ML, AI
+ 
+image:
+  alt: "Alternative text for the image"
+  src: media/profiles/seth-juarez.png 
+twitter: https://twitter.com/sethjuarez
+github: https://github.com/sethjuarez
+blog: https://sethjuarez.com
+instagram: https://www.instagram.com/sethfrijoles
+stackoverflow: https://stackoverflow.com/users/241111/seth-juarez
+linkedin: https://linkedin.com/in/sethjuarez
