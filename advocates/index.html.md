@@ -481,27 +481,6 @@ twitterWidgets: true
             </a>
         </li>
         <li>
-            <a href="./kris-nova" data-linktype="internal">
-                <div class="cardSize">
-                    <div class="cardPadding">
-                        <div class="card">
-                            <div class="cardImageOuter">
-                                <div class="cardImage">
-                                    <img src="media/profiles/kris-nova.png" alt="Picture of Kris Nova" data-linktype="internal"
-                                         style="border-radius:50%; width:150px;height:150px;">
-                                </div>
-                            </div>
-                            <div class="cardText">
-                                <h3>Kris Nova</h3>
-                                <p><a href="http://twitter.com/Kris__Nova">@Kris__Nova</a></p>
-                                <p>Linux</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </a>
-        </li>
-        <li>
             <a href="./laurent-bugnion" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">

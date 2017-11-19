@@ -34,4 +34,3 @@ In my spare time, I've become addicted to cycling and can usually be found tryin
 * [Callisto](https://github.com/timheuer/callisto) - A UI toolkit for Universal Windows Platform applications.
 * [TagLib# (portable)](https://github.com/timheuer/taglib-sharp-portable) - Making the TagLib# library available for anyone (man, I need to move this to .NET Standard!)
 * [Talks on Channel 9](https://channel9.msdn.com/Events/Speakers/Tim-Heuer) - A collection of some presentations on [Channel 9](http://channel9.msdn.com)
-* [Build 2017 UI Recap](http://timheuer.com/blog/archive/2017/05/15/build-2017-recap-windows-ui-xaml.aspx)
