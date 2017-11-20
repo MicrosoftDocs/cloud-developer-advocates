@@ -36,8 +36,9 @@ I have self-published or dabbled in building modern and retro gamedev projects o
 ## My Projects
 
 * [GameDev News](https://brianpeek.com/gamedev-news/)
-* [GitHubBot](https://docs.microsoft.com/en-us/sandbox/demos/githubbot)
-* [NotHotDog](https://docs.microsoft.com/en-us/sandbox/demos/nothotdog)
+* [Azure for Game Developers](https://docs.microsoft.com/sandbox/gamedev)
+* [GitHubBot](https://docs.microsoft.com/sandbox/demos/githubbot)
+* [NotHotDog](https://docs.microsoft.com/sandbox/demos/nothotdog)
 * [ZMachineLib](https://github.com/BrianPeek/ZMachineLib)
 * [WiimoteLib](https://github.com/BrianPeek/ZMachineLib)
 * [LEGO EV3 API](https://github.com/BrianPeek/legoev3)
