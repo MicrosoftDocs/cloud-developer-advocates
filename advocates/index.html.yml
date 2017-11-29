@@ -11,77 +11,305 @@ metadata:
 profiles:
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
-  tagline: Linux
+  tagline: 
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/aaron-wislang.png
-    alt: Aaron Wislang Profile Image
-  location: Redmond, WA, United States
+    src: media/profiles/aaron-wislang.png
+    alt: "Alternative text for the image"
+  location: 
   twitter: as_w
 - uid: advocates.abel-wang
   name: Abel Wang
-  tagline: DevOps
+  tagline: 
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/abel-wang.png
-    alt: Abel Wang Profile Image
-  location: Redmond, WA, United States
+    src: media/profiles/abel-wang.png
+    alt: "Alternative text for the image"
+  location: 
   twitter: AbelSquidHead
 - uid: advocates.alena-hall
   name: Alena Hall
-  tagline: High Scale / Big Data
+  tagline: 
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/alena-hall.png
-    alt: Alena Hall Profile Image
-  location: Redmond, WA, United States
+    src: media/profiles/alena-hall.png
+    alt: "Alternative text for the image" 
+  location: 
   twitter: lenadroid
 - uid: advocates.anthony-chu
   name: Anthony Chu
-  tagline: .NET
+  tagline: 
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/anthony-chu.png
-    alt: Anthony Chu - Cloud Developer Advocate
-  location: Redmond, WA, USA
+    src: media/profiles/anthony-chu.png
+    alt: "Alternative text for the image"
+  location: 
   twitter: nthonyChu
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
-  tagline: Linux
+  tagline: 
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/ashley-mcnamara.png
-    alt: Ashley McNamara - Cloud Developer Advocate
-  location: Redmond, WA, USA
+    src: media/profiles/ashley-mcnamara.png
+    alt: "Alternative text for the image"
+  location: 
   twitter: ashleymcnamara
 - uid: advocates.asim-hussain
   name: Asim Hussain
-  tagline: JavaScript / Nodejs / Python
+  tagline: 
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/asim-hussain.png
-    alt: Asim Hussain - Cloud Developer Advocate
-  location: Redmond, WA, USA
+    src: media/profiles/asim-hussain.png 
+    alt: "Alternative text for the image"
+  location: 
   twitter: jawache
 - uid: advocates.bernd-verst
   name: Bernd Verst
-  tagline: Linux / Containers / Python
+  tagline: 
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/bernd-verst.png
-    alt: Bernd Verst - Cloud Developer Advocate
-  location: Redmond, WA, USA
+    src: media/profiles/bernd-verst.png 
+    alt: "Alternative text for the image"
+  location: 
   twitter: BerndVerst
+- uid: advocates.brian-benz
+  name: Brian Benz
+  tagline: 
+  image:
+    src: media/profiles/brian-benz.png 
+    alt: "Alternative text for the image"
+  location: 
+  twitter: bbenz
+- uid: advocates.brian-clark
+  name: Brian Clark
+  tagline: 
+  image:
+    src: media/profiles/brian-clark.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: _clarkio
+- uid: advocates.brian-ketelsen
+  name: Brian Ketelsen
+  tagline: 
+  image:
+    src: media/profiles/brian-ketelsen.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: bketelsen
+- uid: advocates.brian-peek
+  name: Brian Peek
+  tagline: 
+  image:
+    src: media/profiles/brian-peek.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: BrianPeek
+- uid: advocates.bridget-kromhout
+  name: Bridget Kromhout
+  tagline: 
+  image:
+    src: media/profiles/bridget-kromhout.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: bridgetkromhout
+- uid: advocates.bryan-liston
+  name: Bryan Liston
+  tagline: 
+  image:
+    src: media/profiles/bryan-liston.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: listonb
+- uid: advocates.burke-holland
+  name: Burke Holland
+  tagline: 
+  image:
+    src: media/profiles/burke-holland.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: burkeholland
+- uid: advocates.cecil-phillip
+  name: Cecil Phillip
+  tagline: 
+  image:
+    src: media/profiles/cecil-phillip.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: cecilphillip
+- uid: advocates.damian-brady
+  name: Damian Brady
+  tagline: 
+  image:
+    src: media/profiles/damian-brady.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: damovisa
+- uid: advocates.donovan-brown
+  name: Donovan Brown
+  tagline: 
+  image:
+    src: media/profiles/donovan-brown.png 
+    alt: "Alternative text for the image"
+  location: 
+  twitter: DonovanBrown
+- uid: advocates.erik-st-martin
+  name: Erik St. Martin
+  tagline: 
+  image:
+    src: media/profiles/erik-st-martin.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: erikstmartin
+- uid: advocates.jasmine-greenaway
+  name: Jasmine Greenaway
+  tagline: 
+  image:
+    src: media/profiles/jasmine-greenaway.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: paladique
+- uid: advocates.jeremy-likness
+  name: Jeremy Likness
+  tagline: 
+  image:
+    src: media/profiles/jeremy-likness.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: JeremyLikness
+- uid: advocates.jessica-frazelle
+  name: Jessica Frazelle
+  tagline: 
+  image:
+    src: media/profiles/jessica-frazelle.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: jessfraz
+- uid: advocates.john-papa
+  name: John Papa
+  tagline: 
+  image:
+    src: media/profiles/john-papa.png 
+    alt: "Alternative text for the image"
+  location: 
+  twitter: john_papa
+- uid: advocates.kris-nova
+  name: Kris Nova
+  tagline: 
+  image:
+    src: media/profiles/kris-nova.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: Kris__Nova
+- uid: advocates.laurent-bugnion
+  name: Laurent Bugnion
+  tagline: 
+  image:
+    src: media/profiles/laurent-bugnion.png 
+    alt: "Alternative text for the image"
+  location: 
+  twitter: LBugnion
+- uid: advocates.matthew-soucoup
+  name: Matthew Soucoup
+  tagline: 
+  image:
+    src: media/profiles/matthew-soucoup.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: codemillmatt
+- uid: advocates.maxime-rouiller
+  name: Maxime Rouiller
+  tagline: 
+  image:
+    src: media/profiles/maxime-rouiller.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: maximrouiller
+- uid: advocates.paige-bailey
+  name: Paige Bailey
+  tagline: 
+  image:
+    src: https://avatars2.githubusercontent.com/u/3712347?s=460&v=4
+    alt: "Alternative text for the image"
+  location: 
+  twitter: DynamicWebPaige
+- uid: advocates.prashant-sridharan
+  name: Prashant Sridharan
+  tagline: 
+  image:
+    src: media/profiles/prashant-sridharan.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: CoolAssPuppy
+- uid: advocates.ruth-yakubu
+  name: Ruth Yakubu
+  tagline: 
+  image:
+    src: media/profiles/ruth-yakubu.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: ruthieyakubu
+- uid: advocates.sarah-drasner
+  name: Sarah Drasner
+  tagline: 
+  image:
+    src: media/profiles/sarah-drasner.jpg
+    alt: "Alternative text for the image"
+  location: 
+  twitter: sarah_edo
+- uid: advocates.scott-cate
+  name: Scott Cate
+  tagline: 
+  image:
+    src: media/profiles/scott-cate.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: ScottCate
+- uid: advocates.seth-juarez
+  name: Seth Juarez
+  tagline: 
+  image:
+    src: media/profiles/seth-juarez.png 
+    alt: "Alternative text for the image"
+  location: 
+  twitter: sethjuarez
 - uid: advocates.shayne-boyer
   name: Shayne Boyer
-  tagline: Javascript, C#
+  tagline: Do you even tagline, bro?
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/shayne-boyer.png
-    alt: Shayne Boyer Profile Picture
-  location: Seattle, WA, United States
-  twitter: shayneboyer
+    src: media/profiles/shayne-boyer.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: spboyer
+- uid: advocates.simona-cotin
+  name: Simona Cotin
+  tagline: 
+  image:
+    src: media/profiles/simona-cotin.png 
+    alt: "Alternative text for the image"
+  location: 
+  twitter: simona_cotin
+- uid: advocates.steven-murawski
+  name: Steven Murawski
+  tagline: 
+  image:
+    src: media/profiles/steven-murawski.png 
+    alt: "Alternative text for the image"
+  location: 
+  twitter: stevenmurawski
 - uid: advocates.tim-heuer
   name: Tim Heuer
-  tagline: Xamarin, .NET
+  tagline: 
   image:
-    src: https://developer.microsoft.com/en-us/advocates/media/profiles/tim-heuer.png
-    alt: Tim Heuer Glamour Shot
-  location: Redmond, WA, United States
+    src: media/profiles/tim-heuer.png
+    alt: "Alternative text for the image"
+  location: 
   twitter: timheuer
-profileTitle: Advocates
-twitterTimeline:
-  title: CDATwitterCollection
-  href: https://twitter.com/msdev/timelines/912416037856985089
+- uid: advocates.vadim-karpusenko
+  name: Vadim Karpusenko
+  tagline: 
+  image:
+    src: media/profiles/vadim-karpusenko.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: vadi
+- uid: advocates.zachary-deptawa
+  name: Zachary Deptawa
+  tagline: 
+  image:
+    src: media/profiles/zachary-deptawa.png
+    alt: "Alternative text for the image"
+  location: 
+  twitter: zdeptawa
