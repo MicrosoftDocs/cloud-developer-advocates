@@ -11,7 +11,7 @@ metadata:
 profiles:
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
-  tagline: 
+  tagline: Python
   image:
     src: media/profiles/aaron-wislang.png
     alt: "Alternative text for the image"
