@@ -30,7 +30,7 @@ function Get-DocumentMetadata {
 
     if ($file.Extension -eq '.yml') {
         
-        if($file.Name -eq 'index.html.yml')
+        if($file.Name -eq 'index.yml')
         {
 			$script:indexTitle = Get-IndexTitle -file $file
         }
@@ -287,7 +287,11 @@ items:
 ### YamlMime:ProfileList
 title: Cloud Developer Advocates
 description: |
+<<<<<<< HEAD
   We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let’s meet up and talk cloud and all things developer!
+=======
+  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let�s meet up and talk cloud and all things developer!
+>>>>>>> toc script modification.
   > [!div class="banner-container"]
   ![Microsoft + Advocate logo](https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png)
 metadata:
