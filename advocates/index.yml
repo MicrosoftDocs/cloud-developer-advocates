@@ -2,12 +2,14 @@
 title: Cloud Developer Advocates
 description: |
   We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let’s meet up and talk cloud and all things developer!
-  > [!div class="banner-container"]
-  ![Microsoft + Advocate logo](https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png)
+focalImage:
+  src: https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png
+  alt: "Alternative text for the image"
 metadata:
   title: Microsoft Cloud Developer Advocates
   description: Trusted advisors to developer and IT professionals.
   twitterWidgets: true
+  hide_bc: true
 profiles:
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
