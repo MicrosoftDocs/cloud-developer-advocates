@@ -13,8 +13,9 @@ remarks: |
   ## Skills
   * Linux
   
+tagline: Linux
 image:
-  alt: "Alternative text for the image"
+  alt: "Ashley McNamara Cloud Developer Advocate"
   src: media/profiles/ashley-mcnamara.png
 twitter: https://twitter.com/ashleymcnamara
 github: https://github.com/ashleymcnamara
@@ -22,3 +23,4 @@ blog: http://medium.com/@ashleymcnamara
 facebook: https://facebook.com/ashley.mcnamara1
 instagram: https://www.instagram.com/ashleymcnamara
 linkedin: https://linkedin.com/in/ashleymcnamara1
+location: Austin US
