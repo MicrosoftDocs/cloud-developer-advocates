@@ -6,16 +6,18 @@ metadata:
   description: Home page for Sarah Drasner, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
-  Sarah is an award-winning Speaker, Senior Developer Advocate for Microsoft, and Staff Writer at CSS-Tricks. Sarah is also the co-founder of Web Animation Workshops, with Val Head. She’s the author of SVG Animations from O’Reilly and has given a Frontend Masters workshop on Vue.js and Advanced SVG Animations. Sarah is formerly Manager of UX Design & Engineering at Trulia (Zillow).
+  Sarah is an award-winning Speaker, Senior Developer Advocate for Microsoft, and Staff Writer at CSS-Tricks. Sarah is also the co-founder of Web Animation Workshops, with Val Head. Sheâ€™s the author of SVG Animations from Oâ€™Reilly and has given a Frontend Masters workshop on Vue.js and Advanced SVG Animations. Sarah is formerly Manager of UX Design & Engineering at Trulia (Zillow).
 
   ## Skills
   * JavaScript
   * Node.js
   * Python
 
+tagline: JavaScript / Node.js / Python
 image:
-  alt: "Alternative text for the image"
+  alt: "Sarah Drasner Cloud Developer Advocate"
   src: media/profiles/sarah-drasner.jpg
 twitter: https://twitter.com/sarah_edo
 blog: https://css-tricks.com/author/sdrasner/
 linkedin: https://linkedin.com/in/sarahdrasner
+location: Brighton USA
