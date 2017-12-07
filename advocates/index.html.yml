@@ -13,265 +13,75 @@ profiles:
   name: Aaron Wislang
   tagline: Linux
   image:
-    src: media/profiles/aaron-wislang.png
-    alt: "Aaron Wislang Cloud Developer Advocate"
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/aaron-wislang.png
+    alt: Aaron Wislang Profile Image
+  location: Redmond, WA, United States
   twitter: as_w
 - uid: advocates.abel-wang
   name: Abel Wang
   tagline: DevOps
   image:
-    src: media/profiles/abel-wang.png
-    alt: "Abel Wang Cloud Developer Advocate"
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/abel-wang.png
+    alt: Abel Wang Profile Image
+  location: Redmond, WA, United States
   twitter: AbelSquidHead
 - uid: advocates.alena-hall
   name: Alena Hall
   tagline: High Scale / Big Data
   image:
-    src: media/profiles/alena-hall.png
-    alt: "Alena Hall Cloud Developer Advocate" 
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/alena-hall.png
+    alt: Alena Hall Profile Image
+  location: Redmond, WA, United States
   twitter: lenadroid
 - uid: advocates.anthony-chu
   name: Anthony Chu
   tagline: .NET
   image:
-    src: media/profiles/anthony-chu.png
-    alt: "Anthony Chu Cloud Developer Advocatee"
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/anthony-chu.png
+    alt: Anthony Chu - Cloud Developer Advocate
+  location: Redmond, WA, USA
   twitter: nthonyChu
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
   tagline: Linux
   image:
-    src: media/profiles/ashley-mcnamara.png
-    alt: "Ashley McNamara Cloud Developer Advocate"
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/ashley-mcnamara.png
+    alt: Ashley McNamara - Cloud Developer Advocate
+  location: Redmond, WA, USA
   twitter: ashleymcnamara
 - uid: advocates.asim-hussain
   name: Asim Hussain
-  tagline: JavaScript / Node.js / Python
+  tagline: JavaScript / Nodejs / Python
   image:
-    src: media/profiles/asim-hussain.png 
-    alt: "Asim Hussain Cloud Developer Advocate"
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/asim-hussain.png
+    alt: Asim Hussain - Cloud Developer Advocate
+  location: Redmond, WA, USA
   twitter: jawache
 - uid: advocates.bernd-verst
   name: Bernd Verst
   tagline: Linux / Containers / Python
   image:
-    src: media/profiles/bernd-verst.png 
-    alt: "Bernd Verst Cloud Developer Advocate"
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/bernd-verst.png
+    alt: Bernd Verst - Cloud Developer Advocate
+  location: Redmond, WA, USA
   twitter: BerndVerst
-- uid: advocates.brian-benz
-  name: Brian Benz
-  tagline: Java
-  image:
-    src: media/profiles/brian-benz.png 
-    alt: "Brian Benz Cloud Developer Advocate"
-  twitter: bbenz
-- uid: advocates.brian-clark
-  name: Brian Clark
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/brian-clark.png
-    alt: "Brian Clark Cloud Developer Advocate"
-  twitter: _clarkio
-- uid: advocates.brian-ketelsen
-  name: Brian Ketelsen
-  tagline: Linux
-  image:
-    src: media/profiles/brian-ketelsen.png
-    alt: "Brian Ketelsen Cloud Developer Advocate"
-  twitter: bketelsen
-- uid: advocates.brian-peek
-  name: Brian Peek
-  tagline: Emerging / Gaming
-  image:
-    src: media/profiles/brian-peek.png
-    alt: "Brian Peek Cloud Developer Advocate"
-  twitter: BrianPeek
-- uid: advocates.bridget-kromhout
-  name: Bridget Kromhout
-  tagline: devops
-  image:
-    src: media/profiles/bridget-kromhout.png
-    alt: "Bridget Kromhout Cloud Developer Advocate"
-  twitter: bridgetkromhout
-- uid: advocates.bryan-liston
-  name: Bryan Liston
-  tagline: Linux
-  image:
-    src: media/profiles/bryan-liston.png
-    alt: "Bryan Liston Cloud Developer Advocate"
-  twitter: listonb
-- uid: advocates.burke-holland
-  name: Burke Holland
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/burke-holland.png
-    alt: "Burke Holland Cloud Developer Advocate"
-  twitter: burkeholland
-- uid: advocates.cecil-phillip
-  name: Cecil Phillip
-  tagline: .NET / Xamarin
-  image:
-    src: media/profiles/cecil-phillip.png
-    alt: "Cecil Phillip Cloud Developer Advocate"
-  twitter: cecilphillip
-- uid: advocates.damian-brady
-  name: Damian Brady
-  tagline: DevOps
-  image:
-    src: media/profiles/damian-brady.png
-    alt: "Damian Brady Cloud Developer Advocate"
-  twitter: damovisa
-- uid: advocates.donovan-brown
-  name: Donovan Brown
-  tagline: DevOps
-  image:
-    src: media/profiles/donovan-brown.png 
-    alt: "Donovan Brown Cloud Developer Advocate"
-  twitter: DonovanBrown
-- uid: advocates.erik-st-martin
-  name: Erik St. Martin
-  tagline: Linux
-  image:
-    src: media/profiles/erik-st-martin.png
-    alt: "Erik St. Martin Cloud Developer Advocate"
-  twitter: erikstmartin
-- uid: advocates.jasmine-greenaway
-  name: Jasmine Greenaway
-  tagline: .NET / Xamarin
-  image:
-    src: media/profiles/jasmine-greenaway.png
-    alt: "Jasmine Greenaway Cloud Developer Advocate"
-  twitter: paladique
-- uid: advocates.jeremy-likness
-  name: Jeremy Likness
-  tagline: .NET
-  image:
-    src: media/profiles/jeremy-likness.png
-    alt: "Jeremy Likness Cloud Developer Advocate"
-  twitter: JeremyLikness
-- uid: advocates.jessica-frazelle
-  name: Jessica Frazelle
-  tagline: Linux / Open Source
-  image:
-    src: media/profiles/jessica-frazelle.png
-    alt: "Jessica Frazelle Cloud Developer Advocate"
-  twitter: jessfraz
-- uid: advocates.john-papa
-  name: John Papa
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/john-papa.png 
-    alt: "John Papa Cloud Developer Advocate"
-  twitter: john_papa
-- uid: advocates.kris-nova
-  name: Kris Nova
-  tagline: Linux
-  image:
-    src: media/profiles/kris-nova.png
-    alt: "Kris Nova Cloud Developer Advocate"
-  twitter: Kris__Nova
-- uid: advocates.laurent-bugnion
-  name: Laurent Bugnion
-  tagline: .NET / Xamarin
-  image:
-    src: media/profiles/laurent-bugnion.png 
-    alt: "Laurent Bugnion Cloud Developer Advocate"
-  twitter: LBugnion
-- uid: advocates.matthew-soucoup
-  name: Matthew Soucoup
-  tagline: .NET / Xamarin
-  image:
-    src: media/profiles/matthew-soucoup.png
-    alt: "Matthew Soucoup Cloud Developer Advocate"
-  twitter: codemillmatt
-- uid: advocates.maxime-rouiller
-  name: Maxime Rouiller
-  tagline: .NET
-  image:
-    src: media/profiles/maxime-rouiller.png
-    alt: "Maxime Rouiller Cloud Developer Advocate"
-  twitter: maximrouiller
-- uid: advocates.paige-bailey
-  name: Paige Bailey
-  tagline: Data / AI / ML
-  image:
-    src: https://avatars2.githubusercontent.com/u/3712347?s=460&v=4
-    alt: "Paige Bailey Cloud Developer Advocate"
-  twitter: DynamicWebPaige
-- uid: advocates.prashant-sridharan
-  name: Prashant Sridharan
-  tagline: Chief Herder
-  image:
-    src: media/profiles/prashant-sridharan.png
-    alt: "Prashant Sridharan Cloud Developer Advocate"
-  twitter: CoolAssPuppy
-- uid: advocates.ruth-yakubu
-  name: Ruth Yakubu
-  tagline: Data / AI
-  image:
-    src: media/profiles/ruth-yakubu.png
-    alt: "Ruth Yakubu Cloud Developer Advocate"
-  twitter: ruthieyakubu
-- uid: advocates.sarah-drasner
-  name: Sarah Drasner
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/sarah-drasner.jpg
-    alt: "Sarah Drasner Cloud Developer Advocate"
-  twitter: sarah_edo
-- uid: advocates.scott-cate
-  name: Scott Cate
-  tagline: .NET
-  image:
-    src: media/profiles/scott-cate.png
-    alt: "Scott Cate Cloud Developer Advocate"
-  twitter: ScottCate
-- uid: advocates.seth-juarez
-  name: Seth Juarez
-  tagline: Emerging / ML / AI / Channel 9
-  image:
-    src: media/profiles/seth-juarez.png 
-    alt: "Seth Juarez Cloud Developer Advocate"
-  twitter: sethjuarez
 - uid: advocates.shayne-boyer
   name: Shayne Boyer
-  tagline: .NET
+  tagline: Javascript, C#
   image:
-    src: media/profiles/shayne-boyer.png
-    alt: "Shayne Boyer Cloud Developer Advocate"
-  twitter: spboyer
-- uid: advocates.simona-cotin
-  name: Simona Cotin
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/simona-cotin.png 
-    alt: "Simona Cotin Cloud Developer Advocate"
-  twitter: simona_cotin
-- uid: advocates.steven-murawski
-  name: Steven Murawski
-  tagline: DevOps
-  image:
-    src: media/profiles/steven-murawski.png 
-    alt: "Steven Murawski Cloud Developer Advocate"
-  twitter: stevenmurawski
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/shayne-boyer.png
+    alt: Shayne Boyer Profile Picture
+  location: Seattle, WA, United States
+  twitter: shayneboyer
 - uid: advocates.tim-heuer
   name: Tim Heuer
-  tagline: .NET / Xamarin
+  tagline: Xamarin, .NET
   image:
-    src: media/profiles/tim-heuer.png
-    alt: "Tim Heuer Cloud Developer Advocate"
+    src: https://developer.microsoft.com/en-us/advocates/media/profiles/tim-heuer.png
+    alt: Tim Heuer Glamour Shot
+  location: Redmond, WA, United States
   twitter: timheuer
-- uid: advocates.vadim-karpusenko
-  name: Vadim Karpusenko
-  tagline: HPC / AI / ML / DL
-  image:
-    src: media/profiles/vadim-karpusenko.png
-    alt: "Vadim Karpusenko Cloud Developer Advocate"
-  twitter: vadi
-- uid: advocates.zachary-deptawa
-  name: Zachary Deptawa
-  tagline: Linux
-  image:
-    src: media/profiles/zachary-deptawa.png
-    alt: "Zachary Deptawa Cloud Developer Advocate"
-  twitter: zdeptawa
+profileTitle: Advocates
+twitterTimeline:
+  title: CDATwitterCollection
+  href: https://twitter.com/msdev/timelines/912416037856985089
