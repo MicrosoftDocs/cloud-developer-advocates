@@ -18,9 +18,9 @@ remarks: |
   - Docker
   - Node.js
 
-tagline: Do you even tagline, bro?
+tagline: .NET
 image:
-  alt: "Alternative text for the image"
+  alt: "Shayne Boyer Cloud Developer Advocate"
   src: media/profiles/shayne-boyer.png
 twitter: https://twitter.com/spboyer
 github: http://github.com
@@ -31,3 +31,4 @@ facebook: http://www.facebook.com
 instagram: http://www.instagram.com
 stackoverflow: http://www.stackoverflow.com
 linkedin: https://linkedin.com/in/shayneboyer
+location: De Land USA
