@@ -26,11 +26,7 @@ function Get-DocumentMetadata {
     $metadata = New-Object -TypeName PSObject -Prop $properties
     $metadata.PSObject.TypeNames.Insert(0,'DocFX.DocumentMetadata')
 
-    if ($file.Extension -eq '.md') {
-			$title = Get-MarkdownMetadata -file $file
-			$metadata.Title = if ($title) { $title } else { $file.Name }
-			return $metadata
-    }
+
 
     if ($file.Extension -eq '.yml') {
         
@@ -52,6 +48,12 @@ function Get-DocumentMetadata {
         $metadata.imageSrc = Get-YamlProp -file $file -propName '  src'
 
         return $metadata
+    }
+
+    if ($file.Extension -eq '.md') {
+		$title = Get-MarkdownMetadata -file $file
+		$metadata.Title = if ($title) { $title } else { $file.Name }
+		return $metadata
     }
 }
 
@@ -285,7 +287,7 @@ items:
 ### YamlMime:ProfileList
 title: Cloud Developer Advocates
 description: |
-  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let’s meet up and talk cloud and all things developer!
+  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and letâ€™s meet up and talk cloud and all things developer!
   > [!div class="banner-container"]
   ![Microsoft + Advocate logo](https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png)
 metadata:
