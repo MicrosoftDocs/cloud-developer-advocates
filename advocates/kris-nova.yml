@@ -23,9 +23,11 @@ remarks: |
   * [Kops](https://github.com/kubernetes/kops)
   * [Kubicorn](https://github.com/kris-nova/kubicorn)
 
+tagline: Linux
 image:
-  alt: "Alternative text for the image"
+  alt: "Kris Nova Cloud Developer Advocate"
   src: media/profiles/kris-nova.png
 twitter: https://twitter.com/Kris__Nova
 github: https://github.com/kris-nova
 linkedin: https://www.linkedin.com/in/kris-nova/
+location: 
