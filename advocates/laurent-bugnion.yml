@@ -26,8 +26,9 @@ remarks: |
   * [My blog](http://blog.galasoft.ch)
   * [My presentations](http://galasoft.ch/presentations) 
   
+tagline: .NET / Xamarin
 image:
-  alt: "Alternative text for the image"
+  alt: "Laurent Bugnion Cloud Developer Advocate"
   src: media/profiles/laurent-bugnion.png 
 twitter: https://twitter.com/LBugnion
 github: https://github.com/LBugnion
@@ -35,4 +36,5 @@ blog: http://blog.galasoft.ch
 facebook: https://facebook.com/LBugnion
 instagram: https://www.instagram.com/LBugnion
 stackoverflow: https://stackoverflow.com/users/12233/lbugnion
+location: Wallisellen Switzerland
 linkedin: https://linkedin.com/in/LBugnion
