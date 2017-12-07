@@ -22,11 +22,13 @@ remarks: |
   * [Angular Snippets for VS Code](http://jpapa.me/asnippets)
   * [Azure Serverless Functions Snippets](http://jpapa.me/serverlessfunc)
 
+tagline: JavaScript / Node.js / Python
 image:
-  alt: "Alternative text for the image"
+  alt: "John Papa Cloud Developer Advocate"
   src: media/profiles/john-papa.png 
 twitter: https://twitter.com/john_papa
 github: https://github.com/johnpapa
 blog: https://johnpapa.net
 instagram: https://www.instagram.com/thejohnpapa
 linkedin: https://linkedin.com/in/papajohn
+location: Windermere USA
