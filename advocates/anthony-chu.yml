@@ -21,12 +21,13 @@ remarks: |
   ## Upcoming events
   * [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive) - Vancouver, BC - October 4 - 6, 2017
   * [APIStrat](http://events.linuxfoundation.org/events/apistrat) - Portland, OR - October 31 - November 2, 2017
-
+tagline: .NET
 image:
-  alt: "Alternative text for the image"
+  alt: "Anthony Chu Cloud Developer Advocatee"
   src: media/profiles/anthony-chu.png
 twitter: https://twitter.com/nthonyChu
 github: https://github.com/anthonychu
 blog: https://anthonychu.ca/
 stackoverflow: https://stackoverflow.com/users/3199781/anthony-chu
 linkedin: https://linkedin.com/in/chuanthony
+location: Vancouver Canada

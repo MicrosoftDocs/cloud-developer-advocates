@@ -21,11 +21,13 @@ remarks: |
   * [Azure Virtual Size Browser](http://vmsizebrowser.azurewebsites.net/) | [GitHub](https://github.com/MaximRouiller/VmSizeBrowser)
   * [Visual Studio Code Slugify Extension](https://marketplace.visualstudio.com/items?itemName=maximerouiller.slugify-vscode) | [GitHub](https://github.com/MaximRouiller/slugify-vscode)
   
+tagline: .NET
 image:
-  alt: "Alternative text for the image"
+  alt: "Maxime Rouiller Cloud Developer Advocate"
   src: media/profiles/maxime-rouiller.png
 twitter: https://twitter.com/maximrouiller
 github: https://github.com/MaximRouiller
 blog: https://blog.decayingcode.com
 stackoverflow: https://stackoverflow.com/users/24975/maxime-rouiller
 linkedin: https://linkedin.com/in/MaximRouiller
+location: Canada

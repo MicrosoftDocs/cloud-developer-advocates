@@ -23,7 +23,7 @@ remarks: |
 
   ## Recent and previous talks:
   * Keynote at [Open FSharp](http://openfsharp.org/)
-  * Intuitive Distributed Algorithms with F#, [O’Reilly OSCON 2017](https://conferences.oreilly.com/oscon/oscon-tx)
+  * Intuitive Distributed Algorithms with F#, [Oâ€™Reilly OSCON 2017](https://conferences.oreilly.com/oscon/oscon-tx)
   * Verification of Distributed Algorithms using TLA+, [Seattle Scalability Meetup](https://www.meetup.com/Seattle-Scalability-Meetup/)
   * F# and Functional Programming, [MS Dev Show](http://msdevshow.com/)
   * Distributed .NET Microservices with Kubernetes in the cloud, [.NET Fringe 2016](http://2016.dotnetfringe.org/)
@@ -51,10 +51,13 @@ remarks: |
   * [Learn the machine!](https://lenadroid.github.io/posts/machine-learning-fsharp-accorddotnet.html)
   * Functional approach to distributed computations and Big Data with F# MBrace cloud monads ([Part I](https://lenadroid.github.io/posts/fsharp-cloud-monads-part-1.html), [Part II](https://lenadroid.github.io/posts/fsharp-cloud-monads-part-2.html), [Part III](https://lenadroid.github.io/posts/fsharp-cloud-monads-part-3.html))
 
+tagline: High Scale / Big Data
 image:
-  alt: "Alternative text for the image" 
+  alt: "Alena Hall Cloud Developer Advocate" 
   src: media/profiles/alena-hall.png
 twitter: https://twitter.com/lenadroid
 github: https://github.com/lenadroid
 blog: http://lenadroid.github.io/posts.html
 linkedin: https://www.linkedin.com/in/alenadzenisenka/
+location: USA
+

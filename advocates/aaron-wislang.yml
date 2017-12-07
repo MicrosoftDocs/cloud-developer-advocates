@@ -13,11 +13,12 @@ remarks: |
   - Containers
   - Go
   - .NET
-taglPythonine: Do you even tagline, bro?
+tagline: Linux
 image:
-  alt: "Alternative text for the image"
+  alt: "Aaron Wislang Cloud Developer Advocate"
   src: media/profiles/aaron-wislang.png
 twitter: https://twitter.com/as_w
 github: http://github.com/asw101
 stackoverflow: https://stackoverflow.com/users/334117/aaron
 linkedin: https://linkedin.com/in/aaron-wislang
+location: Toronto Canada

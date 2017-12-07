@@ -15,8 +15,9 @@ remarks: |
   * [Yo Team](https://www.npmjs.com/package/generator-team)
   * [TFS/VSTS PowerShell Module](https://www.powershellgallery.com/packages/vsTeam/)
 
+tagline: DevOps
 image:
-  alt: "Alternative text for the image"
+  alt: "Donovan Brown Cloud Developer Advocate"
   src: media/profiles/donovan-brown.png 
 twitter: https://twitter.com/DonovanBrown
 github: https://github.com/darquewarrior
@@ -24,3 +25,4 @@ blog: http://www.donovanbrown.com/
 facebook: https://www.facebook.com/darquewarrior/
 instagram: https://www.instagram.com/darquewarrior/
 linkedin: https://www.linkedin.com/in/donovanb/
+location: Spring US

@@ -28,11 +28,13 @@ remarks: |
   * [CosmosDB Nutrition Database Example](https://github.com/JeremyLikness/explore-cosmos-db)
   * [6502 Emulator written in TypeScript and Angular with Redux](https://github.com/JeremyLikness/redux6502)
 
+tagline: .NET
 image:
-  alt: "Alternative text for the image"
+  alt: "Jeremy Likness Cloud Developer Advocate"
   src: media/profiles/jeremy-likness.png
 twitter: https://twitter.com/JeremyLikness
 github: https://github.com/JeremyLikness
 blog: https://blog.jeremylikness.com/
 stackoverflow: https://stackoverflow.com/users/228918/jeremy-likness
 linkedin: https://linkedin.com/in/JeremyLikness
+location: Woodstock USA

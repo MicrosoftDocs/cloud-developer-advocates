@@ -15,8 +15,9 @@ remarks: |
   * Ruby on Rails
   * Burritos
 
+tagline: Chief Herder
 image:
-  alt: "Alternative text for the image"
+  alt: "Prashant Sridharan Cloud Developer Advocate"
   src: media/profiles/prashant-sridharan.png
 twitter: https://twitter.com/CoolAssPuppy
 github: https://github.com/CoolAssPuppy
@@ -24,3 +25,4 @@ facebook: https://facebook.com/prashant.sridharan
 instagram: https://www.instagram.com/CoolAssPuppy
 stackoverflow: https://stackoverflow.com/users/1698740/prashant-sridharan
 linkedin: https://linkedin.com/in/prashantsridharan
+location: San Francisco USA

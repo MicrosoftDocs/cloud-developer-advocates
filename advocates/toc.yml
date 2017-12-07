@@ -2,13 +2,83 @@ metadata:
   name: advocates_toc
 items:
 - name: Cloud Developer Advocates
-  href: index.yml
+  href: index.html.yml
   expanded: true
-  items:
+  items: 
   - name: Aaron Wislang
     uid: advocates.aaron-wislang
+  - name: Abel Wang
+    uid: advocates.abel-wang
+  - name: Alena Hall
+    uid: advocates.alena-hall
+  - name: Anthony Chu
+    uid: advocates.anthony-chu
+  - name: Ashley McNamara
+    uid: advocates.ashley-mcnamara
+  - name: Asim Hussain
+    uid: advocates.asim-hussain
+  - name: Bernd Verst
+    uid: advocates.bernd-verst
+  - name: Brian Benz
+    uid: advocates.brian-benz
+  - name: Brian Clark
+    uid: advocates.brian-clark
+  - name: Brian Ketelsen
+    uid: advocates.brian-ketelsen
+  - name: Brian Peek
+    uid: advocates.brian-peek
+  - name: Bridget Kromhout
+    uid: advocates.bridget-kromhout
+  - name: Bryan Liston
+    uid: advocates.bryan-liston
+  - name: Burke Holland
+    uid: advocates.burke-holland
+  - name: Cecil Phillip
+    uid: advocates.cecil-phillip
+  - name: Damian Brady
+    uid: advocates.damian-brady
+  - name: Donovan Brown
+    uid: advocates.donovan-brown
+  - name: Erik St. Martin
+    uid: advocates.erik-st-martin
+  - name: Jasmine Greenaway
+    uid: advocates.jasmine-greenaway
+  - name: Jeremy Likness
+    uid: advocates.jeremy-likness
+  - name: Jessica Frazelle
+    uid: advocates.jessica-frazelle
+  - name: John Papa
+    uid: advocates.john-papa
+  - name: Kris Nova
+    uid: advocates.kris-nova
+  - name: Laurent Bugnion
+    uid: advocates.laurent-bugnion
+  - name: Matthew Soucoup
+    uid: advocates.matthew-soucoup
+  - name: Maxime Rouiller
+    uid: advocates.maxime-rouiller
   - name: Paige Bailey
-    uid: advocates.paige-bailey  
+    uid: advocates.paige-bailey
+  - name: Prashant Sridharan
+    uid: advocates.prashant-sridharan
+  - name: Ruth Yakubu
+    uid: advocates.ruth-yakubu
+  - name: Sarah Drasner
+    uid: advocates.sarah-drasner
+  - name: Scott Cate
+    uid: advocates.scott-cate
+  - name: Seth Juarez
+    uid: advocates.seth-juarez
   - name: Shayne Boyer
     uid: advocates.shayne-boyer
+  - name: Simona Cotin
+    uid: advocates.simona-cotin
+  - name: Steven Murawski
+    uid: advocates.steven-murawski
+  - name: Tim Heuer
+    uid: advocates.tim-heuer
+  - name: Vadim Karpusenko
+    uid: advocates.vadim-karpusenko
+  - name: Zachary Deptawa
+    uid: advocates.zachary-deptawa
 # Add more to the list. Be careful to preserve spaces and hyphen format.

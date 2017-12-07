@@ -13,11 +13,13 @@ remarks: |
   * Big Data/Fast Data
   * JVM Languages (Scala, Kotlin, Groovy)
 
+tagline: Java
 image:
-  alt: "Alternative text for the image"
+  alt: "Brian Benz Cloud Developer Advocate"
   src: media/profiles/brian-benz.png 
 twitter: https://twitter.com/bbenz
 github: https://github.com/bbenz
 website: http://brianbenz.com/
 stackoverflow: https://stackoverflow.com/users/2716150/bbenz
 linkedin: https://linkedin.com/in/brianbenz
+location: Las Vegas US
