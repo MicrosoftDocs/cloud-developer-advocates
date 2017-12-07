@@ -19,7 +19,8 @@ remarks: |
   * Linux
   * Containers
   * Python
-tagline:  
+
+tagline: Linux / Containers / Python
 image:
   alt: "Bernd Verst Cloud Developer Advocate"
   src: media/profiles/bernd-verst.png 
@@ -29,4 +30,4 @@ blog: https://readon.ly
 instagram: https://instagram.com/berndverst
 stackoverflow: https://stackoverflow.com/users/1950548/bernd-verst
 linkedin: https://linkedin.com/in/verst
-Location: Redmond US
+location: Redmond US
