@@ -15,7 +15,6 @@ profiles:
   image:
     src: media/profiles/aaron-wislang.png
     alt: "Aaron Wislang Cloud Developer Advocate"
-  location: Toronto Canada
   twitter: as_w
 - uid: advocates.abel-wang
   name: Abel Wang
@@ -23,7 +22,6 @@ profiles:
   image:
     src: media/profiles/abel-wang.png
     alt: "Abel Wang Cloud Developer Advocate"
-  location: Redmond USA
   twitter: AbelSquidHead
 - uid: advocates.alena-hall
   name: Alena Hall
@@ -31,7 +29,6 @@ profiles:
   image:
     src: media/profiles/alena-hall.png
     alt: "Alena Hall Cloud Developer Advocate" 
-  location: 
   twitter: lenadroid
 - uid: advocates.anthony-chu
   name: Anthony Chu
@@ -39,7 +36,6 @@ profiles:
   image:
     src: media/profiles/anthony-chu.png
     alt: "Anthony Chu Cloud Developer Advocatee"
-  location: Vancouver Canada
   twitter: nthonyChu
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
@@ -47,7 +43,6 @@ profiles:
   image:
     src: media/profiles/ashley-mcnamara.png
     alt: "Ashley McNamara Cloud Developer Advocate"
-  location: Austin US
   twitter: ashleymcnamara
 - uid: advocates.asim-hussain
   name: Asim Hussain
@@ -55,7 +50,6 @@ profiles:
   image:
     src: media/profiles/asim-hussain.png 
     alt: "Asim Hussain Cloud Developer Advocate"
-  location: UK
   twitter: jawache
 - uid: advocates.bernd-verst
   name: Bernd Verst
@@ -63,7 +57,6 @@ profiles:
   image:
     src: media/profiles/bernd-verst.png 
     alt: "Bernd Verst Cloud Developer Advocate"
-  location: Redmond US
   twitter: BerndVerst
 - uid: advocates.brian-benz
   name: Brian Benz
@@ -71,7 +64,6 @@ profiles:
   image:
     src: media/profiles/brian-benz.png 
     alt: "Brian Benz Cloud Developer Advocate"
-  location: Las Vegas US
   twitter: bbenz
 - uid: advocates.brian-clark
   name: Brian Clark
@@ -79,7 +71,6 @@ profiles:
   image:
     src: media/profiles/brian-clark.png
     alt: "Brian Clark Cloud Developer Advocate"
-  location: Winter Garden US
   twitter: _clarkio
 - uid: advocates.brian-ketelsen
   name: Brian Ketelsen
@@ -87,7 +78,6 @@ profiles:
   image:
     src: media/profiles/brian-ketelsen.png
     alt: "Brian Ketelsen Cloud Developer Advocate"
-  location: Land O Lakes US
   twitter: bketelsen
 - uid: advocates.brian-peek
   name: Brian Peek
@@ -95,7 +85,6 @@ profiles:
   image:
     src: media/profiles/brian-peek.png
     alt: "Brian Peek Cloud Developer Advocate"
-  location: Glenville US
   twitter: BrianPeek
 - uid: advocates.bridget-kromhout
   name: Bridget Kromhout
@@ -103,7 +92,6 @@ profiles:
   image:
     src: media/profiles/bridget-kromhout.png
     alt: "Bridget Kromhout Cloud Developer Advocate"
-  location: Minneapolis US
   twitter: bridgetkromhout
 - uid: advocates.bryan-liston
   name: Bryan Liston
@@ -111,7 +99,6 @@ profiles:
   image:
     src: media/profiles/bryan-liston.png
     alt: "Bryan Liston Cloud Developer Advocate"
-  location: Redmond US
   twitter: listonb
 - uid: advocates.burke-holland
   name: Burke Holland
@@ -119,7 +106,6 @@ profiles:
   image:
     src: media/profiles/burke-holland.png
     alt: "Burke Holland Cloud Developer Advocate"
-  location: Franklin US
   twitter: burkeholland
 - uid: advocates.cecil-phillip
   name: Cecil Phillip
@@ -127,7 +113,6 @@ profiles:
   image:
     src: media/profiles/cecil-phillip.png
     alt: "Cecil Phillip Cloud Developer Advocate"
-  location: Plantation US
   twitter: cecilphillip
 - uid: advocates.damian-brady
   name: Damian Brady
@@ -135,7 +120,6 @@ profiles:
   image:
     src: media/profiles/damian-brady.png
     alt: "Damian Brady Cloud Developer Advocate"
-  location: Canada
   twitter: damovisa
 - uid: advocates.donovan-brown
   name: Donovan Brown
@@ -143,7 +127,6 @@ profiles:
   image:
     src: media/profiles/donovan-brown.png 
     alt: "Donovan Brown Cloud Developer Advocate"
-  location: Spring US
   twitter: DonovanBrown
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
@@ -151,7 +134,6 @@ profiles:
   image:
     src: media/profiles/erik-st-martin.png
     alt: "Erik St. Martin Cloud Developer Advocate"
-  location: LAND O LAKES US
   twitter: erikstmartin
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
@@ -159,7 +141,6 @@ profiles:
   image:
     src: media/profiles/jasmine-greenaway.png
     alt: "Jasmine Greenaway Cloud Developer Advocate"
-  location: Brooklyn USA
   twitter: paladique
 - uid: advocates.jeremy-likness
   name: Jeremy Likness
@@ -167,7 +148,6 @@ profiles:
   image:
     src: media/profiles/jeremy-likness.png
     alt: "Jeremy Likness Cloud Developer Advocate"
-  location: Woodstock USA
   twitter: JeremyLikness
 - uid: advocates.jessica-frazelle
   name: Jessica Frazelle
@@ -175,7 +155,6 @@ profiles:
   image:
     src: media/profiles/jessica-frazelle.png
     alt: "Jessica Frazelle Cloud Developer Advocate"
-  location: USA
   twitter: jessfraz
 - uid: advocates.john-papa
   name: John Papa
@@ -183,7 +162,6 @@ profiles:
   image:
     src: media/profiles/john-papa.png 
     alt: "John Papa Cloud Developer Advocate"
-  location: Windermere USA
   twitter: john_papa
 - uid: advocates.kris-nova
   name: Kris Nova
@@ -191,7 +169,6 @@ profiles:
   image:
     src: media/profiles/kris-nova.png
     alt: "Kris Nova Cloud Developer Advocate"
-  location: 
   twitter: Kris__Nova
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
@@ -199,7 +176,6 @@ profiles:
   image:
     src: media/profiles/laurent-bugnion.png 
     alt: "Laurent Bugnion Cloud Developer Advocate"
-  location: Wallisellen Switzerland
   twitter: LBugnion
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
@@ -207,7 +183,6 @@ profiles:
   image:
     src: media/profiles/matthew-soucoup.png
     alt: "Matthew Soucoup Cloud Developer Advocate"
-  location: 
   twitter: codemillmatt
 - uid: advocates.maxime-rouiller
   name: Maxime Rouiller
@@ -215,7 +190,6 @@ profiles:
   image:
     src: media/profiles/maxime-rouiller.png
     alt: "Maxime Rouiller Cloud Developer Advocate"
-  location: Canada
   twitter: maximrouiller
 - uid: advocates.paige-bailey
   name: Paige Bailey
@@ -223,7 +197,6 @@ profiles:
   image:
     src: https://avatars2.githubusercontent.com/u/3712347?s=460&v=4
     alt: "Paige Bailey Cloud Developer Advocate"
-  location: Austin USA
   twitter: DynamicWebPaige
 - uid: advocates.prashant-sridharan
   name: Prashant Sridharan
@@ -231,7 +204,6 @@ profiles:
   image:
     src: media/profiles/prashant-sridharan.png
     alt: "Prashant Sridharan Cloud Developer Advocate"
-  location: San Francisco USA
   twitter: CoolAssPuppy
 - uid: advocates.ruth-yakubu
   name: Ruth Yakubu
@@ -239,7 +211,6 @@ profiles:
   image:
     src: media/profiles/ruth-yakubu.png
     alt: "Ruth Yakubu Cloud Developer Advocate"
-  location: New York USA
   twitter: ruthieyakubu
 - uid: advocates.sarah-drasner
   name: Sarah Drasner
@@ -247,7 +218,6 @@ profiles:
   image:
     src: media/profiles/sarah-drasner.jpg
     alt: "Sarah Drasner Cloud Developer Advocate"
-  location: Brighton USA
   twitter: sarah_edo
 - uid: advocates.scott-cate
   name: Scott Cate
@@ -255,7 +225,6 @@ profiles:
   image:
     src: media/profiles/scott-cate.png
     alt: "Scott Cate Cloud Developer Advocate"
-  location: West Palm Beach USA
   twitter: ScottCate
 - uid: advocates.seth-juarez
   name: Seth Juarez
@@ -263,7 +232,6 @@ profiles:
   image:
     src: media/profiles/seth-juarez.png 
     alt: "Seth Juarez Cloud Developer Advocate"
-  location: Redmond USA
   twitter: sethjuarez
 - uid: advocates.shayne-boyer
   name: Shayne Boyer
@@ -271,7 +239,6 @@ profiles:
   image:
     src: media/profiles/shayne-boyer.png
     alt: "Shayne Boyer Cloud Developer Advocate"
-  location: De Land USA
   twitter: spboyer
 - uid: advocates.simona-cotin
   name: Simona Cotin
@@ -279,7 +246,6 @@ profiles:
   image:
     src: media/profiles/simona-cotin.png 
     alt: "Simona Cotin Cloud Developer Advocate"
-  location: Reading UK
   twitter: simona_cotin
 - uid: advocates.steven-murawski
   name: Steven Murawski
@@ -287,7 +253,6 @@ profiles:
   image:
     src: media/profiles/steven-murawski.png 
     alt: "Steven Murawski Cloud Developer Advocate"
-  location: Oconomowoc USA
   twitter: stevenmurawski
 - uid: advocates.tim-heuer
   name: Tim Heuer
@@ -295,7 +260,6 @@ profiles:
   image:
     src: media/profiles/tim-heuer.png
     alt: "Tim Heuer Cloud Developer Advocate"
-  location: Redmond USA
   twitter: timheuer
 - uid: advocates.vadim-karpusenko
   name: Vadim Karpusenko
@@ -303,7 +267,6 @@ profiles:
   image:
     src: media/profiles/vadim-karpusenko.png
     alt: "Vadim Karpusenko Cloud Developer Advocate"
-  location: Redmond USA
   twitter: vadi
 - uid: advocates.zachary-deptawa
   name: Zachary Deptawa
@@ -311,5 +274,4 @@ profiles:
   image:
     src: media/profiles/zachary-deptawa.png
     alt: "Zachary Deptawa Cloud Developer Advocate"
-  location: San Antonio USA
   twitter: zdeptawa
