@@ -16,7 +16,7 @@
 ## [Burke Holland](burke-holland)
 ## [Cecil Phillip](cecil-phillip)
 ## [Damian Brady](damian-brady)
-## [David Smith](david_smith)
+## [David Smith](david-smith)
 ## [Donovan Brown](donovan-brown)
 ## [Erik St. Martin](erik-st-martin)
 ## [Jasmine Greenaway](jasmine-greenaway)
