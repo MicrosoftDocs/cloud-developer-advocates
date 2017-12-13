@@ -21,4 +21,7 @@ twitter: https://twitter.com/bketelsen
 github: https://github.com/bketelsen
 blog: https://brianketelsen.com
 linkedin: https://linkedin.com/in/brianketelsen
-location: Land O Lakes US
+location:
+  display: Land O' Lakes, Florida, United States
+  lat: 28.222353
+  long: -82.47148

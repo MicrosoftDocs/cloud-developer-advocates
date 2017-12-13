@@ -16,4 +16,7 @@ image:
   alt: "Ruth Yakubu Cloud Developer Advocate"
   src: media/profiles/ruth-yakubu.png
 twitter: https://twitter.com/ruthieyakubu
-location: New York USA
+location:
+  display: New York, New York, United States
+  lat: 40.770425
+  long: -74.404626

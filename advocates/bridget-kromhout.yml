@@ -14,4 +14,7 @@ image:
   src: media/profiles/bridget-kromhout.png
 twitter: https://twitter.com/bridgetkromhout
 blog: https://bridgetkromhout.com
-location: Minneapolis US
+location:
+  display: Minneapolis, Minnesota, United States
+  lat: 44.996015
+  long: -93.443378

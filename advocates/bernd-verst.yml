@@ -30,4 +30,7 @@ blog: https://readon.ly
 instagram: https://instagram.com/berndverst
 stackoverflow: https://stackoverflow.com/users/1950548/bernd-verst
 linkedin: https://linkedin.com/in/verst
-location: Redmond US
+location:
+  display: Redmond, Washington, United States
+  lat: 47.679194
+  long: -122.153322
