@@ -30,7 +30,7 @@ function Get-DocumentMetadata {
 
     if ($file.Extension -eq '.yml') {
         
-        if($file.Name -eq 'index.yml')
+        if($file.Name -eq 'index.html.yml')
         {
 			$script:indexTitle = Get-IndexTitle -file $file
         }
