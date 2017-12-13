@@ -40,4 +40,6 @@ blog: https://stevenmurawski.com
 stackoverflow: https://stackoverflow.com/users/1233/steven-murawski)
 linkedin: https://linkedin.com/in/usepowershell
 location:
-  display: Oconomowoc, USA
+  display: Oconomowoc, Wisconsin, United States
+  lat: 43.107377
+  long: -88.543443

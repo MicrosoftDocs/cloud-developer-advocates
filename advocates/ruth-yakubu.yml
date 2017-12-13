@@ -17,4 +17,6 @@ image:
   src: media/profiles/ruth-yakubu.png
 twitter: https://twitter.com/ruthieyakubu
 location:
-  display: New York, USA
+  display: New York, New York, United States
+  lat: 40.770425
+  long: -74.404626

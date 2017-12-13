@@ -31,4 +31,6 @@ blog: https://erikstmartin.com/
 podcast: https://changelog.com/gotime
 linkedin: https://www.linkedin.com/in/erikstmartin/
 location:
-  display: Land O Lakes, US
+  display: Land O' Lakes, Florida, United States
+  lat: 28.222353
+  long: -82.47148

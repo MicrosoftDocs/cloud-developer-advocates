@@ -61,4 +61,6 @@ blog: http://lenadroid.github.io/posts.html
 linkedin: https://www.linkedin.com/in/alenadzenisenka/
 location:
   display: USA
+  lat: 40.255371
+  long: -101.594161
 

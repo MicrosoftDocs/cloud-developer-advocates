@@ -23,4 +23,6 @@ website: http://brianbenz.com/
 stackoverflow: https://stackoverflow.com/users/2716150/bbenz
 linkedin: https://linkedin.com/in/brianbenz
 location:
-  display: Las Vegas, USA
+  display: Las Vegas, Nevada, United States
+  lat: 36.23005
+  long: -115.544269

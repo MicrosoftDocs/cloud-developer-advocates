@@ -22,4 +22,6 @@ github: http://github.com/asw101
 stackoverflow: https://stackoverflow.com/users/334117/aaron
 linkedin: https://linkedin.com/in/aaron-wislang
 location:
-  display: Toronto, Canada
+  display: Toronto, Ontario, Canada
+  lat: 43.712053
+  long: -79.561556
