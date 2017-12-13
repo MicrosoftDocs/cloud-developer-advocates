@@ -30,4 +30,7 @@ github: https://github.com/anthonychu
 blog: https://anthonychu.ca/
 stackoverflow: https://stackoverflow.com/users/3199781/anthony-chu
 linkedin: https://linkedin.com/in/chuanthony
-location: Vancouver Canada
+location: 
+  display: Vancouver, Canada
+  lat: 49.339277
+  long: -123.2998

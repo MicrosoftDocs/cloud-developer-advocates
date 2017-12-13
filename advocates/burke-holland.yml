@@ -36,4 +36,5 @@ twitter: https://twitter.com/burkeholland
 facebook: https://facebook.com/burkeholland
 instagram: https://www.instagram.com/burkeholland
 linkedin: https://linkedin.com/in/burkeholland
-location: Franklin US
+location:
+  display: Franklin, USA

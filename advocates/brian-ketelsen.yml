@@ -21,4 +21,5 @@ twitter: https://twitter.com/bketelsen
 github: https://github.com/bketelsen
 blog: https://brianketelsen.com
 linkedin: https://linkedin.com/in/brianketelsen
-location: Land O Lakes US
+location:
+  display: Land O Lakes, USA

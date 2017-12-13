@@ -47,4 +47,5 @@ github: https://github.com/DynamicWebPaige
 facebook: https://facebook.com/DynamicWebPaige
 instagram: https://www.instagram.com/DynamicWebPaige
 linkedin: https://linkedin.com/in/DynamicWebPaige
-location: Austin USA
+location:
+  display: Austin, USA

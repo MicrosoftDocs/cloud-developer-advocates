@@ -31,4 +31,5 @@ facebook: http://www.facebook.com
 instagram: http://www.instagram.com
 stackoverflow: http://www.stackoverflow.com
 linkedin: https://linkedin.com/in/shayneboyer
-location: De Land USA
+location:
+  display: De Land, USA

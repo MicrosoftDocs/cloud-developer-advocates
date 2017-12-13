@@ -30,4 +30,5 @@ image:
 twitter: https://twitter.com/Kris__Nova
 github: https://github.com/kris-nova
 linkedin: https://www.linkedin.com/in/kris-nova/
-location: USA
+location:
+  display: USA

@@ -16,4 +16,5 @@ image:
   src: media/profiles/abel-wang.png
 twitter: https://twitter.com/AbelSquidHead
 linkedin: https://linkedin.com/in/abel-wang-9a37694
-location: Redmond USA
+location:
+  display: Redmond, USA

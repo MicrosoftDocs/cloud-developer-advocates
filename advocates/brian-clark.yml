@@ -23,4 +23,5 @@ blog: https://www.clarkio.com/feed.xml
 instagram: https://www.instagram.com/_clarkio
 stackoverflow: https://stackoverflow.com/users/3381712/brian-clark
 linkedin: https://linkedin.com/in/brianclarkdev
-location: Winter Garden US
+location:
+  display: Winter Garden, USA

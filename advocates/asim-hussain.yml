@@ -23,4 +23,5 @@ blog: http://codecraft.tv
 instagram: https://www.instagram.com/jawache
 stackoverflow: https://stackoverflow.com/users/134085/jawache
 linkedin: https://linkedin.com/in/jawache
-location: UK
+location:
+  display: UK

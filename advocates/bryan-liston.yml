@@ -26,4 +26,5 @@ github: https://github.com/listonb
 facebook: https://facebook.com/listonb
 instagram: https://www.instagram.com/listonb
 linkedin: https://linkedin.com/in/listonb
-location: Redmond US
+location:
+  display: Redmond, USA

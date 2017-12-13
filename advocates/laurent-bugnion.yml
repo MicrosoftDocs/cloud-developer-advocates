@@ -36,5 +36,6 @@ blog: http://blog.galasoft.ch
 facebook: https://facebook.com/LBugnion
 instagram: https://www.instagram.com/LBugnion
 stackoverflow: https://stackoverflow.com/users/12233/lbugnion
-location: Wallisellen Switzerland
 linkedin: https://linkedin.com/in/LBugnion
+location:
+  display: Wallisellen, Switzerland

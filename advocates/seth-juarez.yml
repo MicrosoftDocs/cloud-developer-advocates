@@ -24,4 +24,5 @@ blog: https://sethjuarez.com
 instagram: https://www.instagram.com/sethfrijoles
 stackoverflow: https://stackoverflow.com/users/241111/seth-juarez
 linkedin: https://linkedin.com/in/sethjuarez
-location: Redmond USA
+location:
+  display: Redmond, USA

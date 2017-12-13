@@ -25,4 +25,5 @@ facebook: https://facebook.com/scottcateaz
 instagram: https://www.instagram.com/scottcate
 stackoverflow: https://stackoverflow.com/users/92882/scottcate
 linkedin: https://linkedin.com/in/ScottCate
-location: West Palm Beach USA
+location:
+  display: West Palm Beach, USA

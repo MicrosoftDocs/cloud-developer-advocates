@@ -32,4 +32,5 @@ blog: http://timheuer.com/blog/
 instagram: https://www.instagram.com/timheuer
 stackoverflow: https://stackoverflow.com/users/705/tim-heuer
 linkedin: https://linkedin.com/in/timheuer
-location: Redmond USA
+location:
+  display: Redmond, USA

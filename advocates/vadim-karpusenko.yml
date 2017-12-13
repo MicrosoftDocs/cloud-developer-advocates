@@ -23,4 +23,5 @@ image:
 twitter: https://twitter.com/vadi
 github: https://github.com/vakarpus
 linkedin: https://linkedin.com/in/karpusenko
-location: Redmond USA
+location:
+  display: Redmond, USA

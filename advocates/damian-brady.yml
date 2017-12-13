@@ -27,4 +27,5 @@ github: https://github.com/damovisa
 blog: https://damovisa.me
 stackoverflow: https://stackoverflow.com/users/77546/damovisa
 linkedin: https://linkedin.com/in/damianbrady
-location: Canada
+location:
+  display: Canada

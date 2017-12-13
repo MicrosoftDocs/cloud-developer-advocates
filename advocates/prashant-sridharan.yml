@@ -25,4 +25,5 @@ facebook: https://facebook.com/prashant.sridharan
 instagram: https://www.instagram.com/CoolAssPuppy
 stackoverflow: https://stackoverflow.com/users/1698740/prashant-sridharan
 linkedin: https://linkedin.com/in/prashantsridharan
-location: San Francisco USA
+location:
+  display: San Francisco, USA

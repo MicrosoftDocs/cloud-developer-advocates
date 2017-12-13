@@ -20,4 +20,5 @@ image:
 twitter: https://twitter.com/sarah_edo
 blog: https://css-tricks.com/author/sdrasner/
 linkedin: https://linkedin.com/in/sarahdrasner
-location: Brighton USA
+location:
+  display: Brighton, USA
