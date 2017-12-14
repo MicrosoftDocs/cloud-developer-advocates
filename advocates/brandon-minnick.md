@@ -9,7 +9,7 @@ ms.date: 2017-12-12
 ms.author: timheuer
 ---
 
-![Image of Brandon Minnick](media/profiles/brandon-minnick.jpg)
+![Image of Brandon Minnick](media/profiles/brandon-minnick.png)
 
 # Brandon Minnick
 
