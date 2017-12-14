@@ -166,6 +166,27 @@ twitterWidgets: true
             </a>
         </li>
         <li>
+            <a href="./brandon-minnick" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/brandon-minnick.png" alt="Picture of Brandon Minnick" data-linktype="internal"
+                                         style="border-radius:50%; width:150px;height:150px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Brandon Minnick</h3>
+                                <p><a href="http://twitter.com/BrandonXamarin">@BrandonXamarin</a></p>
+                                <p>Xamarin / C# / iOS / Android</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
             <a href="./brian-benz" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
@@ -355,6 +376,27 @@ twitterWidgets: true
             </a>
         </li>
         <li>
+            <a href="./david-smith" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/david-smith.png" alt="Picture of David Smith" data-linktype="internal"
+                                         style="border-radius:50%; width:150px;height:150px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>David Smith</h3>
+                                <p><a href="http://twitter.com/revodavid">@revodavic</a></p>
+                                <p>Data Science / R</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
             <a href="./donovan-brown" data-linktype="internal">
                 <div class="cardSize">
                     <div class="cardPadding">
@@ -474,6 +516,27 @@ twitterWidgets: true
                                 <h3>John Papa</h3>
                                 <p><a href="http://twitter.com/john_papa">@john_papa</a></p>
                                 <p>JavaScript / Node.js / Python</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="./jonathan-giles" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/jonathan-giles.png" alt="Picture of Jonathan Giles" data-linktype="internal"
+                                         style="border-radius:50%; width:150px;height:150px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Jonathan Giles</h3>
+                                <p><a href="http://twitter.com/JonathanGiles">@JonathanGiles</a></p>
+                                <p>Java</p>
                             </div>
                         </div>
                     </div>
