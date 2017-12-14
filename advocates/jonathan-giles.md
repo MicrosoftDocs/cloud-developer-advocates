@@ -2,7 +2,7 @@
 title: Jonathan Giles - Cloud Developer Advocate
 description: Home page for Jonathan Giles, a Microsoft Cloud Developer Advocate
 services: N / A
-author: jogiles
+author: jonathangiles
 manager: timheuer
 ms.topic: article
 ms.date: 2017-12-12
@@ -18,7 +18,7 @@ ms.author: timheuer
 
 ## About me
 
-I consider myself an expert on all things Java, and highly opinionated in API design. I've previously held senior roles at Sun Microsystems and Oracle Corp where I worked in the Java team on aspects of the Java API that has shipped in all releases since Java 7. Most recently, I was a technical lead on the JavaFX UI toolkit, responsible for UI controls, CSS engine, the scene graph, FXML, and accessibility.
+I consider myself an expert on all things Java, and am a strong advocate for considered, beautiful API design. I've previously held senior roles at Sun Microsystems and Oracle Corp where I worked in the Java team on aspects of the Java API that has shipped in all releases since Java 7. Most recently, I was a technical lead on the JavaFX UI toolkit, responsible for UI controls, CSS engine, the scene graph, FXML, and accessibility.
 
 In addition to this, I'm a JavaOne Rockstar speaker, a Dukes Choice award winner at JavaOne 2017 (for his open source work), a JavaOne track lead (for the user interface / user experience track, including the sessions related to JavaFX and the web), and a technical reviewer for a number of Java-related books.
 
