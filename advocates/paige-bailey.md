@@ -48,7 +48,7 @@ When I'm not sitting in front of glowing rectangular screens at work, I absolute
 
 * [Quicken Loans TechCon 2017](http://qltechcon.com/) (_Detroit, MI_)
 * [Microsoft Ignite 2017](https://www.microsoft.com/en-us/ignite/default.aspx) (_Orlando, FL_)
-* [Florida PyCon 2017](http://flpy.org/) (_Orlando, FL)
+* [Florida PyCon 2017](http://flpy.org/) (_Orlando, FL_)
 * [CodeCamp NYC 2017](http://codecampnyc.org/) (_New York City, NY_)
 * [Azure Red Shirt Dev Tour - Dallas 2017](https://azure.microsoft.com/en-us/community/events/azure-red-shirt-dev-tour-dallas/) (_Dallas, TX_)
 * [Jazoon Tech Days Autumn 2017](http://jazoon.com/) (_Zurich, Switzerland_)
