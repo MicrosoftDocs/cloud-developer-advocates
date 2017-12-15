@@ -388,7 +388,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText">
                                 <h3>David Smith</h3>
-                                <p><a href="http://twitter.com/revodavid">@revodavic</a></p>
+                                <p><a href="http://twitter.com/revodavid">@revodavid</a></p>
                                 <p>Data Science / R</p>
                             </div>
                         </div>
