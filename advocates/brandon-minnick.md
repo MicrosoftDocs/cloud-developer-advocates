@@ -2,7 +2,7 @@
 title: Brandon Minnick - Cloud Developer Advocate
 description: Home page for Brandon Minnick, a Microsoft Cloud Developer Advocate
 services: N / A
-author: bramin
+author: brminnick
 manager: timheuer
 ms.topic: article
 ms.date: 2017-12-12
