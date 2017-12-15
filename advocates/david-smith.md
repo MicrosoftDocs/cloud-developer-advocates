@@ -2,7 +2,7 @@
 title: David Smith - Cloud Developer Advocate
 description: Home page for David Smith, a Microsoft Cloud Developer Advocate
 services: N / A
-author: davidsmi
+author: revodavid
 manager: timheuer
 ms.topic: article
 ms.date: 2017-12-12

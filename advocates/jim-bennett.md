@@ -2,7 +2,7 @@
 title: Jim Bennett - Cloud Developer Advocate
 description: Home page for Jim Bennett, a Microsoft Cloud Developer Advocate
 services: N / A
-author: jabenn
+author: jimbobbennett
 manager: timheuer
 ms.topic: article
 ms.date: 2017-12-18
