@@ -22,6 +22,7 @@
 ## [Jasmine Greenaway](jasmine-greenaway)
 ## [Jeremy Likness](jeremy-likness)
 ## [Jessica Frazelle](jessica-frazelle)
+## [Jim Bennett](jim-bennett)
 ## [John Papa](john-papa)
 ## [Jonathan Giles](jonathan-giles)
 ## [Laurent Bugnion](laurent-bugnion)
