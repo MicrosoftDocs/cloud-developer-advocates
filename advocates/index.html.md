@@ -388,7 +388,7 @@ twitterWidgets: true
                             </div>
                             <div class="cardText">
                                 <h3>David Smith</h3>
-                                <p><a href="http://twitter.com/revodavid">@revodavic</a></p>
+                                <p><a href="http://twitter.com/revodavid">@revodavid</a></p>
                                 <p>Data Science / R</p>
                             </div>
                         </div>
@@ -495,6 +495,27 @@ twitterWidgets: true
                                 <h3>Jessica Frazelle</h3>
                                 <p><a href="http://twitter.com/jessfraz">@jessfraz</a></p>
                                 <p>Linux / Open Source</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </a>
+        </li>
+        <li>
+            <a href="./jim-bennett" data-linktype="internal">
+                <div class="cardSize">
+                    <div class="cardPadding">
+                        <div class="card">
+                            <div class="cardImageOuter">
+                                <div class="cardImage">
+                                    <img src="media/profiles/jim-bennett.png" alt="Picture of Jim Bennett" data-linktype="internal"
+                                         style="border-radius:50%; width:150px;height:150px;">
+                                </div>
+                            </div>
+                            <div class="cardText">
+                                <h3>Jim Bennett</h3>
+                                <p><a href="http://twitter.com/jimbobbennett">@jimbobbennett</a></p>
+                                <p>Xamarin / .NET</p>
                             </div>
                         </div>
                     </div>
