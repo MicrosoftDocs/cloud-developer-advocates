@@ -10,7 +10,7 @@ metadata:
   description: Trusted advisors to developer and IT professionals.
   twitterWidgets: true
   hide_bc: true
-mode: list
+mode: map
 profiles:
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
