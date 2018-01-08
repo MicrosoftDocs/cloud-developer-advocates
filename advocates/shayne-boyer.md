@@ -15,6 +15,7 @@ ms.author: shboyer
 
 
 ## Connect
+
 [Twitter](https://twitter.com/spboyer ) | [LinkedIn](https://linkedin.com/in/shayneboyer ) | [WebBlog](https://tattoocoder.com) | [Github](https://github.com/spboyer )
 
 ## Bio
@@ -34,3 +35,10 @@ I love to teach regardless of the student, and I'm not afraid to be the student.
 * .NET / .NET Core
 * Docker
 * Node.js
+
+## Upcoming Events
+
+* [Tech Summit Frankfurt 2018](https://www.microsoft.com/de-de/techsummit/frankfurt) (_Frankfurt, Germany_)
+* [Microsoft MVP Summit](https://mvp.microsoft.com/summit) (_Redmond, Wa_)
+* [Tech Summit Paris](https://www.microsoft.com/fr-fr/techsummit/paris) (_Paris, France_)
+* [Tech Summit Stockholm](https://www.microsoft.com/sv-se/techsummit/stockholm) (_Stockholm, Sweden_)
