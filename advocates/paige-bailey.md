@@ -19,6 +19,8 @@ ms.author: pabailey
 
 ## Bio
 
+Howdy, folks! Glad you found me. :)
+
 My education was focused on the earth sciences (geophysics, carbonate geology) and computer science (data analytics); and previous work experience was geared toward data science and plug-in development for the energy industry. Technical skills: **Python** (10 years) and **R** (4 years), with 2 years' experience building data science products using **Hadoop** and its associated dongles (especially Spark). 
 
 When I'm not sitting in front of glowing rectangular screens at work, I absolutely adore hiking / kayaking / mountain-biking around Texas' glorious Green Belt; resuscitating Apples; and (poorly!) attempting to play bass guitar. Personal passions are sustainable energy and climate change research; STEM education reform; and empowering local governments via data science  [https://twitter.com/DynamicWebPaige](https://twitter.com/DynamicWebPaige)
@@ -30,11 +32,10 @@ When I'm not sitting in front of glowing rectangular screens at work, I absolute
 ## Upcoming Events
 
 * [Tech Summit Toronto 2017](https://www.microsoft.com/en-ca/techsummit/toronto) (_Toronto, Canada_)
-* [Tech Summit Berlin 2018](https://www.microsoft.com/en-gb/techsummit/birmingham) (_Berlin, Germany_)
-* [Tech Summit Munich 2017](https://www.microsoft.com/en-ca/techsummit/toronto) (_Munich, Germany_)
-* [Tech Summit Paris 2017](https://www.microsoft.com/en-ca/techsummit/toronto) (_Paris, France_)
-* [Tech Summit Birmingham 2018](https://www.microsoft.com/en-gb/techsummit/birmingham) (_Birmingham, Al_)
-* [Data Day Texas 2018](http://datadaytexas.com/) (_Austin, TX_)
+* [Tech Summit Berlin 2018](https://www.microsoft.com/en-gb/techsummit/berlin) (_Berlin, Germany_)
+* [Tech Summit Munich 2018](https://www.microsoft.com/en-ca/techsummit/munich) (_Munich, Germany_)
+* [Tech Summit Paris 2018](https://www.microsoft.com/en-ca/techsummit/paris) (_Paris, France_)
+* [Tech Summit Birmingham 2018](https://www.microsoft.com/en-gb/techsummit/birmingham) (_Birmingham, UK_)
 * [Anaconda Con 2018](https://2018.anacondacon.io/) (_Austin, TX_)
 * [Tech Summit Frankfurt 2018](https://www.microsoft.com/de-de/techsummit/frankfurt) (_Frankfurt, Germany_)
 * [Tech Summit Switzerland 2018](https://www.microsoft.com/en-us/techsummit/default.aspx) (_Zurich, Switzerland_)
