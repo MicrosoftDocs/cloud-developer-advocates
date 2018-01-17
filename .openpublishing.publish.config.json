@@ -13,7 +13,8 @@
             "type_mapping": {
                 "Conceptual": "Content",
                 "Profile": "Content",
-                "ProfileList": "Content"
+                "ProfileList": "Content",
+                "Twitter": "Content"
             },
             "build_entry_point": "docs",
             "template_folder": "_themes"
