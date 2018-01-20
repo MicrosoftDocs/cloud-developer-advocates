@@ -21,4 +21,7 @@ twitter: https://twitter.com/paladique
 github: https://github.com/paladique
 stackoverflow: https://stackoverflow.com/users/5040855/jasmine
 linkedin: https://linkedin.com/in/jasminegreenaway
-location: Brooklyn USA
+location:
+  display: Brooklyn, USA
+  lat: 40.67417
+  long: -74.025653

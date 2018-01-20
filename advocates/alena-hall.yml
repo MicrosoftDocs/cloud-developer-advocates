@@ -59,5 +59,6 @@ twitter: https://twitter.com/lenadroid
 github: https://github.com/lenadroid
 blog: http://lenadroid.github.io/posts.html
 linkedin: https://www.linkedin.com/in/alenadzenisenka/
-location: USA
+location:
+  display: USA
 

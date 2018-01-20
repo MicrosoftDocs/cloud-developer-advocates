@@ -30,4 +30,6 @@ github: https://github.com/MaximRouiller
 blog: https://blog.decayingcode.com
 stackoverflow: https://stackoverflow.com/users/24975/maxime-rouiller
 linkedin: https://linkedin.com/in/MaximRouiller
-location: Canada
+location:
+  display: Canada
+

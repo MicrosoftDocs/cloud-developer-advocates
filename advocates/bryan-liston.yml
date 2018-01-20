@@ -26,4 +26,7 @@ github: https://github.com/listonb
 facebook: https://facebook.com/listonb
 instagram: https://www.instagram.com/listonb
 linkedin: https://linkedin.com/in/listonb
-location: Redmond US
+location:
+  display: Redmond, Washington, United States
+  lat: 47.679194
+  long: -122.153322

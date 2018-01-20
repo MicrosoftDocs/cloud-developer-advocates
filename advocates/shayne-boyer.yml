@@ -23,12 +23,9 @@ image:
   alt: "Shayne Boyer Cloud Developer Advocate"
   src: media/profiles/shayne-boyer.png
 twitter: https://twitter.com/spboyer
-github: http://github.com
 blog: https://tattoocoder.com/
-website: http://www.bing.com
-podcast: http://www.bing.com
-facebook: http://www.facebook.com
-instagram: http://www.instagram.com
-stackoverflow: http://www.stackoverflow.com
 linkedin: https://linkedin.com/in/shayneboyer
-location: De Land USA
+location:
+  display: DeLand, Florida, United States
+  lat: 29.022108
+  long: -81.312887

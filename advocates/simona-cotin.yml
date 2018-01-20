@@ -24,4 +24,7 @@ image:
 twitter: https://twitter.com/simona_cotin
 github: https://github.com/simonaco
 linkedin: https://linkedin.com/in/simona-cotin
-location: Reading UK
+location:
+  display: Reading, United Kingdom
+  lat: 51.458046
+  long: -1.012501

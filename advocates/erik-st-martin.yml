@@ -30,4 +30,7 @@ github: https://github.com/erikstmartin
 blog: https://erikstmartin.com/
 podcast: https://changelog.com/gotime
 linkedin: https://www.linkedin.com/in/erikstmartin/
-location: LAND O LAKES US
+location:
+  display: Land O' Lakes, Florida, United States
+  lat: 28.222353
+  long: -82.47148

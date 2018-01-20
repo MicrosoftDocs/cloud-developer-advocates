@@ -19,4 +19,7 @@ image:
 twitter: https://twitter.com/zdeptawa
 github: http://github.com/zdeptawa
 linkedin: https://linkedin.com/in/zdeptawa
-location: San Antonio USA
+location:
+  display: San Antonio, Texas, United States
+  lat: 29.486311
+  long: -98.872145
