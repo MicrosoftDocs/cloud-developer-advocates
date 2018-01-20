@@ -22,4 +22,7 @@ github: https://github.com/bbenz
 website: http://brianbenz.com/
 stackoverflow: https://stackoverflow.com/users/2716150/bbenz
 linkedin: https://linkedin.com/in/brianbenz
-location: Las Vegas US
+location:
+  display: Las Vegas, Nevada, United States
+  lat: 36.23005
+  long: -115.544269

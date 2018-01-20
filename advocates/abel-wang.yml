@@ -16,4 +16,7 @@ image:
   src: media/profiles/abel-wang.png
 twitter: https://twitter.com/AbelSquidHead
 linkedin: https://linkedin.com/in/abel-wang-9a37694
-location: Redmond USA
+location:
+  display: Redmond, Washington, United States
+  lat: 47.679194
+  long: -122.153322

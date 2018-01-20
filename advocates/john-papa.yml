@@ -31,4 +31,5 @@ github: https://github.com/johnpapa
 blog: https://johnpapa.net
 instagram: https://www.instagram.com/thejohnpapa
 linkedin: https://linkedin.com/in/papajohn
-location: Windermere USA
+location:
+  display: Windermere, USA
