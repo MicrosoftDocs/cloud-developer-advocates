@@ -27,15 +27,16 @@ When I'm not sitting in front of glowing rectangular screens at work, I absolute
 
 ## Technical Skills
 
-* Data / Machine Learning / Artificial Intelligence
+* Data Science
+* Machine Learning
+* Artificial Intelligence
+* Distributed Computing
+* Blockchain
 
 ## Upcoming Events
 
-* [Tech Summit Toronto 2017](https://www.microsoft.com/en-ca/techsummit/toronto) (_Toronto, Canada_)
-* [Tech Summit Berlin 2018](https://www.microsoft.com/en-gb/techsummit/berlin) (_Berlin, Germany_)
-* [Tech Summit Munich 2018](https://www.microsoft.com/en-ca/techsummit/munich) (_Munich, Germany_)
-* [Tech Summit Paris 2018](https://www.microsoft.com/en-ca/techsummit/paris) (_Paris, France_)
-* [Tech Summit Birmingham 2018](https://www.microsoft.com/en-gb/techsummit/birmingham) (_Birmingham, UK_)
+* [Red Shirt Dev Tour - Paris 2018](https://www.microsoft.com/en-ca/techsummit/paris) (_Paris, France_)
+* [Red Shirt Dev Tour - Birmingham 2018](https://www.microsoft.com/en-gb/techsummit/birmingham) (_Birmingham, UK_)
 * [Anaconda Con 2018](https://2018.anacondacon.io/) (_Austin, TX_)
 * [Tech Summit Frankfurt 2018](https://www.microsoft.com/de-de/techsummit/frankfurt) (_Frankfurt, Germany_)
 * [Tech Summit Switzerland 2018](https://www.microsoft.com/en-us/techsummit/default.aspx) (_Zurich, Switzerland_)
@@ -57,3 +58,6 @@ When I'm not sitting in front of glowing rectangular screens at work, I absolute
 * [CodeMotion Madrid 2017](https://2017.codemotion.es/en/) (_Madrid, Spain_)
 * [PyData NYC 2017](https://pydata.org/nyc2017/) (_New York City, NY_)
 * [DISC Unconference 2017](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/) (_New York City, NY_)
+* [Tech Summit Toronto 2017](https://www.microsoft.com/en-ca/techsummit/toronto) (_Toronto, Canada_)
+* [Tech Summit Berlin 2018](https://www.microsoft.com/en-gb/techsummit/berlin) (_Berlin, Germany_)
+* [Tech Summit Munich 2018](https://www.microsoft.com/en-ca/techsummit/munich) (_Munich, Germany_)
