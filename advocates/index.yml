@@ -39,7 +39,7 @@ profiles:
   image:
     src: media/profiles/alena-hall.png
     alt: "Alena Hall Cloud Developer Advocate" 
-
+  location:
 
 
 
