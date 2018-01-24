@@ -39,6 +39,10 @@ profiles:
   image:
     src: media/profiles/alena-hall.png
     alt: "Alena Hall Cloud Developer Advocate" 
+  location: 
+    display: USA
+
+
   twitter: lenadroid
 - uid: advocates.anthony-chu
   name: Anthony Chu
@@ -125,6 +129,8 @@ profiles:
     alt: "Brian Peek Cloud Developer Advocate"
   location: 
     display: Glenville, USA
+
+
   twitter: BrianPeek
 - uid: advocates.bridget-kromhout
   name: Bridget Kromhout
@@ -156,6 +162,8 @@ profiles:
     alt: "Burke Holland Cloud Developer Advocate"
   location: 
     display: Franklin, USA
+
+
   twitter: burkeholland
 - uid: advocates.cecil-phillip
   name: Cecil Phillip
@@ -187,6 +195,8 @@ profiles:
     alt: "Donovan Brown Cloud Developer Advocate"
   location: 
     display: Spring, USA
+
+
   twitter: DonovanBrown
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
@@ -229,6 +239,8 @@ profiles:
     alt: "Jessica Frazelle Cloud Developer Advocate"
   location: 
     display: USA
+
+
   twitter: jessfraz
 - uid: advocates.john-papa
   name: John Papa
@@ -249,6 +261,8 @@ profiles:
     alt: "Kris Nova Cloud Developer Advocate"
   location: 
     display: USA
+
+
   twitter: Kris__Nova
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
@@ -269,6 +283,8 @@ profiles:
     alt: "Matthew Soucoup Cloud Developer Advocate"
   location: 
     display: USA
+
+
   twitter: codemillmatt
 - uid: advocates.maxime-rouiller
   name: Maxime Rouiller
@@ -278,6 +294,8 @@ profiles:
     alt: "Maxime Rouiller Cloud Developer Advocate"
   location: 
     display: Canada
+
+
   twitter: maximrouiller
 - uid: advocates.paige-bailey
   name: Paige Bailey
@@ -320,6 +338,8 @@ profiles:
     alt: "Sarah Drasner Cloud Developer Advocate"
   location: 
     display: Brighton, USA
+
+
   twitter: sarah_edo
 - uid: advocates.scott-cate
   name: Scott Cate
