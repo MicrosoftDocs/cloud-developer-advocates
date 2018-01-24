@@ -23,4 +23,6 @@ github: https://github.com/cecilphillip
 blog: http://cecilphillip.com
 stackoverflow: https://stackoverflow.com/users/333082/cecilphillip
 location:
-  display: Plantation, USA
+  display: Plantation, Florida, United States
+  lat: 26.1267513
+  long: -80.2989968
