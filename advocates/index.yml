@@ -39,10 +39,10 @@ profiles:
   image:
     src: media/profiles/alena-hall.png
     alt: "Alena Hall Cloud Developer Advocate" 
-  location: 
-    display: USA
-    lat: 
-    long: 
+
+
+
+
   twitter: lenadroid
 - uid: advocates.anthony-chu
   name: Anthony Chu
@@ -129,8 +129,8 @@ profiles:
     alt: "Brian Peek Cloud Developer Advocate"
   location: 
     display: Glenville, USA
-    lat: 
-    long: 
+
+
   twitter: BrianPeek
 - uid: advocates.bridget-kromhout
   name: Bridget Kromhout
@@ -162,8 +162,8 @@ profiles:
     alt: "Burke Holland Cloud Developer Advocate"
   location: 
     display: Franklin, USA
-    lat: 
-    long: 
+
+
   twitter: burkeholland
 - uid: advocates.cecil-phillip
   name: Cecil Phillip
@@ -172,9 +172,9 @@ profiles:
     src: media/profiles/cecil-phillip.png
     alt: "Cecil Phillip Cloud Developer Advocate"
   location: 
-    display: Plantation, USA
-    lat: 
-    long: 
+    display: Plantation, Florida, United States
+    lat: 26.1267513
+    long: -80.2989968
   twitter: cecilphillip
 - uid: advocates.damian-brady
   name: Damian Brady
@@ -195,8 +195,8 @@ profiles:
     alt: "Donovan Brown Cloud Developer Advocate"
   location: 
     display: Spring, USA
-    lat: 
-    long: 
+
+
   twitter: DonovanBrown
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
@@ -216,7 +216,7 @@ profiles:
     src: media/profiles/jasmine-greenaway.png
     alt: "Jasmine Greenaway Cloud Developer Advocate"
   location: 
-    display: Brooklyn, USA
+    display: Brooklyn,  New York, United States
     lat: 40.67417
     long: -74.025653
   twitter: paladique
@@ -227,9 +227,9 @@ profiles:
     src: media/profiles/jeremy-likness.png
     alt: "Jeremy Likness Cloud Developer Advocate"
   location: 
-    display: Woodstock, USA
-    lat: 
-    long: 
+    display: Woodstock, New York, United States
+    lat: 42.0409831
+    long: -74.1533024
   twitter: JeremyLikness
 - uid: advocates.jessica-frazelle
   name: Jessica Frazelle
@@ -239,8 +239,8 @@ profiles:
     alt: "Jessica Frazelle Cloud Developer Advocate"
   location: 
     display: USA
-    lat: 
-    long: 
+
+
   twitter: jessfraz
 - uid: advocates.john-papa
   name: John Papa
@@ -249,9 +249,9 @@ profiles:
     src: media/profiles/john-papa.png 
     alt: "John Papa Cloud Developer Advocate"
   location: 
-    display: Windermere, USA
-    lat: 
-    long: 
+    display: Windermere, Florida, United States
+    lat: 28.5029917
+    long: -81.5538575
   twitter: john_papa
 - uid: advocates.kris-nova
   name: Kris Nova
@@ -261,8 +261,8 @@ profiles:
     alt: "Kris Nova Cloud Developer Advocate"
   location: 
     display: USA
-    lat: 
-    long: 
+
+
   twitter: Kris__Nova
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
@@ -283,8 +283,8 @@ profiles:
     alt: "Matthew Soucoup Cloud Developer Advocate"
   location: 
     display: USA
-    lat: 
-    long: 
+
+
   twitter: codemillmatt
 - uid: advocates.maxime-rouiller
   name: Maxime Rouiller
@@ -294,8 +294,8 @@ profiles:
     alt: "Maxime Rouiller Cloud Developer Advocate"
   location: 
     display: Canada
-    lat: 
-    long: 
+
+
   twitter: maximrouiller
 - uid: advocates.paige-bailey
   name: Paige Bailey
@@ -338,8 +338,8 @@ profiles:
     alt: "Sarah Drasner Cloud Developer Advocate"
   location: 
     display: Brighton, USA
-    lat: 
-    long: 
+
+
   twitter: sarah_edo
 - uid: advocates.scott-cate
   name: Scott Cate
