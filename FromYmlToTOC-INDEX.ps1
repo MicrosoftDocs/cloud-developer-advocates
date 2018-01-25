@@ -339,7 +339,7 @@ function Format-Index-Yaml {
                     {
                         $twitter = $indent + 'twitter: '  + $_.twitter.Replace('https://twitter.com/', '')
                     }
-                    return $uid, $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long, $twitter -join [Environment]::NewLine
+                    return ($uid , $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long, $twitter | Where-Object { $_.Length -gt 0 } )-join [Environment]::NewLine
                 }
         } else {
             Write-Host "No children found"
