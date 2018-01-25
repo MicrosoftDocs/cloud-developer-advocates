@@ -10,8 +10,8 @@ function Get-DocumentMetadata {
     )
 
     $properties = @{
-        'Title' = $file.Name
-		'UID' = $file.Name
+        'Title' = ''
+		'UID' = ''
         'RelativePath' = $relativepath.TrimStart('/')
         'Parent' = $file.DirectoryName
         'FileName' = $file.Name
@@ -20,6 +20,10 @@ function Get-DocumentMetadata {
         'imageSrc' = ''
         'twitter' = ''
         'location' = ''
+        'display' = ''
+        'lat' = ''
+        'long' = ''
+
 
     }
 
@@ -30,22 +34,25 @@ function Get-DocumentMetadata {
 
     if ($file.Extension -eq '.yml') {
         
-        if($file.Name -eq 'index.html.yml')
+        if($file.Name -eq 'index.yml')
         {
 			$script:indexTitle = Get-IndexTitle -file $file
         }
         
         $title = Get-YamlProp -file $file -propName 'name'
-        $metadata.Title = if ($title) { $title } else { $file.Name }
+        $metadata.Title = if ($title) { $title } 
 		
 		$uid = Get-YamlProp -file $file -propName 'uid'
-        $metadata.UID = if ($uid) { $uid } else { $file.Name }
+        $metadata.UID = if ($uid) { $uid }
 
         $metadata.tagline = Get-YamlProp -file $file -propName 'tagline'
         $metadata.twitter = Get-YamlProp -file $file -propName 'twitter'
-        $metadata.location = Get-YamlProp -file $file -propName 'location'
+        #$metadata.location = Get-YamlProp -file $file -propName 'location'
         $metadata.imageAlt = Get-YamlProp -file $file -propName '  alt'
         $metadata.imageSrc = Get-YamlProp -file $file -propName '  src'
+        $metadata.display = Get-YamlProp -file $file -propName '  display'
+        $metadata.lat = Get-YamlProp -file $file -propName '  lat'
+        $metadata.long = Get-YamlProp -file $file -propName '  long'
 
         return $metadata
     }
@@ -121,7 +128,8 @@ function Get-YamlProp {
         {    
             return $linegroup.Replace($propName+':', '').TrimStart(' ')
         }
-    }    
+    } 
+    return "";   
 }
 
 function Remove-RootPath {
@@ -144,8 +152,10 @@ function Check-GlobMatch {
         $match = $matchpath -match $pattern_regex
 
         Write-Verbose "Path $matchpath matches $pattern_regex : $match"
-
+        if($match -eq $true)
+        {
         return $match
+        }
     }
 
     return $false
@@ -218,16 +228,118 @@ function Format-Index-Yaml {
     
             $IndexFilecontent = $children `
                 | ForEach-Object {
-                    $uid =  $startobject + 'uid: ' + $_.UID
-                    $name = $indent + 'name: ' + $_.Title
-                    $tagline = $indent + 'tagline: ' + $_.tagline
-                    $image = $indent + 'image:'
-                    $imageSrc = $indent + '  src: ' + $_.imageSrc
-                    $imageAlt = $indent + '  alt: ' + $_.imageAlt
-                    $location = $indent + 'location: ' + $_.location
-                    $twitter = $indent + 'twitter: ' + $_.twitter.Replace('https://twitter.com/', '')
-                
-                    return $uid, $name, $tagline, $image, $imageSrc, $imageAlt, $location, $twitter -join [Environment]::NewLine
+
+                    $uidVal =  $_.UID
+                    IF([string]::IsNullOrEmpty($uidVal))
+                    {
+                        $uid = ''
+                    }
+                    else
+                    {
+                        $uid =  $startobject + 'uid: ' + $_.UID 
+                    }
+                    
+                    $nameVal = $_.Title
+                    IF([string]::IsNullOrEmpty($nameVal))
+                    {
+                        $name = ''
+                    }
+                    else
+                    {
+                        $name = $indent + 'name: ' + $_.Title 
+                    }
+
+                    $taglineVal = $_.tagline
+                    IF([string]::IsNullOrEmpty($taglineVal))
+                    {
+                        $tagline = ''
+                    }
+                    else
+                    {
+                        $tagline = $indent + 'tagline: ' + $_.tagline
+                    }
+
+                    ### Image properties
+                    $imageSrcVal = $_.imageSrc
+                    IF([string]::IsNullOrEmpty($imageSrcVal))
+                    {
+                        $imageSrc = ''
+                    }
+                    else
+                    {
+                        $imageSrc = $indent + '  src: ' + $_.imageSrc 
+                    }
+
+                    $imageAltVal = $_.imageAlt
+                    IF([string]::IsNullOrEmpty($imageAltVal))
+                    {
+                        $imageAlt = ''
+                    }
+                    else
+                    {
+                        $imageAlt = $indent + '  alt: ' + $_.imageAlt
+                    }
+
+                    IF([string]::IsNullOrEmpty($imageAltVal) -and [string]::IsNullOrEmpty($imageSrcVal))
+                    {
+                        $image = ''
+                    }
+                    else
+                    {
+                        $image = $indent + 'image:' 
+                    }
+
+                    ### Location properties
+                    $displayVal = $_.display
+                    IF([string]::IsNullOrEmpty($displayVal))
+                    {
+                        $display = ''
+                    }
+                    else
+                    {
+                        $display = $indent + '  display: ' + $_.display 
+                    }
+
+
+                    $latVal = $_.lat
+                    IF([string]::IsNullOrEmpty($latVal))
+                    {
+                        $lat = ''
+                    }
+                    else
+                    {
+                        $lat = $indent + '  lat: ' + $_.lat 
+                    }
+
+                    $longVal = $_.long
+                    IF([string]::IsNullOrEmpty($longVal))
+                    {
+                        $long = ''
+                    }
+                    else
+                    {
+                        $long = $indent + '  long: ' + $_.long 
+                    }
+                    
+                    IF([string]::IsNullOrEmpty($displayVal) -and [string]::IsNullOrEmpty($latVal) -and [string]::IsNullOrEmpty($longVal))
+                    {
+                        $location = $null
+                    }
+                    else
+                    {
+                        $location = $indent + 'location: ' 
+                    }
+
+                    $twitterval = $_.twitter
+                    IF([string]::IsNullOrEmpty($twitterval))
+                    {
+                        $twitter = ''
+                    }
+                    else
+                    {
+                        $twitter = $indent + 'twitter: '  + $_.twitter.Replace('https://twitter.com/', '')
+                    }
+                    return $uid, $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long, $twitter -join [Environment]::NewLine
                 }
         } else {
             Write-Host "No children found"
@@ -266,7 +378,8 @@ foreach ($source_folder in $source_folders) {
     $docfx_dir = [System.IO.Path]::GetFullPath((Join-Path $directory $source_folder))
     $docfx_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'docfx.json'))
     $toc_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'toc.yml'))
-    $index_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'index.html.yml'))
+    $index_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'index.yml'))
+    $map_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'map.yml'))
 
     Write-Verbose "Found docfx json: $docfx_path"
 
@@ -275,7 +388,8 @@ foreach ($source_folder in $source_folders) {
     $docfx_json = Get-Content -Raw $docfx_path | Out-String | ConvertFrom-Json
     $includes = $docfx_json.build.content.files
     $excludes = $docfx_json.build.content.exclude
-    $excludes = "**/toc.*" # Exclude TOC files.
+    $excludes = "**/toc.*", "**/map.*", "**/tweets.*"  # Exclude TOC, map and tweets files.
+
 
     #using @' '@  to avoid new line formatting notation 
     $content = @'
@@ -287,13 +401,32 @@ items:
 ### YamlMime:ProfileList
 title: Cloud Developer Advocates
 description: |
-  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let’s meet up and talk cloud and all things developer!
-  > [!div class="banner-container"]
-  ![Microsoft + Advocate logo](https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png)
+  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
+focalImage:
+  src: https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png
+  alt: "Alternative text for the image"
 metadata:
   title: Microsoft Cloud Developer Advocates
   description: Trusted advisors to developer and IT professionals.
   twitterWidgets: true
+  hide_bc: true
+profiles:
+'@
+
+ $MapFilecontent = @' 
+### YamlMime:ProfileList
+title: Cloud Developer Advocates
+description: |
+  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
+focalImage:
+  src: https://developer.microsoft.com/en-us/advocates/media/bitmicrosoft.png
+  alt: "Alternative text for the image"
+metadata:
+  title: Microsoft Cloud Developer Advocates
+  description: Trusted advisors to developer and IT professionals.
+  twitterWidgets: true
+  hide_bc: true
+mode: map
 profiles:
 '@
 
@@ -312,7 +445,12 @@ profiles:
     ForEach-Object -Begin { return $IndexFilecontent } -Process { Format-Index-Yaml -object $objects } `
         | Out-File -filepath $index_path
 
+        # writing to map file 
+    ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `
+        | Out-File -filepath $map_path
+
 
     Write-Verbose "Generated table of contents at $toc_path"
     Write-Verbose "Generated Index file at $index_path"
+    Write-Verbose "Generated map file at $map_path"
 }
