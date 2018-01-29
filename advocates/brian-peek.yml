@@ -38,4 +38,6 @@ github: https://github.com/BrianPeek
 blog: https://brianpeek.com
 linkedin: https://linkedin.com/in/BrianPeek
 location:
-  display: Glenville, USA
+  display: Glenville, NY, USA
+  lat: 42.8925758
+  lon: -73.9787366
