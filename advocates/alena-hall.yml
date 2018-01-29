@@ -6,12 +6,12 @@ metadata:
   description: Home page for Alena Hall, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
-  My current focus is High Scale, Big Data and Distributed Systems.
-  
+  Senior Cloud Developer Advocate focusing on High Scale, Big Data, Distributed Systems and adjacent areas like Machine Learning and Data Science.
+
   Previously Senior Software Engineer at Microsoft Research. Having worked in roles from a Software Engineer to Solutions Architect, I have more than 10 years of professional experience and have done engineering within numerous technological streams, consisting of Big Data, Distributed Systems, Deployment and Machine Learning. Programming in .NET C#/F#, Java/Scala, Python, Bash + lots of frameworks for each stack. Designed and implemented large-scale, performant, distributed cloud-native architecture (e.g. with Hadoop, Kubernetes, MBrace, etc.), big data, deployments (containers, Terraform, Packer, etc.), functional programming and machine learning, delivering low latencies, high throughput and efficient data processing.
-  
+
   I love interesting conferences and exchange of experience related to distributed systems, big data, cloud, functional programming, machine learning and similar topics!
-  
+
   ## Skills
   * High Scale
   * Big Data
@@ -22,6 +22,7 @@ remarks: |
   * A few more events coming soon!
 
   ## Recent and previous talks:
+  * Podcast: [Hanselminutes](https://www.hanselminutes.com/613/functional-programming-f-and-cloud-containers-with-lena-hall)
   * Keynote at [Open FSharp](http://openfsharp.org/)
   * Intuitive Distributed Algorithms with F#, [O’Reilly OSCON 2017](https://conferences.oreilly.com/oscon/oscon-tx)
   * Verification of Distributed Algorithms using TLA+, [Seattle Scalability Meetup](https://www.meetup.com/Seattle-Scalability-Meetup/)
@@ -40,12 +41,14 @@ remarks: |
   * Embracing Clouds: F#, MBrace and Azure, [.NET Fringe 2015](http://2015.dotnetfringe.org/)
   * Podcast: [Developer on Fire - Alena Hall](http://developeronfire.com/podcast/episode-205-alena-hall-prepared-mind)
 
-  ## Organizing and supporting in my free time:
+  ## Organizing and supporting:
   * [F# Software Foundation](http://fsharp.org/) Board of Trustees Member, elected by the community, 2015 - Currently
   * Organizer of [.NET Fringe](http://dotnetfringe.org/), June 4 - 6,   2017, Portland, OR
   * Organizer of [.NET Fringe](http://2016.dotnetfringe.org/), July 10 - 12, 2016, Portland, OR
 
-  ## Loved and popular blog posts about things I enjoy:
+  ## Interesting articles:
+  * [Using Spark on Databricks to consume data from Event Hubs](http://lenadroid.github.io/posts/connecting-spark-and-eventhubs.html)
+  * [Running a Distributed Database on Kubernetes on Azure](http://lenadroid.github.io/posts/stateful-sets-kubernetes-azure.html)
   * [Vital things an architect must know about adjustable and flexible system design](https://lenadroid.github.io/posts/adjustable-flexible-architecture.html)
   * [About Cassandra on Docker with F#](https://lenadroid.github.io/posts/cassandra-docker-fsharp.html)
   * [Learn the machine!](https://lenadroid.github.io/posts/machine-learning-fsharp-accorddotnet.html)
@@ -53,12 +56,14 @@ remarks: |
 
 tagline: High Scale / Big Data
 image:
-  alt: "Alena Hall Cloud Developer Advocate" 
+  alt: "Alena Hall Cloud Developer Advocate"
   src: media/profiles/alena-hall.png
 twitter: https://twitter.com/lenadroid
 github: https://github.com/lenadroid
 blog: http://lenadroid.github.io/posts.html
 linkedin: https://www.linkedin.com/in/alenadzenisenka/
 location:
-  display: USA
+  display: Seattle, Washington, United States
+  lat: 47.60621
+  long: -122.33207
 
