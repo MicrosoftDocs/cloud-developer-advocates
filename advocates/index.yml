@@ -119,7 +119,7 @@ profiles:
   twitter: bketelsen
 - uid: advocates.brian-peek
   name: Brian Peek
-  tagline: Emerging / Gaming
+  tagline: Gaming
   image:
     src: media/profiles/brian-peek.png
     alt: "Brian Peek Cloud Developer Advocate"
