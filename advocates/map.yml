@@ -236,15 +236,6 @@ profiles:
   location:
     display: Windermere USA
   twitter: john_papa
-- uid: advocates.kris-nova
-  name: Kris Nova
-  tagline: Linux
-  image:
-    src: media/profiles/kris-nova.png
-    alt: "Kris Nova Cloud Developer Advocate"
-  location:
-    display: USA
-  twitter: Kris__Nova
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Xamarin

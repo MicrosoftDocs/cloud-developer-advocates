@@ -2,7 +2,7 @@
 uid: advocates.burke-holland
 name: Burke Holland
 metadata:
-  title: Burke Holland - Cloud Advocate
+  title: Burke Holland - Developer Advocate - Gloriously Bald
   description: Home page for Burke Holland, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio 🔥
@@ -19,6 +19,8 @@ remarks: |
   * Node.js
   * React
   * NativeScript
+  * Napping
+  * Making lists of skills
 
   ## My Projects 👩‍💻
   * [React Express Starter Kit](http://bitly.com/express-react-starter)
@@ -28,7 +30,7 @@ remarks: |
   * [NativeScript LanScan](https://github.com/burkeholland/nativescript-lan-scan)
   * [Instasharp](https://github.com/instasharp)
 
-tagline: JavaScript / Node.js / Python
+tagline: JavaScript / Node.js
 image:
   alt: "Burke Holland Cloud Developer Advocate"
   src: media/profiles/burke-holland.png

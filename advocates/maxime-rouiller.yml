@@ -31,5 +31,6 @@ blog: https://blog.decayingcode.com
 stackoverflow: https://stackoverflow.com/users/24975/maxime-rouiller
 linkedin: https://linkedin.com/in/MaximRouiller
 location:
-  display: Canada
-
+  display: Montréal, Québec, Canada
+  lat: 45.5017
+  long: -73.5673
