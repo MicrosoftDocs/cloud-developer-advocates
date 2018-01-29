@@ -1,4 +1,4 @@
-### YamlMime:Profile
+ T### YamlMime:Profile
 uid: advocates.donovan-brown
 name: Donovan Brown
 metadata:
@@ -26,4 +26,6 @@ facebook: https://www.facebook.com/darquewarrior/
 instagram: https://www.instagram.com/darquewarrior/
 linkedin: https://www.linkedin.com/in/donovanb/
 location:
-  display: Spring, USA
+  display: Spring, Texas, USA
+  lat: 30.08453° N
+  long: -95.41929° E
