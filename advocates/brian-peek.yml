@@ -13,10 +13,10 @@ remarks: |
   I have self-published or dabbled in building modern and retro gamedev projects on PC, iOS, Android, Xbox One, Xbox 360, Dreamcast, Neo Geo Pocket, Atari Lynx, Gameboy, Apple II(gs), and more.  When I'm not working, you'll find me restoring the pinballs in my garage, playing a game, or working on yet another gamedev or emulation project.
 
   ## Skills
-  * GameDev
+  * Game Development
+  * VR / AR / MR
   * Emerging tech
   * IoT / hardware
-  * VR / AR / MR
   * .NET / C#
   * C++
 
@@ -29,7 +29,7 @@ remarks: |
   * [LEGO EV3 API](https://github.com/BrianPeek/legoev3)
   * [And more...](https://brianpeek.com/projects/)  
 
-tagline: Emerging / Gaming
+tagline: Gaming
 image:
   alt: "Brian Peek Cloud Developer Advocate"
   src: media/profiles/brian-peek.png
@@ -38,4 +38,6 @@ github: https://github.com/BrianPeek
 blog: https://brianpeek.com
 linkedin: https://linkedin.com/in/BrianPeek
 location:
-  display: Glenville, USA
+  display: Glenville, NY, USA
+  lat: 42.8925758
+  long: -73.9787366
