@@ -17,6 +17,7 @@ remarks: |
   I am based in New Zealand with my wife and two children, but I travel to conferences frequently to help grow the Java on Azure ecosystem.
   ## Skills
   - Java
+  - API design and implementation
   - UI Framework design and implementation
 tagline: Java
 image:
@@ -27,4 +28,4 @@ github: https://github.com/JonathanGiles
 stackoverflow: https://stackoverflow.com/users/775663/jonathan-giles
 linkedin: http://linkedin.com/in/jonathangiles
 location:
-  display: Usa
+  display: Palmerston North, New Zealand
