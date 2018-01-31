@@ -183,6 +183,15 @@ profiles:
     lat: 26.1267513
     long: -80.2989968
   twitter: cecilphillip
+- uid: advocates.christina-warren
+  name: Christina Warren
+  tagline: HTML
+  image:
+    src: media/profiles/christina-warren.png
+    alt: "Christina Warren Cloud Developer Advocate"
+  location: 
+    display: Redmond, Washington, United States
+  twitter: film_girl
 - uid: advocates.damian-brady
   name: Damian Brady
   tagline: DevOps
@@ -413,6 +422,15 @@ profiles:
     lat: 43.107377
     long: -88.543443
   twitter: stevenmurawski
+- uid: advocates.susan-hinton
+  name: Susan Hinton
+  tagline: Linux
+  image:
+    src: media/profiles/susan-hinton.png
+    alt: "Susan Hinton Cloud Developer Advocate"
+  location: 
+    display: Brooklyn, NewYork, United States
+  twitter: noopkat
 - uid: advocates.tim-heuer
   name: Tim Heuer
   tagline: .NET / Xamarin
