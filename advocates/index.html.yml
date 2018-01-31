@@ -254,6 +254,15 @@ profiles:
     lat: 34.102171
     long: -84.516173
   twitter: JeremyLikness
+- uid: advocates.jessica-deen
+  name: Jessica Deen
+  tagline: Linux / Open Source
+  image:
+    src: media/profiles/jessica-deen.png
+    alt: "Jessica Deen Cloud Developer Advocate"
+  location: 
+    display: Morgan Hill, CA, USA
+  twitter: jldeen
 - uid: advocates.jessica-frazelle
   name: Jessica Frazelle
   tagline: Linux / Open Source
