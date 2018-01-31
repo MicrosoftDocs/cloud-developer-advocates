@@ -1,0 +1,29 @@
+### YamlMime:Profile
+uid: advocates.brian-holt
+name: Brian Holt
+metadata:
+  title: Brian Holt - Developer Advocate
+  description: Home page for Brian Holt, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  I'm a JavaScript and Node developer and since you've started reading this profile, another two JavaScript frameworks have been introduced. I'm now trying to make up for years of trying to waste your time after working at Netflix, Reddit, and LinkedIn by helping you be more productive and happy working in the cloud.
+
+  ## Skills
+  * JavaScript
+  * Node.js
+  * React
+  * Web Performance
+  * Frontend Infrastructure
+
+tagline: JavaScript / Node.js
+image:
+  alt: "Brian Holt Cloud Developer Advocate"
+  src: media/profiles/brian-holt.png
+twitter: https://twitter.com/holtbt
+facebook: https://facebook.com/btholt
+instagram: https://www.instagram.com/briantholt
+linkedin: https://linkedin.com/in/btholt
+location:
+  display: San Fransico, USA
+  lat: 37.760999
+  long: -122.427065
