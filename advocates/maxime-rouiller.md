@@ -15,11 +15,11 @@ ms.author: marouill
 
 
 ## Connect
-[Twitter](https://twitter.com/maximrouiller) | [LinkedIn](https://linkedin.com/in/MaximRouiller) | [Blog](https://blog.decayingcode.com) | [Github](https://github.com/MaximRouiller) | [StackOverflow](https://stackoverflow.com/users/24975/maxime-rouiller)
+[Twitter](https://twitter.com/maximrouiller) | [LinkedIn](https://linkedin.com/in/MaximRouiller) | [Blog](https://blog.maximerouiller.com) | [Github](https://github.com/MaximRouiller) | [StackOverflow](https://stackoverflow.com/users/24975/maxime-rouiller)
 
 ## Bio
 
-I've been in the tech industry for about 15 years. I've always been working with .NET for as far as I can remember. I've built my profile on being a master of all trade. I've setup VMs, SharePoint environments, build servers and what not. I've coded from desktop apps to server apps, but I've truly found my passion around the web, however. Since then, I've been consulting independently for 3 years before seeing an opportunity to join Microsoft. I co-manage a local user group in Montreal, I own my own blog and in my spare time, I'm harassing the Microsoft product teams on Twitter with constructive criticism. 
+I've been in the tech industry since the 2000s. I've always been working with .NET for as far as I can remember. I've built my profile on being a master of all trade. I've setup VMs, SharePoint environments, built servers and what not. I've coded from desktop apps to server apps, but I've truly found my passion around the web, however. Since then, I've been consulting independently for 3 years before seeing an opportunity to join Microsoft. I co-manage a local user group in Montreal, I own my own blog and in my spare time, I'm harassing the Microsoft product teams on Twitter with constructive criticism. 
 
 If you want to talk bread and bicycling, I'm your man. 
 
@@ -27,7 +27,8 @@ If you want to talk bread and bicycling, I'm your man.
 
 ## Skills
 
-* .NET / .NET Core
+* .NET 
+* .NET Core
 * JavaScript
 * Virtual Machines
 * Service Fabric
