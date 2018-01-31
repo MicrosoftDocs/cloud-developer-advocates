@@ -18,7 +18,7 @@ ms.author: bbenz
 [Twitter](https://twitter.com/bbenz) | [LinkedIn](https://linkedin.com/in/brianbenz) |
 [GitHub](https://github.com/bbenz) |
 [StackOverflow](https://stackoverflow.com/users/2716150/bbenz) | 
-[Website](http://brianbenz.com/) |  
+[Blog](http://medium.com/@bbenz) |  
 
 
 
