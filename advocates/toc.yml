@@ -2,7 +2,7 @@
   name: advocates_toc
 items:
 - name: Cloud Developer Advocates
-  href: index.html.yml
+  href: index.yml
   expanded: true
   items: 
   - name: Aaron Wislang
@@ -19,6 +19,8 @@ items:
     uid: advocates.asim-hussain
   - name: Bernd Verst
     uid: advocates.bernd-verst
+  - name: Brandon Minnick
+    uid: advocates.brandon-minnick
   - name: Brian Benz
     uid: advocates.brian-benz
   - name: Brian Clark
@@ -37,6 +39,8 @@ items:
     uid: advocates.cecil-phillip
   - name: Damian Brady
     uid: advocates.damian-brady
+  - name: David Smith
+    uid: advocates.david-smith
   - name: Donovan Brown
     uid: advocates.donovan-brown
   - name: Erik St. Martin
@@ -47,8 +51,12 @@ items:
     uid: advocates.jeremy-likness
   - name: Jessica Frazelle
     uid: advocates.jessica-frazelle
+  - name: Jim Bennett
+    uid: advocates.jim-bennett
   - name: John Papa
     uid: advocates.john-papa
+  - name: Jonathan Giles
+    uid: advocates.jonathan-giles
   - name: Laurent Bugnion
     uid: advocates.laurent-bugnion
   - name: Matthew Soucoup
@@ -75,8 +83,6 @@ items:
     uid: advocates.steven-murawski
   - name: Tim Heuer
     uid: advocates.tim-heuer
-  - name: twitter.yml
-    uid: twitter.yml
   - name: Vadim Karpusenko
     uid: advocates.vadim-karpusenko
   - name: Zachary Deptawa
