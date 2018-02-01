@@ -6,12 +6,13 @@ metadata:
   description: Home page for Maxime Rouiller, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
-  I've been in the tech industry for about 15 years. I've always been working with .NET for as far as I can remember. I've built my profile on being a master of all trade. I've setup VMs, SharePoint environments, build servers and what not. I've coded from desktop apps to server apps, but I've truly found my passion around the web, however. Since then, I've been consulting independently for 3 years before seeing an opportunity to join Microsoft. I co-manage a local user group in Montreal, I own my own blog and in my spare time, I'm harassing the Microsoft product teams on Twitter with constructive criticism. 
+  I've been in the tech industry since the 2000s. I've always been working with .NET for as far as I can remember. I've built my profile on being a master of all trade. I've setup VMs, SharePoint environments, built servers and what not. I've coded from desktop apps to server apps, but I've truly found my passion around the web, however. Since then, I've been consulting independently for 3 years before seeing an opportunity to join Microsoft. I co-manage a local user group in Montreal, I own my own blog.
 
-  If you want to talk bread and bicycling, I'm your man. 
+  If you want to talk bread and bicycling, I'm your man.
 
   ## Skills
-  * .NET / .NET Core
+  * .NET 
+  * .NET Core
   * JavaScript
   * Virtual Machines
   * Service Fabric
@@ -27,7 +28,7 @@ image:
   src: media/profiles/maxime-rouiller.png
 twitter: https://twitter.com/maximrouiller
 github: https://github.com/MaximRouiller
-blog: https://blog.decayingcode.com
+blog: https://blog.maximerouiller.com
 stackoverflow: https://stackoverflow.com/users/24975/maxime-rouiller
 linkedin: https://linkedin.com/in/MaximRouiller
 location:
