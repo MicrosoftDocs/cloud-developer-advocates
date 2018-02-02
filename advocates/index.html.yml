@@ -98,7 +98,7 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.815141999999994
     long: -122.518271
-  twitter: intent/user?user_id=3418408341
+  twitter: BrandonXamarin
 - uid: advocates.brian-benz
   name: Brian Benz
   tagline: Java
