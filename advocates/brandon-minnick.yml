@@ -32,4 +32,6 @@ github: https://github.com/brminnick
 linkedin: https://www.linkedin.com/in/brandon-minnick/
 stackoverflow: https://stackoverflow.com/users/5953643/
 location:
-  display: Usa
+  display: San Francisco, California, United States
+  lat: 37.815141999999994
+  long: -122.518271
