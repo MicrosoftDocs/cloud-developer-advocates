@@ -1,0 +1,26 @@
+### YamlMime:Profile
+uid: advocates.bruno-borges
+name: Bruno Borges
+metadata:
+  title: Bruno Borges - Cloud Advocate for Java
+  description: Home page for Bruno Borges, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  Bruno is a Principal Developer Advocate for Java at Microsoft. Before joining the Azure group, he was at Oracle as a Principal Product Manager in the Oracle Cloud Product Strategy group working with Developer Relations and Advocacy programs for Oracle Cloud and Java technologies.
+  ## Skills
+  * Java
+  * Databases
+  * Containers
+tagline: Java
+image:
+  alt: "Bruno Boges Cloud Developer Advocate"
+  src: media/profiles/bruno-borges.jpg 
+twitter: https://twitter.com/brunoborges
+github: https://github.com/brunoborges
+blog: http://medium.com/@brunoborges
+stackoverflow: https://stackoverflow.com/users/659870/bruno-borges
+linkedin: https://linkedin.com/in/brunocborges
+location:
+  display: Vancouver, BC, Canada
+  lat: 49.26038
+  long: -123.1134
