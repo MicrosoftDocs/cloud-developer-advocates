@@ -34,7 +34,7 @@ function Get-DocumentMetadata {
 
     if ($file.Extension -eq '.yml') {
         
-        if($file.Name -eq 'index.yml')
+        if($file.Name -eq 'index.html.yml')
         {
 			$script:indexTitle = Get-IndexTitle -file $file
         }
@@ -378,7 +378,7 @@ foreach ($source_folder in $source_folders) {
     $docfx_dir = [System.IO.Path]::GetFullPath((Join-Path $directory $source_folder))
     $docfx_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'docfx.json'))
     $toc_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'toc.yml'))
-    $index_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'index.yml'))
+    $index_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'index.html.yml'))
     $map_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'map.yml'))
 
     Write-Verbose "Found docfx json: $docfx_path"
