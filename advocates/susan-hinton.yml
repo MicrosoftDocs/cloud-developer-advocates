@@ -1,8 +1,8 @@
 ### YamlMime:Profile
 uid: advocates.susan-hinton
-name: Susan Hinton
+name: Suz Hinton
 metadata:
-  title: Susan Hinton - Cloud Advocate
+  title: Suz Hinton - Cloud Advocate
   description: Home page for Susan Hinton, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
@@ -17,9 +17,9 @@ remarks: |
   - Accessibility
   - JavaScript
   - NodeJS  
-tagline: Linux
+tagline: IoT
 image:
-  alt: "Susan Hinton Cloud Developer Advocate"
+  alt: "Suz Hinton Cloud Developer Advocate"
   src: media/profiles/susan-hinton.png
 twitter: https://twitter.com/noopkat
 github: https://github.com/noopkat
