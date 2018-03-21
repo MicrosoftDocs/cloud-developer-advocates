@@ -410,6 +410,7 @@ metadata:
   description: Trusted advisors to developer and IT professionals.
   twitterWidgets: true
   hide_bc: true
+filterText: Cloud Developer Advocates
 profiles:
 '@
 
@@ -426,6 +427,7 @@ metadata:
   description: Trusted advisors to developer and IT professionals.
   twitterWidgets: true
   hide_bc: true
+filterText: Cloud Developer Advocates
 mode: map
 profiles:
 '@
