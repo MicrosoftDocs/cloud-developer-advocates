@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: advocates.tanya-janca
+name: Tanya Janca
+metadata:
+  title: Tanya Janca - Cloud Developer Advocate
+  description: Home page for Tanya Janca, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio 
+  Tanya Janca is a senior cloud developer advocate for Microsoft, specializing in application security; evangelizing software security and advocating for developers through public speaking, her open source project OWASP DevSlop, and various forms of teaching via workshops, blogs and community events.  As an ethical hacker, OWASP Project and Chapter Leader, software developer, effective altruist and professional computer geek of 20+ years, she is a person who is truly fascinated by the ‘science’ of computer science.  
+    
+  ## Skills
+  * Application Security
+  * Ethical Hacking
+  * Secure Design
+  * Security Testing
+  
+tagline: AppSec
+image:
+  alt: "Tanya Janca Cloud Developer Advocate"
+  src: media/profiles/tanya-janca.png
+twitter: https://twitter.com/shehackspurple
+github: https://github.com/shehackspurple
+instagram: https://www.instagram.com/shehackspurple
+linkedin: https://linkedin.com/in/tanya-janca-60ab0998/
+location:
+  display: Gatineau, Quebec, Canada
+  lat: 47.679194
+  long: -122.153322
