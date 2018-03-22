@@ -405,6 +405,11 @@ description: |
 focalImage:
   src: https://developer.microsoft.com/en-us/advocates/media/bitda.png
   alt: "Developer Advocate Bit in a Red T-Shirt with Developer Advocate label."
+bannerLinks:
+- text: Map
+  url: ./map
+- text: Tweets
+  url: ./tweets
 metadata:
   title: Microsoft Cloud Developer Advocates
   description: Trusted advisors to developer and IT professionals.
