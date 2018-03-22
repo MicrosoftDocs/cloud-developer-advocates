@@ -3,8 +3,13 @@ title: Cloud Developer Advocates
 description: |
   We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
 focalImage:
-  src: media/bitda.png
+  src: https://developer.microsoft.com/en-us/advocates/media/bitda.png
   alt: "Developer Advocate Bit in a Red T-Shirt with Developer Advocate label."
+bannerLinks:
+- text: Map
+  url: ./map
+- text: Tweets
+  url: ./tweets
 metadata:
   title: Microsoft Cloud Developer Advocates
   description: Trusted advisors to developer and IT professionals.
@@ -486,16 +491,27 @@ profiles:
     long: -88.543443
   twitter: stevenmurawski
 - uid: advocates.susan-hinton
-  name: Susan Hinton
-  tagline: Linux
+  name: Suz Hinton
+  tagline: IoT
   image:
     src: media/profiles/susan-hinton.png
-    alt: "Susan Hinton Cloud Developer Advocate"
+    alt: "Suz Hinton Cloud Developer Advocate"
   location: 
     display: Brooklyn, NewYork, United States
     lat: 40.650002
     long: -73.949997
   twitter: noopkat
+- uid: advocates.tanya-janca
+  name: Tanya Janca
+  tagline: AppSec
+  image:
+    src: media/profiles/tanya-janca.png
+    alt: "Tanya Janca Cloud Developer Advocate"
+  location: 
+    display: Gatineau, Quebec, Canada
+    lat: 47.679194
+    long: -122.153322
+  twitter: shehackspurple
 - uid: advocates.tim-heuer
   name: Tim Heuer
   tagline: .NET / Xamarin
