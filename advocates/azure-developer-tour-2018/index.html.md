@@ -7,8 +7,6 @@
   manager: timheuer
   ms.date: 04/02/2018
   ms.topic: article
-  featureFlags:
-  - clicktale
   ms.service: multiple
   layout: ContentPage
 ---
