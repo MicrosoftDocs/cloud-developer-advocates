@@ -17,6 +17,8 @@
 
 Whether you’re new to the cloud or a seasoned expert, you’ll learn something at the Azure Developer Tour. The Azure Developer Tour is all about code. Here are the demos our [Cloud Developer Advocates](https://twitter.com/azureadvocates) used to code live and demonstrate how Azure can help you solve some of your most vexing developer problems. Try them yourself, and feel free to ask us your questions [@AzureAdvocates](https://twitter.com/azureadvocates).
 
+Find when and where is the next events by visiting [Microsoft Azure Events](https://azure.microsoft.com/en-us/community/events/?query=azure+developer+tour) page.
+
 Service | Demos, docs and tutorials
 ------- | -------------------------
 Azure Virtual Machines | <ul><li>[Linux Virtual Machines](https://docs.microsoft.com/azure/virtual-machines/linux/?WT.mc_id=azuredevtour-azuretourusah12018-prashant)</li><li>[Windows Virtual Machines](https://docs.microsoft.com/azure/virtual-machines/windows/?WT.mc_id=azuredevtour-azuretourusah12018-prashant)</li></ul>
