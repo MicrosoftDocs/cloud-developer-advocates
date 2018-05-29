@@ -13,17 +13,25 @@ remarks: |
   ## Skills
   * ASP.NET
   * Node.js
+  * Containers
   * Kubernetes
+  * Serverless
+  * DevOps
 
   ## My projects
   * [NotBacon](https://docs.microsoft.com/sandbox/demos/notbacon)
 
   ## Upcoming events
-  * [Node.js Interactive](http://events.linuxfoundation.org/events/node-interactive) - Vancouver, BC - October 4 - 6, 2017
-  * [APIStrat](http://events.linuxfoundation.org/events/apistrat) - Portland, OR - October 31 - November 2, 2017
-tagline: .NET
+  * [Azure University Tour](https://aka.ms/AzureTourUBC) - University of BC - April 3, 2018
+  * [Azure Developer Tour](https://aka.ms/devtour) - Vancouver, BC - April 5, 2018
+  * [Azure Developer Tour](https://aka.ms/devtour) - Los Angeles, CA - April 9, 2018
+  * [Azure Developer Tour](https://aka.ms/AzureTourUSC) - University of Southern California - April 10, 2018
+  * [Azure Developer Tour](https://aka.ms/AzureTourBerkeley) - University of California, Berkeley - April 11, 2018
+  * [Azure Developer Tour](https://aka.ms/devtour) - San Francisco, CA - April 12, 2018
+  * [Microsoft Build](https://www.microsoft.com/build) - Seattle, CA - May 7-9, 2018
+tagline: .NET / Containers
 image:
-  alt: "Anthony Chu Cloud Developer Advocatee"
+  alt: "Anthony Chu Cloud Developer Advocate"
   src: media/profiles/anthony-chu.png
 twitter: https://twitter.com/nthonyChu
 github: https://github.com/anthonychu
