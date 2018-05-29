@@ -52,10 +52,10 @@ profiles:
   twitter: lenadroid
 - uid: advocates.anthony-chu
   name: Anthony Chu
-  tagline: .NET
+  tagline: .NET / Containers
   image:
     src: media/profiles/anthony-chu.png
-    alt: "Anthony Chu Cloud Developer Advocatee"
+    alt: "Anthony Chu Cloud Developer Advocate"
   location: 
     display: Vancouver, Canada
     lat: 49.339277
@@ -237,6 +237,17 @@ profiles:
     lat: -32.928300
     long: 151.781700
   twitter: damovisa
+- uid: advocates.david-blank-edelman
+  name: David N. Blank-Edelman
+  tagline: SRE
+  image:
+    src: media/profiles/david-blank-edelman.png
+    alt: "David Blank-Edelman Cloud Ops Advocate"
+  location: 
+    display: Somerville, Massachusetts, United States
+    lat: 42.3875968
+    long: -71.0994968
+  twitter: otterbook
 - uid: advocates.david-smith
   name: David Smith
   tagline: AI / Data Science / R
@@ -415,7 +426,7 @@ profiles:
   twitter: CoolAssPuppy
 - uid: advocates.ruth-yakubu
   name: Ruth Yakubu
-  tagline: Data / AI
+  tagline: Java / AI / Data
   image:
     src: media/profiles/ruth-yakubu.png
     alt: "Ruth Yakubu Cloud Developer Advocate"
