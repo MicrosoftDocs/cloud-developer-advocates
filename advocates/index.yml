@@ -61,6 +61,17 @@ profiles:
     lat: 49.339277
     long: -123.2998
   twitter: nthonyChu
+- uid: advocates.ari-bornstein
+  name: Ari Bornstein
+  tagline: Data / AI / ML
+  image:
+    src: media/profiles/ari-bornstein.png
+    alt: "Ari Cloud Developer Advocate"
+  location: 
+    display: Tel Aviv, Israel
+    lat: 32.081359
+    long: 34.780957
+  twitter: http://twitter.com/pythiccoder
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
   tagline: Linux
@@ -215,6 +226,17 @@ profiles:
     lat: 26.1267513
     long: -80.2989968
   twitter: cecilphillip
+- uid: advocates.chad-fowler
+  name: Chad Fowler
+  tagline: Architecture / Functional Programming / Ruby
+  image:
+    src: media/profiles/chad-fowler.png 
+    alt: "Chad Fowler, GM Developer Advocacy"
+  location: 
+    display: Hot Springs, Arkansas
+    lat: 34.5037
+    long: -93.0552
+  twitter: chadfowler
 - uid: advocates.christina-warren
   name: Christina Warren
   tagline: HTML
