@@ -43,6 +43,7 @@
     "exportRawModel": true,
     "rawModelOutputFolder": "../_model",
     "exportViewModel": true,
-    "viewModelOutputFolder": "../_viewmodel"
+    "viewModelOutputFolder": "../_viewmodel",
+    "markdownEngineName": "markdig"
   }
 }
