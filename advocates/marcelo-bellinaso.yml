@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: advocates.marcelo-bellinaso
+name: Marcelo Bellinaso
+metadata:
+  title: Marcelo Bellinaso - Dir Cloud Ops Advocacy
+  description: Home page for Marcelo Bellinaso
+remarks: |
+  ## Bio
+  I lead the newly formed Cloud Ops Advocacy team in Azure engineering. Prior to Microsoft, I worked at Amazon Web Services (AWS) where I led the EMEA Marketing & Evangelism and WW Partner Marketing organizations. I have a passion for supporting the IT Operations community having spent the first half of my career as a sysadmin building and operating heterogenous Unix, Linux, and Windows environments.
+  
+  ## Skills
+  * Site Reliability Engineering (SRE)
+  * Systems Administration
+  * Infrastructure Management
+
+tagline: SRE
+image:
+  alt: "Marcelo Bellinaso Cloud Ops Advocate"
+  src: media/profiles/marcelo-bellinaso.png
+twitter: https://twitter.com/mbellinasoUS
+linkedin: https://linkedin.com/in/mbellinaso
+location:
+  display: Redmond, Washington, United States
+  lat: 47.673988
+  long: -122.121513
