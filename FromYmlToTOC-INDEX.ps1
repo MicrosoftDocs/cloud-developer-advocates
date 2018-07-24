@@ -58,8 +58,16 @@ function Get-DocumentMetadata {
     }
 
     if ($file.Extension -eq '.md') {
-		$title = Get-MarkdownMetadata -file $file
-		$metadata.Title = if ($title) { $title } else { $file.Name }
+		#$title = Get-MarkdownMetadata -file $file
+		#$metadata.Title = if ($title) { $title } else { $file.Name }
+
+        if($file.Name -eq 'index.md')
+            {
+			    $script:indexTitle = Get-IndexTitle -file $file
+            }
+        
+        $title = Get-YamlProp -file $file -propName 'name'
+        $metadata.Title = if ($title) { $title } 
 		return $metadata
     }
 }
@@ -401,7 +409,7 @@ items:
 ### YamlMime:ProfileList
 title: Cloud Developer Advocates
 description: |
-  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
+  We write, speak, and dream in code.  Our global team is focused on making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
 focalImage:
   src: https://developer.microsoft.com/en-us/advocates/media/bitda.png
   alt: "Developer Advocate Bit in a Red T-Shirt with Developer Advocate label."
