@@ -2,7 +2,7 @@
 uid: advocates.brandon-minnick
 name: Brandon Minnick
 metadata:
-  title: Brandon Minnick - Cloud Advocate
+  title: Brandon Minnick - Cloud Developer Advocate
   description: Home page for Brandon Minnick, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
@@ -22,15 +22,20 @@ remarks: |
   
   ## Skills
   - Xamarin
+  - C#
+  - .NET
+  - Mobile
   - Azure
-tagline: Xamarin
+tagline: Xamarin, .NET, C#, Mobile
 image:
   alt: "Brandon Minnick Cloud Developer Advocate"
   src: media/profiles/brandon-minnick.png
-twitter: https://twitter.com/BrandonXamarin
+twitter: https://twitter.com/TheCodeTraveler
 github: https://github.com/brminnick
 linkedin: https://www.linkedin.com/in/brandon-minnick/
 stackoverflow: https://stackoverflow.com/users/5953643/
+blog: https://www.codetraveler.io
+events: https://www.codetraveler.io/speaking
 location:
   display: San Francisco, California, United States
   lat: 37.815141999999994
