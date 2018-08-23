@@ -71,7 +71,7 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
-  twitter: http://twitter.com/pythiccoder
+  twitter: pythiccoder
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
   tagline: Linux
