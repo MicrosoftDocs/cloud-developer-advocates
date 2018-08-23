@@ -71,7 +71,7 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
-  twitter: http://twitter.com/pythiccoder
+  twitter: pythiccoder
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
   tagline: Linux
@@ -107,7 +107,7 @@ profiles:
   twitter: BerndVerst
 - uid: advocates.brandon-minnick
   name: Brandon Minnick
-  tagline: Xamarin
+  tagline: Xamarin, .NET, C#, Mobile
   image:
     src: media/profiles/brandon-minnick.png
     alt: "Brandon Minnick Cloud Developer Advocate"
@@ -115,7 +115,7 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.815141999999994
     long: -122.518271
-  twitter: BrandonXamarin
+  twitter: TheCodeTraveler
 - uid: advocates.brian-benz
   name: Brian Benz
   tagline: Java
@@ -446,6 +446,17 @@ profiles:
     lat: 43.1836046
     long: -89.2137254
   twitter: michaelbender
+- uid: advocates.nina-zakharenko
+  name: Nina Zakharenko
+  tagline: Python
+  image:
+    src: media/profiles/nina-zakharenko.png
+    alt: "Nina Zakharenko Cloud Developer Advocate"
+  location: 
+    display: Portland, Oregon, United States
+    lat: 45.512794
+    long: -122.679565
+  twitter: nnja
 - uid: advocates.paige-bailey
   name: Paige Bailey
   tagline: Data / AI / ML
