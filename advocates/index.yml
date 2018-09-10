@@ -71,7 +71,7 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
-  twitter: http://twitter.com/pythiccoder
+  twitter: pythiccoder
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
   tagline: Linux
@@ -107,7 +107,7 @@ profiles:
   twitter: BerndVerst
 - uid: advocates.brandon-minnick
   name: Brandon Minnick
-  tagline: Xamarin
+  tagline: Xamarin, .NET, C#, Mobile
   image:
     src: media/profiles/brandon-minnick.png
     alt: "Brandon Minnick Cloud Developer Advocate"
@@ -115,7 +115,7 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.815141999999994
     long: -122.518271
-  twitter: BrandonXamarin
+  twitter: TheCodeTraveler
 - uid: advocates.brian-benz
   name: Brian Benz
   tagline: Java
@@ -402,6 +402,17 @@ profiles:
     lat: 47.417478
     long: 8.58175
   twitter: LBugnion
+- uid: advocates.marcelo-bellinaso
+  name: Marcelo Bellinaso
+  tagline: SRE
+  image:
+    src: media/profiles/marcelo-bellinaso.png
+    alt: "Marcelo Bellinaso Cloud Ops Advocate"
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.673988
+    long: -122.121513
+  twitter: mbellinasoUS
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
   tagline: .NET / Xamarin
@@ -424,6 +435,28 @@ profiles:
     lat: 45.5017
     long: -73.5673
   twitter: maximrouiller
+- uid: advocates.michael-bender
+  name: Michael Bender
+  tagline: Operations
+  image:
+    src: media/profiles/michael-bender.png 
+    alt: "Michael Bender - Cloud Ops Advocate"
+  location: 
+    display: Sun Prairie, Wisconsin, United States
+    lat: 43.1836046
+    long: -89.2137254
+  twitter: michaelbender
+- uid: advocates.nina-zakharenko
+  name: Nina Zakharenko
+  tagline: Python
+  image:
+    src: media/profiles/nina-zakharenko.png
+    alt: "Nina Zakharenko Cloud Developer Advocate"
+  location: 
+    display: Portland, Oregon, United States
+    lat: 45.512794
+    long: -122.679565
+  twitter: nnja
 - uid: advocates.paige-bailey
   name: Paige Bailey
   tagline: Data / AI / ML
@@ -567,6 +600,17 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: vadi
+- uid: advocates.yoshio-terada
+  name: Yoshio Terada
+  tagline: Java
+  image:
+    src: media/profiles/yoshio-terada.png
+    alt: "Yoshio Terada Cloud Developer Advocate"
+  location: 
+    display: Minato-ku Tokyo, Japan
+    lat: 35.626610
+    long: 139.740982
+  twitter: yoshioterada
 - uid: advocates.zachary-deptawa
   name: Zachary Deptawa
   tagline: Linux
