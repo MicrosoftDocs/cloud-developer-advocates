@@ -50,6 +50,17 @@ profiles:
     lat: 47.60621
     long: -122.33207
   twitter: lenadroid
+- uid: advocates.amy-boyd
+  name: Amy Boyd
+  tagline: Data / AI / ML
+  image:
+    src: media/profiles/amy-boyd.png
+    alt: "Amy Boyd Cloud Developer Advocate"
+  location: 
+    display: London, United Kingdom
+    lat: 51.52814
+    long: -0.1339
+  twitter: AmyKateNicho
 - uid: advocates.anthony-chu
   name: Anthony Chu
   tagline: .NET / Containers
@@ -281,6 +292,17 @@ profiles:
     lat: 41.881832
     long: -87.623177
   twitter: revodavid
+- uid: advocates.dean-bryen
+  name: Dean Bryen
+  tagline: Serverless, Devops, Node.js
+  image:
+    src: media/profiles/dean-bryen.png
+    alt: "Dean Bryen - Cloud Developer Advocate"
+  location: 
+    display: London, United Kingdom
+    lat: 51.508530
+    long: -0.076132
+  twitter: deanbryen
 - uid: advocates.donovan-brown
   name: Donovan Brown
   tagline: DevOps
@@ -303,6 +325,17 @@ profiles:
     lat: 28.222353
     long: -82.47148
   twitter: erikstmartin
+- uid: advocates.francesca-lazzeri
+  name: Francesca Lazzeri
+  tagline: Data Science / Machine Learning / Artificial Intelligence / Big Data
+  image:
+    src: media/profiles/francesca-lazzeri.png
+    alt: "Francesca Lazzeri Cloud Developer Advocate"
+  location: 
+    display: Boston, MA, USA
+    lat: 42.3601
+    long: -71.1209
+  twitter: frlazzeri
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
@@ -314,6 +347,17 @@ profiles:
     lat: 40.67417
     long: -74.025653
   twitter: paladique
+- uid: advocates.jay-gordon
+  name: Jay Gordon
+  tagline: Linux
+  image:
+    src: media/profiles/jay-gordon.png
+    alt: "Jay Gordon Senior Cloud Ops Advocate"
+  location: 
+    display: New York, New York, United States
+    lat: 40.703830518
+    long: -74.005666644
+  twitter: jaydestro
 - uid: advocates.jeff-sandquist
   name: Jeff Sandquist
   tagline: Change invigorates the soul
