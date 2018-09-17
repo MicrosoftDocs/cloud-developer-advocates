@@ -1,0 +1,28 @@
+### YamlMime:Profile
+uid: advocates.mike-james
+name: Mike James
+metadata:
+  title: Mike James - Cloud Developer Advocate
+  description: Home page for Mike James, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  Mike has been developing mobile apps since 2011 and joined Microsoft as part of the Xamarin acquisition in 2016. As part of the Xamarin team, he worked in a variety of roles including evangelism where he honed his skills building cloud-connected cross-platform mobile apps using C#. Since joining Microsoft, he has been focused on leveraging Azure to power intelligent native apps using both Xamarin and Swift. He has a passion for teaching and knowledge sharing and is always hacking on multiple projects which you can find on his GitHub account. 
+
+  ## Skills
+  * Xamarin
+  * .NET & C#
+  * MvvM
+  tagline: Xamarin
+
+image:
+  alt: "Mike James Cloud Developer Advocate"
+  src: media/profiles/mike-james.png
+twitter: https://twitter.com/mikecodesdotnet
+github: https://github.com/mikecodesdotnet
+blog: http://mikecodes.net
+linkedin: https://www.linkedin.com/in/micjames/
+location:
+  display: London, United Kingodom
+  lat: 51.5218
+  long: 0.0839
+
