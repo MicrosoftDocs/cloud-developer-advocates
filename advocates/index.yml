@@ -17,6 +17,17 @@ metadata:
   hide_bc: true
 filterText: Cloud Developer Advocates
 profiles:
+- uid: advocates.aaron-schlesinger
+  name: Aaron Schlesinger
+  tagline: Linux / Containers
+  image:
+    src: media/profiles/aaron-schlesinger.png
+    alt: "Aaron Schlesinger Cloud Developer Advocate"
+  location: 
+    display: San Mateo, CA, United States
+    lat: 37.5630556
+    long: -122.3244444
+  twitter: arschles
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
   tagline: Linux
@@ -204,6 +215,17 @@ profiles:
     lat: 49.26038
     long: -123.1134
   twitter: brunoborges
+- uid: advocates.bryan-hughes
+  name: Bryan Hughes, Ph.D.
+  tagline: JavaScript
+  image:
+    src: media/profiles/bryan-hughes.jpg
+    alt: "Bryan Hughes Cloud Developer Advocate"
+  location: 
+    display: San Francisco, California, United States
+    lat: 37.7845584
+    long: -122.3985641
+  twitter: nebrius
 - uid: advocates.bryan-liston
   name: Bryan Liston
   tagline: Linux
@@ -490,6 +512,16 @@ profiles:
     lat: 43.1836046
     long: -89.2137254
   twitter: michaelbender
+- uid: advocates.mike-james
+  name: Mike James
+  image:
+    src: media/profiles/mike-james.png
+    alt: "Mike James Cloud Developer Advocate"
+  location: 
+    display: London, United Kingodom
+    lat: 51.5218
+    long: 0.0839
+  twitter: mikecodesdotnet
 - uid: advocates.nina-zakharenko
   name: Nina Zakharenko
   tagline: Python
@@ -512,6 +544,17 @@ profiles:
     lat: 47.67858
     long: -122.1316
   twitter: DynamicWebPaige
+- uid: advocates.paul-decarlo
+  name: Paul DeCarlo
+  tagline: IoT
+  image:
+    src: media/profiles/paul-decarlo.png 
+    alt: "Paul DeCarlo Cloud Developer Advocate"
+  location: 
+    display: Houston, Texas, US
+    lat: 29.726948
+    long: -95.609268
+  twitter: pjdecarlo
 - uid: advocates.prashant-sridharan
   name: Prashant Sridharan
   tagline: Chief Herder
