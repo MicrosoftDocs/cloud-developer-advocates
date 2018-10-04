@@ -1,0 +1,42 @@
+### YamlMime:Profile
+uid: advocates.chris-noring
+name: Chris Noring
+metadata:
+  title: Chris Noring - Cloud Developer Advocate 
+  description: Home page for Chris Noring, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  I am a Cloud Developer Advocate at Microsoft, 
+  
+  I am passionate about Software Development in General and have delivered software for Mobile/ Web 
+  
+  In my role as a Cloud Developer Advocate, I help developers to engage with Microsoft technology, especially in the usage of Web apps in combination with Azure
+
+  ## Skills
+  * Web Development with Angular/React/Vue.js
+  * Mobile Development
+  * Public speaker
+  * Conference organizer
+  * Author
+
+
+  ## Projects/ Engagements
+  * NgVikings, this is an Angular conference for roughly 350 people that I co organize. The conference switches location each year and tours the Nordics
+  * London JavaScript, this is a meetup group with roughly 2000 members that I co lead with Alex Lakatos and Simona Cotin
+  * Learning Angular Second Edition by Packt, https://www.packtpub.com/web-development/learning-angular-second-edition
+  * NGRX by Packt, https://www.packtpub.com/web-development/architecting-angular-applications-redux-rxjs-and-ngrx
+  * React, free book on React, https://chrisnoring.gitbooks.io/react/content/
+  * RxJS Ultimate, free book on RxJS, https://chrisnoring.gitbooks.io/rxjs-5-ultimate/content/ 
+
+
+tagline: Web / Azure / JavaScript
+image:
+  alt: "Chris Noring Cloud Developer Advocate"
+  src: media/profiles/chris-noring.png
+twitter: https://twitter.com/chris_noring
+github: https://github.com/softchris
+linkedin: https://www.linkedin.com/in/christoffer-noring-3257061
+location:
+  display: London, United Kingdom
+  lat: 51.52814
+  long: -0.1339
