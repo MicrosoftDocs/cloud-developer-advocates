@@ -39,6 +39,17 @@ profiles:
     lat: 43.712053
     long: -79.561556
   twitter: as_w
+- uid: advocates.adi-polak
+  name: Adi Polak
+  tagline: Big Data / Serveless
+  image:
+    src: media/profiles/adi-polak.png
+    alt: "Adi Polak Cloud Developer Advocate"
+  location: 
+    display: Tel Aviv, Israel
+    lat: 32.081359
+    long: 34.780957
+  twitter: adipolak
 - uid: advocates.abel-wang
   name: Abel Wang
   tagline: DevOps
