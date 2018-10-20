@@ -50,6 +50,17 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: AbelSquidHead
+- uid: advocates.adi-polak
+  name: Adi Polak
+  tagline: Big Data / Serveless 
+  image:
+    src: media/profiles/adi-polak.png
+    alt: "Adi Polak Cloud Developer Advocate"
+  location: 
+    display: Tel Aviv, Israel
+    lat: 32.081359
+    long: 34.780957
+  twitter: adipolak
 - uid: advocates.alena-hall
   name: Alena Hall
   tagline: High Scale / Big Data
@@ -219,7 +230,7 @@ profiles:
   name: Bryan Hughes, Ph.D.
   tagline: JavaScript
   image:
-    src: media/profiles/bryan-hughes.jpg
+    src: media/profiles/bryan-hughes.png
     alt: "Bryan Hughes Cloud Developer Advocate"
   location: 
     display: San Francisco, California, United States
@@ -270,6 +281,17 @@ profiles:
     lat: 34.5037
     long: -93.0552
   twitter: chadfowler
+- uid: advocates.chris-noring
+  name: Chris Noring
+  tagline: Web / Azure / JavaScript
+  image:
+    src: media/profiles/chris-noring.png
+    alt: "Chris Noring Cloud Developer Advocate"
+  location: 
+    display: London, United Kingdom
+    lat: 51.52814
+    long: -0.1339
+  twitter: chris_noring
 - uid: advocates.christina-warren
   name: Christina Warren
   tagline: HTML
@@ -292,6 +314,17 @@ profiles:
     lat: -32.928300
     long: 151.781700
   twitter: damovisa
+- uid: advocates.dave-glover
+  name: Dave Glover
+  tagline: IoT and Cloud
+  image:
+    src: media/profiles/dave-glover.png
+    alt: "Dave Glover Cloud Developer Advocate"
+  location: 
+    display: Sydney, Australia
+    lat: -33.8652521
+    long: 151.2029634
+  twitter: dglover
 - uid: advocates.david-blank-edelman
   name: David N. Blank-Edelman
   tagline: SRE
@@ -336,6 +369,17 @@ profiles:
     lat: 30.08453
     long: -95.41929
   twitter: DonovanBrown
+- uid: advocates.emily-freeman
+  name: Emily Freeman
+  tagline: DevOps
+  image:
+    src: media/profiles/emily-freeman.png
+    alt: "Emily Freeman Cloud Developer Advocate"
+  location: 
+    display: Denver, Colorado, United States
+    lat: 39.7392
+    long: -104.9903
+  twitter: editingemily
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -398,9 +442,9 @@ profiles:
     src: media/profiles/jeremy-likness.png
     alt: "Jeremy Likness Cloud Developer Advocate"
   location: 
-    display: Woodstock, Georgia, United States
-    lat: 34.102171
-    long: -84.516173
+    display: Monroe, Washington, United States
+    lat: 47.85239
+    long: -121.9815
   twitter: JeremyLikness
 - uid: advocates.jessica-deen
   name: Jessica Deen
