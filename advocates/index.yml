@@ -577,17 +577,6 @@ profiles:
     lat: 45.512794
     long: -122.679565
   twitter: nnja
-- uid: advocates.paige-bailey
-  name: Paige Bailey
-  tagline: Data / AI / ML
-  image:
-    src: https://avatars2.githubusercontent.com/u/3712347?s=460&v=4
-    alt: "Paige Bailey Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.67858
-    long: -122.1316
-  twitter: DynamicWebPaige
 - uid: advocates.paul-decarlo
   name: Paul DeCarlo
   tagline: IoT
