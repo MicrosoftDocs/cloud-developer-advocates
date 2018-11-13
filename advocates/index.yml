@@ -523,6 +523,17 @@ profiles:
     lat: 47.417478
     long: 8.58175
   twitter: LBugnion
+- uid: advocates.madoko-chiyoda
+  name: Madoko Chiyoda
+  tagline: C# / Conversational AI / (Manga)
+  image:
+    alt: "Madoka Chiyoda Cloud Developer Advocate"
+    src: media/profiles/madoka-chiyoda.jpg
+  location:
+    display: Minato-ku Tokyo, Japan
+    lat: 35.626610
+    long: 139.740982
+  twitter: chomado
 - uid: advocates.marcelo-bellinaso
   name: Marcelo Bellinaso
   tagline: SRE
