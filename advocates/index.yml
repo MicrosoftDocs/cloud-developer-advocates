@@ -435,6 +435,17 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: jeffsand
+- uid: advocates.jeramiah-dooley
+  name: Jeramiah Dooley
+  tagline: Operations / Platforms
+  image:
+    src: media/profiles/jeramiah-dooley.png
+    alt: "Jeramiah Dooley Cloud Operations Advocate"
+  location: 
+    display: Charlotte, NC, United States
+    lat: 35.2270869
+    long: -80.8431267
+  twitter: jdooley_clt
 - uid: advocates.jeremy-likness
   name: Jeremy Likness
   tagline: .NET
@@ -512,6 +523,17 @@ profiles:
     lat: 47.417478
     long: 8.58175
   twitter: LBugnion
+- uid: advocates.madoka-chiyoda
+  name: Madoka Chiyoda
+  tagline: C# / Conversational AI / (Manga)
+  image:
+    alt: "Madoka Chiyoda Cloud Developer Advocate"
+    src: media/profiles/madoka-chiyoda.jpg
+  location:
+    display: Minato-ku Tokyo, Japan
+    lat: 35.626610
+    long: 139.740982
+  twitter: chomado
 - uid: advocates.marcelo-bellinaso
   name: Marcelo Bellinaso
   tagline: SRE
