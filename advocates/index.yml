@@ -435,6 +435,17 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: jeffsand
+- uid: advocates.jeramiah-dooley
+  name: Jeramiah Dooley
+  tagline: Operations / Platforms
+  image:
+    src: media/profiles/jeramiah-dooley.png
+    alt: "Jeramiah Dooley Cloud Operations Advocate"
+  location: 
+    display: Charlotte, NC, United States
+    lat: 35.2270869
+    long: -80.8431267
+  twitter: jdooley_clt
 - uid: advocates.jeremy-likness
   name: Jeremy Likness
   tagline: .NET
