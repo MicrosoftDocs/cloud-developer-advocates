@@ -523,8 +523,8 @@ profiles:
     lat: 47.417478
     long: 8.58175
   twitter: LBugnion
-- uid: advocates.madoko-chiyoda
-  name: Madoko Chiyoda
+- uid: advocates.madoka-chiyoda
+  name: Madoka Chiyoda
   tagline: C# / Conversational AI / (Manga)
   image:
     alt: "Madoka Chiyoda Cloud Developer Advocate"
