@@ -1,0 +1,33 @@
+### YamlMime:Profile
+uid: advocates.sandra-kriemann
+name: Sandra Kriemann
+metadata:
+  title: Sandra Kriemann - Cloud Advocate
+  description: Home page for Sandra Kriemann, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  Sandra is is a Cloud Developer Advocate focusing on Microservice Architectures and Containers on Prem and on the Azure platform. She does extensive work in the Docker and 
+  Kubernetes community.
+   Sandra has an extensive background in software development. She holds an M.sc in Media and Computer Science from Beuth University of Applied Sciences. 
+  during her studies she worked in several Start Ups and Companies of Axel Springer where she gained expertise in setting up hybrid infrastructures, devops culture and process automation.
+  Sandra is a huge fan of event driven architectures with real time requirements.
+   ## Office Hours
+  She is always happy to grab a tea and chat about tech related news and issues. Contact me by [LinkedIn](https://de.linkedin.com/in/sandrakriemann) or [Twitter](https://twitter.com/skriemhild).
+   ## Skills
+  - Linux & Open Source
+  - Container
+  - Kubernetes
+  - Java 
+tagline: Container / Java / DevOps
+image:
+  alt: "Sandra Kriemann Cloud Developer Advocate"
+  src: media/profiles/sandra-kriemann.png
+twitter: https://twitter.com/skriemhild
+blog: https://medium.com/@sKriemhild
+github: https://github.com/sandrakriemann
+stackoverflow: https://stackexchange.com/users/6506807/sandra-kriemann
+linkedin: https://www.linkedin.com/in/sandrakriemann/
+location:
+  display: Berlin, Germany
+  lat: 52.515816
+  long: 13.45429
