@@ -11,18 +11,21 @@ remarks: |
   If you want to talk bread and bicycling, I'm your man.
 
   ## Skills
-  * .NET 
-  * .NET Core
+  * .NET / .NET Core
+  * Serverless
+  * Azure Durable Functions
   * JavaScript
-  * Virtual Machines
-  * Service Fabric
-  * IoT
 
   ## My Projects
   * [Azure Virtual Size Browser](http://vmsizebrowser.azurewebsites.net/) | [GitHub](https://github.com/MaximRouiller/VmSizeBrowser)
   * [Visual Studio Code Slugify Extension](https://marketplace.visualstudio.com/items?itemName=maximerouiller.slugify-vscode) | [GitHub](https://github.com/MaximRouiller/slugify-vscode)
+
+  ## Samples
+  * Azure Durable Functions GitHub Open Issue Scrapper
+    * [.NET](https://github.com/Azure-Samples/durablefunctions-apiscraping-dotnet)
+    * [Node](https://github.com/Azure-Samples/durablefunctions-apiscraping-node)
   
-tagline: .NET
+tagline: .NET / Serverless / Durable Functions
 image:
   alt: "Maxime Rouiller Cloud Developer Advocate"
   src: media/profiles/maxime-rouiller.png
