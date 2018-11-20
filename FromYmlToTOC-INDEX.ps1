@@ -407,9 +407,9 @@ items:
 '@  
     $IndexFilecontent = @' 
 ### YamlMime:ProfileList
-title: Cloud Developer Advocates
+title: Cloud Advocates
 description: |
-  We write, speak, and dream in code.  Our global team is focused on making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
+  Our team’s charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
 focalImage:
   src: https://developer.microsoft.com/en-us/advocates/media/bitda.png
   alt: "Developer Advocate Bit in a Red T-Shirt with Developer Advocate label."
@@ -419,28 +419,28 @@ bannerLinks:
 - text: Tweets
   url: ./tweets
 metadata:
-  title: Microsoft Cloud Developer Advocates
+  title: Microsoft Cloud Advocates
   description: Trusted advisors to developer and IT professionals.
   twitterWidgets: true
   hide_bc: true
-filterText: Cloud Developer Advocates
+filterText: Cloud Advocates
 profiles:
 '@
 
  $MapFilecontent = @' 
 ### YamlMime:ProfileList
-title: Cloud Developer Advocates
+title: Cloud Advocates
 description: |
-  We write, speak, and dream in code.  Our global team is maniacal about making the world amazing for developers of all backgrounds. Connect with us, write code with us, and let's meet up and talk cloud and all things developer!
+  Our team’s charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
 focalImage:
   src: https://developer.microsoft.com/en-us/advocates/media/bitda.png
   alt: "Developer Advocate Bit in a Red T-Shirt with Developer Advocate label."
 metadata:
-  title: Microsoft Cloud Developer Advocates
+  title: Microsoft Cloud Advocates
   description: Trusted advisors to developer and IT professionals.
   twitterWidgets: true
   hide_bc: true
-filterText: Cloud Developer Advocates
+filterText: Cloud Advocates
 mode: map
 profiles:
 '@
