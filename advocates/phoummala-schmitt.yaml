@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: advocates.phoummala.schmitt
+name: Phoummala Schmitt
+metadata:
+  title: Phoummala Schmitt - Sr. Cloud Operations Advocate
+  description: Home page for Phoummala Schmitt, a Microsoft Cloud Operations Advocate
+remarks: |
+  ## Bio
+  Phoummala Schmitt is Sr Cloud Ops Advocate at Micrsoft, focusing on Azure and Hybrid enviroments for the IT Professionals. Prior to joining Microsoft, Phoummala worked held Systems Engineering and Architecture roles building and maintaining systems that included Microsoft Exchange, Collaboration Technologies, Virtualization, Storage and Backup.
+  She is a VMware vExpert and co-hosts The Current Status Podcast. In her spare time she blogs for 24x7ITConnection, ITOPSTalk.com, and Exchangegoddess.com. Some her technical articles can also be found on Petri IT Knowledgebase, and The Register. Considered as one of the Top 50+ Tech Influencers and Thought Leaders You Should Follow , Phoummala aka Exchange Goddess can be followed as @exchangegoddess on Twitter.
+
+  ## Skills
+  * Windows Server  
+  * Virtualization
+  * Microsoft Exchange Server
+  * Storage
+  * Backup
+  * Mobile Device Managment
+  * Systems Administration
+  * Datacenter operations
+
+  
+tagline: IT Infrastructure/Operations 
+image:
+  alt: "Phoummala Schmitt Cloud Operations Advocate"
+  src: media/profiles/phoummala-schmitt.png
+twitter: https://twitter.com/ExchangeGoddess
+github: https://github.com/exchangegoddess
+blog: https://exchangegoddess.com/
+linkedin: https://www.linkedin.com/in/phoummalaschmitt
+location:
+  display: Harrisburg, Pennsylvania, United States
+  lat: 40.2731911
+  long:  -76.8867008
+  
