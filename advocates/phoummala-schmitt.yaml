@@ -1,5 +1,5 @@
 ### YamlMime:Profile
-uid: advocates.phoummala.schmitt
+uid: advocates.phoummala-schmitt
 name: Phoummala Schmitt
 metadata:
   title: Phoummala Schmitt - Sr. Cloud Operations Advocate
@@ -18,7 +18,6 @@ remarks: |
   * Mobile Device Managment
   * Systems Administration
   * Datacenter operations
-
   
 tagline: IT Infrastructure/Operations 
 image:
@@ -31,5 +30,5 @@ linkedin: https://www.linkedin.com/in/phoummalaschmitt
 location:
   display: Harrisburg, Pennsylvania, United States
   lat: 40.2731911
-  long:  -76.8867008
+  long: -76.8867008
   
