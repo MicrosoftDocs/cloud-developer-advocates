@@ -129,7 +129,7 @@ function Get-YamlProp {
     $propRegex = ([regex]'^{$propName}\:.+')
 
     # Look for the metadata.title property.
-    foreach ($linegroup in (Get-Content $file.FullName -ReadCount 1000)) {
+    foreach ($linegroup in (Get-Content $file.FullName -ReadCount 1000 -encoding UTF8)) {
 		
         #if ($propRegex.Match($linegroup).Success) {
         if ($linegroup -match '^'+$propName+'\:.+') 
