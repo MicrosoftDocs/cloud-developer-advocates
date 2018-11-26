@@ -2,7 +2,7 @@ metadata:
   name: advocates_toc
 items:
 - name: Cloud Advocates
-  href: index.html_BACKUP_17258.yml
+  href: index.html.yml
   expanded: true
   items: 
   - name: Aaron Schlesinger
