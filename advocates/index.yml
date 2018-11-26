@@ -530,7 +530,7 @@ profiles:
     src: media/profiles/laurent-bugnion.png 
     alt: "Laurent Bugnion Cloud Developer Advocate"
   location: 
-    display: Wallisellen, BÃ¼lach, Switzerland
+    display: Wallisellen, Bülach, Switzerland
     lat: 47.417478
     long: 8.58175
   twitter: LBugnion
@@ -574,7 +574,7 @@ profiles:
     src: media/profiles/maxime-rouiller.png
     alt: "Maxime Rouiller Cloud Developer Advocate"
   location: 
-    display: MontrÃ©al, QuÃ©bec, Canada
+    display: Montréal, Québec, Canada
     lat: 45.5017
     long: -73.5673
   twitter: maximrouiller
