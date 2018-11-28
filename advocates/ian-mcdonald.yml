@@ -1,0 +1,36 @@
+### YamlMime:Profile
+uid: advocates.ian-mcdonald
+name: Ian McDonald
+metadata:
+  title: Ian McDonald - CTO in Residence
+  description: Home page for Ian McDonald, a CTO in Residence in the Startup Advocacy team
+remarks: |
+  ## Bio
+  I’m a startup advocate for Azure working in London, United Kingdom. I joined Microsoft via the acquisition of SwiftKey. I've been working with the public cloud since 2008 and have led multiple cloud migrations.
+
+  I've worked in leadership roles in both large companies and startups, alongside mentoring / advising / investing in startups. I hail originally from New Zealand which is where I gained my PhD in Computer Science.
+
+  Over the years I've been involved in a wide range of open source activities, including contributions to the Linux kernel and being president of a Linux Users Group.
+  
+  I have high functioning autism (Aspergers) and sometimes I consider this a disability, but most of the time it's a super power.
+
+  ## Skills
+  * Open source  
+  * Scalability and performance
+  * DevOps / Infrastructure as Code
+  * Leadership
+  * Diversity and Inclusion
+   
+tagline: Startups / Diversity and Inclusion / Public Cloud
+image:
+  alt: "Ian McDonald, CTO in Residence"
+  src: media/profiles/ian-mcdonald.jpg
+twitter: https://twitter.com/imcdnzl
+github: https://github.com/imcdnzl
+blog: https://blog.imcdonald.com/
+linkedin: https://www.linkedin.com/in/imcdnzl
+location:
+  display: London, United Kingdom
+  lat: 51.501364
+  long: -0.14189
+  
