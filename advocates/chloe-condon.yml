@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: advocates.chloe-condon
+name: Chloe Condon
+metadata:
+  title: Chloe Condon - Cloud Advocate
+  description: Home page for Chloe Condon, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  
+  
+  ## Skills
+  * Python
+  * JavaScript
+
+tagline: Python / JavaScript
+image:
+  alt: "Chloe Condon Advocate profile pic"
+  src: media/profiles/chloe-condon.png
+twitter: https://twitter.com/ChloeCondon
+github: https://github.com/chloecodesthings
+blog: https://medium.com/@chloecondon
+location: 
+  display: San Francisco, CA
+  lat: 37.760999
+  long: -122.427065
