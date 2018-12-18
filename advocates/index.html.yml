@@ -567,17 +567,6 @@ profiles:
     lat: 28.5029917
     long: -81.5538575
   twitter: john_papa
-- uid: advocates.jonathan-giles
-  name: Jonathan Giles
-  tagline: Java
-  image:
-    src: media/profiles/jonathan-giles.png
-    alt: "Jonathan Giles Cloud Developer Advocate"
-  location: 
-    display: Palmerston North, New Zealand
-    lat: -40.35636
-    long: 175.61113
-  twitter: JonathanGiles
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Xamarin
