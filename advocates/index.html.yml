@@ -851,6 +851,17 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: shehackspurple
+- uid: advocates.tierney-cyren
+  name: Tierney Cyren
+  tagline: Node.js
+  image:
+    src: media/profiles/tierney-cyren.png 
+    alt: "Tierney Cyren Cloud Developer Advocate"
+  location: 
+    display: Brooklyn, New York, United States
+    lat: 40.6782
+    long: -73.9442
+  twitter: bitandbang
 - uid: advocates.tim-heuer
   name: Tim Heuer
   tagline: .NET / Xamarin
