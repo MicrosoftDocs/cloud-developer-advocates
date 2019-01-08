@@ -3,7 +3,7 @@ uid: advocates.shmuela-jacobs
 name: Shmuela Jacobs
 metadata:
   title: Shmuela Jacobs - Cloud Advocate
-  description: Home page for Shmuela Jacobs, a Microsoft Cloud Developer Advocate
+  description: Home page for Shmuela Jacobs, a Microsoft Cloud Advocate
 remarks: |
   ## Bio
   Shmuela Jacobs, GDE, is a front-end instructor, consultant, developer, speaker, and community activist. She is the founder of ngGirls - an initiative aiming to increase diversity in the programming world.
@@ -25,7 +25,7 @@ remarks: |
 
 tagline: JavaScript / Web
 image:
-  alt: "Shmuela Jacobs Cloud Developer Advocate"
+  alt: "Shmuela Jacobs Cloud Advocate"
   src: media/profiles/shmuela-jacobs.png
 twitter: https://twitter.com/ShmuelaJ
 github: https://github.com/shmool
