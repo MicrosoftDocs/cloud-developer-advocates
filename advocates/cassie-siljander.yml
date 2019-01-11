@@ -1,0 +1,23 @@
+### YamlMime:Profile
+uid: advocates.cassie-siljander
+name: Cassie Siljander
+metadata:
+  title: Cassie Siljander - Cloud Advocate
+  description: Home page for Cassie Siljander, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+ Cassie has been in technology for around 7 years and a .Net Software Engineer for the past 5 years. Before she was an engineer, she was a Data Analyst and started learning to code in MS Excel with VBA Macros. She realized how fun coding could be and went back to school for a Computer Science degree. While in school, she worked in Tech Support and then as a Business Analyst and spent some time as a QA. 
+
+ She loves to learn new technologies and build cool stuff.  She built her first machine learning model with Azure ML Studio after seeing a demo from a Cloud Developer Advocate and being completely inspired to learn more. Once she started understanding the concepts of machine learning with ms docs and online tutorials, she started building models with Python. She hopes to inspire more people to get started in AI/ML and help demystify it for others. 
+
+ Outside of programming she loves yoga, music, ukulele, biking, puppies, VR and whatever flavor of the week hobby has caught her attention. Please send warm thoughts and vibes as she resides in the cold tundra of Minneapolis, MN.
+
+tagline: .NET / AI / ML
+image:
+  alt: "Cassie Siljander Cloud Developer Advocate"
+  src: media/profiles/cassie-siljander.png
+twitter: https://twitter.com/cassieview
+location:
+  display: Minneapolis, Minnesota, United States
+  lat: 44.9778
+  long: -93.2650
