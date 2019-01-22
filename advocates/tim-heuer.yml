@@ -3,7 +3,7 @@ uid: advocates.tim-heuer
 name: Tim Heuer
 metadata:
   title: Tim Heuer - Cloud Advocate
-  description: Home page for Tim Heuer, a Microsoft Cloud Developer Advocate
+  description: Home page for Tim Heuer, a Microsoft Cloud Advocate
 remarks: |
   ## Bio
   I've been working as a software developer ever since my studies in law. O_O – hey, tech paid the bills more than law was going to accumulate them.  I've worked for Microsoft for 12 years and always in developer space, I absolutely love software development.  Prior to Microsoft I wrote software for healthcare systems and interop systems (remember Site Server anyone?) to bridge brick-and-mortar AS400 systems to the Interwebs to sell their goods online.  I've primarily worked on front-end technologies and specialized in UI frameworks with my time working on the WPF, Silverlight, Windows Phone and Windows teams being the lead for the XAML framework.  I love the challenges cross-platform brings to developers and how the cloud is a common denominator for mobile!  I'm very excited to help .NET developers building mobile apps be successful on Azure! 
@@ -24,7 +24,7 @@ remarks: |
 
 tagline: .NET / Xamarin
 image:
-  alt: "Tim Heuer Cloud Developer Advocate"
+  alt: "Tim Heuer Cloud Advocate"
   src: media/profiles/tim-heuer.png
 twitter: https://twitter.com/timheuer
 github: https://github.com/timheuer
