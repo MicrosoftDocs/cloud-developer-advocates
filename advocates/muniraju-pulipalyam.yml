@@ -1,5 +1,5 @@
 ### YamlMime:Profile
-uid: advocates.Muni-schlesinger
+uid: advocates.muniraju-pulipalyam
 name: Muniraju Pulipalyam
 metadata:
   title: Muniraju Pulipalyam - CTO-in-Residence, Startup Advocacy
@@ -9,13 +9,13 @@ remarks: |
   Muni  is a CTO-in-Residence helping startups scale.
 
   He has over 24 years software industry experience. His primary role is to help market ready scale-stage B2B startups become enterprise-ready by identifying and unblocking any technology or techno-businness related blockers. In his previous role as a Senior Architect with Microsoft Consulting Services (MCS) based out of Bangalore, India, he worked on defining, architecting and driving project/product/platform lifecycles of large-scale, complex IT engagements on current technologies (Computer Vision, AI, Machine Learning, IoT, Inclusive Design, Hybrid Cloud, Enterprise and Government Social, Connected Car Platform, System Center, Windows Server 2008 R2/2012, FIM, .NET, SQL server and BizTalk Server). 
-tagline: Windows, AI/ML, Cloud Hyper-Scale, IoT
+tagline: Windows / AI/ML / Cloud Hyper-Scale / IoT
 image:
   alt: "Muniraju Pulipalyam CTO-in-Residence"
-  src: media/profiles/Munipuli.png
+  src: media/profiles/munipuli.png
 twitter: https://twitter.com/munipuli
-github: http://github.com/munip
-linkedin: www.linkedin.com/in/muniraju-pulipalyam
+github: https://github.com/munip
+linkedin: https://www.linkedin.com/in/muniraju-pulipalyam
 location:
   display: Bangalore, India
   lat: 12.96697
