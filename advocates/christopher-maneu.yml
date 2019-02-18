@@ -1,0 +1,33 @@
+### YamlMime:Profile
+uid: advocates.christopher-maneu
+name: Christopher Maneu
+metadata:
+  title: Christopher Maneu - Cloud Advocate France
+  description: Home page for Christopher Maneu, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  Christopher is a cloud engineer & developer advocate at Microsoft R&D. He works with, help and teaches developers across the continent on cloud and open-source technologies. Before joining R&D, he helped large corporations and startups creating user-friendly apps & services and helping build teams behind these services. He used to be an engineering lead at Deezer.
+
+  ## Skills
+  * .NET
+  * XAML
+  * UX Design
+  * PHP
+  * Python
+
+  ## My Projects
+  * [My blog](https://maneu.fr)
+  * [My presentations](https://speakerdeck.com/cmaneu) 
+  
+tagline: Cloud / Mobile Dev
+image:
+  alt: "Christopher Maneu Cloud Developer Advocate"
+  src: media/profiles/christopher-maneu.png 
+twitter: https://twitter.com/cmaneu
+github: https://github.com/cmaneu
+blog: http://maneu.fr
+linkedin: https://linkedin.com/in/cmaneu
+location:
+  display: Paris, France
+  lat: 48.833968 
+  long: 2.265598
