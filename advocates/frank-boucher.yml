@@ -1,0 +1,37 @@
+### YamlMime:Profile
+uid: advocates.frank-boucher
+name: Frank Boucher
+metadata:
+  title: Frank Boucher - Cloud Advocate
+  description: Home page for Frank Boucher, a Microsoft Cloud Advocate
+remarks: |
+  ## Bio
+  With mostly 20 years of experience in the IT industry, Frank Boucher is a trusted Microsoft Azure professional whose expertise and bilingual service are relied upon in large Canadian markets (Ottawa and Montreal) as well as internationally (Minsk). You can follow him on his YouTube channel Cloud 5 minutes cloud5mins.com
+
+  Among his many accolades, Francois has been awarded four times Microsoft Azure MVP, and is also Microsoft Azure Advisor,
+
+  Seeking to explore a new medium, Frank created the “Cloud 5 minutes” show. Where every second week, a new episode that answers a different technical question, is published both in French and English (cloud5mins.com)
+
+  As a trusted voice on Microsoft Azure, Frank has authored a technical book review and continues to write about his experiences with Microsoft Azure on his two blogs,Frankysnotes.com (in English) and Cloudenfrancais.com (in French). 
+  
+  ## Skills
+  * Web Development
+  * DevOps
+  * Serverless
+  * .NET / .NET Core
+
+tagline: Development / DevOps / Serverless 
+image:
+  alt: "Frank Boucher  Cloud Advocate"
+  src: media/profiles/frank-boucher.png
+twitter: https://twitter.com/fboucheros
+github: https://github.com/fboucher
+blog: https://frankysnotes.com/
+youtube: https://www.youtube.com/fboucheros
+linkedin: https://www.linkedin.com/in/fboucheros
+instagram: https://www.instagram.com/frankysnotes
+blog (fr): https://cloudenfrancais.com
+location: 
+  display: Montreal, Quebec, Canada
+  lat: 45.5017
+  long: -73.5673
