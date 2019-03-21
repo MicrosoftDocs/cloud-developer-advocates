@@ -6,8 +6,8 @@ metadata:
   description: Home page for Glaucia Lemos, a Microsoft Cloud Advocate
 remarks: |
   ## Bio 
-  Glaucia Lemos is Cloud Advocate at Microsoft Brazil & LATAM. She loves helping and making contributions to Open Source projects in Github (@glaucia86).
-  Glaucia is currently Member & Contributor at Node.js Foundation and at React Community making contributions to Nodejs.org and Reactjs.org translations into Portuguese. 
+  Glaucia Lemos is Cloud Advocate at Microsoft LATAM. She loves helping and making contributions to Open Source projects in Github (@glaucia86).
+  She's currently Member & Contributor at Node.js Foundation and at React Community making contributions to Nodejs.org and Reactjs.org translations into Portuguese. 
   Glaucia also belongs in quite inclusive Communities such as WoMakersCode - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity. 
   Currently, Glaucia lives in Rio de Janeiro, Brazil.
   And his greatest passion is sharing knowledge for all people!
@@ -17,7 +17,7 @@ remarks: |
   * JavaScript
   * Node.js
   * Angular/Vue/TypeScript/Electron
-  * AI
+  * A.I
   * ChatBots
   * Web Development
   * Linux
@@ -33,7 +33,7 @@ blog: https://glaucialemos.netlify.com
 instagram: https://www.instagram.com/glaucia.lemos.dev
 youtube channel: https://www.youtube.com/user/l32759
 twitch channel: https://www.twitch.tv/glaucia_lemos86
-linkedin: https://linkedin.com/in/jawache
+linkedin: https://www.linkedin.com/in/glaucialemos/
 location:
   display: Rio de Janeiro, Brazil
   lat: -22.904491
