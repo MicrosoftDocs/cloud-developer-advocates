@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: advocates.cynthia-zanoni
+name: Cynthia Zanoni
+metadata:
+  title: Cynthia Zanoni - Cloud Advocate Program Manager
+  description: Home page for Cynthia Zanoni, a Microsoft Cloud Advocate Program Manager
+remarks: |
+  ## Bio 
+  Cynthia Zanoni is a software engineer with 10+ years dedicated to code and developing people who want to make a difference with technology. Currently, works at Microsoft as a Developer Relations Program Manager to support and accelerate developers to build epic stuff in Latin America.
+  She loves open source and is very connected with technical communities across Latin America, having contributed on many Mozilla’s projects in Brazil, led groups of technical discussions about mobile and open source in Rio Grande do Sul and founded WoMakersCode, a woman's tech initiative which works to empower and grow female presence in IT market. 
+  In 2016, Cynthia was recognized by the Mozilla Foundation as one of the most influential technical women in Latin America, supporting Diversity & Inclusion. 
+  Always looking to learn new things, she runs to book a new meetup to discuss new methodologies, tools, languages and artificial intelligence. And if it's with JavaScript, better ;)
+
+  ## Skills
+  * Web Development
+  * JavaScript / Node.js / React / TypeScript
+  * AI
+  * Python
+  * Ruby
+  * Web Accessibility
+  * Program / Community Management
+  * Diversity & Inclusion
+
+tagline: Diversity & Inclusion, JavaScript, Web
+image:
+  alt: "Cynthia Zanoni Cloud Advocate Program Manager"
+  src: media/profiles/cynthia-zanoni.jpg 
+twitter: https://twitter.com/cynthiazanoni
+github: https://github.com/cyz/
+medium: https://medium.com/@cynthiazanoni
+linkedin: https://linkedin.com/in/cynthiazanoni
+location:
+  display: São Paulo, Brazil
+  lat: -23.533773
+  long: -46.625290
