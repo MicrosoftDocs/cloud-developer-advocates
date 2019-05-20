@@ -3,12 +3,12 @@ uid: advocates.jen-looper
 name: Jen Looper
 metadata:
     title: Jen Looper - Cloud Advocate Lead
-    description: Home page for Jen Looper, a Microsoft Cloud Developer Advocate
+    description: Home page for Jen Looper, a Microsoft Cloud Advocate
 remarks: |
 
     ## Bio
 
-    Jen is a Cloud Developer Advocate Lead at 
+    Jen is a Cloud Advocate Lead at 
     Microsoft and a Google Developer Expert for web technologies with over 15 years' experience 
     as a web and mobile developer, specializing in creating cross-platform mobile apps. 
 
@@ -36,9 +36,9 @@ remarks: |
     * [Elocute](https://elocute.me)
     * [MandalaMe](https://mandala-me.netlify.com/#/)
 
-tagline: Vue
+tagline: Vue / JavaScript
 image:
-    alt: 'Jen Looper - Cloud Developer Advocate Lead'
+    alt: 'Jen Looper - Cloud Advocate Lead'
     src: media/profiles/jen-looper.png
 twitter: https://twitter.com/JenLooper
 github: https://github.com/jlooper
