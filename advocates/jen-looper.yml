@@ -5,21 +5,14 @@ metadata:
     title: Jen Looper - Cloud Advocate Lead
     description: Home page for Jen Looper, a Microsoft Cloud Advocate
 remarks: |
-
     ## Bio
+    Jen is a Cloud Advocate Lead at Microsoft and a Google Developer Expert for web technologies with over 15 years' experience as a web and mobile developer, specializing in creating cross-platform mobile apps. 
 
-    Jen is a Cloud Advocate Lead at 
-    Microsoft and a Google Developer Expert for web technologies with over 15 years' experience 
-    as a web and mobile developer, specializing in creating cross-platform mobile apps. 
+    She's a multilingual multiculturalist with a passion for hardware hacking, mobile apps, Vue.js, machine learning and discovering new things every day. 
 
-    She's a multilingual multiculturalist with a passion for hardware hacking, 
-    mobile apps, Vue.js, machine learning and discovering new things every day. 
-
-    She is the founder and CEO of Vue Vixens, a worldwide initiative with over 20 local chapters
-     promoting diversity in the Vue.js community. 
+    She is the founder and CEO of Vue Vixens, a worldwide initiative with over 20 local chapters promoting diversity in the Vue.js community. 
 
     ## Skills
-
     * Mobile apps
     * JavaScript
     * TypeScript
@@ -28,7 +21,6 @@ remarks: |
     * Building Community
 
     ## My web and mobile projects
-
     * [Personal Web Site and Portfolio](https://jenlooper.com)
     * [Vue Vixens](https://vuevixens.org)
     * [YoMamaIsADev](https://yomamaisa.dev)
@@ -38,14 +30,14 @@ remarks: |
 
 tagline: Vue / JavaScript
 image:
-    alt: 'Jen Looper - Cloud Advocate Lead'
-    src: media/profiles/jen-looper.png
+  alt: "Jen Looper - Cloud Advocate Lead"
+  src: media/profiles/jen-looper.png
 twitter: https://twitter.com/JenLooper
 github: https://github.com/jlooper
 blog: https://jenlooper.com/
 stackoverflow: https://stackoverflow.com/users/5338507/jen-looper
 linkedin: https://www.linkedin.com/in/jen-looper-3442413/
 location:
-    display: Wellesley, Massachusetts, United States
-    lat: 42.310593
-    long: -71.27621
+  display: Wellesley, Massachusetts, United States
+  lat: 42.310593
+  long: -71.27621

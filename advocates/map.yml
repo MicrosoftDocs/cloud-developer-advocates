@@ -610,6 +610,13 @@ profiles:
 - uid: advocates.jen-looper
   name: Jen Looper
   tagline: Vue / JavaScript
+  image:
+    src: media/profiles/jen-looper.png
+    alt: "Jen Looper - Cloud Advocate Lead"
+  location: 
+    display: Wellesley, Massachusetts, United States
+    lat: 42.310593
+    long: -71.27621
   twitter: JenLooper
 - uid: advocates.jeramiah-dooley
   name: Jeramiah Dooley
