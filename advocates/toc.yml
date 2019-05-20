@@ -1,7 +1,7 @@
 metadata:
   name: advocates_toc
 items:
-- name: 
+- name: Cloud Advocates
   href: index.html.yml
   expanded: true
   items: 
