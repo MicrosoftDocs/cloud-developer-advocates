@@ -1,0 +1,36 @@
+### YamlMime:Profile
+uid: advocates.wassim-chegham
+name: Wassim Chegham
+metadata:
+  title: Wassim Chegham - Sr. Cloud Developer Advocate
+  description: Home page for Wassim Chegham, a Microsoft Sr. Cloud Developer Advocate
+remarks: |
+  ## Bio
+  Wassim is a member of the Angular team, an open source advocate and a Senior Cloud Developer Advocate at Microsoft.
+
+  He is the author of many open source projects such as xlayers.dev, ngx.tools and letme.vision. He is also a GDE for the Angular team, the Google Assistant and the GCP teams at Google. 
+
+  Wassim is a member of the Node.js Foundation. A former member of the Angular Universal core team and the Angular Console core team.
+
+  In his free time, Wassim is hacking on DIY projects, learning about EDM and digital drawing.
+
+  ## Skills
+  - Node.js
+  - JavaScript
+  - Angular
+  - IoT
+  - Chatbots
+
+tagline: Node.js / JavaScript / Web
+image:
+  alt: "Wassim Chegham Cloud Developer Advocate"
+  src: media/profiles/wassim-chegham.jpeg 
+twitter: https://twitter.com/manekinekko
+github: https://github.com/manekinekko
+linkedin: https://linkedin.com/in/wassimchegham
+instagram: https://www.instagram.com/wassimchegham
+blog: http://dev.to/wassimchegham
+location:
+  display: Paris, France
+  lat: 48.8566
+  long: 2.3522
