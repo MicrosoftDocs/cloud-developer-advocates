@@ -1081,6 +1081,17 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: vadi
+- uid: advocates.wassim-chegham
+  name: Wassim Chegham
+  tagline: Node.js / JavaScript / Web
+  image:
+    src: media/profiles/wassim-chegham.jpeg 
+    alt: "Wassim Chegham Cloud Advocate"
+  location: 
+    display: Paris, France
+    lat: 48.8566
+    long: 2.3522
+  twitter: manekinekko
 - uid: advocates.yoshio-terada
   name: Yoshio Terada
   tagline: Java

@@ -2,11 +2,11 @@
 uid: advocates.wassim-chegham
 name: Wassim Chegham
 metadata:
-  title: Wassim Chegham - Sr. Cloud Developer Advocate
-  description: Home page for Wassim Chegham, a Microsoft Sr. Cloud Developer Advocate
+  title: Wassim Chegham - Sr. Cloud Advocate
+  description: Home page for Wassim Chegham, a Microsoft Sr. Cloud Advocate
 remarks: |
   ## Bio
-  Wassim is a member of the Angular team, an open source advocate and a Senior Cloud Developer Advocate at Microsoft.
+  Wassim is a member of the Angular team, an open source advocate and a Senior Cloud Advocate at Microsoft.
 
   He is the author of many open source projects such as xlayers.dev, ngx.tools and letme.vision. He is also a GDE for the Angular team, the Google Assistant and the GCP teams at Google. 
 
@@ -23,7 +23,7 @@ remarks: |
 
 tagline: Node.js / JavaScript / Web
 image:
-  alt: "Wassim Chegham Cloud Developer Advocate"
+  alt: "Wassim Chegham Cloud Advocate"
   src: media/profiles/wassim-chegham.jpeg 
 twitter: https://twitter.com/manekinekko
 github: https://github.com/manekinekko
