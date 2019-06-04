@@ -222,17 +222,6 @@ profiles:
     lat: 28.222353
     long: -82.47148
   twitter: bketelsen
-- uid: advocates.brian-peek
-  name: Brian Peek
-  tagline: Gaming
-  image:
-    src: media/profiles/brian-peek.png
-    alt: "Brian Peek Cloud Developer Advocate"
-  location: 
-    display: Glenville, NY, USA
-    lat: 42.8925758
-    long: -73.9787366
-  twitter: BrianPeek
 - uid: advocates.bridget-kromhout
   name: Bridget Kromhout
   tagline: Linux
