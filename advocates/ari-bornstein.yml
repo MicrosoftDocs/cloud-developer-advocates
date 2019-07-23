@@ -6,16 +6,16 @@ metadata:
   description: Home page for Ari Bornstein, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
-  I am an avid AI enthusiast with a passion for engaging with new technologies, history, and computational medicine. 
+  I am an avid AI enthusiast with a passion for engaging with new technologies, history, and computational medicine.
 
   ## Technical Skills
   * Python/ Data / Machine Learning / Deep Learning / Artificial Intelligence
 
   ## Office Hours
-  * Always happy to grab coffee and talk about tech/AI. Contact me by [LinkedIn](https://www.linkedin.com/in/aaron-ari-bornstein-22aa7a77) 
+  * Always happy to grab coffee and talk about tech/AI. Contact me by [LinkedIn](https://www.linkedin.com/in/aaron-ari-bornstein-22aa7a77)
 
   ## My Past Projects
-  
+
   * [Microsoft VoTT](https://github.com/Microsoft/VoTT), provides end to end support for generating datasets and validating object detection models from video and image assets.
   * [ULIS Library](https://github.com/Microsoft/Universal-Language-Intelligence-Service) enables chat-bots to better understand unsupported LUIS languages such as Hebrew.
   * [Smart conversational client](https://github.com/CatalystCode/SmartConversationalClient) low latency LUIS cache for robots in the assisted living space. Developed in Israel and scaled impact with developers as far as China.
@@ -34,7 +34,6 @@ image:
   src: media/profiles/ari-bornstein.png
 twitter: https://twitter.com/pythiccoder
 github: https://github.com/aribornstein
-medium: https://medium.com/@aribornstein
 linkedin: https://www.linkedin.com/in/aaron-ari-bornstein-22aa7a77
 location:
   display: Tel Aviv, Israel
