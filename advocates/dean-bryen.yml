@@ -6,12 +6,12 @@ metadata:
   description: Home page for Dean Bryen, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
-  Cloud Developer Advocate focusing on the UK developer community with a special love for Serverless, Devops, Security, Node.js and startups. 
-  
+  Cloud Developer Advocate focusing on the UK developer community with a special love for Serverless, Devops, Security, Node.js and startups.
+
   Dean has been working in the Open Source space for over 12 years, and in the public cloud for just over 5 years. He's held roles ranging from engineering, operations, architecture and advocacy at organisations such as Microsoft, Amazon and UK Cloud. He's extremely passionate about sharing whatever he learns with others and simplifying the lives of developers.
 
-  You can find Dean speaking at and attending Meetups, Universities and Conferences in the UK, as well as online via YouTube, Tiwtter or Medium. 
-  
+  You can find Dean speaking at and attending Meetups, Universities and Conferences in the UK, as well as online via YouTube, Tiwtter or Medium.
+
   ## Skills
   - Serverless
   - Javascript
@@ -26,8 +26,7 @@ image:
   alt: "Dean Bryen - Cloud Developer Advocate"
   src: media/profiles/dean-bryen.png
 twitter: https://twitter.com/deanbryen
-github: https://github.com/deanobalino 
-medium: https://medium.com/@deanbryen
+github: https://github.com/deanobalino
 linkedin: https://www.linkedin.com/in/DeanBryen/
 location:
   display: London, United Kingdom
