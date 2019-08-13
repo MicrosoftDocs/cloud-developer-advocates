@@ -519,17 +519,6 @@ profiles:
     lat: 51.501364
     long: -0.14189
   twitter: imcdnzl
-- uid: advocates.james-turnbull
-  name: James Turnbull
-  tagline: Startups / Product / Engineering
-  image:
-    src: media/profiles/james-turnbull.png
-    alt: "James Turnbull, CTO Startup Advocacy"
-  location: 
-    display: Brooklyn, NY
-    lat: 40.714722
-    long: -73.951340
-  twitter: kartar
 - uid: advocates.jan-schenk
   name: Jan Schenk
   tagline: Diversity & Inclusion, Linux

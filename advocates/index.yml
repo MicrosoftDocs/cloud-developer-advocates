@@ -402,17 +402,6 @@ profiles:
     lat: 42.3601
     long: -71.1209
   twitter: frlazzeri
-- uid: advocates.james-turnbull
-  name: James Turnbull
-  tagline: Startups
-  image:
-    src: media/profiles/james-turnbull.png
-    alt: "James Turnbull CTO Startup Advocacy"
-  location: 
-    display: Brooklyn, New York, United States
-    lat: 40.714722
-    long: -73.951340
-  twitter: kartar
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
