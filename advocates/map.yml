@@ -1033,17 +1033,6 @@ profiles:
     lat: 40.6782
     long: -73.9442
   twitter: bitandbang
-- uid: advocates.tim-heuer
-  name: Tim Heuer
-  tagline: .NET / Xamarin
-  image:
-    src: media/profiles/tim-heuer.png
-    alt: "Tim Heuer Cloud Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-  twitter: timheuer
 - uid: advocates.todd-anglin
   name: Todd Anglin
   tagline: Web / Mobile Development
