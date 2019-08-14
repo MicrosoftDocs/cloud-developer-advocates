@@ -883,17 +883,6 @@ profiles:
     lat: 52.515816
     long: 13.45429
   twitter: ryan_levick
-- uid: advocates.sandra-kriemann
-  name: Sandra Kriemann
-  tagline: Container / Java / DevOps
-  image:
-    src: media/profiles/sandra-kriemann.png
-    alt: "Sandra Kriemann Cloud Developer Advocate"
-  location: 
-    display: Berlin, Germany
-    lat: 52.515816
-    long: 13.45429
-  twitter: skriemhild
 - uid: advocates.scott-cate
   name: Scott Cate
   tagline: .NET
