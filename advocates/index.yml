@@ -182,28 +182,6 @@ profiles:
     lat: 28.222353
     long: -82.47148
   twitter: bketelsen
-- uid: advocates.brian-peek
-  name: Brian Peek
-  tagline: Gaming
-  image:
-    src: media/profiles/brian-peek.png
-    alt: "Brian Peek Cloud Developer Advocate"
-  location:
-    display: Glenville, NY, USA
-    lat: 42.8925758
-    long: -73.9787366
-  twitter: BrianPeek
-- uid: advocates.bridget-kromhout
-  name: Bridget Kromhout
-  tagline: Linux
-  image:
-    src: media/profiles/bridget-kromhout.png
-    alt: "Bridget Kromhout Cloud Developer Advocate"
-  location:
-    display: Minneapolis, Minnesota, United States
-    lat: 44.9778
-    long: -93.2650
-  twitter: bridgetkromhout
 - uid: advocates.bruno-borges
   name: Bruno Borges
   tagline: Java
@@ -446,17 +424,6 @@ profiles:
     lat: 37.191441
     long: -121.435883
   twitter: jldeen
-- uid: advocates.jessica-frazelle
-  name: Jessica Frazelle
-  tagline: Linux / Open Source
-  image:
-    src: media/profiles/jessica-frazelle.png
-    alt: "Jessica Frazelle Cloud Developer Advocate"
-  location:
-    display: New York, New York, United States
-    lat: 40.770425
-    long: -74.404626
-  twitter: jessfraz
 - uid: advocates.jim-bennett
   name: Jim Bennett
   tagline: Xamarin
@@ -479,17 +446,6 @@ profiles:
     lat: 28.5029917
     long: -81.5538575
   twitter: john_papa
-- uid: advocates.jonathan-giles
-  name: Jonathan Giles
-  tagline: Java
-  image:
-    src: media/profiles/jonathan-giles.png
-    alt: "Jonathan Giles Cloud Developer Advocate"
-  location:
-    display: Palmerston North, New Zealand
-    lat: -40.35636
-    long: 175.61113
-  twitter: JonathanGiles
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Xamarin
@@ -512,17 +468,6 @@ profiles:
     lat: 35.626610
     long: 139.740982
   twitter: chomado
-- uid: advocates.marcelo-bellinaso
-  name: Marcelo Bellinaso
-  tagline: SRE
-  image:
-    src: media/profiles/marcelo-bellinaso.png
-    alt: "Marcelo Bellinaso Cloud Ops Advocate"
-  location:
-    display: Redmond, Washington, United States
-    lat: 47.673988
-    long: -122.121513
-  twitter: mbellinasoUS
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
   tagline: .NET / Xamarin
@@ -676,17 +621,6 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: shehackspurple
-- uid: advocates.tim-heuer
-  name: Tim Heuer
-  tagline: .NET / Xamarin
-  image:
-    src: media/profiles/tim-heuer.png
-    alt: "Tim Heuer Cloud Developer Advocate"
-  location:
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-  twitter: timheuer
 - uid: advocates.vadim-karpusenko
   name: Vadim Karpusenko
   tagline: HPC / AI / ML / DL
