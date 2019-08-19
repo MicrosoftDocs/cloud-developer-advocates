@@ -171,17 +171,6 @@ profiles:
     lat: 28.554713
     long: -81.623445
   twitter: _clarkio
-- uid: advocates.brian-holt
-  name: Brian Holt
-  tagline: JavaScript / Node.js
-  image:
-    src: media/profiles/brian-holt.png
-    alt: "Brian Holt Cloud Developer Advocate"
-  location:
-    display: San Fransico, USA
-    lat: 37.760999
-    long: -122.427065
-  twitter: holtbt
 - uid: advocates.brian-ketelsen
   name: Brian Ketelsen
   tagline: Linux
@@ -621,17 +610,6 @@ profiles:
     lat: 40.770425
     long: -74.404626
   twitter: ruthieyakubu
-- uid: advocates.sarah-drasner
-  name: Sarah Drasner
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/sarah-drasner.jpg
-    alt: "Sarah Drasner Cloud Developer Advocate"
-  location:
-    display: Brighton, IL, USA
-    lat: 39.039055
-    long: -90.140678
-  twitter: sarah_edo
 - uid: advocates.scott-cate
   name: Scott Cate
   tagline: .NET
