@@ -4,7 +4,7 @@ items:
 - name: Cloud Advocates
   href: index.html.yml
   expanded: true
-  items: 
+  items:
   - name: Aaron Powell
     uid: advocates.aaron-powell
   - name: Aaron Schlesinger
@@ -181,8 +181,6 @@ items:
     uid: advocates.sonia-cuff
   - name: Steven Murawski
     uid: advocates.steven-murawski
-  - name: Suz Hinton
-    uid: advocates.susan-hinton
   - name: Tania Allard
     uid: advocates.tania-allard
   - name: Tanya Janca

@@ -982,17 +982,6 @@ profiles:
     lat: 43.107377
     long: -88.543443
   twitter: stevenmurawski
-- uid: advocates.susan-hinton
-  name: Suz Hinton
-  tagline: IoT
-  image:
-    src: media/profiles/susan-hinton.png
-    alt: "Suz Hinton Cloud Developer Advocate"
-  location:
-    display: Seattle, Washington, United States
-    lat: 47.6062
-    long: -122.3321
-  twitter: noopkat
 - uid: advocates.tania-allard
   name: Tania Allard
   tagline: Data Science / ML / Research engineering / MLOps
