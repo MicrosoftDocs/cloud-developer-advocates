@@ -244,17 +244,6 @@ profiles:
     lat: 37.7845584
     long: -122.3985641
   twitter: nebrius
-- uid: advocates.bryan-liston
-  name: Bryan Liston
-  tagline: Linux
-  image:
-    src: media/profiles/bryan-liston.png
-    alt: "Bryan Liston Cloud Developer Advocate"
-  location:
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-  twitter: listonb
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
