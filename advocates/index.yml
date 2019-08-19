@@ -270,17 +270,6 @@ profiles:
     lat: 26.1267513
     long: -80.2989968
   twitter: cecilphillip
-- uid: advocates.chad-fowler
-  name: Chad Fowler
-  tagline: Architecture / Functional Programming / Ruby
-  image:
-    src: media/profiles/chad-fowler.png
-    alt: "Chad Fowler, GM Developer Advocacy"
-  location:
-    display: Hot Springs, Arkansas
-    lat: 34.5037
-    long: -93.0552
-  twitter: chadfowler
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
