@@ -47,16 +47,12 @@ items:
     uid: advocates.bruno-borges
   - name: Bryan Hughes, Ph.D.
     uid: advocates.bryan-hughes
-  - name: Bryan Liston
-    uid: advocates.bryan-liston
   - name: Burke Holland
     uid: advocates.burke-holland
   - name: Cassie Breviu
     uid: advocates.cassie-breviu
   - name: Cecil Phillip
     uid: advocates.cecil-phillip
-  - name: Chad Fowler
-    uid: advocates.chad-fowler
   - name: Chloe Condon
     uid: advocates.chloe-condon
   - name: Chris Noring
@@ -79,12 +75,16 @@ items:
     uid: advocates.david-smith
   - name: Dean Bryen
     uid: advocates.dean-bryen
+  - name: Dmitry Soshnikov
+    uid: advocates.dmitry-soshnikov
   - name: Donovan Brown
     uid: advocates.donovan-brown
   - name: Duncan Davidson
     uid: advocates.duncan-davidson
   - name: Emily Freeman
     uid: advocates.emily-freeman
+  - name: Em Lazer-Walker
+    uid: advocates.em-lazerwalker
   - name: Erik St. Martin
     uid: advocates.erik-st-martin
   - name: Francesca Lazzeri
@@ -95,10 +95,10 @@ items:
     uid: advocates.frank-denbow
   - name: Glaucia Lemos
     uid: advocates.glaucia-lemos
+  - name: Henk Boelman
+    uid: advocates.henk-boelman
   - name: Ian McDonald
     uid: advocates.ian-mcdonald
-  - name: James Turnbull
-    uid: advocates.james-turnbull
   - name: Jan Schenk
     uid: advocates.jan-schenk
   - name: Jasmine Greenaway
@@ -163,8 +163,8 @@ items:
     uid: advocates.ruth-yakubu
   - name: Ryan Levick
     uid: advocates.ryan-levick
-  - name: Sandra Kriemann
-    uid: advocates.sandra-kriemann
+  - name: Sandra Ahlgrimm
+    uid: advocates.sandra-ahlgrimm
   - name: Scott Cate
     uid: advocates.scott-cate
   - name: Scott Coulton
@@ -181,8 +181,6 @@ items:
     uid: advocates.sonia-cuff
   - name: Steven Murawski
     uid: advocates.steven-murawski
-  - name: Suz Hinton
-    uid: advocates.susan-hinton
   - name: Tania Allard
     uid: advocates.tania-allard
   - name: Tanya Janca

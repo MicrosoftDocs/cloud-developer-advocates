@@ -248,17 +248,6 @@ profiles:
     lat: 37.7845584
     long: -122.3985641
   twitter: nebrius
-- uid: advocates.bryan-liston
-  name: Bryan Liston
-  tagline: Linux
-  image:
-    src: media/profiles/bryan-liston.png
-    alt: "Bryan Liston Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-  twitter: listonb
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
@@ -292,17 +281,6 @@ profiles:
     lat: 26.1267513
     long: -80.2989968
   twitter: cecilphillip
-- uid: advocates.chad-fowler
-  name: Chad Fowler
-  tagline: Architecture / Functional Programming / Ruby
-  image:
-    src: media/profiles/chad-fowler.png 
-    alt: "Chad Fowler, GM Developer Advocacy"
-  location: 
-    display: Hot Springs, Arkansas
-    lat: 34.5037
-    long: -93.0552
-  twitter: chadfowler
 - uid: advocates.chloe-condon
   name: Chloe Condon
   tagline: Python / JavaScript / Android
@@ -424,6 +402,17 @@ profiles:
     lat: 51.508530
     long: -0.076132
   twitter: deanbryen
+- uid: advocates.dmitry-soshnikov
+  name: Dmitry Soshnikov
+  tagline: AI / ML / Python / F# / Students / K-12
+  image:
+    src: media/profiles/dmitry-soshnikov.png
+    alt: "Dmitry Soshnikov Cloud Developer Advocate"
+  location: 
+    display: Moscow, Russia
+    lat: 55.751244
+    long: 37.618423
+  twitter: shwars
 - uid: advocates.donovan-brown
   name: Donovan Brown
   tagline: DevOps
@@ -457,6 +446,17 @@ profiles:
     lat: 39.7392
     long: -104.9903
   twitter: editingemily
+- uid: advocates.em-lazerwalker
+  name: Em Lazer-Walker
+  tagline: Games / Mobile / JavaScript / IoT
+  image:
+    src: media/profiles/em-lazerwalker.png
+    alt: "Em Lazer-Walker - Cloud Advocate"
+  location: 
+    display: Toronto, Ontario, Canada
+    lat: 43.647664
+    long: -79.3802294
+  twitter: lazerwalker
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -512,6 +512,17 @@ profiles:
     lat: -22.904491
     long: -43.190777
   twitter: glaucia_lemos86
+- uid: advocates.henk-boelman
+  name: Henk Boelman
+  tagline: AI / ML / Azure / DevOps
+  image:
+    src: media/profiles/henk-boelman.png
+    alt: "Henk Boelman"
+  location: 
+    display: Driebergen, The Netherlands
+    lat: 52.0483174
+    long: 5.2686323
+  twitter: hboelman
 - uid: advocates.ian-mcdonald
   name: Ian McDonald
   tagline: Startups / Diversity and Inclusion / Public Cloud
@@ -523,17 +534,6 @@ profiles:
     lat: 51.501364
     long: -0.14189
   twitter: imcdnzl
-- uid: advocates.james-turnbull
-  name: James Turnbull
-  tagline: Startups / Product / Engineering
-  image:
-    src: media/profiles/james-turnbull.png
-    alt: "James Turnbull, CTO Startup Advocacy"
-  location: 
-    display: Brooklyn, NY
-    lat: 40.714722
-    long: -73.951340
-  twitter: kartar
 - uid: advocates.jan-schenk
   name: Jan Schenk
   tagline: Diversity & Inclusion, Linux
@@ -640,9 +640,9 @@ profiles:
     src: media/profiles/jim-bennett.png
     alt: "Jim Bennett Cloud Developer Advocate"
   location: 
-    display: Reading, United Kingdom
-    lat: 51.458046
-    long: -1.012501
+    display: Redmond, Washington, United States
+    lat: 47.679194
+    long: -122.153322
   twitter: jimbobbennett
 - uid: advocates.john-papa
   name: John Papa
@@ -883,12 +883,12 @@ profiles:
     lat: 52.515816
     long: 13.45429
   twitter: ryan_levick
-- uid: advocates.sandra-kriemann
-  name: Sandra Kriemann
+- uid: advocates.sandra-ahlgrimm
+  name: Sandra Ahlgrimm
   tagline: Container / Java / DevOps
   image:
-    src: media/profiles/sandra-kriemann.png
-    alt: "Sandra Kriemann Cloud Developer Advocate"
+    src: media/profiles/sandra-ahlgrimm.png
+    alt: "Sandra Ahlgrimm Cloud Developer Advocate"
   location: 
     display: Berlin, Germany
     lat: 52.515816
@@ -982,17 +982,6 @@ profiles:
     lat: 43.107377
     long: -88.543443
   twitter: stevenmurawski
-- uid: advocates.susan-hinton
-  name: Suz Hinton
-  tagline: IoT
-  image:
-    src: media/profiles/susan-hinton.png
-    alt: "Suz Hinton Cloud Developer Advocate"
-  location: 
-    display: Seattle, Washington, United States
-    lat: 47.6062
-    long: -122.3321
-  twitter: noopkat
 - uid: advocates.tania-allard
   name: Tania Allard
   tagline: Data Science / ML / Research engineering / MLOps

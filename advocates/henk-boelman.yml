@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: advocates.henk-boelman
+name: Henk Boelman
+metadata:
+  title: Henk Boelman - Cloud Advocate 
+  description: Home page for Henk Boelman, a Microsoft Cloud Advocate
+remarks: |
+  ## Bio
+  I'm a Cloud Advocate specializing in Artificial intelligence and Azure with a background in application development. Currently I'm part of the regional cloud advocate team and based in the Netherlands. Before joining Microsoft, I was a Microsoft AI MVP and worked as a developer and architect building lots of AI powered platforms on Azure.
+
+  I love to share my knowledge on software development for the cloud. Get developers started with Machine Learning and share my experience on how to get ML Models in production. You can find me online using the links above or at in-person events.
+
+  ## Skills
+  * Azure Machine Learning Service
+  * Cognitive Services
+  * AI for developers
+  * MLOps
+  * Azure DevOps
+  * Azure Architecture
+
+tagline: AI / ML / Azure / DevOps
+image:
+  alt: "Henk Boelman"
+  src: media/profiles/henk-boelman.png
+twitter: https://twitter.com/hboelman
+github: https://github.com/hnky
+linkedin: https://www.linkedin.com/in/henkboelman/
+blog: https://www.henkboelman.com
+location:
+  display: Driebergen, The Netherlands
+  lat: 52.0483174
+  long: 5.2686323
