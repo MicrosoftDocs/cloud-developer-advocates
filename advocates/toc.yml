@@ -4,7 +4,7 @@ items:
 - name: Cloud Advocates
   href: index.html.yml
   expanded: true
-  items:
+  items: 
   - name: Aaron Powell
     uid: advocates.aaron-powell
   - name: Aaron Schlesinger
@@ -75,12 +75,16 @@ items:
     uid: advocates.david-smith
   - name: Dean Bryen
     uid: advocates.dean-bryen
+  - name: Dmitry Soshnikov
+    uid: advocates.dmitry-soshnikov
   - name: Donovan Brown
     uid: advocates.donovan-brown
   - name: Duncan Davidson
     uid: advocates.duncan-davidson
   - name: Emily Freeman
     uid: advocates.emily-freeman
+  - name: Em Lazer-Walker
+    uid: advocates.em-lazerwalker
   - name: Erik St. Martin
     uid: advocates.erik-st-martin
   - name: Francesca Lazzeri
@@ -91,6 +95,8 @@ items:
     uid: advocates.frank-denbow
   - name: Glaucia Lemos
     uid: advocates.glaucia-lemos
+  - name: Henk Boelman
+    uid: advocates.henk-boelman
   - name: Ian McDonald
     uid: advocates.ian-mcdonald
   - name: Jan Schenk
@@ -157,6 +163,8 @@ items:
     uid: advocates.ruth-yakubu
   - name: Ryan Levick
     uid: advocates.ryan-levick
+  - name: Sandra Ahlgrimm
+    uid: advocates.sandra-ahlgrimm
   - name: Scott Cate
     uid: advocates.scott-cate
   - name: Scott Coulton
