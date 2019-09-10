@@ -4,7 +4,7 @@ items:
 - name: Cloud Advocates
   href: index.html.yml
   expanded: true
-  items: 
+  items:
   - name: Aaron Powell
     uid: advocates.aaron-powell
   - name: Aaron Schlesinger
@@ -47,16 +47,12 @@ items:
     uid: advocates.bruno-borges
   - name: Bryan Hughes, Ph.D.
     uid: advocates.bryan-hughes
-  - name: Bryan Liston
-    uid: advocates.bryan-liston
   - name: Burke Holland
     uid: advocates.burke-holland
   - name: Cassie Breviu
     uid: advocates.cassie-breviu
   - name: Cecil Phillip
     uid: advocates.cecil-phillip
-  - name: Chad Fowler
-    uid: advocates.chad-fowler
   - name: Chloe Condon
     uid: advocates.chloe-condon
   - name: Chris Noring
@@ -177,8 +173,6 @@ items:
     uid: advocates.sonia-cuff
   - name: Steven Murawski
     uid: advocates.steven-murawski
-  - name: Suz Hinton
-    uid: advocates.susan-hinton
   - name: Tania Allard
     uid: advocates.tania-allard
   - name: Tanya Janca
