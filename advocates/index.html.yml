@@ -894,6 +894,17 @@ profiles:
     lat: 52.515816
     long: 13.45429
   twitter: skriemhild
+- uid: advocates.sarah-lean
+  name: Sarah Lean
+  tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
+  image:
+    src: media/profiles/sarah-lean.png 
+    alt: "Sarah Lean Cloud Advocate"
+  location: 
+    display: Glasgow, Scotland, United Kingdom
+    lat: 55.864239
+    long: -4.251806
+  twitter: Techielass
 - uid: advocates.scott-cate
   name: Scott Cate
   tagline: .NET
