@@ -237,17 +237,6 @@ profiles:
     lat: 49.26038
     long: -123.1134
   twitter: brunoborges
-- uid: advocates.bryan-hughes
-  name: Bryan Hughes, Ph.D.
-  tagline: JavaScript
-  image:
-    src: media/profiles/bryan-hughes.png
-    alt: "Bryan Hughes Cloud Developer Advocate"
-  location: 
-    display: San Francisco, California, United States
-    lat: 37.7845584
-    long: -122.3985641
-  twitter: nebrius
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
@@ -666,6 +655,17 @@ profiles:
     lat: 48.8712
     long: 2.22707
   twitter: juliendubois
+- uid: advocates.justin-yoo
+  name: Justin Yoo
+  tagline: .NET / DevOps / Serverless / Messaging
+  image:
+    src: media/profiles/justin-yoo.png 
+    alt: "Justin Yoo Cloud Advocate"
+  location: 
+    display: Melbourne, Australia
+    lat: -37.9722342
+    long: 144.7729572
+  twitter: justinchronicle
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Xamarin
@@ -720,17 +720,6 @@ profiles:
     lat: 45.5017
     long: -73.5673
   twitter: maximrouiller
-- uid: advocates.michael-bender
-  name: Michael Bender
-  tagline: Operations
-  image:
-    src: media/profiles/michael-bender.png 
-    alt: "Michael Bender - Cloud Ops Advocate"
-  location: 
-    display: Sun Prairie, Wisconsin, United States
-    lat: 43.1836046
-    long: -89.2137254
-  twitter: michaelbender
 - uid: advocates.mike-james
   name: Mike James
   tagline: Xamarin
@@ -829,17 +818,6 @@ profiles:
     lat: 45.42178
     long: -75.69119
   twitter: WiredCanuck
-- uid: advocates.prashant-sridharan
-  name: Prashant Sridharan
-  tagline: Chief Herder
-  image:
-    src: media/profiles/prashant-sridharan.png
-    alt: "Prashant Sridharan Cloud Developer Advocate"
-  location: 
-    display: San Francisco, California, United States
-    lat: 37.815141999999994
-    long: -122.518271
-  twitter: CoolAssPuppy
 - uid: advocates.rick-claus
   name: Rick Claus
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
@@ -1004,17 +982,6 @@ profiles:
     lat: 53.483959
     long: -2.244644
   twitter: ixek
-- uid: advocates.tanya-janca
-  name: Tanya Janca
-  tagline: AppSec
-  image:
-    src: media/profiles/tanya-janca.png
-    alt: "Tanya Janca Cloud Developer Advocate"
-  location: 
-    display: Gatineau, Quebec, Canada
-    lat: 45.47723
-    long: -75.70164
-  twitter: shehackspurple
 - uid: advocates.thomas-maurer
   name: Thomas Maurer
   tagline: Azure / Azure Stack / Windows Server / IT Pro

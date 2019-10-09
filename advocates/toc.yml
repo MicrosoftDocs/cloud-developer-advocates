@@ -45,8 +45,6 @@ items:
     uid: advocates.brian-ketelsen
   - name: Bruno Borges
     uid: advocates.bruno-borges
-  - name: Bryan Hughes, Ph.D.
-    uid: advocates.bryan-hughes
   - name: Burke Holland
     uid: advocates.burke-holland
   - name: Cassie Breviu
@@ -123,6 +121,8 @@ items:
     uid: advocates.john-papa
   - name: Julien Dubois
     uid: advocates.julien-dubois
+  - name: Justin Yoo
+    uid: advocates.justin-yoo
   - name: Laurent Bugnion
     uid: advocates.laurent-bugnion
   - name: Lims Wang
@@ -133,8 +133,6 @@ items:
     uid: advocates.matthew-soucoup
   - name: Maxime Rouiller
     uid: advocates.maxime-rouiller
-  - name: Michael Bender
-    uid: advocates.michael-bender
   - name: Mike James
     uid: advocates.mike-james
   - name: Muniraju Pulipalyam
@@ -153,8 +151,6 @@ items:
     uid: advocates.phoummala-schmitt
   - name: Pierre Roman
     uid: advocates.pierre-roman
-  - name: Prashant Sridharan
-    uid: advocates.prashant-sridharan
   - name: Rick Claus
     uid: advocates.rick-claus
   - name: Rong Yu
@@ -185,8 +181,6 @@ items:
     uid: advocates.steven-murawski
   - name: Tania Allard
     uid: advocates.tania-allard
-  - name: Tanya Janca
-    uid: advocates.tanya-janca
   - name: Thomas Maurer
     uid: advocates.thomas-maurer
   - name: Tierney Cyren
