@@ -337,11 +337,11 @@ profiles:
   tagline: DevOps
   image:
     src: media/profiles/damian-brady.png
-    alt: "Damian Brady Cloud Developer Advocate"
+    alt: "Damian Brady Cloud Advocate"
   location: 
-    display: Newcastle, Australia
-    lat: -32.928300
-    long: 151.781700
+    display: Byron Bay, Australia
+    lat: -28.647400
+    long: 153.602000
   twitter: damovisa
 - uid: advocates.dave-glover
   name: Dave Glover
@@ -420,17 +420,6 @@ profiles:
     lat: 52.516875
     long: 13.390384
   twitter: duncan
-- uid: advocates.emily-freeman
-  name: Emily Freeman
-  tagline: DevOps
-  image:
-    src: media/profiles/emily-freeman.png
-    alt: "Emily Freeman Cloud Developer Advocate"
-  location: 
-    display: Denver, Colorado, United States
-    lat: 39.7392
-    long: -104.9903
-  twitter: editingemily
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT
@@ -442,6 +431,17 @@ profiles:
     lat: 43.647664
     long: -79.3802294
   twitter: lazerwalker
+- uid: advocates.emily-freeman
+  name: Emily Freeman
+  tagline: DevOps
+  image:
+    src: media/profiles/emily-freeman.png
+    alt: "Emily Freeman Cloud Developer Advocate"
+  location: 
+    display: Denver, Colorado, United States
+    lat: 39.7392
+    long: -104.9903
+  twitter: editingemily
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
