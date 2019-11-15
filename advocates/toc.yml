@@ -25,9 +25,7 @@ items:
     uid: advocates.andrew-harvey
   - name: Anthony Bartolo
     uid: advocates.anthony-bartolo
-  - name: Anthony Chu
-    uid: advocates.anthony-chu
-  - name: Ari Bornstein
+    - name: Ari Bornstein
     uid: advocates.ari-bornstein
   - name: Ashley McNamara
     uid: advocates.ashley-mcnamara
@@ -43,8 +41,6 @@ items:
     uid: advocates.brian-clark
   - name: Brian Ketelsen
     uid: advocates.brian-ketelsen
-  - name: Bruno Borges
-    uid: advocates.bruno-borges
   - name: Burke Holland
     uid: advocates.burke-holland
   - name: Cassie Breviu
