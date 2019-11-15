@@ -123,17 +123,6 @@ profiles:
     lat: 43.653226
     long: -79.3831843
   twitter: wirelesslife
-- uid: advocates.anthony-chu
-  name: Anthony Chu
-  tagline: .NET / Containers
-  image:
-    src: media/profiles/anthony-chu.png
-    alt: "Anthony Chu Cloud Developer Advocate"
-  location: 
-    display: Vancouver, Canada
-    lat: 49.339277
-    long: -123.2998
-  twitter: nthonyChu
 - uid: advocates.ari-bornstein
   name: Ari Bornstein
   tagline: Data / AI / ML
@@ -222,17 +211,6 @@ profiles:
     lat: 28.222353
     long: -82.47148
   twitter: bketelsen
-- uid: advocates.bruno-borges
-  name: Bruno Borges
-  tagline: Java
-  image:
-    src: media/profiles/bruno-borges.png 
-    alt: "Bruno Boges Cloud Developer Advocate"
-  location: 
-    display: Vancouver, BC, Canada
-    lat: 49.26038
-    long: -123.1134
-  twitter: brunoborges
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
