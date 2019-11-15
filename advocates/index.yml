@@ -314,17 +314,6 @@ profiles:
     lat: 42.3601
     long: -71.1209
   twitter: frlazzeri
-- uid: advocates.james-turnbull
-  name: James Turnbull
-  tagline: Startups
-  image:
-    src: media/profiles/james-turnbull.png
-    alt: "James Turnbull CTO Startup Advocacy"
-  location:
-    display: Brooklyn, New York, United States
-    lat: 40.714722
-    long: -73.951340
-  twitter: kartar
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
@@ -457,17 +446,6 @@ profiles:
     lat: 45.5017
     long: -73.5673
   twitter: maximrouiller
-- uid: advocates.michael-bender
-  name: Michael Bender
-  tagline: Operations
-  image:
-    src: media/profiles/michael-bender.png
-    alt: "Michael Bender - Cloud Ops Advocate"
-  location:
-    display: Sun Prairie, Wisconsin, United States
-    lat: 43.1836046
-    long: -89.2137254
-  twitter: michaelbender
 - uid: advocates.mike-james
   name: Mike James
   image:
@@ -500,17 +478,6 @@ profiles:
     lat: 29.726948
     long: -95.609268
   twitter: pjdecarlo
-- uid: advocates.prashant-sridharan
-  name: Prashant Sridharan
-  tagline: Chief Herder
-  image:
-    src: media/profiles/prashant-sridharan.png
-    alt: "Prashant Sridharan Cloud Developer Advocate"
-  location:
-    display: San Francisco, California, United States
-    lat: 37.815141999999994
-    long: -122.518271
-  twitter: CoolAssPuppy
 - uid: advocates.ruth-yakubu
   name: Ruth Yakubu
   tagline: Java / AI / Data
