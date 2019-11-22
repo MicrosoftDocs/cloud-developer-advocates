@@ -127,17 +127,6 @@ profiles:
     lat: 43.653226
     long: -79.3831843
   twitter: wirelesslife
-- uid: advocates.anthony-chu
-  name: Anthony Chu
-  tagline: .NET / Containers
-  image:
-    src: media/profiles/anthony-chu.png
-    alt: "Anthony Chu Cloud Developer Advocate"
-  location: 
-    display: Vancouver, Canada
-    lat: 49.339277
-    long: -123.2998
-  twitter: nthonyChu
 - uid: advocates.ari-bornstein
   name: Ari Bornstein
   tagline: Data / AI / ML
@@ -226,17 +215,6 @@ profiles:
     lat: 28.222353
     long: -82.47148
   twitter: bketelsen
-- uid: advocates.bruno-borges
-  name: Bruno Borges
-  tagline: Java
-  image:
-    src: media/profiles/bruno-borges.png 
-    alt: "Bruno Boges Cloud Developer Advocate"
-  location: 
-    display: Vancouver, BC, Canada
-    lat: 49.26038
-    long: -123.1134
-  twitter: brunoborges
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
@@ -424,17 +402,6 @@ profiles:
     lat: 52.516875
     long: 13.390384
   twitter: duncan
-- uid: advocates.em-lazerwalker
-  name: Em Lazer-Walker
-  tagline: Games / Mobile / JavaScript / IoT
-  image:
-    src: media/profiles/em-lazerwalker.png
-    alt: "Em Lazer-Walker - Cloud Advocate"
-  location: 
-    display: Toronto, Ontario, Canada
-    lat: 43.647664
-    long: -79.3802294
-  twitter: lazerwalker
 - uid: advocates.emily-freeman
   name: Emily Freeman
   tagline: DevOps
@@ -446,6 +413,17 @@ profiles:
     lat: 39.7392
     long: -104.9903
   twitter: editingemily
+- uid: advocates.em-lazerwalker
+  name: Em Lazer-Walker
+  tagline: Games / Mobile / JavaScript / IoT
+  image:
+    src: media/profiles/em-lazerwalker.png
+    alt: "Em Lazer-Walker - Cloud Advocate"
+  location: 
+    display: Toronto, Ontario, Canada
+    lat: 43.647664
+    long: -79.3802294
+  twitter: lazerwalker
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -714,7 +692,7 @@ profiles:
   tagline: .NET / Serverless / Durable Functions
   image:
     src: media/profiles/maxime-rouiller.png
-    alt: "Maxime Rouiller Cloud Developer Advocate"
+    alt: "Maxime Rouiller Cloud Advocate"
   location: 
     display: Montréal, Québec, Canada
     lat: 45.5017
