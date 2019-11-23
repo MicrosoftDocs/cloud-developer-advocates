@@ -692,7 +692,7 @@ profiles:
   tagline: .NET / Serverless / Durable Functions
   image:
     src: media/profiles/maxime-rouiller.png
-    alt: "Maxime Rouiller Cloud Developer Advocate"
+    alt: "Maxime Rouiller Cloud Advocate"
   location: 
     display: Montr?al, Qu?bec, Canada
     lat: 45.5017
