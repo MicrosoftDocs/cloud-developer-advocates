@@ -90,7 +90,7 @@ profiles:
     src: media/profiles/alvaro-videla.png
     alt: "Alvaro Videla Cloud Advocate"
   location: 
-    display: Dübendorf, Switzerland
+    display: D?bendorf, Switzerland
     lat: 47.3971
     long: 8.6180
   twitter: old_sound
@@ -110,7 +110,7 @@ profiles:
   tagline: Startups / Product / Infrastructure
   image:
     src: media/profiles/andrew-harvey.png
-    alt: "Andrew Harvey – CTO in Residence, Sydney"
+    alt: "Andrew Harvey ? CTO in Residence, Sydney"
   location: 
     display: Sydney, NSW, Australia
     lat: -33.87188
@@ -310,7 +310,7 @@ profiles:
     src: media/profiles/cynthia-zanoni.jpg
     alt: "Cynthia Zanoni Cloud Advocate Program Manager"
   location: 
-    display: São Paulo, Brazil
+    display: S?o Paulo, Brazil
     lat: -23.533773
     long: -46.625290
   twitter: cynthiazanoni
@@ -651,7 +651,7 @@ profiles:
     src: media/profiles/laurent-bugnion.png 
     alt: "Laurent Bugnion Cloud Developer Advocate"
   location: 
-    display: Wallisellen, Bülach, Switzerland
+    display: Wallisellen, B?lach, Switzerland
     lat: 47.417478
     long: 8.58175
   twitter: LBugnion
@@ -694,7 +694,7 @@ profiles:
     src: media/profiles/maxime-rouiller.png
     alt: "Maxime Rouiller Cloud Developer Advocate"
   location: 
-    display: Montréal, Québec, Canada
+    display: Montr?al, Qu?bec, Canada
     lat: 45.5017
     long: -73.5673
   twitter: maximrouiller
