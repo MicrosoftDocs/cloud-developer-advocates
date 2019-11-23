@@ -456,15 +456,15 @@ profiles:
     
     # writing to TOC file    
     ForEach-Object -Begin { return $content } -Process { Format-Yaml -object $objects } `
-        | Out-File -filepath $toc_path -encoding ascii
+        | Out-File -filepath $toc_path -encoding utf8
 
     # writing to Index file 
     ForEach-Object -Begin { return $IndexFilecontent } -Process { Format-Index-Yaml -object $objects } `
-        | Out-File -filepath $index_path -encoding ascii
+        | Out-File -filepath $index_path -encoding utf8
 
         # writing to map file 
     ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `
-        | Out-File -filepath $map_path -encoding ascii
+        | Out-File -filepath $map_path -encoding utf8
     
     Write-Verbose "Generated table of contents at $toc_path"
     Write-Verbose "Generated Index file at $index_path"

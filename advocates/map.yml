@@ -1,4 +1,4 @@
-### YamlMime:ProfileList
+﻿### YamlMime:ProfileList
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -86,7 +86,7 @@ profiles:
     src: media/profiles/alvaro-videla.png
     alt: "Alvaro Videla Cloud Advocate"
   location: 
-    display: D?bendorf, Switzerland
+    display: Dübendorf, Switzerland
     lat: 47.3971
     long: 8.6180
   twitter: old_sound
@@ -106,7 +106,7 @@ profiles:
   tagline: Startups / Product / Infrastructure
   image:
     src: media/profiles/andrew-harvey.png
-    alt: "Andrew Harvey ? CTO in Residence, Sydney"
+    alt: "Andrew Harvey – CTO in Residence, Sydney"
   location: 
     display: Sydney, NSW, Australia
     lat: -33.87188
@@ -306,7 +306,7 @@ profiles:
     src: media/profiles/cynthia-zanoni.jpg
     alt: "Cynthia Zanoni Cloud Advocate Program Manager"
   location: 
-    display: S?o Paulo, Brazil
+    display: São Paulo, Brazil
     lat: -23.533773
     long: -46.625290
   twitter: cynthiazanoni
@@ -647,7 +647,7 @@ profiles:
     src: media/profiles/laurent-bugnion.png 
     alt: "Laurent Bugnion Cloud Developer Advocate"
   location: 
-    display: Wallisellen, B?lach, Switzerland
+    display: Wallisellen, Bülach, Switzerland
     lat: 47.417478
     long: 8.58175
   twitter: LBugnion
@@ -690,7 +690,7 @@ profiles:
     src: media/profiles/maxime-rouiller.png
     alt: "Maxime Rouiller Cloud Advocate"
   location: 
-    display: Montr?al, Qu?bec, Canada
+    display: Montréal, Québec, Canada
     lat: 45.5017
     long: -73.5673
   twitter: maximrouiller
