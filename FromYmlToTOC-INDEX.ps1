@@ -183,7 +183,8 @@ function Format-Yaml {
         $startobject = ('  ' * ($depth - 1)) + '- '
         
 		$uid = if ($index) { $index.UID } else { $item.Name.Split('/') | Select-Object -Last 1 }
-        $name = $startobject + 'name: ' + $indexTitle
+        Write-Host $index
+        $name = $startobject + 'name: Cloud Advocates'
         $href = if ($index.RelativePath) { $indent, 'href: ', $index.RelativePath -join '' } else { "" } 
         $expanded = $indent + 'expanded: true'
         $items = $indent + 'items: '
@@ -378,7 +379,7 @@ Write-Verbose "Working directory is $opc_path"
 $opc_json = Get-Content -Raw $opc_path | Out-String | ConvertFrom-Json
 $source_folders = $opc_json.docsets_to_publish.build_source_folder
 
-$indexTitle = ''
+$indexTitle = 'Cloud Advocates'
 
 # Read the docfx.json file's "build.content" array. This tells us the glob patterns to use to locate content, and which content to exclude.
 foreach ($source_folder in $source_folders) {
@@ -451,20 +452,20 @@ profiles:
         | ForEach-Object { Get-DocumentMetadata -file $_ -relativepath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName ) } `
         | Group-Object { Remove-RootPath -rootpath $docfx_dir -fullpath $_.Parent } `
         | Sort-Object Name `
-        
+    
+    
     # writing to TOC file    
     ForEach-Object -Begin { return $content } -Process { Format-Yaml -object $objects } `
-        | Out-File -filepath $toc_path
+        | Out-File -filepath $toc_path -encoding utf8
 
     # writing to Index file 
     ForEach-Object -Begin { return $IndexFilecontent } -Process { Format-Index-Yaml -object $objects } `
-        | Out-File -filepath $index_path
+        | Out-File -filepath $index_path -encoding utf8
 
         # writing to map file 
     ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `
-        | Out-File -filepath $map_path
-
-
+        | Out-File -filepath $map_path -encoding utf8
+    
     Write-Verbose "Generated table of contents at $toc_path"
     Write-Verbose "Generated Index file at $index_path"
     Write-Verbose "Generated map file at $map_path"
