@@ -720,17 +720,6 @@ profiles:
     lat: 12.96697
     long: 77.58728
   twitter: munipuli
-- uid: advocates.neil-peterson
-  name: Neil Peterson
-  tagline: Azure
-  image:
-    src: media/profiles/neil-peterson.png
-    alt: "Neil Peterson Cloud Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-  twitter: nepeters
 - uid: advocates.nina-zakharenko
   name: Nina Zakharenko
   tagline: Python
