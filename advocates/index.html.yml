@@ -127,6 +127,17 @@ profiles:
     lat: 43.653226
     long: -79.3831843
   twitter: wirelesslife
+- uid: advocates.april-speight
+  name: April Speight
+  tagline: Spatial Computing
+  image:
+    src: media/profiles/april-speight.png
+    alt: "April Speight Cloud Advocate"
+  location: 
+    display: Hollywood, CA
+    lat: 34.090698
+    long: -118.386002
+  twitter: vogueandcode
 - uid: advocates.ari-bornstein
   name: Ari Bornstein
   tagline: Data / AI / ML
