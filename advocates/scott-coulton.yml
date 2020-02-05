@@ -2,13 +2,13 @@
 uid: advocates.scott-coulton
 name: Scott Coulton
 metadata:
-  title: Scott Couton - Cloud Developer Advocate
+  title: Scott Coulton - Cloud Developer Advocate
   description: Home page for Scott Coulton, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
 
-  Scott Coulton is a Developer Advocate and Docker captain with 10 years of experience as a software engineer in the managed services and hosting space. 
-  He has extensive experience in architecture and rolling out distributed compute systems and network solutions for national and multinational companies with a wide variety of technologies, 
+  Scott Coulton is a Developer Advocate and Docker captain with 10 years of experience as a software engineer in the managed services and hosting space.
+  He has extensive experience in architecture and rolling out distributed compute systems and network solutions for national and multinational companies with a wide variety of technologies,
   including Azure, Kubernetes, Puppet, Docker, Cisco, VMware, Microsoft, and Linux. His design strengths are in cloud computing, automation, and security space.
 
   ## Skills
@@ -22,16 +22,16 @@ remarks: |
   ## Select Projects
 
   * [Kubernetes security 101 workshop](https://github.com/scotty-c/kubernetes-security-workshop)
+  * [Kubernetes on Azure](https://github.com/scotty-c/kubernetes-on-azure-workshop)
 
 
-tagline: Kubernetes
+tagline: Linux / Containers / Kubernetes
 image:
   alt: "Scott Coulton Cloud Developer Advocate"
   src: media/profiles/scott-coulton.png
 
 twitter: https://twitter.com/scottcoulton
 github: https://github.com/scotty-c
-medium: https://medium.com/@scott.coulton
 linkedin: https://au.linkedin.com/in/scott-coulton-22864813
 
 location:

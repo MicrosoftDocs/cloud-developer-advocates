@@ -1,0 +1,25 @@
+### YamlMime:Profile
+uid: advocates.julien-dubois
+name: Julien Dubois
+metadata:
+  title: Julien Dubois - Cloud Advocate
+  description: Home page for Julien Dubois, a Microsoft Cloud Advocate
+remarks: |
+  ## Bio
+  Julien is a Developer Advocate for Java at Microsoft. Julien is a Java Champion, and is mostly known in the Java community as the creator and lead developer of [JHipster](https://www.jhipster.tech/).
+  ## Skills
+  * Java
+  * Full stack development
+  * Cloud-native applications
+  * Containers
+tagline: Java
+image:
+  alt: "Julien Dubois Cloud Advocate"
+  src: media/profiles/julien-dubois.jpg 
+twitter: https://twitter.com/juliendubois
+github: https://github.com/jdubois
+linkedin: https://linkedin.com/in/juliendubois
+location:
+  display: Suresnes, France
+  lat: 48.8712
+  long: 2.22707
