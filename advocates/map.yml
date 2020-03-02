@@ -477,10 +477,10 @@ profiles:
   twitter: frankdenbow
 - uid: advocates.glaucia-lemos
   name: Glaucia Lemos
-  tagline: JavaScript / Node.js / AI
+  tagline: JavaScript / Node.js / A.I
   image:
     src: media/profiles/glaucia-lemos.png
-    alt: "Glaucia Lemos Cloud Advocate"
+    alt: "Glaucia Lemos Regional Cloud Advocate"
   location: 
     display: Rio de Janeiro, Brazil
     lat: -22.904491
@@ -523,7 +523,7 @@ profiles:
   name: Jasmine Greenaway
   tagline: .NET
   image:
-    src: media/profiles/jasmine-greenaway.png
+    src: media/profiles/jasmine-greenaway.jpg
     alt: "Jasmine Greenaway Cloud Developer Advocate"
   location: 
     display: Brooklyn,  New York, United States
