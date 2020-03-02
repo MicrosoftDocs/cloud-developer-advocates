@@ -527,7 +527,7 @@ profiles:
   name: Jasmine Greenaway
   tagline: .NET
   image:
-    src: media/profiles/jasmine-greenaway.png
+    src: media/profiles/jasmine-greenaway.jpg
     alt: "Jasmine Greenaway Cloud Developer Advocate"
   location: 
     display: Brooklyn,  New York, United States
