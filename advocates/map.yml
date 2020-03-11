@@ -672,6 +672,17 @@ profiles:
     display: Beijing, China
     lat: 39.9799903172
     long: 116.3102397268
+- uid: advocates.lucas-santos
+  name: Lucas Santos
+  tagline: Kubernetes / Containers / Docker / JavaScript / Node.js / TypeScript
+  image:
+    src: media/profiles/lucas-santos.png
+    alt: "Lucas Santos Cloud Advocate"
+  location: 
+    display: Santo André, São Paulo
+    lat: -23.7103031
+    long: -46.4928907
+  twitter: _staticvoid
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
   tagline: C# / Conversational AI / (Manga)
