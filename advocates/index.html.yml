@@ -1,4 +1,4 @@
-﻿### YamlMime:ProfileList
+### YamlMime:ProfileList
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -413,17 +413,6 @@ profiles:
     lat: 52.516875
     long: 13.390384
   twitter: duncan
-- uid: advocates.emily-freeman
-  name: Emily Freeman
-  tagline: DevOps
-  image:
-    src: media/profiles/emily-freeman.png
-    alt: "Emily Freeman Cloud Developer Advocate"
-  location: 
-    display: Denver, Colorado, United States
-    lat: 39.7392
-    long: -104.9903
-  twitter: editingemily
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT
@@ -435,6 +424,17 @@ profiles:
     lat: 43.647664
     long: -79.3802294
   twitter: lazerwalker
+- uid: advocates.emily-freeman
+  name: Emily Freeman
+  tagline: DevOps
+  image:
+    src: media/profiles/emily-freeman.png
+    alt: "Emily Freeman Cloud Developer Advocate"
+  location: 
+    display: Denver, Colorado, United States
+    lat: 39.7392
+    long: -104.9903
+  twitter: editingemily
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -676,6 +676,17 @@ profiles:
     display: Beijing, China
     lat: 39.9799903172
     long: 116.3102397268
+- uid: advocates.lucas-santos
+  name: Lucas Santos
+  tagline: Kubernetes / Containers / Docker / JavaScript / Node.js / TypeScript
+  image:
+    src: media/profiles/lucas-santos.png
+    alt: "Lucas Santos Cloud Advocate"
+  location: 
+    display: Santo André, São Paulo
+    lat: -23.7103031
+    long: -46.4928907
+  twitter: _staticvoid
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
   tagline: C# / Conversational AI / (Manga)
