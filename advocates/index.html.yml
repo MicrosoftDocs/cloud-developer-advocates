@@ -1,4 +1,4 @@
-### YamlMime:ProfileList
+﻿### YamlMime:ProfileList
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -413,17 +413,6 @@ profiles:
     lat: 52.516875
     long: 13.390384
   twitter: duncan
-- uid: advocates.em-lazerwalker
-  name: Em Lazer-Walker
-  tagline: Games / Mobile / JavaScript / IoT
-  image:
-    src: media/profiles/em-lazerwalker.png
-    alt: "Em Lazer-Walker - Cloud Advocate"
-  location: 
-    display: Toronto, Ontario, Canada
-    lat: 43.647664
-    long: -79.3802294
-  twitter: lazerwalker
 - uid: advocates.emily-freeman
   name: Emily Freeman
   tagline: DevOps
@@ -435,6 +424,17 @@ profiles:
     lat: 39.7392
     long: -104.9903
   twitter: editingemily
+- uid: advocates.em-lazerwalker
+  name: Em Lazer-Walker
+  tagline: Games / Mobile / JavaScript / IoT
+  image:
+    src: media/profiles/em-lazerwalker.png
+    alt: "Em Lazer-Walker - Cloud Advocate"
+  location: 
+    display: Toronto, Ontario, Canada
+    lat: 43.647664
+    long: -79.3802294
+  twitter: lazerwalker
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
