@@ -3,7 +3,7 @@ uid: advocates.jay-gordon
 name: Jay Gordon
 metadata:
   title: Jay Gordon - Cloud Advocate
-  description: Home page for Jay Gordon, a Senior Microsoft Cloud Ops Advocate
+  description: Home page for Jay Gordon, a Microsoft Cloud Advocate
 remarks: |
   ## Bio 
  
@@ -22,6 +22,7 @@ image:
   alt: "Jay Gordon Senior Cloud Ops Advocate"
   src: media/profiles/jay-gordon.png
 twitter: https://twitter.com/jaydestro
+twitter: https://twitch.tv/jaydestro
 github: https://github.com/jaydestro
 facebook: https://facebook.com/jaydestro
 instagram: https://www.instagram.com/jaydestro
