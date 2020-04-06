@@ -2,27 +2,24 @@
 uid: advocates.jay-gordon
 name: Jay Gordon
 metadata:
-  title: Jay Gordon - Cloud Advocate
+  title: Home page for Jay Gordon, a Microsoft Cloud Advocate
   description: Home page for Jay Gordon, a Microsoft Cloud Advocate
 remarks: |
-  ## Bio 
- 
-Jay Gordon is a Cloud Advocate with the Microsoft Azure Advocates. He and the rest of the Advocacy team are focused on helping Developers and Ops teams get the most out of their cloud experience with Microsoft Azure. Prior to Microsoft, Jay was part of teams at DigitalOcean, BuzzFeed and MongoDB. Jay lives in New York City with his wife and has a goofy pug named Rico.
+  ## Bio
+  Jay Gordon is a Cloud Advocate with the Microsoft Azure Advocates. He and the rest of the Advocacy team are focused on helping Developers and Ops teams get the most out of their cloud experience with Microsoft Azure. Prior to Microsoft, Jay was part of teams at DigitalOcean, BuzzFeed and MongoDB. Jay lives in New York City with his wife and has a goofy pug named Rico.
 
- 
   ## Skills
   * Linux
   * DevOps
   * System Administration
   * Databases
-  
-  
+
 tagline: Linux
 image:
-  alt: "Jay Gordon Senior Cloud Ops Advocate"
+  alt: "Jay Gordon Cloud Advocate"
   src: media/profiles/jay-gordon.png
 twitter: https://twitter.com/jaydestro
-twitter: https://twitch.tv/jaydestro
+twitch: https://twitch.tv/jaydestro
 github: https://github.com/jaydestro
 facebook: https://facebook.com/jaydestro
 instagram: https://www.instagram.com/jaydestro
