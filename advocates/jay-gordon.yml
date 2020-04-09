@@ -6,13 +6,19 @@ metadata:
   description: Home page for Jay Gordon, a Microsoft Cloud Advocate
 remarks: |
   ## Bio
-  Jay Gordon is a Cloud Advocate with the Microsoft Azure Advocates. He and the rest of the Advocacy team are focused on helping Developers and Ops teams get the most out of their cloud experience with Microsoft Azure. Prior to Microsoft, Jay was part of teams at DigitalOcean, BuzzFeed and MongoDB. Jay lives in New York City with his wife and has a goofy pug named Rico.
+  Jay Gordon is a Cloud Advocate with the Microsoft Azure Advocates. He and the rest of the Advocacy team are focused on helping Developers and Ops teams get the most out of their cloud experience with Microsoft Azure. Prior to Microsoft, Jay was part of teams at DigitalOcean, BuzzFeed and MongoDB. Community is critical in his core beliefs, this is why Jay is an organizer for [devopsdays NYC](https://devopsdays.org/events/2020-new-york-city/welcome/). Jay lives in New York City with his wife and has a goofy pug named Rico.
 
   ## Skills
   * Linux
   * DevOps
   * System Administration
   * Databases
+
+  ## Content and talks
+  * [On-Call Nightmares Podcast](http://oncallnightmares.com/)
+  * [Jay Gordon on dev.to](https://dev.to/jaydestro)
+  * [What I Learned From A Dress, an On-Call Nightmare - Jay Gordon | WFH Conf 2020](https://www.youtube.com/watch?v=aniqpxWGsjc)
+  * [How to build and deploy a containerized app to Azure Kubernetes Service (AKS) | Azure Friday](https://www.youtube.com/watch?v=E9YWmbUb9Ps)
 
 tagline: Linux
 image:
@@ -22,7 +28,7 @@ twitter: https://twitter.com/jaydestro
 github: https://github.com/jaydestro
 facebook: https://facebook.com/jaydestro
 instagram: https://www.instagram.com/jaydestro
-linkedin: https://linkedin.com/in/jgordon0042
+linkedin: https://linkedin.com/in/jaygordon0042
 location:
   display: New York, New York, United States
   lat: 40.703830518
