@@ -6,7 +6,7 @@ metadata:
   description: Home page for Thomas Lewis, a Microsoft Cloud Advocate
 remarks: |
   ## Bio
- Cloud Advocate in Microsoft's Developer Relations. Spatial Computing + Academic advocacy. Faves: MR/AR/VR/XR, Web, Design & otters. Pronouns: he/him.
+ Cloud Advocate in Microsoft's Developer Relations. Spatial Computing + Academic advocacy. Favorites include MR/AR/VR/XR, Web, Design & otters. Pronouns are he/him.
 
   ## Skills
   * DevRel Management
@@ -23,9 +23,6 @@ image:
   src: media/profiles/thomas-lewis.png
 
 twitter: https://twitter.com/tommylee
-blog: https://www.joincomputerclub.com
-github: http://github.com/aprilspeight
-linkedin: https://www.linkedin.com/in/aprilspeight
 
 location:
   display: Seattle, WA
