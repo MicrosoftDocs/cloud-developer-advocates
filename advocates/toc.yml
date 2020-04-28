@@ -33,6 +33,8 @@ items:
     uid: advocates.ashley-mcnamara
   - name: Asim Hussain
     uid: advocates.asim-hussain
+  - name: Ayşegül Yönet
+    uid: advocates.aysegul-yonet
   - name: Bernd Verst
     uid: advocates.bernd-verst
   - name: Brandon Minnick
@@ -179,6 +181,8 @@ items:
     uid: advocates.steven-murawski
   - name: Tania Allard
     uid: advocates.tania-allard
+  - name: Thomas Lewis
+    uid: advocates.thomas-lewis
   - name: Thomas Maurer
     uid: advocates.thomas-maurer
   - name: Tierney Cyren

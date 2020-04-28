@@ -125,14 +125,14 @@ profiles:
   twitter: wirelesslife
 - uid: advocates.april-speight
   name: April Speight
-  tagline: Spatial Computing
+  tagline: Mixed Reality / HoloLens / Spatial Computing
   image:
     src: media/profiles/april-speight.png
     alt: "April Speight Cloud Advocate"
   location: 
-    display: Hollywood, CA
-    lat: 34.090698
-    long: -118.386002
+    display: Beverly Hills, CA
+    lat: 34.0736
+    long: 118.4004
   twitter: vogueandcode
 - uid: advocates.ari-bornstein
   name: Ari Bornstein
@@ -167,6 +167,17 @@ profiles:
     lat: 51.458046
     long: -1.012501
   twitter: jawache
+- uid: advocates.aysegul-yonet
+  name: Ayşegül Yönet
+  tagline: Mixed Reality / HoloLens
+  image:
+    src: media/profiles/aysegul-yonet.jpg
+    alt: "Ayşegül Yönet Cloud Advocate"
+  location: 
+    display: San Francisco, CA
+    lat: 37.7749
+    long: 122.4194
+  twitter: AysSomething
 - uid: advocates.bernd-verst
   name: Bernd Verst
   tagline: Linux / Containers / Python
@@ -422,7 +433,7 @@ profiles:
   twitter: editingemily
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
-  tagline: Games / Mobile / JavaScript / IoT
+  tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
   image:
     src: media/profiles/em-lazerwalker.png
     alt: "Em Lazer-Walker - Cloud Advocate"
@@ -546,7 +557,7 @@ profiles:
   tagline: Linux
   image:
     src: media/profiles/jay-gordon.png
-    alt: "Jay Gordon Senior Cloud Ops Advocate"
+    alt: "Jay Gordon Cloud Advocate"
   location: 
     display: New York, New York, United States
     lat: 40.703830518
@@ -685,7 +696,7 @@ profiles:
   twitter: _staticvoid
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
-  tagline: C# / Conversational AI / (Manga)
+  tagline: Mixed Reality / HoloLens / C# / Conversational AI / (Manga)
   image:
     src: media/profiles/madoka-chiyoda.jpg
     alt: "Madoka Chiyoda Cloud Developer Advocate"
@@ -967,6 +978,17 @@ profiles:
     lat: 53.483959
     long: -2.244644
   twitter: ixek
+- uid: advocates.thomas-lewis
+  name: Thomas Lewis
+  tagline: Mixed Reality / HoloLens
+  image:
+    src: media/profiles/thomas-lewis.png
+    alt: "Thomas Lewis Cloud Advocate"
+  location: 
+    display: Seattle, WA
+    lat: 47.6062
+    long: 122.3321
+  twitter: tommylee
 - uid: advocates.thomas-maurer
   name: Thomas Maurer
   tagline: Azure / Azure Stack / Windows Server / IT Pro
