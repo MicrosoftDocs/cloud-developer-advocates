@@ -173,14 +173,14 @@ profiles:
   twitter: jawache
 - uid: advocates.aysegul-yonet
   name: Ayşegül Yönet
-  tagline: Mixed Reality / HoloLens
+  tagline: Mixed Reality / HoloLens / JavaScript / WebXR
   image:
     src: media/profiles/aysegul-yonet.jpg
     alt: "Ayşegül Yönet Cloud Advocate"
   location: 
     display: San Francisco, CA
-    lat: 37.7749
-    long: 122.4194
+    lat: 37.7958
+    long: 122.3938
   twitter: AysSomething
 - uid: advocates.bernd-verst
   name: Bernd Verst
