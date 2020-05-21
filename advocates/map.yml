@@ -57,9 +57,20 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: AbelSquidHead
+- uid: advocates.abhishek-gupta
+  name: Abhishek Gupta
+  tagline: Big Data
+  image:
+    src: media/profiles/abhishek-gupta.jpg
+    alt: "Abhishek Gupta Cloud Developer Advocate"
+  location: 
+    display: New Delhi, India
+    lat: 28.6000
+    long: 77.2000
+  twitter: abhi_tweeter
 - uid: advocates.adi-polak
   name: Adi Polak
-  tagline: Big Data / Serveless 
+  tagline: Big Data / Serverless 
   image:
     src: media/profiles/adi-polak.png
     alt: "Adi Polak Cloud Developer Advocate"

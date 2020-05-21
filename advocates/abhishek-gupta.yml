@@ -1,0 +1,21 @@
+### YamlMime:Profile
+uid: advocates.abhishek-gupta
+name: Abhishek Gupta
+metadata:
+  title: Abhishek Gupta - Senior Cloud Advocate
+  description: Home page for Abhishek Gupta, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  Abhishek is a Senior Cloud Developer Advocate at Microsoft.
+tagline: Big Data
+image:
+  alt: "Abhishek Gupta Cloud Developer Advocate"
+  src: media/profiles/abhishek-gupta.jpg
+twitter: https://twitter.com/abhi_tweeter
+blog: https://medium.com/@abhishek1987
+github: https://github.com/abhirockzz
+linkedin: https://www.linkedin.com/in/abhirockzz/
+location:
+  display: New Delhi, India
+  lat: 28.6000
+  long: 77.2000
