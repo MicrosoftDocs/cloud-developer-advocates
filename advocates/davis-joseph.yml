@@ -4,15 +4,17 @@ name: Davis Joseph
 metadata:
   title: Davis Joseph - Cloud Advocate PM Intern on the Academic Team
   description: Home page for Davis Joseph, a Cloud Advocate PM Intern on the Academic Team
-remarks: 
+remarks: |
   ## Bio
   Davis is a junior at Indiana University studying Informatics with minors in Computer Science, Business, and Human Centered Computing.
+  
   ## Skills
   * Java
   * Python
-  * A.I. 
-  * Product Management Frameworks / Ideas
+  * AI
+  * Product Management Frameworks and Ideas
   * Lean Methodologies
+  
 tagline: Intern
 image:
   alt: "Davis Joseph Cloud Advocate PM Intern"
