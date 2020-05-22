@@ -387,6 +387,16 @@ profiles:
     lat: 41.881832
     long: -87.623177
   twitter: revodavid
+- uid: advocates.davis-joseph
+  name: Davis Joseph
+  tagline: Intern
+  image:
+    src: media/profiles/davis-joseph.png
+    alt: "Davis Joseph Cloud Advocate PM Intern"
+  location: 
+    display: Bloomington, Indiana, USA
+    lat: 39.117340
+    long: -86.507530
 - uid: advocates.dean-bryen
   name: Dean Bryen
   tagline: Serverless, Devops, Node.js
@@ -510,7 +520,7 @@ profiles:
   twitter: glaucia_lemos86
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
-  tagline: Mixed Reality / HoloLens
+  tagline: AI / ML / Academic Advocacy / Python
   image:
     src: media/profiles/gustavo-cordido.jpeg
     alt: "Gustavo Cordido Software Engineering Intern"
