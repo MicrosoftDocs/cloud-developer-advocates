@@ -508,6 +508,17 @@ profiles:
     lat: -22.904491
     long: -43.190777
   twitter: glaucia_lemos86
+- uid: advocates.gustavo-cordido
+  name: Gustavo Cordido
+  tagline: Mixed Reality / HoloLens
+  image:
+    src: media/profiles/gustavo-cordido.jpeg
+    alt: "Gustavo Cordido Software Engineering Intern"
+  location: 
+    display: Miramar, FL
+    lat: 25.97889
+    long: -80.282501
+  twitter: gcordido
 - uid: advocates.henk-boelman
   name: Henk Boelman
   tagline: AI / ML / Azure / DevOps
