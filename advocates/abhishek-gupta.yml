@@ -6,8 +6,17 @@ metadata:
   description: Home page for Abhishek Gupta, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
-  Abhishek is a Senior Cloud Developer Advocate at Microsoft.
-tagline: Big Data
+  I love distributed systems, databases, open source and experimenting with programming languages. My background has been that of an engineer, consultant and before joining Microsoft I was a Product Manager helping build developer focused PaaS products.
+
+  ## Skills
+  * NoSQL
+  * Kafka
+  * Java, Go
+  * Kubernetes
+  * Open Source
+  * Azure
+
+tagline: NoSQL / Kafka / Kubernetes / Open Source
 image:
   alt: "Abhishek Gupta Cloud Developer Advocate"
   src: media/profiles/abhishek-gupta.jpg
