@@ -29,11 +29,19 @@ tagline: .NET / Serverless / Durable Functions
 image:
   alt: "Maxime Rouiller Cloud Advocate"
   src: media/profiles/maxime-rouiller.png
-twitter: https://twitter.com/maximrouiller
-github: https://github.com/MaximRouiller
-blog: https://blog.maximerouiller.com
-stackoverflow: https://stackoverflow.com/users/24975/maxime-rouiller
-linkedin: https://linkedin.com/in/MaximRouiller
+connect:
+  - title: Twitter
+    url: https://twitter.com/maximrouiller
+  - title: GitHub
+    url: https://github.com/MaximRouiller
+  - title: Blog
+    url: https://blog.maximerouiller.com
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/24975/maxime-rouiller
+  - title: LinkedIn
+    url: https://linkedin.com/in/MaximRouiller
+  - title: Twitch
+    url: https://www.twitch.tv/MaximeRouiller
 location:
   display: Montréal, Québec, Canada
   lat: 45.5017
