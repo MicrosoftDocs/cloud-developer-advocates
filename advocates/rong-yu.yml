@@ -18,7 +18,9 @@ tagline: Startups / Product Management/ Architecture
 image:
   alt: "Rong Yu, CTO-in-Residence, Startup Advocacy Shanghai"
   src: media/profiles/rong-yu.png
-linkedin: https://www.linkedin.com/in/rongy
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rongy
 location:
   display: Shanghai, China
   lat: 31.2303904

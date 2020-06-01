@@ -16,9 +16,13 @@ tagline: JavaScript / Node.js
 image:
   alt: "Chris Nwamba Cloud Advocate"
   src: media/profiles/chris-nwamba.jpg
-twitter: https://twitter.com/codebeast
-blog: https://www.codebeast.dev/articles
-linkedin: https://www.linkedin.com/in/chris-nwamba-032b04b2/
+connect:
+  - title: Twitter
+    url: https://twitter.com/codebeast
+  - title: Blog
+    url: https://www.codebeast.dev/articles
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/chris-nwamba-032b04b2/
 location:
   display: Lagos, Nigeria
   lat: 6.524379

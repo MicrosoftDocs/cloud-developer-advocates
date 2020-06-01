@@ -32,11 +32,17 @@ tagline: DevOps
 image:
   alt: "Emily Freeman Cloud Developer Advocate"
   src: media/profiles/emily-freeman.png
-twitter: https://twitter.com/editingemily
-github: https://github.com/emilyfreeman
-blog: http://emilyfreeman.io/blog
-linkedin: https://linkedin.com/in/editingemily
-#twitch: https://www.twitch.tv/editingemily
+connect:
+  - title: Twitter
+    url: https://twitter.com/editingemily
+  - title: GitHub
+    url: https://github.com/emilyfreeman
+  - title: Blog
+    url: http://emilyfreeman.io/blog
+  - title: LinkedIn
+    url: https://linkedin.com/in/editingemily
+  - title: Twitch
+    url: https://www.twitch.tv/editingemily
 location:
   display: Denver, Colorado, United States
   lat: 39.7392

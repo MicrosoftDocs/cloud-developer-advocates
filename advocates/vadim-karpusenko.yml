@@ -20,9 +20,13 @@ tagline: HPC / AI / ML / DL
 image:
   alt: "Vadim Karpusenko Cloud Developer Advocate"
   src: media/profiles/vadim-karpusenko.png
-twitter: https://twitter.com/vadi
-github: https://github.com/vakarpus
-linkedin: https://linkedin.com/in/karpusenko
+connect: 
+  - title: Twitter
+    url: https://twitter.com/vadi
+  - title: GitHub
+    url: https://github.com/vakarpus
+  - title: LinkedIn
+    url: https://linkedin.com/in/karpusenko
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

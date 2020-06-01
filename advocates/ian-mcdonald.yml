@@ -25,10 +25,15 @@ tagline: Startups / Diversity and Inclusion / Public Cloud
 image:
   alt: "Ian McDonald, CTO in Residence"
   src: media/profiles/ian-mcdonald.jpg
-twitter: https://twitter.com/imcdnzl
-github: https://github.com/imcdnzl
-blog: https://blog.imcdonald.com/
-linkedin: https://www.linkedin.com/in/imcdnzl
+connect:
+  - title: Twitter
+    url: https://twitter.com/imcdnzl
+  - title: GitHub
+    url: https://github.com/imcdnzl
+  - title: Blog
+    url: https://blog.imcdonald.com/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/imcdnzl
 location:
   display: London, United Kingdom
   lat: 51.501364

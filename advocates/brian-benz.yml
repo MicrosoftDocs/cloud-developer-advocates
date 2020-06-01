@@ -17,11 +17,17 @@ tagline: Java
 image:
   alt: "Brian Benz Cloud Developer Advocate"
   src: media/profiles/brian-benz.png 
-twitter: https://twitter.com/bbenz
-github: https://github.com/bbenz
-blog: http://medium.com/@bbenz
-stackoverflow: https://stackoverflow.com/users/2716150/bbenz
-linkedin: https://linkedin.com/in/brianbenz
+connect:
+  - title: Twitter
+    url: https://twitter.com/bbenz
+  - title: GitHub
+    url: https://github.com/bbenz
+  - title: Blog
+    url: http://medium.com/@bbenz
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/2716150/bbenz
+  - title: LinkedIn
+    url: https://linkedin.com/in/brianbenz
 location:
   display: Las Vegas, Nevada, United States
   lat: 36.23005

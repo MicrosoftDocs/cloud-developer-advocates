@@ -27,10 +27,15 @@ tagline: DevOps
 image:
   alt: "Jason Hand Cloud Advocate"
   src: media/profiles/jahand.jpg
-twitter: https://twitter.com/jasonhand
-github: https://github.com/jasonhand
-blog: http://jasonhand.com
-linkedin: https://linkedin.com/in/jasonhand24
+connect:
+  - title: Twitter
+    url: https://twitter.com/jasonhand
+  - title: GitHub
+    url: https://github.com/jasonhand
+  - title: Blog
+    url: http://jasonhand.com
+  - title: LinkedIn
+    url: https://linkedin.com/in/jasonhand24
 location:
   display: Erie, Colorado, United States
   lat: 40.0503

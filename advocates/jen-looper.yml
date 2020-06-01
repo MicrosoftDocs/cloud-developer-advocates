@@ -32,11 +32,17 @@ tagline: Vue / JavaScript
 image:
   alt: "Jen Looper - Cloud Advocate Lead"
   src: media/profiles/jen-looper.png
-twitter: https://twitter.com/JenLooper
-github: https://github.com/jlooper
-blog: https://jenlooper.com/
-stackoverflow: https://stackoverflow.com/users/5338507/jen-looper
-linkedin: https://www.linkedin.com/in/jen-looper-3442413/
+connect:
+  - title: Twitter
+    url: https://twitter.com/JenLooper
+  - title: GitHub
+    url: https://github.com/jlooper
+  - title: Blog
+    url: https://jenlooper.com/
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/5338507/jen-looper
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jen-looper-3442413/
 location:
   display: Wellesley, Massachusetts, United States
   lat: 42.310593

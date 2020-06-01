@@ -32,9 +32,13 @@ tagline: Data / AI / ML
 image:
   alt: "Ari Cloud Developer Advocate"
   src: media/profiles/ari-bornstein.png
-twitter: https://twitter.com/pythiccoder
-github: https://github.com/aribornstein
-linkedin: https://www.linkedin.com/in/aaron-ari-bornstein-22aa7a77
+connect:
+  - title: Twitter
+    url: https://twitter.com/pythiccoder
+  - title: GitHub
+    url: https://github.com/aribornstein
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aaron-ari-bornstein-22aa7a77
 location:
   display: Tel Aviv, Israel
   lat: 32.081359

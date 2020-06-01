@@ -29,10 +29,15 @@ tagline: Diversity & Inclusion, JavaScript, Web
 image:
   alt: "Cynthia Zanoni Cloud Advocate Program Manager"
   src: media/profiles/cynthia-zanoni.jpg
-twitter: https://twitter.com/cynthiazanoni
-github: https://github.com/cyz/
-blog: https://dev.to/cynthiazanoni
-linkedin: https://linkedin.com/in/cynthiazanoni
+connect:
+  - title: Twitter
+    url: https://twitter.com/cynthiazanoni
+  - title: GitHub
+    url: https://github.com/cyz/
+  - title: Blog
+    url: https://dev.to/cynthiazanoni
+  - title: LinkedIn
+    url: https://linkedin.com/in/cynthiazanoni
 location:
   display: São Paulo, Brazil
   lat: -23.533773

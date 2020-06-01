@@ -29,11 +29,17 @@ tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
 image:
   alt: "Em Lazer-Walker - Cloud Advocate"
   src: media/profiles/em-lazerwalker.png
-twitter: https://twitter.com/lazerwalker
-github: https://github.com/lazerwalker
-blog: https://lazerwalker.com/
-linkedin: https://www.linkedin.com/in/lazerwalker/
-#twitch: https://www.twitch.tv/lazerwalker
+connect:
+  - title: Twitter
+    url: https://twitter.com/lazerwalker
+  - title: GitHub
+    url: https://github.com/lazerwalker
+  - title: Blog
+    url: https://lazerwalker.com/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lazerwalker/
+  - title: Twitch
+    url: https://www.twitch.tv/lazerwalker
 
 location:
   display: Toronto, Ontario, Canada

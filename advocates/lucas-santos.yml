@@ -22,10 +22,15 @@ tagline: Kubernetes / Containers / Docker / JavaScript / Node.js / TypeScript
 image:
   alt: "Lucas Santos Cloud Advocate"
   src: media/profiles/lucas-santos.png
-twitter: https://twitter.com/_staticvoid
-blog: https://www.dev.to/khaosdoctor
-linkedin: https://www.linkedin.com/in/lhs-santos/
-#twitch: https://www.twitch.tv/khaosdoctor
+connect:
+  - title: Twitter
+    url: https://twitter.com/_staticvoid
+  - title: Blog
+    url: https://www.dev.to/khaosdoctor
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lhs-santos/
+  - title: Twitch
+    url: https://www.twitch.tv/khaosdoctor
 location:
   display: Santo André, São Paulo
   lat: -23.7103031

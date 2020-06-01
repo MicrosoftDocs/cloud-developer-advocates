@@ -24,12 +24,19 @@ tagline: Linux / Containers / Python
 image:
   alt: "Bernd Verst Cloud Developer Advocate"
   src: media/profiles/bernd-verst.png 
-twitter: https://twitter.com/BerndVerst
-github: https://github.com/berndverst
-blog: https://readon.ly
-instagram: https://instagram.com/berndverst
-stackoverflow: https://stackoverflow.com/users/1950548/bernd-verst
-linkedin: https://linkedin.com/in/verst
+connect:
+  - title: Twitter
+    url: https://twitter.com/BerndVerst
+  - title: GitHub
+    url: https://github.com/berndverst
+  - title: Blog
+    url: https://readon.ly
+  - title: Instagram
+    url: https://instagram.com/berndverst
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/1950548/bernd-verst
+  - title: LinkedIn
+    url: https://linkedin.com/in/verst
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

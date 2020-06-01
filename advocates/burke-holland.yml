@@ -34,10 +34,15 @@ tagline: JavaScript / Node.js
 image:
   alt: "Burke Holland Cloud Developer Advocate"
   src: media/profiles/burke-holland.png
-twitter: https://twitter.com/burkeholland
-facebook: https://facebook.com/burkeholland
-instagram: https://www.instagram.com/burkeholland
-linkedin: https://linkedin.com/in/burkeholland
+connect:
+  - title: Twitter
+    url: https://twitter.com/burkeholland
+  - title: Facebook
+    url: https://facebook.com/burkeholland
+  - title: Instagram
+    url: https://www.instagram.com/burkeholland
+  - title: LinkedIn
+    url: https://linkedin.com/in/burkeholland
 location:
   display: Franklin, TN, USA
   lat: 35.925064

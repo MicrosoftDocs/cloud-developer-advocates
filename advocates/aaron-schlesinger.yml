@@ -32,12 +32,19 @@ tagline: Linux / Containers
 image:
   alt: "Aaron Schlesinger Cloud Developer Advocate"
   src: media/profiles/aaron-schlesinger.png
-twitter: https://twitter.com/arschles
-blog: https://medium.com/@arschles
-github: http://github.com/arschles
-stackoverflow: https://stackoverflow.com/users/78455/aaron
-linkedin: https://linkedin.com/in/aaronschlesinger
-#twitch: https://www.twitch.tv/arschles
+connect:
+  - title: Twitter
+    url: https://twitter.com/arschles
+  - title: blog
+    url: https://medium.com/@arschles
+  - title: GitHub
+    url: http://github.com/arschles
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/78455/aaron
+  - title: LinkedIn
+    url: https://linkedin.com/in/aaronschlesinger
+  - title: Twitch
+    url: https://www.twitch.tv/arschles
 location:
   display: San Mateo, CA, United States
   lat: 37.5630556

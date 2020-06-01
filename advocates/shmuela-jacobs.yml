@@ -27,9 +27,13 @@ tagline: JavaScript / Web
 image:
   alt: "Shmuela Jacobs Cloud Advocate"
   src: media/profiles/shmuela-jacobs.png
-twitter: https://twitter.com/ShmuelaJ
-github: https://github.com/shmool
-linkedin: https://linkedin.com/in/shmuelaj
+connect:
+  - title: Twitter
+    url: https://twitter.com/ShmuelaJ
+  - title: GitHub
+    url: https://github.com/shmool
+  - title: LinkedIn
+    url: https://linkedin.com/in/shmuelaj
 location:
   display: Tel Aviv, Israel
   lat: 32.081359

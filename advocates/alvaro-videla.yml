@@ -24,11 +24,15 @@ tagline: RabbitMQ / Functional Programming / Architecture
 image:
   alt: "Alvaro Videla Cloud Advocate"
   src: media/profiles/alvaro-videla.png
-
-twitter: https://twitter.com/old_sound
-blog: http://alvaro-videla.com
-github: https://github.com/videlalvaro
-linkedin: https://www.linkedin.com/in/alvarovidela
+connect:
+  - title: Twitter
+    url: https://twitter.com/old_sound
+  - title: Blog
+    url: http://alvaro-videla.com
+  - title: GitHub
+    url: https://github.com/videlalvaro
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/alvarovidela
 
 location:
   display: Dübendorf, Switzerland

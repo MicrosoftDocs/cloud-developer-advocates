@@ -23,8 +23,11 @@ tagline: Java / AI / Data
 image:
   alt: "Ruth Yakubu Cloud Developer Advocate"
   src: media/profiles/ruth-yakubu.png
-twitter: https://twitter.com/ruthieyakubu
-linkedin: https://linkedin.com/in/ruthyakubu
+connect:
+  - title: Twitter
+    url: https://twitter.com/ruthieyakubu
+  - title: LinkedIn
+    url: https://linkedin.com/in/ruthyakubu
 location:
   display: New York, New York, United States
   lat: 40.770425

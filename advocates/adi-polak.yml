@@ -22,11 +22,17 @@ tagline: Big Data / Serverless
 image:
   alt: "Adi Polak Cloud Developer Advocate"
   src: media/profiles/adi-polak.png
-twitter: https://twitter.com/adipolak
-blog: https://medium.com/@adipolak
-github: https://github.com/adipola
-stackoverflow: https://stackoverflow.com/users/3683943/apolak
-linkedin: https://www.linkedin.com/in/adi-polak-68548365/
+connect:
+  - title: Twitter
+    url: https://twitter.com/adipolak
+  - title: Blog
+    url: https://medium.com/@adipolak
+  - title: GitHub
+    url: https://github.com/adipola
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/3683943/apolak
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/adi-polak-68548365/
 location:
   display: Tel Aviv, Israel
   lat: 32.081359

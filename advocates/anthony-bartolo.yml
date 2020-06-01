@@ -27,12 +27,19 @@ tagline: Infrastructure / IoT / Identity Management / Security
 image:
   alt: "Anthony Bartolo Sr. Cloud Advocate"
   src: media/profiles/anthony-bartolo.png
-twitter: https://twitter.com/wirelesslife
-github: https://github.com/wirelesslife
-blog: https://itopstalk.com/
-linkedin: https://www.linkedin.com/in/wirelesslife/
-facebook: https://www.facebook.com/WirelessLife
-stackoverflow: https://stackoverflow.com/users/4200953/anthony-bartolo
+connect:
+  - title: Twitter
+    url: https://twitter.com/wirelesslife
+  - title: GitHub
+    url: https://github.com/wirelesslife
+  - title: Blog
+    url: https://itopstalk.com/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/wirelesslife/
+  - title: Facebook
+    url: https://www.facebook.com/WirelessLife
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/4200953/anthony-bartolo
 location:
   display: Toronto, Ontario, Canada
   lat: 43.653226
