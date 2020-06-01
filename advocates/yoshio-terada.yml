@@ -25,9 +25,15 @@ tagline: Java
 image:
   alt: "Yoshio Terada Cloud Developer Advocate"
   src: media/profiles/yoshio-terada.png
-twitter: https://twitter.com/yoshioterada
-github: https://github.com/yoshioterada
-linkedin: https://www.linkedin.com/in/yoshioterada
+connect:
+  - title: Twitter
+    url: https://twitter.com/yoshioterada
+  - title: GitHub
+    url: https://github.com/yoshioterada
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yoshioterada
+  - title: YouTube
+    url: https://www.youtube.com/user/tyoshio2002/
 location:
   display: Minato-ku Tokyo, Japan
   lat: 35.626610

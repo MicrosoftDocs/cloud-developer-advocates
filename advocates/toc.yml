@@ -73,6 +73,8 @@ items:
     uid: advocates.david-blank-edelman
   - name: David Smith
     uid: advocates.david-smith
+  - name: Davis Joseph
+    uid: advocates.davis-joseph
   - name: Dean Bryen
     uid: advocates.dean-bryen
   - name: Dmitry Soshnikov
@@ -99,8 +101,6 @@ items:
     uid: advocates.gustavo-cordido
   - name: Henk Boelman
     uid: advocates.henk-boelman
-  - name: Ian McDonald
-    uid: advocates.ian-mcdonald
   - name: Jan Schenk
     uid: advocates.jan-schenk
   - name: Jasmine Greenaway

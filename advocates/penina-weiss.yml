@@ -18,7 +18,9 @@ tagline: Architecture / Azure / Engineering Management
 image:
   alt: "Penina Weiss Cloud Developer Advocate"
   src: media/profiles/penina-weiss.png
-linkedin: https://www.linkedin.com/in/penina-weiss-7889307/
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/penina-weiss-7889307/
 location:
   display: Tel Aviv, Israel
   lat: 32.081359

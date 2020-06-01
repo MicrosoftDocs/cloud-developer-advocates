@@ -17,12 +17,21 @@ tagline: JavaScript / Node.js / Python
 image:
   alt: "Asim Hussain Cloud Developer Advocate"
   src: media/profiles/asim-hussain.png 
-twitter: https://twitter.com/jawache
-github: https://github.com/jawache
-blog: http://codecraft.tv
-instagram: https://www.instagram.com/jawache
-stackoverflow: https://stackoverflow.com/users/134085/jawache
-linkedin: https://linkedin.com/in/jawache
+connect:
+  - title: Twitter
+    url: https://twitter.com/jawache
+  - title: GitHub
+    url: https://github.com/jawache
+  - title: Blog
+    url: http://codecraft.tv
+  - title: Instagram
+    url: https://www.instagram.com/jawache
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/134085/jawache
+  - title: LinkedIn
+    url: https://linkedin.com/in/jawache
+  - title: YouTube
+    url: https://www.youtube.com/jawache
 location:
   display: Reading, United Kingdom
   lat: 51.458046

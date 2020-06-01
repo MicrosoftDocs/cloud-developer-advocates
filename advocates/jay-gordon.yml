@@ -24,13 +24,21 @@ tagline: Linux
 image:
   alt: "Jay Gordon Cloud Advocate"
   src: media/profiles/jay-gordon.png
-twitter: https://twitter.com/jaydestro
-github: https://github.com/jaydestro
-facebook: https://facebook.com/jaydestro
-instagram: https://www.instagram.com/jaydestro
-linkedin: https://linkedin.com/in/jaygordon0042
-podcast: https://oncallnightmares.podomatic.com/
-#twitch: https://www.twitch.tv/jaydestro
+connect:
+  - title: Twitter
+    url: https://twitter.com/jaydestro
+  - title: GitHub
+    url: https://github.com/jaydestro
+  - title: Facebook
+    url: https://facebook.com/jaydestro
+  - title: Instagram
+    url: https://www.instagram.com/jaydestro
+  - title: LinkedIn
+    url: https://linkedin.com/in/jaygordon0042
+  - title: Podcast
+    url: https://oncallnightmares.podomatic.com/
+  - title: Twitch
+    url: https://www.twitch.tv/jaydestro
 location:
   display: New York, New York, United States
   lat: 40.703830518

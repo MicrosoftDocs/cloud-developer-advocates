@@ -37,10 +37,15 @@ image:
   alt: "Dave Glover Cloud Developer Advocate"
   src: media/profiles/dave-glover.png
 
-twitter: https://twitter.com/dglover
-github: https://github.com/gloveboxes
-blog: https://blogs.msdn.microsoft.com/dglover/
-linkedin: https://www.linkedin.com/in/gloveboxes
+connect:
+  - title: Twitter
+    url: https://twitter.com/dglover
+  - title: GitHub
+    url: https://github.com/gloveboxes
+  - title: Blog
+    url: https://blogs.msdn.microsoft.com/dglover/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/gloveboxes
 
 location:
   display: Sydney, Australia

@@ -27,7 +27,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-  twitter: slace
 - uid: advocates.aaron-schlesinger
   name: Aaron Schlesinger
   tagline: Linux / Containers
@@ -38,7 +37,6 @@ profiles:
     display: San Mateo, CA, United States
     lat: 37.5630556
     long: -122.3244444
-  twitter: arschles
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
   tagline: Linux
@@ -49,7 +47,6 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.712053
     long: -79.561556
-  twitter: as_w
 - uid: advocates.abel-wang
   name: Abel Wang
   tagline: DevOps
@@ -60,10 +57,9 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-  twitter: AbelSquidHead
 - uid: advocates.abhishek-gupta
   name: Abhishek Gupta
-  tagline: Big Data
+  tagline: NoSQL / Kafka / Kubernetes / Open Source
   image:
     src: media/profiles/abhishek-gupta.jpg
     alt: "Abhishek Gupta Cloud Developer Advocate"
@@ -71,7 +67,6 @@ profiles:
     display: New Delhi, India
     lat: 28.6000
     long: 77.2000
-  twitter: abhi_tweeter
 - uid: advocates.adi-polak
   name: Adi Polak
   tagline: Big Data / Serverless 
@@ -82,7 +77,6 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
-  twitter: adipolak
 - uid: advocates.alena-hall
   name: Alena Hall
   tagline: High Scale / Big Data
@@ -93,7 +87,6 @@ profiles:
     display: Seattle, Washington, United States
     lat: 47.60621
     long: -122.33207
-  twitter: lenadroid
 - uid: advocates.alvaro-videla
   name: Alvaro Videla
   tagline: RabbitMQ / Functional Programming / Architecture
@@ -104,7 +97,6 @@ profiles:
     display: Dübendorf, Switzerland
     lat: 47.3971
     long: 8.6180
-  twitter: old_sound
 - uid: advocates.amy-boyd
   name: Amy Boyd
   tagline: Data / AI / ML
@@ -115,7 +107,6 @@ profiles:
     display: London, United Kingdom
     lat: 51.52814
     long: -0.1339
-  twitter: AmyKateNicho
 - uid: advocates.andrew-harvey
   name: Andrew Harvey
   tagline: Startups / Product / Infrastructure
@@ -126,7 +117,6 @@ profiles:
     display: Sydney, NSW, Australia
     lat: -33.87188
     long: 151.20616
-  twitter: mootpointer
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
   tagline: Infrastructure / IoT / Identity Management / Security
@@ -137,7 +127,6 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.653226
     long: -79.3831843
-  twitter: wirelesslife
 - uid: advocates.april-speight
   name: April Speight
   tagline: Mixed Reality / HoloLens / Spatial Computing
@@ -148,7 +137,6 @@ profiles:
     display: Beverly Hills, CA
     lat: 34.0736
     long: 118.4004
-  twitter: vogueandcode
 - uid: advocates.ari-bornstein
   name: Ari Bornstein
   tagline: Data / AI / ML
@@ -159,7 +147,6 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
-  twitter: pythiccoder
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
   tagline: Linux
@@ -170,7 +157,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-  twitter: ashleymcnamara
 - uid: advocates.asim-hussain
   name: Asim Hussain
   tagline: JavaScript / Node.js / Python
@@ -181,7 +167,6 @@ profiles:
     display: Reading, United Kingdom
     lat: 51.458046
     long: -1.012501
-  twitter: jawache
 - uid: advocates.aysegul-yonet
   name: Ayşegül Yönet
   tagline: Mixed Reality / HoloLens / JavaScript / WebXR
@@ -192,7 +177,6 @@ profiles:
     display: San Francisco, CA
     lat: 37.7958
     long: 122.3938
-  twitter: AysSomething
 - uid: advocates.bernd-verst
   name: Bernd Verst
   tagline: Linux / Containers / Python
@@ -203,7 +187,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-  twitter: BerndVerst
 - uid: advocates.brandon-minnick
   name: Brandon Minnick
   tagline: Xamarin, .NET, C#, Mobile
@@ -214,7 +197,6 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.815141999999994
     long: -122.518271
-  twitter: TheCodeTraveler
 - uid: advocates.brian-benz
   name: Brian Benz
   tagline: Java
@@ -225,7 +207,6 @@ profiles:
     display: Las Vegas, Nevada, United States
     lat: 36.23005
     long: -115.544269
-  twitter: bbenz
 - uid: advocates.brian-clark
   name: Brian Clark
   tagline: JavaScript / Node.js / Python
@@ -236,7 +217,6 @@ profiles:
     display: Winter Garden, Florida, United States
     lat: 28.554713
     long: -81.623445
-  twitter: _clarkio
 - uid: advocates.brian-ketelsen
   name: Brian Ketelsen
   tagline: Linux
@@ -247,7 +227,6 @@ profiles:
     display: Land O' Lakes, Florida, United States
     lat: 28.222353
     long: -82.47148
-  twitter: bketelsen
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
@@ -258,7 +237,6 @@ profiles:
     display: Franklin, TN, USA
     lat: 35.925064
     long: -86.868889
-  twitter: burkeholland
 - uid: advocates.cassie-breviu
   name: Cassie Breviu
   tagline: .NET / ML / Spatial (AR/VR)
@@ -269,7 +247,6 @@ profiles:
     display: Minneapolis, Minnesota, United States
     lat: 44.9778
     long: -93.2650
-  twitter: cassieview
 - uid: advocates.cecil-phillip
   name: Cecil Phillip
   tagline: .NET 
@@ -280,7 +257,6 @@ profiles:
     display: Plantation, Florida, United States
     lat: 26.1267513
     long: -80.2989968
-  twitter: cecilphillip
 - uid: advocates.chloe-condon
   name: Chloe Condon
   tagline: Python / JavaScript / Android
@@ -291,7 +267,6 @@ profiles:
     display: San Francisco, CA
     lat: 37.760999
     long: -122.427065
-  twitter: ChloeCondon
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
@@ -302,7 +277,6 @@ profiles:
     display: London, United Kingdom
     lat: 51.52814
     long: -0.1339
-  twitter: chris_noring
 - uid: advocates.chris-nwamba
   name: Chris Nwamba
   tagline: JavaScript / Node.js
@@ -313,7 +287,6 @@ profiles:
     display: Lagos, Nigeria
     lat: 6.524379
     long: 3.379206
-  twitter: codebeast
 - uid: advocates.christina-warren
   name: Christina Warren
   tagline: HTML
@@ -324,7 +297,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-  twitter: film_girl
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
   tagline: Cloud / Mobile Dev
@@ -335,7 +307,6 @@ profiles:
     display: Paris, France
     lat: 48.833968 
     long: 2.265598
-  twitter: cmaneu
 - uid: advocates.cynthia-zanoni
   name: Cynthia Zanoni
   tagline: Diversity & Inclusion, JavaScript, Web
@@ -346,7 +317,6 @@ profiles:
     display: São Paulo, Brazil
     lat: -23.533773
     long: -46.625290
-  twitter: cynthiazanoni
 - uid: advocates.damian-brady
   name: Damian Brady
   tagline: DevOps
@@ -357,7 +327,6 @@ profiles:
     display: Byron Bay, Australia
     lat: -28.647400
     long: 153.602000
-  twitter: damovisa
 - uid: advocates.dave-glover
   name: Dave Glover
   tagline: IoT and Cloud
@@ -368,7 +337,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-  twitter: dglover
 - uid: advocates.david-blank-edelman
   name: David N. Blank-Edelman
   tagline: SRE
@@ -379,7 +347,6 @@ profiles:
     display: Somerville, Massachusetts, United States
     lat: 42.3875968
     long: -71.0994968
-  twitter: otterbook
 - uid: advocates.david-smith
   name: David Smith
   tagline: AI / Data Science / R
@@ -390,7 +357,16 @@ profiles:
     display: Chicago, IL, USA
     lat: 41.881832
     long: -87.623177
-  twitter: revodavid
+- uid: advocates.davis-joseph
+  name: Davis Joseph
+  tagline: Intern
+  image:
+    src: media/profiles/davis-joseph.png
+    alt: "Davis Joseph Cloud Advocate PM Intern"
+  location: 
+    display: Bloomington, Indiana, USA
+    lat: 39.117340
+    long: -86.507530
 - uid: advocates.dean-bryen
   name: Dean Bryen
   tagline: Serverless, Devops, Node.js
@@ -401,7 +377,6 @@ profiles:
     display: London, United Kingdom
     lat: 51.508530
     long: -0.076132
-  twitter: deanbryen
 - uid: advocates.dmitry-soshnikov
   name: Dmitry Soshnikov
   tagline: AI / ML / Python / F# / Students / K-12
@@ -412,7 +387,6 @@ profiles:
     display: Moscow, Russia
     lat: 55.751244
     long: 37.618423
-  twitter: shwars
 - uid: advocates.donovan-brown
   name: Donovan Brown
   tagline: DevOps
@@ -423,7 +397,6 @@ profiles:
     display: Spring, Texas, US
     lat: 30.08453
     long: -95.41929
-  twitter: DonovanBrown
 - uid: advocates.duncan-davidson
   name: Duncan Davidson
   tagline: Architecture / Startups / Product / Engineering
@@ -434,7 +407,6 @@ profiles:
     display: Berlin, Germany
     lat: 52.516875
     long: 13.390384
-  twitter: duncan
 - uid: advocates.emily-freeman
   name: Emily Freeman
   tagline: DevOps
@@ -445,7 +417,6 @@ profiles:
     display: Denver, Colorado, United States
     lat: 39.7392
     long: -104.9903
-  twitter: editingemily
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
@@ -456,7 +427,6 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.647664
     long: -79.3802294
-  twitter: lazerwalker
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -467,7 +437,6 @@ profiles:
     display: Land O' Lakes, Florida, United States
     lat: 28.222353
     long: -82.47148
-  twitter: erikstmartin
 - uid: advocates.francesca-lazzeri
   name: Francesca Lazzeri
   tagline: Data Science / Machine Learning / Artificial Intelligence / Big Data
@@ -478,18 +447,16 @@ profiles:
     display: Boston, MA, USA
     lat: 42.3601
     long: -71.1209
-  twitter: frlazzeri
 - uid: advocates.frank-boucher
   name: Frank Boucher
   tagline: Development / DevOps / Serverless
   image:
     src: media/profiles/frank-boucher.png
-    alt: "Frank Boucher  Cloud Advocate"
+    alt: "Frank Boucher - Cloud Advocate"
   location: 
     display: Montreal, Quebec, Canada
     lat: 45.5017
     long: -73.5673
-  twitter: fboucheros
 - uid: advocates.frank-denbow
   name: Frank Denbow
   tagline: Startup Advocate - New York
@@ -500,7 +467,6 @@ profiles:
     display: Brooklyn, NY
     lat: 40.67417
     long: -74.025653
-  twitter: frankdenbow
 - uid: advocates.glaucia-lemos
   name: Glaucia Lemos
   tagline: JavaScript / Node.js / A.I
@@ -511,10 +477,9 @@ profiles:
     display: Rio de Janeiro, Brazil
     lat: -22.904491
     long: -43.190777
-  twitter: glaucia_lemos86
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
-  tagline: Mixed Reality / HoloLens
+  tagline: AI / ML / Academic Advocacy / Python
   image:
     src: media/profiles/gustavo-cordido.jpeg
     alt: "Gustavo Cordido Software Engineering Intern"
@@ -522,7 +487,6 @@ profiles:
     display: Miramar, FL
     lat: 25.97889
     long: -80.282501
-  twitter: gcordido
 - uid: advocates.henk-boelman
   name: Henk Boelman
   tagline: AI / ML / Azure / DevOps
@@ -533,18 +497,6 @@ profiles:
     display: Driebergen, The Netherlands
     lat: 52.0483174
     long: 5.2686323
-  twitter: hboelman
-- uid: advocates.ian-mcdonald
-  name: Ian McDonald
-  tagline: Startups / Diversity and Inclusion / Public Cloud
-  image:
-    src: media/profiles/ian-mcdonald.jpg
-    alt: "Ian McDonald, CTO in Residence"
-  location: 
-    display: London, United Kingdom
-    lat: 51.501364
-    long: -0.14189
-  twitter: imcdnzl
 - uid: advocates.jan-schenk
   name: Jan Schenk
   tagline: Diversity & Inclusion, Linux
@@ -555,7 +507,6 @@ profiles:
     display: Reading, United Kingdom
     lat: 48.1364098
     long: 11.5775404
-  twitter: jansche
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
@@ -566,7 +517,6 @@ profiles:
     display: Brooklyn,  New York, United States
     lat: 40.67417
     long: -74.025653
-  twitter: paladique
 - uid: advocates.jahand
   name: Jason Hand
   tagline: DevOps
@@ -577,7 +527,6 @@ profiles:
     display: Erie, Colorado, United States
     lat: 40.0503
     long: -105.0500
-  twitter: jasonhand
 - uid: advocates.jay-gordon
   name: Jay Gordon
   tagline: Linux
@@ -588,7 +537,6 @@ profiles:
     display: New York, New York, United States
     lat: 40.703830518
     long: -74.005666644
-  twitter: jaydestro
 - uid: advocates.jeff-sandquist
   name: Jeff Sandquist
   tagline: Change invigorates the soul
@@ -599,7 +547,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-  twitter: jeffsand
 - uid: advocates.jen-looper
   name: Jen Looper
   tagline: Vue / JavaScript
@@ -610,7 +557,6 @@ profiles:
     display: Wellesley, Massachusetts, United States
     lat: 42.310593
     long: -71.27621
-  twitter: JenLooper
 - uid: advocates.jeramiah-dooley
   name: Jeramiah Dooley
   tagline: Operations / Platforms
@@ -621,7 +567,6 @@ profiles:
     display: Charlotte, NC, United States
     lat: 35.2270869
     long: -80.8431267
-  twitter: jdooley_clt
 - uid: advocates.jeremy-likness
   name: Jeremy Likness
   tagline: .NET
@@ -632,7 +577,6 @@ profiles:
     display: Monroe, Washington, United States
     lat: 47.85239
     long: -121.9815
-  twitter: JeremyLikness
 - uid: advocates.jessica-deen
   name: Jessica Deen
   tagline: Linux / Open Source
@@ -643,7 +587,6 @@ profiles:
     display: Morgan Hill, CA, USA
     lat: 37.191441
     long: -121.435883
-  twitter: jldeen
 - uid: advocates.jim-bennett
   name: Jim Bennett
   tagline: Xamarin
@@ -654,7 +597,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-  twitter: jimbobbennett
 - uid: advocates.john-papa
   name: John Papa
   tagline: JavaScript / Node.js / Web
@@ -665,7 +607,6 @@ profiles:
     display: Orlando, Florida, United States
     lat: 28.5029917
     long: -81.5538575
-  twitter: john_papa
 - uid: advocates.julien-dubois
   name: Julien Dubois
   tagline: Java
@@ -676,7 +617,6 @@ profiles:
     display: Suresnes, France
     lat: 48.8712
     long: 2.22707
-  twitter: juliendubois
 - uid: advocates.justin-yoo
   name: Justin Yoo
   tagline: .NET / DevOps / Serverless / Messaging
@@ -687,7 +627,6 @@ profiles:
     display: Melbourne, Australia
     lat: -37.9722342
     long: 144.7729572
-  twitter: justinchronicle
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Xamarin
@@ -698,7 +637,6 @@ profiles:
     display: Wallisellen, Bülach, Switzerland
     lat: 47.417478
     long: 8.58175
-  twitter: LBugnion
 - uid: advocates.lims-wang
   name: Lims Wang
   tagline: Startups / Product Management/ Architecture
@@ -719,7 +657,6 @@ profiles:
     display: Santo André, São Paulo
     lat: -23.7103031
     long: -46.4928907
-  twitter: _staticvoid
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
   tagline: Mixed Reality / HoloLens / C# / Conversational AI / (Manga)
@@ -730,7 +667,6 @@ profiles:
     display: Minato-ku Tokyo, Japan
     lat: 35.626610
     long: 139.740982
-  twitter: chomado
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
   tagline: .NET / Xamarin
@@ -741,7 +677,6 @@ profiles:
     display: Seattle, WA, USA
     lat: 47.60621
     long: -122.33207
-  twitter: codemillmatt
 - uid: advocates.maxime-rouiller
   name: Maxime Rouiller
   tagline: .NET / Serverless / Durable Functions
@@ -752,7 +687,6 @@ profiles:
     display: Montréal, Québec, Canada
     lat: 45.5017
     long: -73.5673
-  twitter: maximrouiller
 - uid: advocates.mike-james
   name: Mike James
   tagline: Xamarin
@@ -763,7 +697,6 @@ profiles:
     display: London, United Kingodom
     lat: 51.5218
     long: 0.0839
-  twitter: mikecodesdotnet
 - uid: advocates.muniraju-pulipalyam
   name: Muniraju Pulipalyam
   tagline: Windows / AI/ML / Cloud Hyper-Scale / IoT
@@ -774,7 +707,6 @@ profiles:
     display: Bangalore, India
     lat: 12.96697
     long: 77.58728
-  twitter: munipuli
 - uid: advocates.nina-zakharenko
   name: Nina Zakharenko
   tagline: Python
@@ -785,7 +717,6 @@ profiles:
     display: Portland, Oregon, United States
     lat: 45.512794
     long: -122.679565
-  twitter: nnja
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
   tagline: Containers
@@ -796,7 +727,6 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.815141999999994
     long: -122.518271
-  twitter: chanezon
 - uid: advocates.paul-decarlo
   name: Paul DeCarlo
   tagline: IoT
@@ -807,7 +737,6 @@ profiles:
     display: Houston, Texas, US
     lat: 29.726948
     long: -95.609268
-  twitter: pjdecarlo
 - uid: advocates.penina-weiss
   name: Penina Weiss
   tagline: Architecture / Azure / Engineering Management
@@ -828,7 +757,6 @@ profiles:
     display: Harrisburg, Pennsylvania, United States
     lat: 40.2731911
     long: -76.8867008
-  twitter: ExchangeGoddess
 - uid: advocates.pierre-roman
   name: Pierre Roman
   tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
@@ -839,7 +767,6 @@ profiles:
     display: Ottawa, Ontario, Canada
     lat: 45.42178
     long: -75.69119
-  twitter: WiredCanuck
 - uid: advocates.rick-claus
   name: Rick Claus
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
@@ -850,7 +777,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.645171
     long: -122.130696
-  twitter: RicksterCDN
 - uid: advocates.rong-yu
   name: Rong Yu
   tagline: Startups / Product Management/ Architecture
@@ -871,7 +797,6 @@ profiles:
     display: New York, New York, United States
     lat: 40.770425
     long: -74.404626
-  twitter: ruthieyakubu
 - uid: advocates.ryan-levick
   name: Ryan Levick
   tagline: Rust / Functional Programming / JavaScript/TypeScript / Architecture
@@ -882,7 +807,6 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
-  twitter: ryan_levick
 - uid: advocates.sandra-ahlgrimm
   name: Sandra Ahlgrimm
   tagline: Container / Java / DevOps
@@ -893,7 +817,6 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
-  twitter: skriemhild
 - uid: advocates.sarah-lean
   name: Sarah Lean
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
@@ -904,7 +827,6 @@ profiles:
     display: Glasgow, Scotland, United Kingdom
     lat: 55.864239
     long: -4.251806
-  twitter: Techielass
 - uid: advocates.scott-cate
   name: Scott Cate
   tagline: .NET
@@ -915,7 +837,6 @@ profiles:
     display: West Palm Beach, Florida, United States
     lat: 26.758461
     long: -80.226609
-  twitter: ScottCate
 - uid: advocates.scott-coulton
   name: Scott Coulton
   tagline: Linux / Containers / Kubernetes
@@ -926,7 +847,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-  twitter: scottcoulton
 - uid: advocates.seth-juarez
   name: Seth Juarez
   tagline: AI / ML / Quantum / Emerging
@@ -937,7 +857,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-  twitter: sethjuarez
 - uid: advocates.shayne-boyer
   name: Shayne Boyer
   tagline: .NET
@@ -948,7 +867,6 @@ profiles:
     display: DeLand, Florida, United States
     lat: 29.022108
     long: -81.312887
-  twitter: spboyer
 - uid: advocates.shmuela-jacobs
   name: Shmuela Jacobs
   tagline: JavaScript / Web
@@ -959,7 +877,6 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
-  twitter: ShmuelaJ
 - uid: advocates.simona-cotin
   name: Simona Cotin
   tagline: JavaScript / Node.js / Python
@@ -970,7 +887,6 @@ profiles:
     display: Reading, United Kingdom
     lat: 51.458046
     long: -1.012501
-  twitter: simona_cotin
 - uid: advocates.sonia-cuff
   name: Sonia Cuff
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
@@ -981,7 +897,6 @@ profiles:
     display: Brisbane, Queensland, Australia
     lat: -27.47126
     long: 153.02385
-  twitter: SoniaCuff
 - uid: advocates.steven-murawski
   name: Steven Murawski
   tagline: DevOps
@@ -992,7 +907,6 @@ profiles:
     display: Oconomowoc, Wisconsin, United States
     lat: 43.107377
     long: -88.543443
-  twitter: stevenmurawski
 - uid: advocates.tania-allard
   name: Tania Allard
   tagline: Data Science / ML / Research engineering / MLOps
@@ -1003,7 +917,6 @@ profiles:
     display: Manchester, United Kingdom
     lat: 53.483959
     long: -2.244644
-  twitter: ixek
 - uid: advocates.thomas-lewis
   name: Thomas Lewis
   tagline: Mixed Reality / HoloLens
@@ -1014,7 +927,6 @@ profiles:
     display: Seattle, WA
     lat: 47.6062
     long: 122.3321
-  twitter: tommylee
 - uid: advocates.thomas-maurer
   name: Thomas Maurer
   tagline: Azure / Azure Stack / Windows Server / IT Pro
@@ -1025,7 +937,6 @@ profiles:
     display: Basel, Switzerland
     lat: 47.55734
     long: 7.58741
-  twitter: ThomasMaurer
 - uid: advocates.tierney-cyren
   name: Tierney Cyren
   tagline: Node.js / JavaScript / Automation / Security
@@ -1036,7 +947,6 @@ profiles:
     display: Brooklyn, New York, United States
     lat: 40.6782
     long: -73.9442
-  twitter: bitandbang
 - uid: advocates.todd-anglin
   name: Todd Anglin
   tagline: Web / Mobile Development
@@ -1058,7 +968,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-  twitter: vadi
 - uid: advocates.wassim-chegham
   name: Wassim Chegham
   tagline: Node.js / JavaScript / Web
@@ -1069,7 +978,6 @@ profiles:
     display: Paris, France
     lat: 48.8566
     long: 2.3522
-  twitter: manekinekko
 - uid: advocates.yohan-lasorsa
   name: Yohan Lasorsa
   tagline: JavaScript / Node.js / Web / Mobile
@@ -1080,7 +988,6 @@ profiles:
     display: Grenoble, France
     lat: 45.186494
     long: 5.726626
-  twitter: sinedied
 - uid: advocates.yoshio-terada
   name: Yoshio Terada
   tagline: Java
@@ -1091,7 +998,6 @@ profiles:
     display: Minato-ku Tokyo, Japan
     lat: 35.626610
     long: 139.740982
-  twitter: yoshioterada
 - uid: advocates.zachary-deptawa
   name: Zachary Deptawa
   tagline: Linux
@@ -1102,4 +1008,3 @@ profiles:
     display: San Antonio, Texas, United States
     lat: 29.486311
     long: -98.872145
-  twitter: zdeptawa

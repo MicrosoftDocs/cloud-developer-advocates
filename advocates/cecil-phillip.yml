@@ -26,10 +26,17 @@ tagline: .NET
 image:
   alt: "Cecil Phillip Cloud Developer Advocate"
   src: media/profiles/cecil-phillip.png
-twitter: https://twitter.com/cecilphillip
-github: https://github.com/cecilphillip
-blog: http://cecilphillip.com
-stackoverflow: https://stackoverflow.com/users/333082/cecilphillip
+connect: 
+  - title: Twitter
+    url: https://twitter.com/cecilphillip
+  - title: GitHub
+    url: https://github.com/cecilphillip
+  - title: Blog
+    url: http://cecilphillip.com
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/333082/cecilphillip
+  - title: Twitch
+    url: https://www.twitch.tv/cecilphillip
 location:
   display: Plantation, Florida, United States
   lat: 26.1267513

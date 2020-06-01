@@ -22,9 +22,13 @@ tagline: Startups / Product / Infrastructure
 image:
   alt: "Andrew Harvey – CTO in Residence, Sydney"
   src: media/profiles/andrew-harvey.png
-twitter: https://twitter.com/mootpointer
-github: https://github.com/mootpointer
-linkedin: https://www.linkedin.com/in/andrewharvey/
+connect:
+  - title: Twitter
+    url: https://twitter.com/mootpointer
+  - title: GitHub
+    url: https://github.com/mootpointer
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/andrewharvey/
 location:
   display: Sydney, NSW, Australia
   lat: -33.87188

@@ -17,12 +17,21 @@ tagline: JavaScript / Node.js / Python
 image:
   alt: "Brian Clark Cloud Developer Advocate"
   src: media/profiles/brian-clark.png
-twitter: https://twitter.com/_clarkio
-github: https://github.com/clarkio
-blog: https://www.clarkio.com/feed.xml
-instagram: https://www.instagram.com/_clarkio
-stackoverflow: https://stackoverflow.com/users/3381712/brian-clark
-linkedin: https://linkedin.com/in/brianclarkdev
+connect:
+  - title: Twitter
+    url: https://twitter.com/_clarkio
+  - title: GitHub
+    url: https://github.com/clarkio
+  - title: Blog
+    url: https://www.clarkio.com/feed.xml
+  - title: Instagram
+    url: https://www.instagram.com/_clarkio
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/3381712/brian-clark
+  - title: LinkedIn
+    url: https://linkedin.com/in/brianclarkdev
+  - title: Twitch
+    url: https://www.twitch.tv/clarkio
 location:
   display: Winter Garden, Florida, United States
   lat: 28.554713

@@ -22,7 +22,9 @@ image:
   alt: "Thomas Lewis Cloud Advocate"
   src: media/profiles/thomas-lewis.png
 
-twitter: https://twitter.com/tommylee
+connect:
+  - title: Twitter
+    url: https://twitter.com/tommylee
 
 location:
   display: Seattle, WA

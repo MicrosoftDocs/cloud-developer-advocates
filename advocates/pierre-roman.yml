@@ -19,9 +19,13 @@ tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
 image:
   alt: "Pierre Roman Senior Cloud Advocate"
   src: media/profiles/Pierre-Roman.jpg
-twitter: https://twitter.com/WiredCanuck
-blog: https://itopstalk.com/
-linkedin: https://www.linkedin.com/in/pierreroman/
+connect:
+  - title: Twitter
+    url: https://twitter.com/WiredCanuck
+  - title: Blog
+    url: https://itopstalk.com/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/pierreroman/
 
 location: 
   display: Ottawa, Ontario, Canada

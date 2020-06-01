@@ -22,9 +22,15 @@ tagline: Node.js / JavaScript / Automation / Security
 image:
   alt: "Tierney Cyren Cloud Developer Advocate"
   src: media/profiles/tierney-cyren.png
-twitter: https://twitter.com/bitandbang
-github: https://github.com/bnb
-linkedin: https://linkedin.com/in/bitandbang
+connect:
+  - title: Twitter
+    url: https://twitter.com/bitandbang
+  - title: GitHub
+    url: https://github.com/bnb
+  - title: LinkedIn
+    url: https://linkedin.com/in/bitandbang
+  - title: Twitch
+    url: https://www.twitch.tv/bitandbang
 location:
   display: Brooklyn, New York, United States
   lat: 40.6782

@@ -21,9 +21,16 @@ tagline: JavaScript / Node.js / Python
 image:
   alt: "Simona Cotin Cloud Developer Advocate"
   src: media/profiles/simona-cotin.png 
-twitter: https://twitter.com/simona_cotin
-github: https://github.com/simonaco
-linkedin: https://linkedin.com/in/simona-cotin
+connect:
+  - title: Twitter
+    url: https://twitter.com/simona_cotin
+  - title: GitHub
+    url: https://github.com/simonaco
+  - title: LinkedIn
+    url: https://linkedin.com/in/simona-cotin
+  - title: YouTube
+    url: https://www.youtube.com/user/microsoftventures
+
 location:
   display: Reading, United Kingdom
   lat: 51.458046

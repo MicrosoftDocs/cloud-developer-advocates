@@ -23,11 +23,19 @@ tagline: Azure / Azure Stack / Windows Server / IT Pro
 image:
   alt: "Thomas Maurer Cloud Advocate"
   src: media/profiles/thomas-maurer.png 
-twitter: https://twitter.com/ThomasMaurer
-github: https://github.com/ThomasMaurer
-blog: https://www.thomasmaurer.ch
-facebook: https://www.facebook.com/ThomasmaurerMVP
-linkedin: https://linkedin.com/in/thomasmaurer2/
+connect:
+  - title: Twitter
+    url: https://twitter.com/ThomasMaurer
+  - title: GitHub
+    url: https://github.com/ThomasMaurer
+  - title: Blog
+    url: https://www.thomasmaurer.ch
+  - title: Facebook
+    url: https://www.facebook.com/ThomasmaurerMVP
+  - title: LinkedIn
+    url: https://linkedin.com/in/thomasmaurer2/
+  - title: YouTube
+    url: https://www.youtube.com/c/ThomasMaurerCloud
 location:
   display: Basel, Switzerland
   lat: 47.55734

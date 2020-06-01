@@ -20,10 +20,17 @@ tagline: Architecture / Startups / Product / Engineering
 image:
   alt: "Duncan Davidson, CTO in Residence"
   src: media/profiles/duncan-davidson.png
-twitter: https://twitter.com/duncan
-github: https://github.com/duncan
-blog: https://duncandavidson.com/
-linkedin: https://www.linkedin.com/in/duncandavidson
+connect:
+  - title: Twitter
+    url: https://twitter.com/duncan
+  - title: GitHub
+    url: https://github.com/duncan
+  - title: Blog
+    url: https://duncandavidson.com/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/duncandavidson
+  - title: YouTube
+    url: https://www.youtube.com/user/microsoftventures
 location:
   display: Berlin, Germany
   lat: 52.516875

@@ -14,9 +14,13 @@ tagline: DevOps
 image:
   alt: "Abel Wang Cloud Developer Advocate"
   src: media/profiles/abel-wang.png
-twitter: https://twitter.com/AbelSquidHead
-linkedin: https://linkedin.com/in/abel-wang-9a37694
-github: https://github.com/AbelSquidHead
+connect:
+  - title: Twitter
+    url: https://twitter.com/AbelSquidHead
+  - title: LinkedIn
+    url: https://linkedin.com/in/abel-wang-9a37694
+  - title: GitHub
+    url: https://github.com/AbelSquidHead
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

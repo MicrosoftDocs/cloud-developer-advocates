@@ -30,11 +30,17 @@ tagline: .NET / DevOps / Serverless / Messaging
 image:
   alt: "Justin Yoo Cloud Advocate"
   src: media/profiles/justin-yoo.png 
-twitter: https://twitter.com/justinchronicle
-github: https://github.com/justinyoo
-stackoverflow: https://stackoverflow.com/users/642251/justinyoo
-linkedin: https://linkedin.com/in/justinyoo
-#twitch: https://twitch.tv/aliencubeorg
+connect: 
+  - title: Twitter
+    url: https://twitter.com/justinchronicle
+  - title: GitHub
+    url: https://github.com/justinyoo
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/642251/justinyoo
+  - title: LinkedIn
+    url: https://linkedin.com/in/justinyoo
+  - title: Twitch
+    url: https://twitch.tv/aliencubeorg
 location:
   display: Melbourne, Australia
   lat: -37.9722342

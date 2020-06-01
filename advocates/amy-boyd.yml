@@ -29,9 +29,15 @@ tagline: Data / AI / ML
 image:
   alt: "Amy Boyd Cloud Developer Advocate"
   src: media/profiles/amy-boyd.png
-twitter: https://twitter.com/AmyKateNicho
-github: https://github.com/amynic
-linkedin: https://www.linkedin.com/in/amykatenicho/
+connect:
+  - title: Twitter
+    url: https://twitter.com/AmyKateNicho
+  - title: GitHub
+    url: https://github.com/amynic
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/amykatenicho/
+  - title: Twitch
+    url: https://www.twitch.tv/amykateboyd
 location:
   display: London, United Kingdom
   lat: 51.52814

@@ -16,10 +16,15 @@ tagline: Diversity & Inclusion, Linux
 image:
   alt: "Jan Schenk Cloud Developer Advocate"
   src: media/profiles/jan-schenk.png
-twitter: https://twitter.com/jansche
-github: https://github.com/jansche
-stackoverflow: https://stackoverflow.com/users/10668525/jansche
-linkedin: https://linkedin.com/in/JanSchenk
+connect:
+  - title: Twitter
+    url: https://twitter.com/jansche
+  - title: GitHub
+    url: https://github.com/jansche
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/10668525/jansche
+  - title: LinkedIn
+    url: https://linkedin.com/in/JanSchenk
 location:
   display: Reading, United Kingdom
   lat: 48.1364098

@@ -23,10 +23,15 @@ tagline: Cloud / Mobile Dev
 image:
   alt: "Christopher Maneu Cloud Developer Advocate"
   src: media/profiles/christopher-maneu.png 
-twitter: https://twitter.com/cmaneu
-github: https://github.com/cmaneu
-blog: http://maneu.fr
-linkedin: https://linkedin.com/in/cmaneu
+connect:
+  - title: Twitter
+    url: https://twitter.com/cmaneu
+  - title: GitHub
+    url: https://github.com/cmaneu
+  - title: Blog
+    url: http://maneu.fr
+  - title: LinkedIn
+    url: https://linkedin.com/in/cmaneu
 location:
   display: Paris, France
   lat: 48.833968 
