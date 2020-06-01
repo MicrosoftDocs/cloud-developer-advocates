@@ -19,8 +19,11 @@ tagline: Intern
 image:
   alt: "Davis Joseph Cloud Advocate PM Intern"
   src: media/profiles/davis-joseph.png
-github: https://github.com/DavisTJoseph
-linkedin: https://linkedin.com/in/davis-joseph
+connect:
+  - title: GitHub
+    url: https://github.com/DavisTJoseph
+  - title: LinkedIn
+    url: https://linkedin.com/in/davis-joseph
 location:
   display: Bloomington, Indiana, USA
   lat: 39.117340

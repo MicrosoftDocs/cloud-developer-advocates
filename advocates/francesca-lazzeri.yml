@@ -23,10 +23,15 @@ tagline: Data Science / Machine Learning / Artificial Intelligence / Big Data
 image:
   alt: "Francesca Lazzeri Cloud Developer Advocate"
   src: media/profiles/francesca-lazzeri.png
-twitter: https://twitter.com/frlazzeri
-blog: https://medium.com/@francescalazzeri
-github: https://github.com/FrancescaLazzeri
-linkedin: https://www.linkedin.com/in/francescalazzeri/
+connect:
+  - title: Twitter
+    url: https://twitter.com/frlazzeri
+  - title: Blog
+    url: https://medium.com/@francescalazzeri
+  - title: GitHub
+    url: https://github.com/FrancescaLazzeri
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/francescalazzeri/
 location:
   display: Boston, MA, USA
   lat: 42.3601

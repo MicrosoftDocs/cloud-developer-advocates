@@ -25,9 +25,13 @@ tagline: AI / Data Science / R
 image:
   alt: "David Smith Cloud Developer Advocate"
   src: media/profiles/david-smith.png
-twitter: https://twitter.com/revodavid
-github: https://github.com/revodavid
-linkedin: https://linkedin.com/in/dmsmith
+connect:
+  - title: Twitter
+    url: https://twitter.com/revodavid
+  - title: GitHub
+    url: https://github.com/revodavid
+  - title: LinkedIn
+    url: https://linkedin.com/in/dmsmith
 location:
   display: Chicago, IL, USA
   lat: 41.881832

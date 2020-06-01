@@ -23,11 +23,17 @@ tagline: Xamarin
 image:
   alt: "Jim Bennett Cloud Developer Advocate"
   src: media/profiles/jim-bennett.png
-twitter: https://twitter.com/jimbobbennett
-github: https://github.com/jimbobbennett
-linkedin: https://www.linkedin.com/in/jim-bennett-36744820/
-blog: https://jimbobbennett.io
-#twitch: https://www.twitch.tv/jimbobbennett
+connect:
+  - title: Twitter
+    url: https://twitter.com/jimbobbennett
+  - title: GitHub
+    url: https://github.com/jimbobbennett
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jim-bennett-36744820/
+  - title: Blog
+    url: https://jimbobbennett.io
+  - title: Twitch
+    url: https://www.twitch.tv/jimbobbennett
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

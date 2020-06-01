@@ -21,10 +21,15 @@ tagline: Operations / Platforms
 image:
   alt: "Jeramiah Dooley Cloud Operations Advocate"
   src: media/profiles/jeramiah-dooley.png
-twitter: https://twitter.com/jdooley_clt
-github: https://github.com/jdooley-clt
-blog: https://jeramiah.net
-linkedin: https://www.linkedin.com/in/jeramiah/
+connect:
+  - title: Twitter
+    url: https://twitter.com/jdooley_clt
+  - title: GitHub
+    url: https://github.com/jdooley-clt
+  - title: Blog
+    url: https://jeramiah.net
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jeramiah/
 location:
   display: Charlotte, NC, United States
   lat: 35.2270869

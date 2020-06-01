@@ -13,9 +13,13 @@ tagline: Windows / AI/ML / Cloud Hyper-Scale / IoT
 image:
   alt: "Muniraju Pulipalyam CTO-in-Residence"
   src: media/profiles/munipuli.png
-twitter: https://twitter.com/munipuli
-github: https://github.com/munip
-linkedin: https://www.linkedin.com/in/muniraju-pulipalyam
+connect:
+  - title: Twitter
+    url: https://twitter.com/munipuli
+  - title: GitHub
+    url: https://github.com/munip
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/muniraju-pulipalyam
 location:
   display: Bangalore, India
   lat: 12.96697

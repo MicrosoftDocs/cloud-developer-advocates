@@ -20,11 +20,17 @@ tagline: Linux / Open Source
 image:
   alt: "Jessica Deen Cloud Developer Advocate"
   src: media/profiles/jessica-deen.png
-twitter: https://twitter.com/jldeen
-linkedin: https://www.linkedin.com/in/jldeen
-github: https://github.com/jldeen
-blog: http://jessicadeen.com
-#youtube: https://www.youtube.com/channel/UC-RjyheFSQPAv-MyY0STSIQ
+connect:
+  - title: Twitter
+    url: https://twitter.com/jldeen
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jldeen
+  - title: GitHub
+    url: https://github.com/jldeen
+  - title: Blog
+    url: http://jessicadeen.com
+  - title: YouTube
+    url: https://www.youtube.com/channel/UC-RjyheFSQPAv-MyY0STSIQ
 location:
   display: Morgan Hill, CA, USA
   lat: 37.191441

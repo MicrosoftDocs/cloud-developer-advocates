@@ -25,13 +25,21 @@ tagline: Containers
 image:
   alt: "Patrick Chanezon Cloud Advocate"
   src: media/profiles/patrick-chanezon.png
-twitter: https://twitter.com/chanezon
-github: https://github.com/chanezon
-facebook: https://facebook.com/chanezon
-instagram: https://www.instagram.com/chanezon
-stackoverflow: https://stackoverflow.com/users/5071953/patrick-chanezon
-linkedin: https://www.linkedin.com/in/chanezon/
-blog: https://blog.chanezon.com/
+connect:
+  - title: Twitter
+    url: https://twitter.com/chanezon
+  - title: GitHub
+    url: https://github.com/chanezon
+  - title: Facebook
+    url: https://facebook.com/chanezon
+  - title: Instagram
+    url: https://www.instagram.com/chanezon
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/5071953/patrick-chanezon
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/chanezon/
+  - title: Blog
+    url: https://blog.chanezon.com/
 location:
   display: San Francisco, California, United States
   lat: 37.815141999999994

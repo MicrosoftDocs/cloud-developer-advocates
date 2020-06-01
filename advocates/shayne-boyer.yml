@@ -22,11 +22,17 @@ tagline: .NET
 image:
   alt: "Shayne Boyer Cloud Developer Advocate"
   src: media/profiles/shayne-boyer.png
-twitter: https://twitter.com/spboyer
-blog: https://tattoocoder.com/
-linkedin: https://linkedin.com/in/shayneboyer
-github: https://github.com/spboyer
-#twitch: https://www.twitch.tv/spboyer
+connect: 
+  - title: Twitter
+    url: https://twitter.com/spboyer
+  - title: Blog
+    url: https://tattoocoder.com/
+  - title: LinkedIn
+    url: https://linkedin.com/in/shayneboyer
+  - title: GitHub
+    url: https://github.com/spboyer
+  - title: Twitch
+    url: https://www.twitch.tv/spboyer
 location:
   display: DeLand, Florida, United States
   lat: 29.022108

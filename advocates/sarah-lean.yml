@@ -22,11 +22,17 @@ tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
 image:
   alt: "Sarah Lean Cloud Advocate"
   src: media/profiles/sarah-lean.png 
-twitter: https://twitter.com/Techielass
-github: https://github.com/weeyin83
-blog: https://www.techielass.com
-linkedin: http://www.linkedin.com/in/sazlean
-#youtube: https://www.youtube.com/user/paris83
+connect: 
+  - title: Twitter
+    url: https://twitter.com/Techielass
+  - title: GitHub
+    url: https://github.com/weeyin83
+  - title: Blog
+    url: https://www.techielass.com
+  - title: LinkedIn
+    url: http://www.linkedin.com/in/sazlean
+  - title: YouTube
+    url: https://www.youtube.com/user/paris83
 location:
   display: Glasgow, Scotland, United Kingdom
   lat: 55.864239

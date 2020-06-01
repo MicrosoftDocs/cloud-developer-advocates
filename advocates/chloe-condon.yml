@@ -19,10 +19,15 @@ tagline: Python / JavaScript / Android
 image:
   alt: "Chloe Condon Advocate profile pic"
   src: media/profiles/chloe-condon.png
-twitter: https://twitter.com/ChloeCondon
-github: https://github.com/chloecodesthings
-blog: https://medium.com/@chloecondon
-#youtube: https://www.youtube.com/channel/UChWn8UyK3PNfMLYOCzrH6sQ
+connect: 
+  - title: Twitter
+    url: https://twitter.com/ChloeCondon
+  - title: GitHub
+    url: https://github.com/chloecodesthings
+  - title: Blog
+    url: https://medium.com/@chloecondon
+  - title: YouTube
+    url: https://www.youtube.com/channel/UChWn8UyK3PNfMLYOCzrH6sQ
 location: 
   display: San Francisco, CA
   lat: 37.760999

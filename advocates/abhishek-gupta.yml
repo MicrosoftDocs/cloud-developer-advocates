@@ -20,10 +20,15 @@ tagline: NoSQL / Kafka / Kubernetes / Open Source
 image:
   alt: "Abhishek Gupta Cloud Developer Advocate"
   src: media/profiles/abhishek-gupta.jpg
-twitter: https://twitter.com/abhi_tweeter
-blog: https://medium.com/@abhishek1987
-github: https://github.com/abhirockzz
-linkedin: https://www.linkedin.com/in/abhirockzz/
+connect:
+  - title: Twitter
+    url: https://twitter.com/abhi_tweeter
+  - title: Blog
+    url: https://medium.com/@abhishek1987
+  - title: GitHub
+    url: https://github.com/abhirockzz
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/abhirockzz/
 location:
   display: New Delhi, India
   lat: 28.6000

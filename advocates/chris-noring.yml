@@ -32,10 +32,15 @@ tagline: Web / Azure / JavaScript
 image:
   alt: "Chris Noring Cloud Developer Advocate"
   src: media/profiles/chris-noring.png
-twitter: https://twitter.com/chris_noring
-github: https://github.com/softchris
-linkedin: https://www.linkedin.com/in/christoffer-noring-3257061
-blog: https://softchris.github.io/articles.html
+connect: 
+  - title: Twitter
+    url: https://twitter.com/chris_noring
+  - title: GitHub
+    url: https://github.com/softchris
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/christoffer-noring-3257061
+  - title: Blog
+    url: https://softchris.github.io/articles.html
 location:
   display: London, United Kingdom
   lat: 51.52814

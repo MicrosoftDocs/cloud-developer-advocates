@@ -30,9 +30,13 @@ image:
   alt: "Scott Coulton Cloud Developer Advocate"
   src: media/profiles/scott-coulton.png
 
-twitter: https://twitter.com/scottcoulton
-github: https://github.com/scotty-c
-linkedin: https://au.linkedin.com/in/scott-coulton-22864813
+connect:
+  - title: Twitter
+    url: https://twitter.com/scottcoulton
+  - title: GitHub
+    url: https://github.com/scotty-c
+  - title: LinkedIn
+    url: https://au.linkedin.com/in/scott-coulton-22864813
 
 location:
   display: Sydney, Australia

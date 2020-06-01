@@ -58,10 +58,15 @@ tagline: High Scale / Big Data
 image:
   alt: "Alena Hall Cloud Developer Advocate"
   src: media/profiles/alena-hall.png
-twitter: https://twitter.com/lenadroid
-github: https://github.com/lenadroid
-blog: http://lenadroid.github.io/posts.html
-linkedin: https://www.linkedin.com/in/lena-hall/
+connect:
+  - title: Twitter
+    url: https://twitter.com/lenadroid
+  - title: GitHub
+    url: https://github.com/lenadroid
+  - title: Blog
+    url: http://lenadroid.github.io/posts.html
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lena-hall/
 location:
   display: Seattle, Washington, United States
   lat: 47.60621

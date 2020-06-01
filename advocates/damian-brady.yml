@@ -26,11 +26,17 @@ tagline: DevOps
 image:
   alt: "Damian Brady Cloud Advocate"
   src: media/profiles/damian-brady.png
-twitter: https://twitter.com/damovisa
-github: https://github.com/damovisa
-blog: https://damovisa.me
-stackoverflow: https://stackoverflow.com/users/77546/damovisa
-linkedin: https://linkedin.com/in/damianbrady
+connect:
+  - title: Twitter
+    url: https://twitter.com/damovisa
+  - title: GitHub
+    url: https://github.com/damovisa
+  - title: Blog
+    url: https://damovisa.me
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/77546/damovisa
+  - title: LinkedIn
+    url: https://linkedin.com/in/damianbrady
 location:
   display: Byron Bay, Australia
   lat: -28.647400

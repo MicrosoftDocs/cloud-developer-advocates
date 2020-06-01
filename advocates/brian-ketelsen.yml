@@ -17,11 +17,17 @@ tagline: Linux
 image:
   alt: "Brian Ketelsen Cloud Developer Advocate"
   src: media/profiles/brian-ketelsen.png
-twitter: https://twitter.com/bketelsen
-github: https://github.com/bketelsen
-blog: https://brianketelsen.com
-linkedin: https://linkedin.com/in/brianketelsen
-#twitch: https://www.twitch.tv/bketelsen
+connect: 
+  - title: Twitter
+    url: https://twitter.com/bketelsen
+  - title: GitHub
+    url: https://github.com/bketelsen
+  - title: Blog
+    url: https://brianketelsen.com
+  - title: LinkedIn
+    url: https://linkedin.com/in/brianketelsen
+  - title: Twitch
+    url: https://www.twitch.tv/bketelsen
 location:
   display: Land O' Lakes, Florida, United States
   lat: 28.222353

@@ -28,12 +28,19 @@ tagline: JavaScript / Node.js / Web
 image:
   alt: "John Papa Cloud Developer Advocate"
   src: media/profiles/john-papa.png
-twitter: https://twitter.com/john_papa
-github: https://github.com/johnpapa
-blog: https://johnpapa.net
-instagram: https://www.instagram.com/thejohnpapa
-linkedin: https://linkedin.com/in/papajohn
-#twitch: https://www.twitch.tv/john_papa
+connect:
+  - title: Twitter
+    url: https://twitter.com/john_papa
+  - title: GitHub
+    url: https://github.com/johnpapa
+  - title: Blog
+    url: https://johnpapa.net
+  - title: Instagram
+    url: https://www.instagram.com/thejohnpapa
+  - title: LinkedIn
+    url: https://linkedin.com/in/papajohn
+  - title: Twitch
+    url: https://www.twitch.tv/john_papa
 location:
   display: Orlando, Florida, United States
   lat: 28.5029917

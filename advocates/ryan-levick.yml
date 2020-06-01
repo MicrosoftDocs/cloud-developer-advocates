@@ -23,10 +23,15 @@ tagline: Rust / Functional Programming / JavaScript/TypeScript / Architecture
 image:
   alt: "Ryan Levick, Cloud Advocate"
   src: media/profiles/ryan-levick.jpg
-twitter: https://twitter.com/ryan_levick
-github: https://github.com/rylev
-blog: http://blog.ryanlevick.com
-linkedin: https://www.linkedin.com/in/ryanlevick/
+connect:
+  - title: Twitter  
+    url: https://twitter.com/ryan_levick
+  - title: GitHub
+    url: https://github.com/rylev
+  - title: Blog
+    url: http://blog.ryanlevick.com
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ryanlevick/
 location:
   display: Berlin, Germany
   lat: 52.515816

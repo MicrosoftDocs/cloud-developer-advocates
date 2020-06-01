@@ -21,8 +21,11 @@ image:
   alt: "Gustavo Cordido Software Engineering Intern"
   src: media/profiles/gustavo-cordido.jpeg
 
-twitter: https://twitter.com/gcordidoa
-linkedin: https://www.linkedin.com/in/gcordidoa
+connect:
+  - title: Twitter
+    url: https://twitter.com/gcordidoa
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/gcordidoa
 
 location:
   display: Miramar, FL

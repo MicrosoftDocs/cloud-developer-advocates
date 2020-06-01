@@ -29,11 +29,17 @@ tagline: Mixed Reality / HoloLens / C# / Conversational AI / (Manga)
 image:
   alt: "Madoka Chiyoda Cloud Developer Advocate"
   src: media/profiles/madoka-chiyoda.jpg
-twitter: https://twitter.com/chomado
-github: https://github.com/chomado
-facebook: https://facebook.com/chomado
-instagram: https://www.instagram.com/chomado
-linkedin: https://www.linkedin.com/in/chomado
+connect:
+  - title: Twitter
+    url: https://twitter.com/chomado
+  - title: GitHub
+    url: https://github.com/chomado
+  - title: Facebook
+    url: https://facebook.com/chomado
+  - title: Instagram
+    url: https://www.instagram.com/chomado
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/chomado
 location:
   display: Minato-ku Tokyo, Japan
   lat: 35.626610

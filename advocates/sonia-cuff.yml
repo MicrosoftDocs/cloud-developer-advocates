@@ -24,11 +24,17 @@ tagline: IT Infrastructure / Operations / IT Pro / Azure
 image:
   alt: "Sonia Cuff Cloud Operations Advocate"
   src: media/profiles/sonia-cuff.png
-twitter: https://twitter.com/SoniaCuff
-github: https://github.com/Scuffy
-blog: https://soniacuff.com.com/
-linkedin: https://au.linkedin.com/in/SoniaCuff
-instagram: https://instagram.com/SoniaCuff
+connect:
+  - title: Twitter
+    url: https://twitter.com/SoniaCuff
+  - title: GitHub
+    url: https://github.com/Scuffy
+  - title: Blog
+    url: https://soniacuff.com.com/
+  - title: LinkedIn
+    url: https://au.linkedin.com/in/SoniaCuff
+  - title: Instagram
+    url: https://instagram.com/SoniaCuff
 location:
   display: Brisbane, Queensland, Australia
   lat: -27.47126

@@ -30,13 +30,21 @@ tagline: .NET / Xamarin
 image:
   alt: "Laurent Bugnion Cloud Developer Advocate"
   src: media/profiles/laurent-bugnion.png 
-twitter: https://twitter.com/LBugnion
-github: https://github.com/LBugnion
-blog: http://blog.galasoft.ch
-facebook: https://facebook.com/LBugnion
-instagram: https://www.instagram.com/LBugnion
-stackoverflow: https://stackoverflow.com/users/12233/lbugnion
-linkedin: https://linkedin.com/in/LBugnion
+connect:
+  - title: Twitter
+    url: https://twitter.com/LBugnion
+  - title: GitHub
+    url: https://github.com/LBugnion
+  - title: Blog
+    url: http://blog.galasoft.ch
+  - title: Facebook
+    url: https://facebook.com/LBugnion
+  - title: Instagram
+    url: https://www.instagram.com/LBugnion
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/12233/lbugnion
+  - title: LinkedIn
+    url: https://linkedin.com/in/LBugnion
 location:
   display: Wallisellen, Bülach, Switzerland
   lat: 47.417478
