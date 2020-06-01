@@ -26,23 +26,23 @@ image:
   src: media/profiles/frank-boucher.png
 connect:
   - title: Twitter
-  url: https://twitter.com/fboucheros
+    url: https://twitter.com/fboucheros
   - title: GitHub
-  url: https://github.com/fboucher
+    url: https://github.com/fboucher
   - title: LinkedIn
-  url: https://www.linkedin.com/in/fboucheros
+    url: https://www.linkedin.com/in/fboucheros
   - title: Blog
-  url: https://frankysnotes.com/
+    url: https://frankysnotes.com/
   - title: Blog (FR)
-  url: http://www.cloudenfrancais.com/
+    url: http://www.cloudenfrancais.com/
   - title: YouTube
-  url: https://www.youtube.com/fboucheros
+    url: https://www.youtube.com/fboucheros
   - title: YouTube (FR)
-  url: https://www.youtube.com/cloudenfrancais
+    url: https://www.youtube.com/cloudenfrancais
   - title: Twitch
-  url: https://www.twitch.tv/fboucheros
+    url: https://www.twitch.tv/fboucheros
   - title: Instagram
-  url: https://www.instagram.com/fboucheros
+    url: https://www.instagram.com/fboucheros
 location:
   display: Montreal, Quebec, Canada
   lat: 45.5017
