@@ -32,13 +32,19 @@ tagline: Mixed Reality / HoloLens / JavaScript / WebXR
 image:
   alt: "Ayşegül Yönet Cloud Advocate"
   src: media/profiles/aysegul-yonet.jpg
-
-twitter: https://twitter.com/AysSomething
-github: https://github.com/Yonet
-linkedin: https://www.linkedin.com/in/aysegulyonet
-instagram: https://www.instagram.com/ayssomething/
-stackoverflow: https://stackoverflow.com/users/4092343/yonet
-#twitch: https://www.twitch.tv/ayssomething
+connect:
+  - title: Twitter
+    url: https://twitter.com/AysSomething
+  - title: GitHub
+    url: https://github.com/Yonet
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aysegulyonet
+  - title: Instagram
+    url: https://www.instagram.com/ayssomething/
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/4092343/yonet
+  - title: Twitch
+    url: https://www.twitch.tv/ayssomething
 location:
   display: San Francisco, CA
   lat: 37.7958

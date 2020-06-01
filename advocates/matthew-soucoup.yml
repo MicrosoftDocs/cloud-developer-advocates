@@ -38,11 +38,17 @@ tagline: .NET / Xamarin
 image:
   alt: "Matthew Soucoup Cloud Developer Advocate"
   src: media/profiles/matthew-soucoup.png
-twitter: https://twitter.com/codemillmatt
-github: https://github.com/codemillmatt
-blog: https://codemilltech.com
-stackoverflow: https://stackoverflow.com/users/6621061/matt-soucoup
-linkedin: https://linkedin.com/in/msoucoup
+connect:
+  - title: Twitter
+    url: https://twitter.com/codemillmatt
+  - title: GitHub
+    url: https://github.com/codemillmatt
+  - title: Blog
+    url: https://codemilltech.com
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/6621061/matt-soucoup
+  - title: LinkedIn
+    url: https://linkedin.com/in/msoucoup
 location:
   display: Seattle, WA, USA
   lat: 47.60621

@@ -22,11 +22,17 @@ tagline: Container / Java / DevOps
 image:
   alt: "Sandra Ahlgrimm Cloud Developer Advocate"
   src: media/profiles/sandra-ahlgrimm.png
-twitter: https://twitter.com/skriemhild
-blog: https://medium.com/@sKriemhild
-github: https://github.com/sandraahlgrimm
-stackoverflow: https://stackexchange.com/users/6506807/sandra-kriemann
-linkedin: https://www.linkedin.com/in/sandrakriemann/
+connect:
+  - title: Twitter
+    url: https://twitter.com/skriemhild
+  - title: Blog
+    url: https://medium.com/@sKriemhild
+  - title: GitHub
+    url: https://github.com/sandraahlgrimm
+  - title: StackOverflow
+    url: https://stackexchange.com/users/6506807/sandra-kriemann
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sandrakriemann/
 location:
   display: Berlin, Germany
   lat: 52.515816

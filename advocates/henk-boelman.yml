@@ -22,11 +22,17 @@ tagline: AI / ML / Azure / DevOps
 image:
   alt: "Henk Boelman"
   src: media/profiles/henk-boelman.png
-twitter: https://twitter.com/hboelman
-github: https://github.com/hnky
-linkedin: https://www.linkedin.com/in/henkboelman/
-blog: https://www.henkboelman.com
-#twitch: https://www.twitch.tv/hboelman
+connect:
+  - title: Twitter
+    url: https://twitter.com/hboelman
+  - title: GitHub
+    url: https://github.com/hnky
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/henkboelman/
+  - title: Blog
+    url: https://www.henkboelman.com
+  - title: Twitch
+    url: https://www.twitch.tv/hboelman
 location:
   display: Driebergen, The Netherlands
   lat: 52.0483174

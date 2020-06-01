@@ -18,13 +18,21 @@ tagline: .NET
 image:
   alt: "Scott Cate Cloud Developer Advocate"
   src: media/profiles/scott-cate.png
-twitter: https://twitter.com/ScottCate
-github: https://github.com/ScottCate
-blog: http://scottcate.com
-facebook: https://facebook.com/scottcateaz
-instagram: https://www.instagram.com/scottcate
-stackoverflow: https://stackoverflow.com/users/92882/scottcate
-linkedin: https://linkedin.com/in/ScottCate
+connect:
+  - title: Twitter
+    url: https://twitter.com/ScottCate
+  - title: GitHub
+    url: https://github.com/ScottCate
+  - title: Blog
+    url: http://scottcate.com
+  - title: Facebook
+    url: https://facebook.com/scottcateaz
+  - title: Instagram
+    url: https://www.instagram.com/scottcate
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/92882/scottcate
+  - title: LinkedIn
+    url: https://linkedin.com/in/ScottCate
 location:
   display: West Palm Beach, Florida, United States
   lat: 26.758461

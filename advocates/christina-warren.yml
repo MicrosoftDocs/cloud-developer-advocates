@@ -20,9 +20,13 @@ tagline: HTML
 image:
   alt: "Christina Warren Cloud Developer Advocate"
   src: media/profiles/christina-warren.png
-twitter: https://twitter.com/film_girl
-facebook: https://facebook.com/christina.warren
-linkedin: https://linkedin.com/in/filmgirl/
+connect: 
+  - title: Twitter
+    url: https://twitter.com/film_girl
+  - title: Facebook
+    url: https://facebook.com/christina.warren
+  - title: LinkedIn
+    url: https://linkedin.com/in/filmgirl/
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

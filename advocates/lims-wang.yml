@@ -17,7 +17,9 @@ tagline: Startups / Product Management/ Architecture
 image:
   alt: "Limswang, CTO-in-Residence, Startup Advocacy Beijing"
   src: media/profiles/lims-wang.jpg
-linkedin: https://www.linkedin.com/in/lims-wang-264bb378
+connect: 
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lims-wang-264bb378
 location:
   display: Beijing, China
   lat: 39.9799903172

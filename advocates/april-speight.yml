@@ -26,12 +26,17 @@ tagline: Mixed Reality / HoloLens / Spatial Computing
 image:
   alt: "April Speight Cloud Advocate"
   src: media/profiles/april-speight.png
-
-twitter: https://twitter.com/vogueandcode
-blog: https://www.vogueandcode.com
-github: http://github.com/aprilspeight
-linkedin: https://www.linkedin.com/in/aprilspeight
-#twitch: https://www.twitch.tv/vogueandcode 
+connect:
+  - title: Twitter
+    url: https://twitter.com/vogueandcode
+  - title: Blog
+    url: https://www.vogueandcode.com
+  - title: GitHub
+    url: http://github.com/aprilspeight
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aprilspeight
+  - title: Twitch
+    url: https://www.twitch.tv/vogueandcode 
 
 location:
   display: Beverly Hills, CA

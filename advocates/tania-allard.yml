@@ -29,9 +29,13 @@ tagline: Data Science / ML / Research engineering / MLOps
 image:
   alt: "Tania Allard Developer Advocate"
   src: media/profiles/tania-allard.jpg
-twitter: https://twitter.com/ixek
-github: https://github.com/trallard
-linkedin: https://www.linkedin.com/in/taniasanchezmonroy/
+connect: 
+  - title: Twitter
+    url: https://twitter.com/ixek
+  - title: GitHub
+    url: https://github.com/trallard
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/taniasanchezmonroy/
 location:
   display: Manchester, United Kingdom
   lat: 53.483959

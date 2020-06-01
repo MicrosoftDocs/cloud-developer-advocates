@@ -39,11 +39,17 @@ image:
   alt: "Frank Denbow Startup Advocate"
   src: media/profiles/frank-denbow.jpeg
 
-twitter: https://twitter.com/frankdenbow
-blog: https://www.frankdenbow.com
-github: http://github.com/frankdenbow
-stackoverflow: https://stackoverflow.com
-linkedin: https://www.linkedin.com/in/frankdenbow
+connect:
+  - title: Twitter
+    url: https://twitter.com/frankdenbow
+  - title: Blog
+    url: https://www.frankdenbow.com
+  - title: GitHub
+    url: http://github.com/frankdenbow
+  - title: StackOverflow
+    url: https://stackoverflow.com
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/frankdenbow
 
 location:
   display: Brooklyn, NY

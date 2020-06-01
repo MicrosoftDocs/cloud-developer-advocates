@@ -19,8 +19,11 @@ tagline: SRE
 image:
   alt: "David Blank-Edelman Cloud Ops Advocate"
   src: media/profiles/david-blank-edelman.png
-twitter: https://twitter.com/otterbook
-linkedin: https://linkedin.com/in/dnblankedelman
+connect:
+  - title: Twitter
+    url: https://twitter.com/otterbook
+  - title: LinkedIn
+    url: https://linkedin.com/in/dnblankedelman
 location:
   display: Somerville, Massachusetts, United States
   lat: 42.3875968

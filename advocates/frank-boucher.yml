@@ -24,12 +24,19 @@ tagline: Development / DevOps / Serverless
 image:
   alt: "Frank Boucher  Cloud Advocate"
   src: media/profiles/frank-boucher.png
-twitter: https://twitter.com/fboucheros
-github: https://github.com/fboucher
-blog: https://frankysnotes.com/
-linkedin: https://www.linkedin.com/in/fboucheros
-instagram: https://www.instagram.com/frankysnotes
-#twitch: https://www.twitch.tv/fboucheros
+connect:
+  - title: Twitter
+    url: https://twitter.com/fboucheros
+  - title: GitHub
+    url: https://github.com/fboucher
+  - title: Blog
+    url: https://frankysnotes.com/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/fboucheros
+  - title: Instagram
+    url: https://www.instagram.com/frankysnotes
+  - title: Twitch
+    url: https://www.twitch.tv/fboucheros
 location:
   display: Montreal, Quebec, Canada
   lat: 45.5017

@@ -32,12 +32,17 @@ tagline: .NET / JavaScript / Web
 image:
   alt: "Aaron Powell Cloud Advocate"
   src: media/profiles/aaron-powell.png
-
-twitter: https://twitter.com/slace
-blog: https://www.aaron-powell.com
-github: http://github.com/aaronpowell
-stackoverflow: https://stackoverflow.com/users/11388/aaron-powell
-linkedin: https://www.linkedin.com/in/aaron-powell-66038631
+connect:
+  - title: Twitter
+    url: https://twitter.com/slace
+  - title: Blog
+    url: https://www.aaron-powell.com
+  - title: GitHub
+    url: http://github.com/aaronpowell
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/11388/aaron-powell
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aaron-powell-66038631
 
 location:
   display: Sydney, Australia

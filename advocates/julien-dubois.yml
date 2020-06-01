@@ -16,9 +16,13 @@ tagline: Java
 image:
   alt: "Julien Dubois Cloud Advocate"
   src: media/profiles/julien-dubois.jpg 
-twitter: https://twitter.com/juliendubois
-github: https://github.com/jdubois
-linkedin: https://linkedin.com/in/juliendubois
+connect:
+  - title: Twitter
+    url: https://twitter.com/juliendubois
+  - title: GitHub
+    url: https://github.com/jdubois
+  - title: LinkedIn
+    url: https://linkedin.com/in/juliendubois
 location:
   display: Suresnes, France
   lat: 48.8712

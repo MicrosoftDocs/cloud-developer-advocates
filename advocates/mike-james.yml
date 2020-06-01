@@ -17,10 +17,15 @@ tagline: Xamarin
 image:
   alt: "Mike James Cloud Developer Advocate"
   src: media/profiles/mike-james.png
-twitter: https://twitter.com/mikecodesdotnet
-github: https://github.com/mikecodesdotnet
-blog: http://mikecodes.net
-linkedin: https://www.linkedin.com/in/micjames/
+connect:
+  - title: Twitter
+    url: https://twitter.com/mikecodesdotnet
+  - title: GitHub
+    url: https://github.com/mikecodesdotnet
+  - title: Blog
+    url: http://mikecodes.net
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/micjames/
 location:
   display: London, United Kingodom
   lat: 51.5218

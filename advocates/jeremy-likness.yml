@@ -52,12 +52,19 @@ tagline: .NET
 image:
   alt: "Jeremy Likness Cloud Developer Advocate"
   src: media/profiles/jeremy-likness.png
-twitter: https://twitter.com/JeremyLikness
-github: https://github.com/JeremyLikness
-blog: https://blog.jeremylikness.com/
-stackoverflow: https://stackoverflow.com/users/228918/jeremy-likness
-linkedin: https://linkedin.com/in/JeremyLikness
-#twitch: https://www.twitch.tv/JeremyLikness
+connect:
+  - title: Twitter
+    url: https://twitter.com/JeremyLikness
+  - title: GitHub
+    url: https://github.com/JeremyLikness
+  - title: Blog
+    url: https://blog.jeremylikness.com/
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/228918/jeremy-likness
+  - title: LinkedIn
+    url: https://linkedin.com/in/JeremyLikness
+  - title: Twitch
+    url: https://www.twitch.tv/JeremyLikness
 location:
   display: Monroe, Washington, United States
   lat: 47.85239

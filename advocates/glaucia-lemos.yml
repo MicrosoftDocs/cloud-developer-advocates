@@ -26,13 +26,21 @@ tagline: JavaScript / Node.js / A.I
 image:
   alt: "Glaucia Lemos Regional Cloud Advocate"
   src: media/profiles/glaucia-lemos.png
-twitter: https://twitter.com/glaucia_lemos86
-github: https://github.com/glaucia86/
-blog: https://glaucialemos.netlify.com
-instagram: https://www.instagram.com/glaucia.lemos.dev
-linkedin: https://www.linkedin.com/in/glaucialemos/
-#youtube: https://www.youtube.com/user/l32759
-#twitch: https://www.twitch.tv/glaucia_lemos86
+connect:
+  - title: Twitter
+    url: https://twitter.com/glaucia_lemos86
+  - title: GitHub
+    url: https://github.com/glaucia86/
+  - title: Blog
+    url: https://glaucialemos.netlify.com
+  - title: Instagram
+    url: https://www.instagram.com/glaucia.lemos.dev
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/glaucialemos/
+  - title: YouTube
+    url: https://www.youtube.com/user/l32759
+  - title: Twitch
+    url: https://www.twitch.tv/glaucia_lemos86
 location:
   display: Rio de Janeiro, Brazil
   lat: -22.904491

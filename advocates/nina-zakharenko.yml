@@ -25,8 +25,11 @@ tagline: Python
 image:
   alt: "Nina Zakharenko Cloud Developer Advocate"
   src: media/profiles/nina-zakharenko.png
-twitter: https://twitter.com/nnja
-github: https://github.com/nnja
+connect: 
+  - title: Twitter
+    url: https://twitter.com/nnja
+  - title: GitHub
+    url: https://github.com/nnja
 location:
   display: Portland, Oregon, United States
   lat: 45.512794

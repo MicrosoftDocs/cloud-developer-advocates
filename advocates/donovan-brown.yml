@@ -19,12 +19,19 @@ tagline: DevOps
 image:
   alt: "Donovan Brown Cloud Developer Advocate"
   src: media/profiles/donovan-brown.png 
-twitter: https://twitter.com/DonovanBrown
-github: https://github.com/darquewarrior
-blog: http://www.donovanbrown.com/
-facebook: https://www.facebook.com/darquewarrior/
-instagram: https://www.instagram.com/darquewarrior/
-linkedin: https://www.linkedin.com/in/donovanb/
+connect:
+  - title: Twitter
+    url: https://twitter.com/DonovanBrown
+  - title: GitHub
+    url: https://github.com/darquewarrior
+  - title: Blog
+    url: http://www.donovanbrown.com/
+  - title: Facebook
+    url: https://www.facebook.com/darquewarrior/
+  - title: Instagram
+    url: https://www.instagram.com/darquewarrior/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/donovanb/
 location:
   display: Spring, Texas, US
   lat: 30.08453

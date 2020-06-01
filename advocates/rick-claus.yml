@@ -21,11 +21,17 @@ tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
 image:
   alt: "Rick Claus Cloud Advocate"
   src: media/profiles/rick-claus.png 
-twitter: https://twitter.com/RicksterCDN
-github: https://github.com/RicksterCDN
-blog: https://itOpsTalk.com
-linkedin: http://www.linkedin.com/in/rickclaus
-#twitch: https://www.twitch.tv/patchandswitch
+connect:
+  - title: Twitter
+    url: https://twitter.com/RicksterCDN
+  - title: GitHub
+    url: https://github.com/RicksterCDN
+  - title: Blog
+    url: https://itOpsTalk.com
+  - title: LinkedIn
+    url: http://www.linkedin.com/in/rickclaus
+  - title: Twitch
+    url: https://www.twitch.tv/patchandswitch
 location:
   display: Redmond, Washington, United States
   lat: 47.645171

@@ -18,13 +18,21 @@ tagline: AI / ML / Quantum / Emerging
 image:
   alt: "Seth Juarez Cloud Developer Advocate"
   src: media/profiles/seth-juarez.png 
-twitter: https://twitter.com/sethjuarez
-github: https://github.com/sethjuarez
-blog: https://sethjuarez.com
-instagram: https://www.instagram.com/sethfrijoles
-stackoverflow: https://stackoverflow.com/users/241111/seth-juarez
-linkedin: https://linkedin.com/in/sethjuarez
-#twitch: https://www.twitch.tv/sethjuarez
+connect: 
+  - title: Twitter
+    url: https://twitter.com/sethjuarez
+  - title: GitHub
+    url: https://github.com/sethjuarez
+  - title: Blog
+    url: https://sethjuarez.com
+  - title: Instagram
+    url: https://www.instagram.com/sethfrijoles
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/241111/seth-juarez
+  - title: LinkedIn
+    url: https://linkedin.com/in/sethjuarez
+  - title: Twitch
+    url: https://www.twitch.tv/sethjuarez
 location:
   display: Redmond, Washington, United States
   lat: 47.679194
