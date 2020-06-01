@@ -23,12 +23,20 @@ image:
   alt: "Lucas Santos Cloud Advocate"
   src: media/profiles/lucas-santos.png
 connect:
+  - title: Dev.to
+    url: https://www.dev.to/khaosdoctor
+  - title: Medium
+    url: https://medium.com/@khaosdoctor
   - title: Twitter
     url: https://twitter.com/_staticvoid
-  - title: Blog
-    url: https://www.dev.to/khaosdoctor
   - title: LinkedIn
     url: https://www.linkedin.com/in/lhs-santos/
+  - title: Facebook
+    url: https://fb.com/lsantos.dev
+  - title: Website
+    url: https://lsantos.dev
+  - title: GitHub
+    url: https://github.com/khaosdoctor
   - title: Twitch
     url: https://www.twitch.tv/khaosdoctor
 location:
