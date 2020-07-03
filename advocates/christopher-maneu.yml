@@ -2,22 +2,21 @@
 uid: advocates.christopher-maneu
 name: Christopher Maneu
 metadata:
-  title: Christopher Maneu - Cloud Advocate France
+  title: Christopher Maneu - IoT
   description: Home page for Christopher Maneu, a Microsoft Cloud Developer Advocate
 remarks: |
   ## Bio
-  Christopher is a cloud engineer & developer advocate at Microsoft. He works with, help and teaches developers across the continent on cloud and open-source technologies. Before joining R&D, he helped large corporations and startups creating user-friendly apps & services and helping build teams behind these services. He used to be an engineering lead at Deezer.
+  As a member of the startup Squad, I act as an advisor and technical liaison between startup developer communities and the product teams at Microsoft. As the Lead IoT Advocate for EMEA Region, I'm focusing on IoT startups and teams, helping them graduating from prototypes to large scale deployments, and ensuring Azure has the best experience for them.
 
   ## Skills
+  * Internet of Things
   * .NET
-  * XAML
-  * UX Design
-  * PHP
-  * Python
+  * Cloud Architecture
+  * DevOps
 
   ## My Projects
-  * [My blog](https://maneu.fr)
-  * [My presentations](https://speakerdeck.com/cmaneu) 
+  * [My blog](https://www.maneu.net)
+  * [My presentations](https://aka.ms/chris/slides) 
   
 tagline: Cloud / Mobile Dev
 image:
@@ -29,7 +28,7 @@ connect:
   - title: GitHub
     url: https://github.com/cmaneu
   - title: Blog
-    url: http://maneu.fr
+    url: http://www.maneu.net
   - title: LinkedIn
     url: https://linkedin.com/in/cmaneu
 location:
