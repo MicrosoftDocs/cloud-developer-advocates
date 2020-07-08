@@ -962,8 +962,8 @@ profiles:
     alt: "Tomomi Imura Cloud Advocate"
   location: 
     display: San Francisco, California, United States
-    lat: 37.7958
-    long: 122.3938
+    lat: 37.773972
+    long: -122.431297
 - uid: advocates.vadim-karpusenko
   name: Vadim Karpusenko
   tagline: HPC / AI / ML / DL
