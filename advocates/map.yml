@@ -30,9 +30,9 @@ profiles:
     src: media/profiles/aaron-schlesinger.png
     alt: "Aaron Schlesinger Cloud Developer Advocate"
   location: 
-    display: San Mateo, CA, United States
-    lat: 37.5630556
-    long: -122.3244444
+    display: Portland, OR, United States
+    lat: 45.512230
+    long: -122.658722
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
   tagline: Linux
@@ -295,7 +295,7 @@ profiles:
     long: -122.153322
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
-  tagline: Cloud / Mobile Dev
+  tagline: IoT / Cloud Dev
   image:
     src: media/profiles/christopher-maneu.png 
     alt: "Christopher Maneu Cloud Developer Advocate"
@@ -475,7 +475,7 @@ profiles:
     long: -43.190777
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
-  tagline: AI / ML / Academic Advocacy / Python
+  tagline: Intern / AI / ML / Python
   image:
     src: media/profiles/gustavo-cordido.jpeg
     alt: "Gustavo Cordido Software Engineering Intern"
@@ -954,6 +954,16 @@ profiles:
     lat: 30.168403
     long: -95.558956
   twitter: toddanglin
+- uid: advocates.tomomi-imura
+  name: Tomomi Imura
+  tagline: JavaScript / UX
+  image:
+    src: media/profiles/tomomi-imura.jpg
+    alt: "Tomomi Imura Cloud Advocate"
+  location: 
+    display: San Francisco, California, United States
+    lat: 37.7958
+    long: 122.3938
 - uid: advocates.vadim-karpusenko
   name: Vadim Karpusenko
   tagline: HPC / AI / ML / DL
