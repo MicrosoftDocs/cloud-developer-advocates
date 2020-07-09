@@ -163,6 +163,16 @@ profiles:
     display: Reading, United Kingdom
     lat: 51.458046
     long: -1.012501
+- uid: advocates.ayca-bas
+  name: Ayca Bas
+  tagline: Microsoft Graph
+  image:
+    src: media/profiles/ayca-bas.png
+    alt: "Ayca Bas Cloud Advocate"
+  location: 
+    display: Dubai, United Arab Emirates
+    lat: 25.2048
+    long: 55.2708
 - uid: advocates.aysegul-yonet
   name: Ayşegül Yönet
   tagline: Mixed Reality / HoloLens / JavaScript / WebXR
