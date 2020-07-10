@@ -183,6 +183,16 @@ profiles:
     display: San Francisco, CA
     lat: 37.7958
     long: 122.3938
+- uid: advocates.barnam-bora
+  name: Barnam Bora
+  tagline: AI / ML / Microsoft Teams / Microsoft Graph / CTO Advisory
+  image:
+    src: media/profiles/barnam-bora.png
+    alt: "Barnam Bora - Cloud Advocacy Lead for Microsoft Teams & Graph"
+  location: 
+    display: Melbourne, Australia
+    lat: -37.840935
+    long: 144.946457
 - uid: advocates.bernd-verst
   name: Bernd Verst
   tagline: Linux / Containers / Python
@@ -193,6 +203,16 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
+- uid: advocates.bob-german
+  name: Bob German
+  tagline: Development on Microsoft 365 with Azure
+  image:
+    src: media/profiles/bob-german.png
+    alt: "Bob German"
+  location: 
+    display: Boston, MA, USA
+    lat: 42.35866
+    long: -71.05674
 - uid: advocates.brandon-minnick
   name: Brandon Minnick
   tagline: Xamarin, .NET, C#, Mobile
@@ -233,16 +253,6 @@ profiles:
     display: Land O' Lakes, Florida, United States
     lat: 28.222353
     long: -82.47148
-- uid: advocates.bob-german
-  name: Bob German
-  tagline: Development on Microsoft 365 with Azure
-  image:
-    src: media/profiles/bob-german.png
-    alt: "Bob German"
-  location: 
-    display: Boston, MA, USA
-    lat: 42.35866
-    long: -71.05674
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
