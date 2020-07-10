@@ -193,16 +193,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-- uid: advocates.bob-german
-  name: Bob German
-  tagline: Development on Microsoft 365 with Azure
-  image:
-    src: media/profiles/bob-german.png
-    alt: "Bob German"
-  location: 
-    display: Boston, MA, USA
-    lat: 42.35866
-    long: -71.05674
 - uid: advocates.brandon-minnick
   name: Brandon Minnick
   tagline: Xamarin, .NET, C#, Mobile
@@ -243,6 +233,16 @@ profiles:
     display: Land O' Lakes, Florida, United States
     lat: 28.222353
     long: -82.47148
+- uid: advocates.bob-german
+  name: Bob German
+  tagline: Development on Microsoft 365 with Azure
+  image:
+    src: media/profiles/bob-german.png
+    alt: "Bob German"
+  location: 
+    display: Boston, MA, USA
+    lat: 42.35866
+    long: -71.05674
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
@@ -803,6 +803,16 @@ profiles:
     display: Shanghai, China
     lat: 31.2303904
     long: 121.4737021
+- uid: advocates.rory-preddy
+  name: Rory Preddy
+  tagline: Java
+  image:
+    src: media/profiles/rory-preddy.png
+    alt: "Rory Preddy Cloud Advocate"
+  location: 
+    display: Johannesburg, South Africa
+    lat: -26.204103
+    long: 28.047304
 - uid: advocates.ruth-yakubu
   name: Ruth Yakubu
   tagline: Java / AI / Data
