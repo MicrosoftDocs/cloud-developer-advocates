@@ -233,6 +233,16 @@ profiles:
     display: Land O' Lakes, Florida, United States
     lat: 28.222353
     long: -82.47148
+- uid: advocates.bob-german
+  name: Bob German
+  tagline: Development on Microsoft 365 with Azure
+  image:
+    src: media/profiles/bob-german.png
+    alt: "Bob German"
+  location: 
+    display: Boston, MA, USA
+    lat: 42.35866
+    long: -71.05674
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
