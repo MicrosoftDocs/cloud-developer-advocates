@@ -793,6 +793,16 @@ profiles:
     display: Shanghai, China
     lat: 31.2303904
     long: 121.4737021
+- uid: advocates.rory-preddy
+  name: Rory Preddy
+  tagline: Java
+  image:
+    src: media/profiles/rory-preddy.png
+    alt: "Rory Preddy Cloud Advocate"
+  location: 
+    display: Johannesburg, South Africa
+    lat: -26.204103
+    long: 28.047304
 - uid: advocates.ruth-yakubu
   name: Ruth Yakubu
   tagline: Java / AI / Data
