@@ -1,0 +1,51 @@
+### YamlMime:Profile
+uid: advocates.bob-german
+name: Bob German
+metadata:
+  title: Bob German - Cloud Advocate
+  description: Home page for Bob German, a Microsoft Cloud Developer Advocate
+remarks: |
+  ## Bio
+  I'm a Cloud Developer Advocate for Microsoft focused on Microsoft Teams and Microsoft Graph and a contributing member of the [Microsoft 365 Patterns and Practices team](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/).
+
+  I started developing collaborative applications on SharePoint, and now have expanded this to include the whole Microsoft 365 cloud and parts of Azure. Before joining the Cloud Advocacy team I worked in the One Commercial Partner team, where I helped partners build applications on Microsoft 365. 
+  
+  Prior to that I was an  Office development MVP and worked for BlueMetal Architects, where I led their SharePoint practice. I also worked at the very first Microsoft Technology Center near Boston, where I led Architecture Design Sessions and did Proof of Concepts for customers building collaborative applications.
+
+  ## Technical Skills
+  * Microsoft Teams development
+  * Microsoft Graph
+  * SharePoint Framework
+  * Microsoft Bot Framework
+  * NodeJS development in TypeScript and ES6
+  * .NET Core development in C#
+  * Azure Active Directory
+  * Azure App Services, Serverless, LUIS and QnA Maker cognitive services
+
+  ## My Past Projects
+
+  * [Teams Development Videos](https://bob1german.com/videos/) - I contribute to and help curate the PnP team's library of Teams development videos
+  * [Teams Development samples](https://github.com/pnp/teams-dev-samples) - I contribute to and help curate the PnP team's library of Teams code samples
+  * [Bot Workshop](https://github.com/BobGerman/Bots) - Introduction to Bots for Microsoft Teams
+  * [Building Teams apps with SharePoint Pages](https://bob1german.com/2020/01/06/teams-apps-with-sharepoint1/) - Blog series and related samples
+  * [Widget Wrangler](https://github.com/Widget-Wrangler/ww) facilitates running multiple independent apps on a single web page, useful in SharePoint or anywhere apps from multiple sources need to share a web page
+
+tagline: Development on Microsoft 365 with Azure
+image:
+  alt: "Bob German"
+  src: media/profiles/bob-german.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/Bob1German
+  - title: Blog
+    url: https://bob1german.com
+  - title: YouTube
+    url: https://www.youtube.com/channel/UC-041LExw_vfRxBIAI1KudA?view_as=subscriber
+  - title: GitHub
+    url: https://github.com/BobGerman
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/bgerman/
+location:
+  display: Boston, MA, USA
+  lat: 42.35866
+  long: -71.05674
