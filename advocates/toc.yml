@@ -41,6 +41,8 @@ items:
     uid: advocates.aysegul-yonet
   - name: Bernd Verst
     uid: advocates.bernd-verst
+  - name: Bob German
+    uid: advocates.bob-german
   - name: Brandon Minnick
     uid: advocates.brandon-minnick
   - name: Brian Benz
@@ -161,6 +163,8 @@ items:
     uid: advocates.rick-claus
   - name: Rong Yu
     uid: advocates.rong-yu
+  - name: Rory Preddy
+    uid: advocates.rory-preddy
   - name: Ruth Yakubu
     uid: advocates.ruth-yakubu
   - name: Ryan Levick
