@@ -593,16 +593,6 @@ profiles:
     display: Charlotte, NC, United States
     lat: 35.2270869
     long: -80.8431267
-- uid: advocates.jeremy-likness
-  name: Jeremy Likness
-  tagline: .NET
-  image:
-    src: media/profiles/jeremy-likness.png
-    alt: "Jeremy Likness Cloud Developer Advocate"
-  location: 
-    display: Monroe, Washington, United States
-    lat: 47.85239
-    long: -121.9815
 - uid: advocates.jessica-deen
   name: Jessica Deen
   tagline: Linux / Open Source
