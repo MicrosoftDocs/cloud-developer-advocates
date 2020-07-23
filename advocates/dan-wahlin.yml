@@ -1,0 +1,44 @@
+### YamlMime:Profile
+uid: advocates.dan-wahlin
+name: Dan Wahlin
+metadata:
+  title: Dan Wahlin - Cloud Developer Advocate
+  description: Home page for Dan Wahlin, a Microsoft Cloud Developer Advocate
+remarks:
+  ## Bio
+  Dan is a web developer, architect, and Principal Cloud Developer Advocate living in Chandler, AZ. He works a lot with JavaScript/TypeScript, C#, ASP.NET Core, Node.js, Azure, Microsoft 365, and Docker/Kubernetes. 
+  Previously Dan ran a consulting, training, and architecture company for 20 years called Wahlin Consulting and provided training, architecture, and consulting to developers and corporations around the world.
+  
+  At Microsoft, Dan is focused on helping developers integrate real-time collabration into their apps using the Fluid Framework and bridge Microsoft 365 and Azure. Dan blogs at <a href="https://blog.codewithdan.com">blog.codewithdan.com</a>.
+  ## Skills 💡
+  * JavaScript
+  * TypeScript
+  * Node.js
+  * C# and ASP.NET Core
+  * Docker and Kubernetes
+  * React/Angular/Vue
+  * Fluid Framework
+  ## My Projects
+  * [Observable Store](https://github.com/danwahlin/observable-store)
+  * [Angular JumpStart](https://github.com/danwahlin/angular-jumpstart)
+  * [Node Express Convention-Based Routes](https://github.com/DanWahlin/express-convention-routes)
+  * [So You Want To Be a Web Developer?](https://github.com/DanWahlin/So-You-Want-To-Be-A-Web-Developer)
+  * [TypeScript Demos](https://github.com/DanWahlin/TypeScriptDemos)
+  * [Docker and Kubernetes Samples](https://github.com/DanWahlin/DockerAndKubernetesCourseCode)
+tagline: Fluid / Microsoft 365 / Azure
+image:
+  alt: "Dan Wahlin Cloud Developer Advocate"
+  src: media/profiles/dan-wahlin.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/danwahlin
+  - title: LinkedIn
+    url: https://linkedin.com/in/danwahlin
+  - title: Github
+    url: https://github.com/danwahlin
+  - title: Blog
+    url: https://blog.codewithdan.com
+location:
+  display: Chandler, AZ, USA
+  lat: 33.302284
+  long: -111.8401
