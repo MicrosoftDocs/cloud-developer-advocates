@@ -357,6 +357,16 @@ profiles:
     display: Byron Bay, Australia
     lat: -28.647400
     long: 153.602000
+- uid: advocates.dan-wahlin
+  name: Dan Wahlin
+  tagline: Fluid / Microsoft 365 / Azure
+  image:
+    src: media/profiles/dan-wahlin.jpg
+    alt: "Dan Wahlin Cloud Developer Advocate"
+  location: 
+    display: Chandler, AZ, USA
+    lat: 33.302284
+    long: -111.8401
 - uid: advocates.dave-glover
   name: Dave Glover
   tagline: IoT and Cloud
