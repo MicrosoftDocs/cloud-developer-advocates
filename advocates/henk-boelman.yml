@@ -4,6 +4,7 @@ name: Henk Boelman
 metadata:
   title: Henk Boelman - Cloud Advocate 
   description: Home page for Henk Boelman, a Microsoft Cloud Advocate
+  ms.author: heboelma
 remarks: |
   ## Bio
   I'm a Cloud Advocate specializing in Artificial intelligence and Azure with a background in application development. Currently I'm part of the regional cloud advocate team and based in the Netherlands. Before joining Microsoft, I was a Microsoft AI MVP and worked as a developer and architect building lots of AI powered platforms on Azure.

@@ -4,6 +4,7 @@ name: Ayşegül Yönet
 metadata:
   title: Ayşegül Yönet - Cloud Advocate
   description: Home page for Ayşegül Yönet, a Microsoft Cloud Advocate
+  ms.author: ayyonet
 remarks: |
   ## Bio
   Aysegul is a Senior Azure Cloud Developer Advocate at Microsoft and focuses on Spatial Computing, Mixed Reality, Cognitive Services, and Data Visualization. 

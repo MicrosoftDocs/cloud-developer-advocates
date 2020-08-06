@@ -4,6 +4,7 @@ name: Ryan Levick
 metadata:
   title: Ryan Levick - Cloud Advocate
   description: Home page for Ryan Levick, a Microsoft Cloud Advocate
+  ms.author: rylevick
 remarks: |
   ## Bio
   I’m a developer advocate working in Berlin, Germany. I joined Microsoft via the acquisition of Wunderlist. I’ve spent my career building apps on the server and client side and exploring a wide range of open source technologies with a particular focus on functional programming.

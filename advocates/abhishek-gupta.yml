@@ -4,6 +4,7 @@ name: Abhishek Gupta
 metadata:
   title: Abhishek Gupta - Senior Cloud Advocate
   description: Home page for Abhishek Gupta, a Microsoft Cloud Developer Advocate
+  ms.author: abhishgu
 remarks: |
   ## Bio
   I love distributed systems, databases, open source and experimenting with programming languages. My background has been that of an engineer, consultant and before joining Microsoft I was a Product Manager helping build developer focused PaaS products.

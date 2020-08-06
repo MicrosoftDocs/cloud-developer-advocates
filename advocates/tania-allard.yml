@@ -4,6 +4,7 @@ name: Tania Allard
 metadata:
   title: Tania Allard - Cloud Developer Advocate 
   description: Home page for Tania Allard, a Microsoft Cloud Developer Advocate
+  ms.author: taallard
 remarks: |
   ## Bio
   Tania is a Developer advocate at Microsoft. She holds a PhD from the University of Manchester (UK).

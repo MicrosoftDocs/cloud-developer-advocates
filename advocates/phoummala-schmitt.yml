@@ -4,6 +4,7 @@ name: Phoummala Schmitt
 metadata:
   title: Phoummala Schmitt - Sr. Cloud Operations Advocate
   description: Home page for Phoummala Schmitt, a Microsoft Cloud Operations Advocate
+  ms.author: phschmit
 remarks: |
   ## Bio
   Phoummala Schmitt is Sr Cloud Ops Advocate at Micrsoft, focusing on Azure and Hybrid enviroments for the IT Professionals. Prior to joining Microsoft, Phoummala worked held Systems Engineering and Architecture roles building and maintaining systems that included Microsoft Exchange, Collaboration Technologies, Virtualization, Storage and Backup.

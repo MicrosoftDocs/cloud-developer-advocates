@@ -4,6 +4,7 @@ name: Bob German
 metadata:
   title: Bob German - Cloud Advocate
   description: Home page for Bob German, a Microsoft Cloud Developer Advocate
+  ms.author: rogerman
 remarks: |
   ## Bio
   I'm a Cloud Developer Advocate for Microsoft focused on Microsoft Teams and Microsoft Graph and a contributing member of the [Microsoft 365 Patterns and Practices team](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/).
