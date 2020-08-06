@@ -4,6 +4,7 @@ name: Francesca Lazzeri
 metadata:
   title: Francesca Lazzeri - Cloud Advocate
   description: Home page for Francesca Lazzeri, a Microsoft Cloud Developer Advocate
+  ms.author: lazzeri
 remarks: |
   ## Bio
   Francesca Lazzeri is an AI & Machine Learning Scientist. She is passionate about innovations in big data technologies and the applications of machine learning-based solutions 

@@ -4,6 +4,7 @@ name: Rory Preddy
 metadata:
   title: Rory Preddy - Cloud Advocate
   description: Home page for Rory Preddy, a Microsoft Cloud Advocate
+  ms.author: ropreddy
 remarks: |
   ## Bio
   Rory is a Developer Advocate for Java at Microsoft and a passionate Accessibility Advocate.

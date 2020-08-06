@@ -4,6 +4,7 @@ name: Sarah Lean
 metadata:
   title: Sarah Lean - Cloud Advocate
   description: Home page for Sarah Lean, a Microsoft Cloud Operations Advocate
+  ms.author: salean
 remarks: |
   ## Bio
   Sarah works as a Cloud Advocate at Microsoft.  Before joining Microsoft she held various roles ranging from Help Desk Engineer to Technical Consultant.  She has worked in the IT infrastructure/Operations space within IT departments or with Managed Service Providers and has experience of working with physical server datacentre installations as well as experience within the Office 365 and Azure cloud space. 

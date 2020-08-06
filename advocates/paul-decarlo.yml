@@ -4,6 +4,7 @@ name: Paul DeCarlo
 metadata:
   title: Paul DeCarlo - Sr. Cloud Developer Advocate
   description: Home page for Paul DeCarlo, a Microsoft Cloud Developer Advocate
+  ms.author: pdecarlo
 remarks: |
   ## Bio
   Sr. Cloud Developer Advocate focusing on IoT, OSS, Containers, and Kubernetes.

@@ -4,6 +4,7 @@ name: Bernd Verst
 metadata:
   title: Bernd Verst - Cloud Advocate
   description: Home page for Bernd Verst, a Microsoft Cloud Developer Advocate
+  ms.author: beverst
 remarks: |
   ## Bio
   Did you know the federal government operates a Kubernetes cluster and open-source Cloud Foundry in the public cloud to make government more efficient? Before joining Microsoft I worked for the United States Government ([18F](https://18f.gsa.gov/) / General Services Administration) on cloud.gov enabling government dev teams to ship web apps the modern way. My experience truly spans a variety of cloud providers and technologies:

@@ -4,6 +4,7 @@ name: Aaron Schlesinger
 metadata:
   title: Aaron Schlesinger - Cloud Advocate
   description: Home page for Aaron Schlesinger, a Microsoft Cloud Developer Advocate
+  ms.author: aaschles
 remarks: |
   ## Bio
   Aaron is is a Senior Cloud Developer Advocate focusing on Go, containers and

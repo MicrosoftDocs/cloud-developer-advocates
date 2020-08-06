@@ -4,6 +4,7 @@ name: Thomas Lewis
 metadata:
   title: Thomas Lewis - Cloud Advocate
   description: Home page for Thomas Lewis, a Microsoft Cloud Advocate
+  ms.author: tholewis
 remarks: |
   ## Bio
   Cloud Advocate in Microsoft's Developer Relations. Spatial Computing + Academic advocacy. Favorites: MR/AR/VR/XR, Web, Design & otters. Pronouns: he/him.

@@ -4,6 +4,7 @@ name: Dan Wahlin
 metadata:
   title: Dan Wahlin - Cloud Developer Advocate
   description: Home page for Dan Wahlin, a Microsoft Cloud Developer Advocate
+  ms.author: dwahlin
 remarks: |
   ## Bio
   Dan is a web developer, architect, and Principal Cloud Developer Advocate living in Chandler, AZ. He works with JavaScript/TypeScript, C#, ASP.NET Core, Node.js, Azure, Microsoft 365, and Docker/Kubernetes. Prior to joining Microsoft Dan ran a consulting, training, and architecture company for 20 years called Wahlin Consulting and provided technology services to developers and corporations around the world.

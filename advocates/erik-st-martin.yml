@@ -4,6 +4,7 @@ name: Erik St. Martin
 metadata:
   title: Erik St. Martin - Cloud Advocate
   description: Home page for Erik St. Martine, a Microsoft Cloud Developer Advocate
+  ms.author: erikstm
 remarks: |
   ## Bio
   I have a passion for building high-scale distributed systems with unique challenging problems.

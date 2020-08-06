@@ -4,6 +4,7 @@ name: Sandra Ahlgrimm
 metadata:
   title: Sandra Ahlgrimm - Cloud Advocate
   description: Home page for Sandra Ahlgrimm, a Microsoft Cloud Developer Advocate
+  ms.author: sakriema
 remarks: |
   ## Bio
   Sandra is is a Cloud Developer Advocate focusing on Microservice Architectures and Containers on Prem and on the Azure platform. She helps in the Docker and 
