@@ -1,10 +1,10 @@
 ﻿### YamlMime:Profile
 uid: advocates.burke-holland
 name: Burke Holland
-alias: buhollan
 metadata:
   title: Burke Holland - Developer Advocate - Gloriously Bald
   description: Home page for Burke Holland, a Microsoft Cloud Developer Advocate
+  ms.author: buhollan
 remarks: |
   ## Bio 🔥
   Burke is a web developer living in Nashville, TN; the greatest city in the world. He likes JavaScript a lot because it's the only way he Node to Express himself. Get it? Is this thing on? 🎤

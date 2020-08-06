@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.dean-bryen
 name: Dean Bryen
-alias: debryen
 metadata:
   title: Dean Bryen - Cloud Developer Advocate
   description: Home page for Dean Bryen, a Microsoft Cloud Developer Advocate
+  ms.author: debryen
 remarks: |
   ## Bio
   Cloud Developer Advocate focusing on the UK developer community with a special love for Serverless, Devops, Security, Node.js and startups.

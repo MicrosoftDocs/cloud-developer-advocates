@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.shayne-boyer
 name: Shayne Boyer
-alias: shboyer
 metadata:
   title: Shayne Boyer - Cloud Advocate
   description: Home page for Shayne Boyer, a Microsoft Cloud Developer Advocate
+  ms.author: shboyer
 remarks: |
   ## Bio
   I started at the age of around 10 when my Dad bought that tan colored mammoth of a machined called the Commodore 64. My tools of the trade where hours of reading code to him out of the back of Compute Magazine with a ruler going blind in the process. Ugh! It really was a long night if something was mis-typed... But I tell you I can read code like no one's business and I got to the point where I could see what was coming next and so on.

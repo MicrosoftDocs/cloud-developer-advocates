@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.alvaro-videla
 name: Alvaro Videla
-alias: alvidela
 metadata:
   title: Alvaro Videla - Cloud Advocate
   description: Home page for Alvaro Videla, a Microsoft Cloud Advocate
+  ms.author: alvidela
 remarks: |
   ## Bio
   A former RabbitMQ core-dev, before moving to Europe he used to work in Shanghai where he helped building one of Germany biggest dating websites. 

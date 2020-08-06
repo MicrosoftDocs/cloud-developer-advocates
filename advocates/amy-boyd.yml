@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.amy-boyd
 name: Amy Boyd
-alias: amynic
 metadata:
   title: Amy Boyd - Cloud Developer Advocate 
   description: Home page for Amy Boyd, a Microsoft Cloud Developer Advocate
+  ms.author: amynic
 remarks: |
   ## Bio
   I am a Cloud Developer Advocate at Microsoft, after studying Computer Science and completing a research project in Natural Language Processing/Machine Learning and an internship at Microsoft’s search engine, Bing. 

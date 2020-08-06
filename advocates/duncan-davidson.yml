@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.duncan-davidson
 name: Duncan Davidson
-alias: duncand
 metadata:
   title: Duncan Davidson - CTO in Residence
   description: Home page for Duncan Davidson, a CTO in Residence in the Startup Advocacy team
+  ms.author: duncand
 remarks: |
   ## Bio
   I’m a startup advocate for Azure working in Berlin, Germany. I joined Microsoft via the acquisition of Wunderlist. I’ve spent decades in the open source and software worlds, speaking at conferences, and writing books. 

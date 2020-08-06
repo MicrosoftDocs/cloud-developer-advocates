@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.yohan-lasorsa
 name: Yohan Lasorsa
-alias: yolasors
 metadata:
   title: Yohan Lasorsa - Cloud Advocate
   description: Home page for Yohan Lasorsa, a Microsoft Cloud Advocate
+  ms.author: yolasors
 remarks: |
   ## Bio
   Yohan Lasorsa is a Senior Cloud Advocate at Microsoft.

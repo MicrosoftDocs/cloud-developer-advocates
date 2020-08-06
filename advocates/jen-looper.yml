@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.jen-looper
 name: Jen Looper
-alias: jelooper
 metadata:
-    title: Jen Looper - Cloud Advocate Lead
-    description: Home page for Jen Looper, a Microsoft Cloud Advocate
+  title: Jen Looper - Cloud Advocate Lead
+  description: Home page for Jen Looper, a Microsoft Cloud Advocate
+  ms.author: jelooper
 remarks: |
     ## Bio
     Jen is a Cloud Advocate Lead at Microsoft and a Google Developer Expert for web technologies with over 15 years' experience as a web and mobile developer, specializing in creating cross-platform mobile apps. 

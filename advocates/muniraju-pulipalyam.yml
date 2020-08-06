@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.muniraju-pulipalyam
 name: Muniraju Pulipalyam
-alias: munipuli
 metadata:
   title: Muniraju Pulipalyam - CTO-in-Residence, Startup Advocacy
   description: Home page for Muniraju Pulipalyam, CTO-in-Residence, Microsoft For Startups
+  ms.author: munipuli
 remarks: |
   ## Bio
   Muni  is a CTO-in-Residence helping startups scale.

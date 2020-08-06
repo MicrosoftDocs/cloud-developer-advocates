@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.frank-denbow
 name: Frank Denbow
-alias: frdenbow
 metadata:
   title: Frank Denbow - Startup Advocate
   description: Home page for Frank Denbow, a Microsoft Startup Advocate
+  ms.author: frdenbow
 remarks: |
   ## Bio
   Frank Denbow is a computer scientist and entrepreneur from New Jersey. He is currently a Startup Advocate at Microsoft, helping support the startup community in NYC. He is the founder of [INK’A](http://inka.io), a platform for producing top quality custom apparel for companies and influencers. Frank has bootstrapped INK’A into millions in revenue and enjoys supporting other entrepreneurs in the startup ecosystem.

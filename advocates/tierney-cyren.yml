@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.tierney-cyren
 name: Tierney Cyren
-alias: ticyren
 metadata:
   title: Tierney Cyren - Cloud Developer Advocate
   description: Home page for Tierney Cyren, a Microsoft Cloud Developer Advocate
+  ms.author: ticyren
 remarks: |
   ## Bio
   Tierney is a member and former Chairperson of the Node.js Community Committee, and a Senior Cloud Developer Advocate at Microsoft.

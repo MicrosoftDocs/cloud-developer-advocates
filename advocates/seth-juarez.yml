@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.seth-juarez
 name: Seth Juarez
-alias: sejuare
 metadata:
   title: Seth Juarez - Cloud Advocate
   description: Home page for Seth Juarez, a Microsoft Cloud Developer Advocate
+  ms.author: sejuare
 remarks: |
   ## Bio
   I am a Cloud Developer Advocate and also the main host of Channel 9.

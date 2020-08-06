@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.tomomi-imura
 name: Tomomi Imura
-alias: timura
 metadata:
   title: Tomomi Imura - Cloud Advocate
   description: Home page for Tomomi Imura, a Microsoft Cloud Advocate
+  ms.author: timura
 remarks: |
   ## Bio
   Tomomi Imura is a seasoned developer advocate and a software developer with over 15 years industry experience in San Francisco Bay Area. Prior to Microsoft, she was working at Slack. 

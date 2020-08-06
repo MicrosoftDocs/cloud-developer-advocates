@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.nina-zakharenko
 name: Nina Zakharenko
-alias: ninaz
 metadata:
   title: Nina Zakharenko - Cloud Developer Advocate
   description: Home page for Nina Zakharenko, a Microsoft Cloud Developer Advocate
+  ms.author: ninaz
 remarks: |
   ## Bio
   Nina Zakharenko is a Cloud Developer Advocate at Microsoft, focusing on Python. Before joining Microsoft, she was a software engineer with a decade of experience writing code for companies like Reddit, Meetup, and HBO. In her spare time, she enjoys snowboarding, hiking, and riding her bike from her home base of Portland, OR.

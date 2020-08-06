@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.ruth-yakubu
 name: Ruth Yakubu
-alias: ruyakubu
 metadata:
   title: Ruth Yakubu - Cloud Developer Advocate
   description: Home page for Ruth Yakubu, a Microsoft Cloud Developer Advocate
+  ms.author: ruyakubu
 remarks: |
   ## Bio 
    I am a Sr. Cloud Developer Advocate at MICROSOFT; and Founder of PoshBeauty.com. I specialize in Java, Artificial intelligence (AI), Advanced Analytics, Data platforms, and Cloud.  I have Software Engineering experience including software architecture, designing, programming and management.

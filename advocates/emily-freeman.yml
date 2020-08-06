@@ -1,10 +1,10 @@
 ### YamlMime:Profile
 uid: advocates.emily-freeman
 name: Emily Freeman
-alias: efreeman
 metadata:
   title: Emily Freeman - CloudOps Advocate
   description: Home page for Emily Freeman, a Microsoft Cloud Developer Advocate
+  ms.author: efreeman
 remarks: |
   ## Bio
   Emily Freeman grew up in the “swamp” as Trump lovingly refers to it. With politics in her blood, she chased after her dream of living out an episode of the West Wing. After four years of arguing — pretty much sums up a PoliSci degree — she left school disappointed that campaigns are more about recruiting 20-year-olds to live in poverty than it is to wine and dine Koch brothers.
