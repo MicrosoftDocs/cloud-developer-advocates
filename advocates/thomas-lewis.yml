@@ -26,6 +26,8 @@ image:
 connect:
   - title: Twitter
     url: https://twitter.com/tommylee
+  - title: GitHub
+    url: https://github.com/tholewis
 
 location:
   display: Seattle, WA
