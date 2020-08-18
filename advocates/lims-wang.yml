@@ -21,6 +21,8 @@ image:
 connect: 
   - title: LinkedIn
     url: https://www.linkedin.com/in/lims-wang-264bb378
+  - title: GitHub
+    url: https://github.com/limswang
 location:
   display: Beijing, China
   lat: 39.9799903172

@@ -21,6 +21,8 @@ connect:
     url: https://linkedin.com/in/barnam
   - title: Twitter
     url: https://twitter.com/barnambora
+  - title: GitHub
+    url: https://github.com/barnam-bora
 location:
   display: Melbourne, Australia
   lat: -37.840935

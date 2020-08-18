@@ -24,6 +24,8 @@ connect:
     url: https://www.codebeast.dev/articles
   - title: LinkedIn
     url: https://www.linkedin.com/in/chris-nwamba-032b04b2/
+  - title: GitHub
+    url: https://github.com/christiannwamba
 location:
   display: Lagos, Nigeria
   lat: 6.524379

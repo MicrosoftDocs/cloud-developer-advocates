@@ -44,6 +44,9 @@ connect:
     url: https://www.instagram.com/burkeholland
   - title: LinkedIn
     url: https://linkedin.com/in/burkeholland
+  - title: GitHub
+    url: https://github.com/burkeholland
+
 location:
   display: Franklin, TN, USA
   lat: 35.925064

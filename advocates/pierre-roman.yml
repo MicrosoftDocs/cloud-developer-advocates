@@ -27,6 +27,8 @@ connect:
     url: https://itopstalk.com/
   - title: LinkedIn
     url: https://www.linkedin.com/in/pierreroman/
+  - title: GitHub
+    url: https://github.com/pierreroman
 
 location: 
   display: Ottawa, Ontario, Canada
