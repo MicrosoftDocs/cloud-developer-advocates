@@ -28,6 +28,8 @@ connect:
     url: https://facebook.com/christina.warren
   - title: LinkedIn
     url: https://linkedin.com/in/filmgirl/
+  - title: GitHub
+    url: https://github.com/filmgirl
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

@@ -25,6 +25,8 @@ connect:
     url: https://twitter.com/otterbook
   - title: LinkedIn
     url: https://linkedin.com/in/dnblankedelman
+  - title: GitHub
+    url: https://github.com/dnblankedelman
 location:
   display: Somerville, Massachusetts, United States
   lat: 42.3875968

@@ -28,6 +28,8 @@ connect:
     url: https://twitter.com/gcordidoa
   - title: LinkedIn
     url: https://www.linkedin.com/in/gcordidoa
+  - title: GitHub
+    url: https://github.com/gcordido
 
 location:
   display: Miramar, FL
