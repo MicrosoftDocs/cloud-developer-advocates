@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AdvocateValidation/1.0.0": {
+        "dependencies": {
+          "YamlDotNet": "8.1.2"
+        },
+        "runtime": {
+          "AdvocateValidation.dll": {}
+        }
+      },
+      "YamlDotNet/8.1.2": {
+        "runtime": {
+          "lib/netstandard2.1/YamlDotNet.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.1.2.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AdvocateValidation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YamlDotNet/8.1.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GlPKbb4l+91dyYVKV7UnJlr2CWooNNM1ayZWC90QAmlFPgbwSkfhgId7dGjTAHqkB84BZqjMSy5PlAYf1iejVA==",
+      "path": "yamldotnet/8.1.2",
+      "hashPath": "yamldotnet.8.1.2.nupkg.sha512"
+    }
+  }
+}
