@@ -46,7 +46,7 @@ namespace AdvocateValidation
             var duplicateAliasList = advocateList.GroupBy(x => x.Metadata.Alias).Where(g => g.Count() > 1).Select(x => x.Key);
             foreach (var duplicateAlias in duplicateAliasList)
             {
-                throw new Exception($"Duplicate Alias Found\nms.author: {duplicateAlias}");
+                throw new Exception($"Duplicate Alias Found; ms.author: {duplicateAlias}");
             }
         }
 
