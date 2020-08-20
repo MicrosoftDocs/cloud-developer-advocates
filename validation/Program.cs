@@ -10,10 +10,11 @@ namespace AdvocateValidation
     class Program
     {
 
+        readonly static string _advocatesPath =
 #if DEBUG
-        readonly static string _advocatesPath = Path.Combine("../../../../", "advocates");
+            Path.Combine("../../../../", "advocates");
 #else
-        const string _advocatesPath = Path.Combine("../", "advocates");
+            Path.Combine("../", "advocates");
 #endif
 
         readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
