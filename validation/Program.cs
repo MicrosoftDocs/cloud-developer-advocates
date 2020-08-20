@@ -54,6 +54,8 @@ namespace AdvocateValidation
 
             foreach (var file in ymlFiles)
             {
+                Console.WriteLine(file);
+
                 var text = await File.ReadAllTextAsync(file).ConfigureAwait(false);
 
                 if (text.StartsWith("### YamlMime:Profile"))
