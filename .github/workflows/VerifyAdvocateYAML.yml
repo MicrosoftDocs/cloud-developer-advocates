@@ -30,4 +30,4 @@ jobs:
     - name: Run
       run: |
         cd validation
-        dotnet run
+        dotnet run --configuration Release
