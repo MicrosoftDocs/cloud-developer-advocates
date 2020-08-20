@@ -3,14 +3,19 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Threading.Tasks;
-using YamlDotNet.Core;
 using YamlDotNet.Serialization;
 
 namespace AdvocateValidation
 {
     class Program
     {
+
+#if DEBUG
         readonly static string _advocatesPath = Path.Combine("../../../../", "advocates");
+#else
+        const string _advocatesPath = "advocates";
+#endif
+
         readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
 
         static async Task Main(string[] args)
