@@ -27,14 +27,6 @@ namespace AdvocateValidation
 
             await foreach (var (path, advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
             {
-                var gitHubUrl = advocate.Connect.FirstOrDefault(x => x.Title.Equals("GitHub", StringComparison.OrdinalIgnoreCase))?.Url;
-
-                if (gitHubUrl is null)
-                    throw new Exception($"Missing GitHub Url: {path}");
-
-                if (!gitHubUrl.IsWellFormedOriginalString())
-                    throw new Exception($"Invalid GitHub Url: {path}");
-
                 if (string.IsNullOrWhiteSpace(advocate.Metadata.Alias))
                     throw new Exception($"Missing Microsoft Alias: {path}");
 
