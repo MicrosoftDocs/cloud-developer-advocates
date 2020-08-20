@@ -56,7 +56,7 @@ namespace AdvocateValidation
             {
                 var text = await File.ReadAllTextAsync(file).ConfigureAwait(false);
 
-                if (text.StartsWith("### YamlMime:Profile"))
+                if (text.StartsWith("### YamlMime:Profile") && !text.StartsWith("### YamlMime:ProfileList"))
                 {
                     Console.WriteLine($"Parsing {file}");
                     yield return (file, ParseAdvocateFromYaml(text));
