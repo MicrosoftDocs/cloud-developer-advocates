@@ -16,13 +16,18 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     - uses: actions/checkout@v2
+
     - name: Setup .NET Core
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 3.1.101
+
     - name: Install dependencies
-      run: dotnet restore
+      run: |
+        cd validation
+        dotnet restore
         
     - name: Run
       run: |
+        cd validation
         dotnet run
