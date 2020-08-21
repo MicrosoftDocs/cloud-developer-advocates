@@ -2,28 +2,28 @@
 uid: advocates.bernd-verst
 name: Bernd Verst
 metadata:
-  title: Bernd Verst - Cloud Advocate
+  title: Bernd Verst - Senior Cloud Advocate
   description: Home page for Bernd Verst, a Microsoft Cloud Developer Advocate
   ms.author: beverst
 remarks: |
   ## Bio
-  Did you know the federal government operates a Kubernetes cluster and open-source Cloud Foundry in the public cloud to make government more efficient? Before joining Microsoft I worked for the United States Government ([18F](https://18f.gsa.gov/) / General Services Administration) on cloud.gov enabling government dev teams to ship web apps the modern way. My experience truly spans a variety of cloud providers and technologies:
-  - At Google Cloud I focussed on App Engine, helped a tiny startup called Snapchat with application architecture, and worked on the GA of Google Compute Engine.
-  - At Twitter I learned anything and everything about ad tech and deployed production apps to Apache Mesos.
-  - At several startups in Silicon Valley, such as Sift Science (YCombinator Summer '11), I used a variety of AWS services.
+  From government cloud architecture to machine learning startups and social media companies my background spans a variety of industries and techologies. I have always had one foot deep into the technology and one foot into all ancillary non-technical discplines. I enjoy creating great developer experiences for new engineers and students. On the Academic Advocacy subteam I focus on Microsoft's Hackathon strategy and co-lead the Healthcare Social Impact League of the Microsoft Learn Student Ambassador program.
 
-  At Microsoft my focus areas are Linux, Containers (in particular using Kubernetes) and Python. However, as I am not a data scientist (talk to my fellow advocate [Vadim](vadim-karpusenko.yml) for that) when it comes to Python it is my mission to ensure a fantastic experience for web app developers.
-
-  Outside of work I enjoy running (half marathons and longer distances), playing jazz piano, karaoke, studying Chinese Mandarin, and engaging in a variety of outdoor activities. I'm passionate about mentoring students and those early in their careers to help them land their feet in the tech industry.
+  Outside of work I enjoy running (half marathons and training for a Boston marathon qualification), playing jazz piano, learning guitar, studying Chinese Mandarin, and engaging in a variety of outdoor activities. I'm passionate about mentoring students and those early in their careers to help them land their feet in the tech industry.
 
   ## Skills
-  * Linux
-  * Containers
   * Python
+  * Linux / WSL2
+  * Storage & API backend architecture (from PostgreSQL to Cassandra, Serverless to Kubernetes)
 
-tagline: Linux / Containers / Python
+  ## Selected projects
+  * [Kubeflow](https://kubeflow.org) - I am a contributor to the Tensorflow on Kubernetes OSS project
+  * [Microsoft Learn TV](https://docs.microsoft.com/learn?WT.mc_id=beverst-caprofile-github) - I co-created the first iteration of this video streaming platform
+  * [Outlook vitually categorized](https://github.com/berndverst/outlook-categorized) - A tool for easily applying some advanced productivity settings to our O365 account
+
+tagline: Linux / Python / Backend & Storage Systems
 image:
-  alt: "Bernd Verst Cloud Developer Advocate"
+  alt: "Bernd Verst Senior Cloud Advocate"
   src: media/profiles/bernd-verst.png 
 connect:
   - title: Twitter
@@ -31,7 +31,7 @@ connect:
   - title: GitHub
     url: https://github.com/berndverst
   - title: Blog
-    url: https://readon.ly
+    url: https://bernd.dev
   - title: Instagram
     url: https://instagram.com/berndverst
   - title: StackOverflow
@@ -39,6 +39,6 @@ connect:
   - title: LinkedIn
     url: https://linkedin.com/in/verst
 location:
-  display: Redmond, Washington, United States
+  display: Seattle, Washington, United States
   lat: 47.679194
   long: -122.153322
