@@ -393,16 +393,6 @@ profiles:
     display: Chicago, IL, USA
     lat: 41.881832
     long: -87.623177
-- uid: advocates.davis-joseph
-  name: Davis Joseph
-  tagline: Intern
-  image:
-    src: media/profiles/davis-joseph.png
-    alt: "Davis Joseph Cloud Advocate PM Intern"
-  location: 
-    display: Bloomington, Indiana, USA
-    lat: 39.117340
-    long: -86.507530
 - uid: advocates.dean-bryen
   name: Dean Bryen
   tagline: Serverless, Devops, Node.js
@@ -443,16 +433,6 @@ profiles:
     display: Berlin, Germany
     lat: 52.516875
     long: 13.390384
-- uid: advocates.em-lazerwalker
-  name: Em Lazer-Walker
-  tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
-  image:
-    src: media/profiles/em-lazerwalker.png
-    alt: "Em Lazer-Walker - Cloud Advocate"
-  location: 
-    display: Toronto, Ontario, Canada
-    lat: 43.647664
-    long: -79.3802294
 - uid: advocates.emily-freeman
   name: Emily Freeman
   tagline: DevOps
@@ -463,6 +443,16 @@ profiles:
     display: Denver, Colorado, United States
     lat: 39.7392
     long: -104.9903
+- uid: advocates.em-lazerwalker
+  name: Em Lazer-Walker
+  tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
+  image:
+    src: media/profiles/em-lazerwalker.png
+    alt: "Em Lazer-Walker - Cloud Advocate"
+  location: 
+    display: Toronto, Ontario, Canada
+    lat: 43.647664
+    long: -79.3802294
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -513,16 +503,6 @@ profiles:
     display: Rio de Janeiro, Brazil
     lat: -22.904491
     long: -43.190777
-- uid: advocates.gustavo-cordido
-  name: Gustavo Cordido
-  tagline: Intern / AI / ML / Python
-  image:
-    src: media/profiles/gustavo-cordido.jpeg
-    alt: "Gustavo Cordido Software Engineering Intern"
-  location: 
-    display: Miramar, FL
-    lat: 25.97889
-    long: -80.282501
 - uid: advocates.henk-boelman
   name: Henk Boelman
   tagline: AI / ML / Azure / DevOps
