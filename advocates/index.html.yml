@@ -467,16 +467,6 @@ profiles:
     display: Montreal, Quebec, Canada
     lat: 45.5017
     long: -73.5673
-- uid: advocates.frank-denbow
-  name: Frank Denbow
-  tagline: Startup Advocate - New York
-  image:
-    src: media/profiles/frank-denbow.jpeg
-    alt: "Frank Denbow Startup Advocate"
-  location: 
-    display: Brooklyn, NY
-    lat: 40.67417
-    long: -74.025653
 - uid: advocates.glaucia-lemos
   name: Glaucia Lemos
   tagline: JavaScript / Node.js / A.I
