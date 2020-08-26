@@ -107,16 +107,6 @@ profiles:
     display: London, United Kingdom
     lat: 51.52814
     long: -0.1339
-- uid: advocates.andrew-harvey
-  name: Andrew Harvey
-  tagline: Startups / Product / Infrastructure
-  image:
-    src: media/profiles/andrew-harvey.png
-    alt: "Andrew Harvey – CTO in Residence, Sydney"
-  location: 
-    display: Sydney, NSW, Australia
-    lat: -33.87188
-    long: 151.20616
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
   tagline: Infrastructure / IoT / Identity Management / Security
@@ -427,16 +417,6 @@ profiles:
     display: Spring, Texas, US
     lat: 30.08453
     long: -95.41929
-- uid: advocates.duncan-davidson
-  name: Duncan Davidson
-  tagline: Architecture / Startups / Product / Engineering
-  image:
-    src: media/profiles/duncan-davidson.png
-    alt: "Duncan Davidson, CTO in Residence"
-  location: 
-    display: Berlin, Germany
-    lat: 52.516875
-    long: 13.390384
 - uid: advocates.emily-freeman
   name: Emily Freeman
   tagline: DevOps
@@ -647,16 +627,6 @@ profiles:
     display: Wallisellen, Bülach, Switzerland
     lat: 47.417478
     long: 8.58175
-- uid: advocates.lims-wang
-  name: Lims Wang
-  tagline: Startups / Product Management/ Architecture
-  image:
-    src: media/profiles/lims-wang.jpg
-    alt: "Limswang, CTO-in-Residence, Startup Advocacy Beijing"
-  location: 
-    display: Beijing, China
-    lat: 39.9799903172
-    long: 116.3102397268
 - uid: advocates.lucas-santos
   name: Lucas Santos
   tagline: Kubernetes / Containers / Docker / JavaScript / Node.js / TypeScript
@@ -707,16 +677,6 @@ profiles:
     display: London, United Kingodom
     lat: 51.5218
     long: 0.0839
-- uid: advocates.muniraju-pulipalyam
-  name: Muniraju Pulipalyam
-  tagline: Windows / AI/ML / Cloud Hyper-Scale / IoT
-  image:
-    src: media/profiles/munipuli.png
-    alt: "Muniraju Pulipalyam CTO-in-Residence"
-  location: 
-    display: Bangalore, India
-    lat: 12.96697
-    long: 77.58728
 - uid: advocates.nina-zakharenko
   name: Nina Zakharenko
   tagline: Python
@@ -747,16 +707,6 @@ profiles:
     display: Houston, Texas, US
     lat: 29.726948
     long: -95.609268
-- uid: advocates.penina-weiss
-  name: Penina Weiss
-  tagline: Architecture / Azure / Engineering Management
-  image:
-    src: media/profiles/penina-weiss.png
-    alt: "Penina Weiss Cloud Developer Advocate"
-  location: 
-    display: Tel Aviv, Israel
-    lat: 32.081359
-    long: 34.780957
 - uid: advocates.phoummala-schmitt
   name: Phoummala Schmitt
   tagline: IT Infrastructure / Operations 
@@ -787,16 +737,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.645171
     long: -122.130696
-- uid: advocates.rong-yu
-  name: Rong Yu
-  tagline: Startups / Product Management/ Architecture
-  image:
-    src: media/profiles/rong-yu.png
-    alt: "Rong Yu, CTO-in-Residence, Startup Advocacy Shanghai"
-  location: 
-    display: Shanghai, China
-    lat: 31.2303904
-    long: 121.4737021
 - uid: advocates.rory-preddy
   name: Rory Preddy
   tagline: Java
