@@ -1,0 +1,44 @@
+### YamlMime:Profile
+uid: advocates.rabia-williams
+name: Rabia Williams
+metadata:
+  title: Rabia Williams - Cloud Advocate
+  description: Home page for Rabia Williams, a Microsoft Cloud Developer Advocate
+  ms.author: rabwill
+remarks: |
+  ## Bio
+  I'm a Cloud Developer Advocate for Microsoft focused on Microsoft Teams and Microsoft Graph.
+  A contributing member of the [Microsoft 365 Patterns and Practices team](https://pnp.github.io/#team), and maintainer of [CLI for Microsoft365](https://pnp.github.io/cli-microsoft365/).
+
+  I started off as a .Net developer and moved to developing custom applications on SharePoint. Lately developing modern SharePoint/Teams solutions using SPFx and React with a pinch of Azure to it.
+  Before joining the Cloud Advocacy team I worked as a developer/consultant, and was also a Microsoft MVP for office development.
+  I co-host an M365 podcast called [365 days of cloud](https://365daysofcloud.com/) to discuss a technical topic in each episode and what really works and does not work for developers in the M365 world.
+
+
+  ## Technical Skills
+  * Microsoft Teams development using SPFx
+  * Microsoft Graph
+  * SharePoint Framework (SPFx) 
+  * NodeJS development in TypeScript and ES6
+  * React
+  * .NET development in C#
+  * Azure Functions
+  * PowerShell
+
+tagline: Development on Microsoft 365
+image:
+  alt: "Rabia Williams"
+  src: media/profiles/rabia-williams.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/williamsrabia
+  - title: Blog
+    url: https://rabiawilliams.com 
+  - title: GitHub
+    url: https://github.com/rabwill
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rabiawilliams/
+location:
+  display: Brisbane, QLD, Australia
+  lat: 27.4698
+  long: 153.0251
