@@ -422,7 +422,7 @@ profiles:
   location: 
     display: Denver, Colorado, United States
     lat: 39.7392
-    long: -104.9903
+    long: -104.9903    
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
@@ -713,6 +713,16 @@ profiles:
     display: Ottawa, Ontario, Canada
     lat: 45.42178
     long: -75.69119
+- uid: advocates.rabia-williams
+  name: Rabia Williams
+  tagline: Development on Microsoft 365
+  image:
+    src: media/profiles/rabia-williams.png
+    alt: "Rabia Williams"
+  location: 
+    display: Brisbane, QLD, Australia
+    lat: 27.4698
+    long: 153.0251
 - uid: advocates.rick-claus
   name: Rick Claus
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
