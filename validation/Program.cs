@@ -25,20 +25,16 @@ namespace AdvocateValidation
 
             var advocateFiles = Directory.GetFiles(_advocatesPath);
 
-            await foreach (var (path, advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
+            await foreach (var (filePath, advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
             {
-                #region Uncomment to enable GitHub Url Validation
-                //var gitHubUrl = advocate.Connect.FirstOrDefault(x => x.Title.Equals("GitHub", StringComparison.OrdinalIgnoreCase))?.Url;
+                var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals("GitHub", StringComparison.OrdinalIgnoreCase))?.Url;
+                var twitterUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals("Twitter", StringComparison.OrdinalIgnoreCase))?.Url;
+                var linkedInUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals("LinkedIn", StringComparison.OrdinalIgnoreCase))?.Url;
 
-                //if (gitHubUrl is null)
-                //    throw new Exception($"Missing GitHub Url: {path}");
-
-                //if (!gitHubUrl.IsWellFormedOriginalString())
-                //    throw new Exception($"Invalid GitHub Url: {path}");
-                #endregion
+                EnsureValidUrisForFile(filePath, gitHubUri, twitterUri, linkedInUri);
 
                 if (string.IsNullOrWhiteSpace(advocate.Metadata.Alias))
-                    throw new Exception($"Missing Microsoft Alias: {path}");
+                    throw new Exception($"Missing Microsoft Alias: {filePath}");
 
                 advocateList.Add(advocate);
             }
@@ -50,18 +46,18 @@ namespace AdvocateValidation
             }
         }
 
-        static async IAsyncEnumerable<(string path, CloudAdvocateYamlModel advocate)> GetAdvocateYmlFiles(IEnumerable<string> files)
+        static async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAdvocateYmlFiles(IEnumerable<string> files)
         {
             var ymlFiles = files.Where(x => x.EndsWith(".yml", StringComparison.OrdinalIgnoreCase));
 
-            foreach (var file in ymlFiles)
+            foreach (var filePath in ymlFiles)
             {
-                var text = await File.ReadAllTextAsync(file).ConfigureAwait(false);
+                var text = await File.ReadAllTextAsync(filePath).ConfigureAwait(false);
 
                 if (text.StartsWith("### YamlMime:Profile") && !text.StartsWith("### YamlMime:ProfileList"))
                 {
-                    Console.WriteLine($"Parsing {file}");
-                    yield return (file, ParseAdvocateFromYaml(text));
+                    Console.WriteLine($"Parsing {filePath}");
+                    yield return (filePath, ParseAdvocateFromYaml(text));
                 }
             }
         }
@@ -71,6 +67,18 @@ namespace AdvocateValidation
             var stringReaderFile = new StringReader(fileText);
 
             return _yamlDeserializer.Deserialize<CloudAdvocateYamlModel>(stringReaderFile);
+        }
+
+        static void EnsureValidUrisForFile(in string filePath, params Uri?[] uris)
+        {
+            foreach (var uri in uris)
+            {
+                if (uri is null)
+                    throw new Exception($"Missing Url: {filePath}");
+
+                if (!uri.IsWellFormedOriginalString())
+                    throw new Exception($"Invalid Url: {filePath}");
+            }
         }
     }
 }
