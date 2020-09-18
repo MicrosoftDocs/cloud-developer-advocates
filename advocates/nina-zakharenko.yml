@@ -31,6 +31,8 @@ connect:
     url: https://twitter.com/nnja
   - title: GitHub
     url: https://github.com/nnja
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/nnja/
 location:
   display: Portland, Oregon, United States
   lat: 45.512794
