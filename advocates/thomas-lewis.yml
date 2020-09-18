@@ -28,6 +28,8 @@ connect:
     url: https://twitter.com/tommylee
   - title: GitHub
     url: https://github.com/tholewis
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/thomas-lewis-9435ba/
 
 location:
   display: Seattle, WA

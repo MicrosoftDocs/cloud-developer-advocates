@@ -29,6 +29,8 @@ connect:
     url: https://medium.com/@chloecondon
   - title: YouTube
     url: https://www.youtube.com/channel/UChWn8UyK3PNfMLYOCzrH6sQ
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/chloecondon/
 location: 
   display: San Francisco, CA
   lat: 37.760999
