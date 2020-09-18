@@ -21,17 +21,23 @@ namespace AdvocateValidation
 
         static async Task Main(string[] args)
         {
+            const string gitHub = "GitHub";
+            const string twitter = "Twitter";
+            const string linkedIn = "LinkedIn";
+
             var advocateList = new List<CloudAdvocateYamlModel>();
 
             var advocateFiles = Directory.GetFiles(_advocatesPath);
 
             await foreach (var (filePath, advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
             {
-                var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals("GitHub", StringComparison.OrdinalIgnoreCase))?.Url;
-                var twitterUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals("Twitter", StringComparison.OrdinalIgnoreCase))?.Url;
-                var linkedInUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals("LinkedIn", StringComparison.OrdinalIgnoreCase))?.Url;
+                var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))?.Url;
+                var twitterUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(twitter, StringComparison.OrdinalIgnoreCase))?.Url;
+                var linkedInUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(linkedIn, StringComparison.OrdinalIgnoreCase))?.Url;
 
-                EnsureValidUrisForFile(filePath, gitHubUri, twitterUri, linkedInUri);
+                EnsureValidUri(filePath, gitHubUri, gitHub);
+                EnsureValidUri(filePath, gitHubUri, twitter);
+                EnsureValidUri(filePath, linkedInUri, linkedIn);
 
                 if (string.IsNullOrWhiteSpace(advocate.Metadata.Alias))
                     throw new Exception($"Missing Microsoft Alias: {filePath}");
@@ -69,16 +75,13 @@ namespace AdvocateValidation
             return _yamlDeserializer.Deserialize<CloudAdvocateYamlModel>(stringReaderFile);
         }
 
-        static void EnsureValidUrisForFile(in string filePath, params Uri?[] uris)
+        static void EnsureValidUri(in string filePath, in Uri? uri, in string uriName)
         {
-            foreach (var uri in uris)
-            {
-                if (uri is null)
-                    throw new Exception($"Missing Url: {filePath}");
+            if (uri is null)
+                throw new Exception($"Missing {uriName} Url: {filePath}");
 
-                if (!uri.IsWellFormedOriginalString())
-                    throw new Exception($"Invalid Url: {filePath}");
-            }
+            if (!uri.IsWellFormedOriginalString())
+                throw new Exception($"Invalid {uriName} Url: {filePath}");
         }
     }
 }
