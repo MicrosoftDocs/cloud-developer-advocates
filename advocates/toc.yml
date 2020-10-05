@@ -85,10 +85,10 @@ items:
     uid: advocates.dmitry-soshnikov
   - name: Donovan Brown
     uid: advocates.donovan-brown
-  - name: Emily Freeman
-    uid: advocates.emily-freeman
   - name: Em Lazer-Walker
     uid: advocates.em-lazerwalker
+  - name: Emily Freeman
+    uid: advocates.emily-freeman
   - name: Erik St. Martin
     uid: advocates.erik-st-martin
   - name: Francesca Lazzeri
@@ -189,6 +189,8 @@ items:
     uid: advocates.tomomi-imura
   - name: Vadim Karpusenko
     uid: advocates.vadim-karpusenko
+  - name: Waldek Mastykarz
+    uid: advocates.waldek-mastykarz
   - name: Wassim Chegham
     uid: advocates.wassim-chegham
   - name: Yohan Lasorsa
