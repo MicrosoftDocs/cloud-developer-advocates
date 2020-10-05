@@ -413,16 +413,6 @@ profiles:
     display: Spring, Texas, US
     lat: 30.08453
     long: -95.41929
-- uid: advocates.emily-freeman
-  name: Emily Freeman
-  tagline: DevOps
-  image:
-    src: media/profiles/emily-freeman.png
-    alt: "Emily Freeman Cloud Developer Advocate"
-  location: 
-    display: Denver, Colorado, United States
-    lat: 39.7392
-    long: -104.9903    
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
@@ -433,6 +423,16 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.647664
     long: -79.3802294
+- uid: advocates.emily-freeman
+  name: Emily Freeman
+  tagline: DevOps
+  image:
+    src: media/profiles/emily-freeman.png
+    alt: "Emily Freeman Cloud Developer Advocate"
+  location: 
+    display: Denver, Colorado, United States
+    lat: 39.7392
+    long: -104.9903
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -933,6 +933,16 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
+- uid: advocates.waldek-mastykarz
+  name: Waldek Mastykarz
+  tagline: Microsoft 365
+  image:
+    src: media/profiles/waldek-mastykarz.png
+    alt: "Waldek Mastykarz Cloud Developer Advocate"
+  location: 
+    display: Alphen aan den Rijn, The Netherlands
+    lat: 52.13476
+    long: 4.658296
 - uid: advocates.wassim-chegham
   name: Wassim Chegham
   tagline: Node.js / JavaScript / Web
