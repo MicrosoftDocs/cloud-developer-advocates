@@ -5,6 +5,7 @@ metadata:
   title: David Blank-Edelman - Cloud Ops Advocate
   description: Home page for David Blank-Edelman, a Microsoft Cloud Ops Advocate
   ms.author: dnb
+  team: itops
 remarks: |
   ## Bio
   David has over thirty years of experience in the SRE/DevOps/systems administration field in large multiplatform environments. He is the author of the O'Reilly Otter book (Automating Systems Administration with Perl) and 
