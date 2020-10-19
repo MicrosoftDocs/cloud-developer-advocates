@@ -4,6 +4,7 @@ name: Frank Boucher
 metadata:
   title: Frank Boucher - Cloud Advocate
   description: Home page for Frank Boucher, a Microsoft Cloud Advocate
+  ms.author: frbouche
 remarks: |
   ## Bio
   With mostly 20 years of experience in the IT industry, Frank Boucher is a trusted Microsoft Azure professional whose expertise and bilingual service are relied upon in large Canadian markets (Ottawa and Montreal) as well as internationally (Minsk). You can follow him on his YouTube channel Cloud 5 minutes cloud5mins.com
@@ -22,13 +23,27 @@ remarks: |
 
 tagline: Development / DevOps / Serverless
 image:
-  alt: "Frank Boucher  Cloud Advocate"
+  alt: "Frank Boucher - Cloud Advocate"
   src: media/profiles/frank-boucher.png
-twitter: https://twitter.com/fboucheros
-github: https://github.com/fboucher
-blog: https://frankysnotes.com/
-linkedin: https://www.linkedin.com/in/fboucheros
-instagram: https://www.instagram.com/frankysnotes
+connect:
+  - title: Twitter
+    url: https://twitter.com/fboucheros
+  - title: GitHub
+    url: https://github.com/fboucher
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/fboucheros
+  - title: Blog
+    url: https://frankysnotes.com/
+  - title: Blog (FR)
+    url: http://www.cloudenfrancais.com/
+  - title: YouTube
+    url: https://www.youtube.com/fboucheros
+  - title: YouTube (FR)
+    url: https://www.youtube.com/cloudenfrancais
+  - title: Twitch
+    url: https://www.twitch.tv/fboucheros
+  - title: Instagram
+    url: https://www.instagram.com/fboucheros
 location:
   display: Montreal, Quebec, Canada
   lat: 45.5017

@@ -4,6 +4,7 @@ name: Nina Zakharenko
 metadata:
   title: Nina Zakharenko - Cloud Developer Advocate
   description: Home page for Nina Zakharenko, a Microsoft Cloud Developer Advocate
+  ms.author: ninaz
 remarks: |
   ## Bio
   Nina Zakharenko is a Cloud Developer Advocate at Microsoft, focusing on Python. Before joining Microsoft, she was a software engineer with a decade of experience writing code for companies like Reddit, Meetup, and HBO. In her spare time, she enjoys snowboarding, hiking, and riding her bike from her home base of Portland, OR.
@@ -25,8 +26,13 @@ tagline: Python
 image:
   alt: "Nina Zakharenko Cloud Developer Advocate"
   src: media/profiles/nina-zakharenko.png
-twitter: https://twitter.com/nnja
-github: https://github.com/nnja
+connect: 
+  - title: Twitter
+    url: https://twitter.com/nnja
+  - title: GitHub
+    url: https://github.com/nnja
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/nnja/
 location:
   display: Portland, Oregon, United States
   lat: 45.512794

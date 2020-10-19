@@ -4,6 +4,7 @@ name: Anthony Bartolo
 metadata:
   title: Anthony Bartolo - Sr. Cloud Advocate
   description: Home page for Anthony Bartolo, a Microsoft Sr. Cloud Advocate
+  ms.author: abartolo
 remarks: |
   ## Bio
   As a Sr. Cloud Advocate for Microsoft, Anthony Bartolo takes great pride in architecting and conducting “science experiments” that incorporate Microsoft technology and services to address a customer problem or opportunity. Anthony accomplishes this by conducting hackathons with industry leading organizations to test theories and create Proof of Concepts (PoC) utilizing Microsoft cloud services. Some of the more interesting Proof of Concepts completed have included teaching drones to identify objects to aid in search and rescue efforts and automating research via Azure Functions to extract information from social media to aid law enforcement in finding children reported missing. Results and best practices of these and other projects are then shared openly with the community at large to help upskill everyone.
@@ -27,12 +28,19 @@ tagline: Infrastructure / IoT / Identity Management / Security
 image:
   alt: "Anthony Bartolo Sr. Cloud Advocate"
   src: media/profiles/anthony-bartolo.png
-twitter: https://twitter.com/wirelesslife
-github: https://github.com/wirelesslife
-blog: https://itopstalk.com/
-linkedin: https://www.linkedin.com/in/wirelesslife/
-facebook: https://www.facebook.com/WirelessLife
-stackoverflow: https://stackoverflow.com/users/4200953/anthony-bartolo
+connect:
+  - title: Twitter
+    url: https://twitter.com/wirelesslife
+  - title: GitHub
+    url: https://github.com/wirelesslife
+  - title: Blog
+    url: https://itopstalk.com/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/wirelesslife/
+  - title: Facebook
+    url: https://www.facebook.com/WirelessLife
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/4200953/anthony-bartolo
 location:
   display: Toronto, Ontario, Canada
   lat: 43.653226

@@ -4,6 +4,7 @@ name: David N. Blank-Edelman
 metadata:
   title: David Blank-Edelman - Cloud Ops Advocate
   description: Home page for David Blank-Edelman, a Microsoft Cloud Ops Advocate
+  ms.author: dnb
 remarks: |
   ## Bio
   David has over thirty years of experience in the SRE/DevOps/systems administration field in large multiplatform environments. He is the author of the O'Reilly Otter book (Automating Systems Administration with Perl) and 
@@ -19,8 +20,13 @@ tagline: SRE
 image:
   alt: "David Blank-Edelman Cloud Ops Advocate"
   src: media/profiles/david-blank-edelman.png
-twitter: https://twitter.com/otterbook
-linkedin: https://linkedin.com/in/dnblankedelman
+connect:
+  - title: Twitter
+    url: https://twitter.com/otterbook
+  - title: LinkedIn
+    url: https://linkedin.com/in/dnblankedelman
+  - title: GitHub
+    url: https://github.com/dnblankedelman
 location:
   display: Somerville, Massachusetts, United States
   lat: 42.3875968

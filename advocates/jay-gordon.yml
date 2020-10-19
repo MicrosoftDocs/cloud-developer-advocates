@@ -2,36 +2,44 @@
 uid: advocates.jay-gordon
 name: Jay Gordon
 metadata:
-  title: Jay Gordon - Cloud Advocate
-  description: Home page for Jay Gordon, a Senior Microsoft Cloud Ops Advocate
+  title: Home page for Jay Gordon, a Microsoft Cloud Advocate
+  description: Home page for Jay Gordon, a Microsoft Cloud Advocate
+  ms.author: jagord
 remarks: |
-  ## Bio 
-  I tried writing this bio in the third person, but to be honest it felt a little forced.  So here we go, my name is Jay and I love helping people get the most out of their cloud environment.  
+  ## Bio
+  Jay Gordon is a Cloud Advocate with the Microsoft Azure Advocates. He and the rest of the Advocacy team are focused on helping Developers and Ops teams get the most out of their cloud experience with Microsoft Azure. Prior to Microsoft, Jay was part of teams at DigitalOcean, BuzzFeed and MongoDB. Community is critical in his core beliefs, this is why Jay is an organizer for [devopsdays NYC](https://devopsdays.org/events/2020-new-york-city/welcome/). Jay lives in New York City with his wife Betsy.
 
-  I've been a part of the IT industry since about 2001 when I got my first root user access at a tiny consulting firm as a System Administrator.  This lead me on a long career that found me working in some really cool places like BuzzFeed, DigitalOcean and MongoDB.  
-
-  After spending most of my career in "oncall" situations, [like when BuzzFeed had it's viral moment including a dress which no one could tell the color of,](https://www.buzzfeed.com/daozers/what-its-like-to-work-on-buzzfeeds-tech-team-during-record-t) it was time for a new challenge.  I moved on to MongoDB's Developer Advocacy team which taught me much about how to best enable the members of my community.  
-
-  I joined Microsoft for one major reason, so I can reach the biggest audiences possible to let them know why they should choose Azure as the right platform to ensure the best possible experience with their applications.  
-
-  Need help?  I'm **extremely logged on** and ready to assist, so feel free to reach out at my contacts below!
-  
   ## Skills
   * Linux
   * DevOps
   * System Administration
   * Databases
-  
-  
+
+  ## Content and talks
+  * [On-Call Nightmares Podcast](http://oncallnightmares.com/)
+  * [Jay Gordon on dev.to](https://dev.to/jaydestro)
+  * [What I Learned From A Dress, an On-Call Nightmare - Jay Gordon | WFH Conf 2020](https://www.youtube.com/watch?v=aniqpxWGsjc)
+  * [How to build and deploy a containerized app to Azure Kubernetes Service (AKS) | Azure Friday](https://www.youtube.com/watch?v=E9YWmbUb9Ps)
+
 tagline: Linux
 image:
-  alt: "Jay Gordon Senior Cloud Ops Advocate"
+  alt: "Jay Gordon Cloud Advocate"
   src: media/profiles/jay-gordon.png
-twitter: https://twitter.com/jaydestro
-github: https://github.com/jaydestro
-facebook: https://facebook.com/jaydestro
-instagram: https://www.instagram.com/jaydestro
-linkedin: https://linkedin.com/in/jgordon0042
+connect:
+  - title: Twitter
+    url: https://twitter.com/jaydestro
+  - title: GitHub
+    url: https://github.com/jaydestro
+  - title: Facebook
+    url: https://facebook.com/jaydestro
+  - title: Instagram
+    url: https://www.instagram.com/jaydestro
+  - title: LinkedIn
+    url: https://linkedin.com/in/jaygordon0042
+  - title: Podcast
+    url: https://oncallnightmares.podomatic.com/
+  - title: Twitch
+    url: https://www.twitch.tv/jaydestro
 location:
   display: New York, New York, United States
   lat: 40.703830518

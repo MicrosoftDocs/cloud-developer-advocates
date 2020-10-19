@@ -4,6 +4,7 @@ name: Shayne Boyer
 metadata:
   title: Shayne Boyer - Cloud Advocate
   description: Home page for Shayne Boyer, a Microsoft Cloud Developer Advocate
+  ms.author: shboyer
 remarks: |
   ## Bio
   I started at the age of around 10 when my Dad bought that tan colored mammoth of a machined called the Commodore 64. My tools of the trade where hours of reading code to him out of the back of Compute Magazine with a ruler going blind in the process. Ugh! It really was a long night if something was mis-typed... But I tell you I can read code like no one's business and I got to the point where I could see what was coming next and so on.
@@ -22,9 +23,17 @@ tagline: .NET
 image:
   alt: "Shayne Boyer Cloud Developer Advocate"
   src: media/profiles/shayne-boyer.png
-twitter: https://twitter.com/spboyer
-blog: https://tattoocoder.com/
-linkedin: https://linkedin.com/in/shayneboyer
+connect: 
+  - title: Twitter
+    url: https://twitter.com/spboyer
+  - title: Blog
+    url: https://tattoocoder.com/
+  - title: LinkedIn
+    url: https://linkedin.com/in/shayneboyer
+  - title: GitHub
+    url: https://github.com/spboyer
+  - title: Twitch
+    url: https://www.twitch.tv/spboyer
 location:
   display: DeLand, Florida, United States
   lat: 29.022108

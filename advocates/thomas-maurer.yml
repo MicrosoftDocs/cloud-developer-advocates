@@ -4,6 +4,7 @@ name: Thomas Maurer
 metadata:
   title: Thomas Maurer - Cloud Advocate
   description: Home page for Thomas Maurer, a Microsoft Cloud Advocate
+  ms.author: thmaure
 remarks: |
   ## Bio
   Thomas works as a Senior Cloud Advocate at Microsoft. He engages with the community and customers around the world to share his knowledge and collect feedback to improve the Azure cloud platform. Prior joining the Azure engineering team, Thomas was a Lead Architect and Microsoft MVP, to help architect, implement and promote Microsoft cloud technology.
@@ -23,11 +24,19 @@ tagline: Azure / Azure Stack / Windows Server / IT Pro
 image:
   alt: "Thomas Maurer Cloud Advocate"
   src: media/profiles/thomas-maurer.png 
-twitter: https://twitter.com/ThomasMaurer
-github: https://github.com/ThomasMaurer
-blog: https://www.thomasmaurer.ch
-facebook: https://www.facebook.com/ThomasmaurerMVP
-linkedin: https://linkedin.com/in/thomasmaurer2/
+connect:
+  - title: Twitter
+    url: https://twitter.com/ThomasMaurer
+  - title: GitHub
+    url: https://github.com/ThomasMaurer
+  - title: Blog
+    url: https://www.thomasmaurer.ch
+  - title: Facebook
+    url: https://www.facebook.com/ThomasmaurerMVP
+  - title: LinkedIn
+    url: https://linkedin.com/in/thomasmaurer2/
+  - title: YouTube
+    url: https://www.youtube.com/c/ThomasMaurerCloud
 location:
   display: Basel, Switzerland
   lat: 47.55734

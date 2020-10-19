@@ -4,6 +4,7 @@ name: Rick Claus
 metadata:
   title: Rick Claus - Cloud Advocate
   description: Home page for Rick Claus, a Microsoft Cloud Developer Advocate
+  ms.author: rclaus
 remarks: |
   ## Bio
   Rick Claus engages in person and online with the worldwide IT Pro / Ops community on behalf of Microsoft. As a lead for one of the Cloud Advocate teams in Azure engineering, Rick's role is to connect with technical communities in order capture feedback on how to make things better and to share his knowledge about the ecosystem. 
@@ -21,10 +22,17 @@ tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
 image:
   alt: "Rick Claus Cloud Advocate"
   src: media/profiles/rick-claus.png 
-twitter: https://twitter.com/RicksterCDN
-github: https://github.com/RicksterCDN
-blog: https://itOpsTalk.com
-linkedin: http://www.linkedin.com/in/rickclaus
+connect:
+  - title: Twitter
+    url: https://twitter.com/RicksterCDN
+  - title: GitHub
+    url: https://github.com/RicksterCDN
+  - title: Blog
+    url: https://itOpsTalk.com
+  - title: LinkedIn
+    url: http://www.linkedin.com/in/rickclaus
+  - title: Twitch
+    url: https://www.twitch.tv/patchandswitch
 location:
   display: Redmond, Washington, United States
   lat: 47.645171

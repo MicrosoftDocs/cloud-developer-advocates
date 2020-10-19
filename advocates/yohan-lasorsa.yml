@@ -4,6 +4,7 @@ name: Yohan Lasorsa
 metadata:
   title: Yohan Lasorsa - Cloud Advocate
   description: Home page for Yohan Lasorsa, a Microsoft Cloud Advocate
+  ms.author: yolasors
 remarks: |
   ## Bio
   Yohan Lasorsa is a Senior Cloud Advocate at Microsoft.
@@ -26,10 +27,15 @@ tagline: JavaScript / Node.js / Web / Mobile
 image:
   alt: "Yohan Lasorsa Cloud Developer Advocate"
   src: media/profiles/yohan-lasorsa.png 
-twitter: https://twitter.com/sinedied
-github: https://github.com/sinedied
-linkedin: https://linkedin.com/in/yohanlasorsa
-blog: http://medium.com/@sinedied
+connect: 
+  - title: Twitter
+    url: https://twitter.com/sinedied
+  - title: GitHub
+    url: https://github.com/sinedied
+  - title: LinkedIn
+    url: https://linkedin.com/in/yohanlasorsa
+  - title: Blog
+    url: http://medium.com/@sinedied
 location:
   display: Grenoble, France
   lat: 45.186494

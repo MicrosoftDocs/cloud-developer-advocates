@@ -4,6 +4,7 @@ name: Alvaro Videla
 metadata:
   title: Alvaro Videla - Cloud Advocate
   description: Home page for Alvaro Videla, a Microsoft Cloud Advocate
+  ms.author: alvidela
 remarks: |
   ## Bio
   A former RabbitMQ core-dev, before moving to Europe he used to work in Shanghai where he helped building one of Germany biggest dating websites. 
@@ -24,11 +25,15 @@ tagline: RabbitMQ / Functional Programming / Architecture
 image:
   alt: "Alvaro Videla Cloud Advocate"
   src: media/profiles/alvaro-videla.png
-
-twitter: https://twitter.com/old_sound
-blog: http://alvaro-videla.com
-github: https://github.com/videlalvaro
-linkedin: https://www.linkedin.com/in/alvarovidela
+connect:
+  - title: Twitter
+    url: https://twitter.com/old_sound
+  - title: Blog
+    url: http://alvaro-videla.com
+  - title: GitHub
+    url: https://github.com/videlalvaro
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/alvarovidela
 
 location:
   display: Dübendorf, Switzerland

@@ -13,6 +13,8 @@ items:
     uid: advocates.aaron-wislang
   - name: Abel Wang
     uid: advocates.abel-wang
+  - name: Abhishek Gupta
+    uid: advocates.abhishek-gupta
   - name: Adi Polak
     uid: advocates.adi-polak
   - name: Alena Hall
@@ -21,20 +23,26 @@ items:
     uid: advocates.alvaro-videla
   - name: Amy Boyd
     uid: advocates.amy-boyd
-  - name: Andrew Harvey
-    uid: advocates.andrew-harvey
   - name: Anthony Bartolo
     uid: advocates.anthony-bartolo
-  - name: Anthony Chu
-    uid: advocates.anthony-chu
+  - name: April Speight
+    uid: advocates.april-speight
   - name: Ari Bornstein
     uid: advocates.ari-bornstein
   - name: Ashley McNamara
     uid: advocates.ashley-mcnamara
   - name: Asim Hussain
     uid: advocates.asim-hussain
+  - name: Ayca Bas
+    uid: advocates.ayca-bas
+  - name: Ayşegül Yönet
+    uid: advocates.aysegul-yonet
+  - name: Barnam Bora
+    uid: advocates.barnam-bora
   - name: Bernd Verst
     uid: advocates.bernd-verst
+  - name: Bob German
+    uid: advocates.bob-german
   - name: Brandon Minnick
     uid: advocates.brandon-minnick
   - name: Brian Benz
@@ -43,8 +51,6 @@ items:
     uid: advocates.brian-clark
   - name: Brian Ketelsen
     uid: advocates.brian-ketelsen
-  - name: Bruno Borges
-    uid: advocates.bruno-borges
   - name: Burke Holland
     uid: advocates.burke-holland
   - name: Cassie Breviu
@@ -65,6 +71,8 @@ items:
     uid: advocates.cynthia-zanoni
   - name: Damian Brady
     uid: advocates.damian-brady
+  - name: Dan Wahlin
+    uid: advocates.dan-wahlin
   - name: Dave Glover
     uid: advocates.dave-glover
   - name: David N. Blank-Edelman
@@ -77,26 +85,20 @@ items:
     uid: advocates.dmitry-soshnikov
   - name: Donovan Brown
     uid: advocates.donovan-brown
-  - name: Duncan Davidson
-    uid: advocates.duncan-davidson
-  - name: Emily Freeman
-    uid: advocates.emily-freeman
   - name: Em Lazer-Walker
     uid: advocates.em-lazerwalker
+  - name: Emily Freeman
+    uid: advocates.emily-freeman
   - name: Erik St. Martin
     uid: advocates.erik-st-martin
   - name: Francesca Lazzeri
     uid: advocates.francesca-lazzeri
   - name: Frank Boucher
     uid: advocates.frank-boucher
-  - name: Frank Denbow
-    uid: advocates.frank-denbow
   - name: Glaucia Lemos
     uid: advocates.glaucia-lemos
   - name: Henk Boelman
     uid: advocates.henk-boelman
-  - name: Ian McDonald
-    uid: advocates.ian-mcdonald
   - name: Jan Schenk
     uid: advocates.jan-schenk
   - name: Jasmine Greenaway
@@ -111,8 +113,6 @@ items:
     uid: advocates.jen-looper
   - name: Jeramiah Dooley
     uid: advocates.jeramiah-dooley
-  - name: Jeremy Likness
-    uid: advocates.jeremy-likness
   - name: Jessica Deen
     uid: advocates.jessica-deen
   - name: Jim Bennett
@@ -125,8 +125,8 @@ items:
     uid: advocates.justin-yoo
   - name: Laurent Bugnion
     uid: advocates.laurent-bugnion
-  - name: Lims Wang
-    uid: advocates.lims-wang
+  - name: Lucas Santos
+    uid: advocates.lucas-santos
   - name: Madoka Chiyoda
     uid: advocates.madoka-chiyoda
   - name: Matthew Soucoup
@@ -135,26 +135,22 @@ items:
     uid: advocates.maxime-rouiller
   - name: Mike James
     uid: advocates.mike-james
-  - name: Muniraju Pulipalyam
-    uid: advocates.muniraju-pulipalyam
-  - name: Neil Peterson
-    uid: advocates.neil-peterson
   - name: Nina Zakharenko
     uid: advocates.nina-zakharenko
   - name: Patrick Chanezon
     uid: advocates.patrick-chanezon
   - name: Paul DeCarlo
     uid: advocates.paul-decarlo
-  - name: Penina Weiss
-    uid: advocates.penina-weiss
   - name: Phoummala Schmitt
     uid: advocates.phoummala-schmitt
   - name: Pierre Roman
     uid: advocates.pierre-roman
+  - name: Rabia Williams
+    uid: advocates.rabia-williams
   - name: Rick Claus
     uid: advocates.rick-claus
-  - name: Rong Yu
-    uid: advocates.rong-yu
+  - name: Rory Preddy
+    uid: advocates.rory-preddy
   - name: Ruth Yakubu
     uid: advocates.ruth-yakubu
   - name: Ryan Levick
@@ -181,14 +177,20 @@ items:
     uid: advocates.steven-murawski
   - name: Tania Allard
     uid: advocates.tania-allard
+  - name: Thomas Lewis
+    uid: advocates.thomas-lewis
   - name: Thomas Maurer
     uid: advocates.thomas-maurer
   - name: Tierney Cyren
     uid: advocates.tierney-cyren
   - name: Todd Anglin
     uid: advocates.todd-anglin
+  - name: Tomomi Imura
+    uid: advocates.tomomi-imura
   - name: Vadim Karpusenko
     uid: advocates.vadim-karpusenko
+  - name: Waldek Mastykarz
+    uid: advocates.waldek-mastykarz
   - name: Wassim Chegham
     uid: advocates.wassim-chegham
   - name: Yohan Lasorsa

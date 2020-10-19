@@ -4,6 +4,7 @@ name: Asim Hussain
 metadata:
   title: Asim Hussain - Cloud Advocate
   description: Home page for Asim Hussain, a Microsoft Cloud Developer Advocate
+  ms.author: ashussai
 remarks: |
   ## Bio 
   I wrote my first program at 11 on a Sharp MZ-700, my first job after University was working at the European Space Agency in their Mission Control Centre. Since then I’ve done stretches at Morgan Stanley, JP Morgan as well as a bit of contracting at Google.
@@ -17,12 +18,21 @@ tagline: JavaScript / Node.js / Python
 image:
   alt: "Asim Hussain Cloud Developer Advocate"
   src: media/profiles/asim-hussain.png 
-twitter: https://twitter.com/jawache
-github: https://github.com/jawache
-blog: http://codecraft.tv
-instagram: https://www.instagram.com/jawache
-stackoverflow: https://stackoverflow.com/users/134085/jawache
-linkedin: https://linkedin.com/in/jawache
+connect:
+  - title: Twitter
+    url: https://twitter.com/jawache
+  - title: GitHub
+    url: https://github.com/jawache
+  - title: Blog
+    url: http://codecraft.tv
+  - title: Instagram
+    url: https://www.instagram.com/jawache
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/134085/jawache
+  - title: LinkedIn
+    url: https://linkedin.com/in/jawache
+  - title: YouTube
+    url: https://www.youtube.com/jawache
 location:
   display: Reading, United Kingdom
   lat: 51.458046

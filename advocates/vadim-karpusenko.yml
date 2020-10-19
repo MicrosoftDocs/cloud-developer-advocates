@@ -4,6 +4,7 @@ name: Vadim Karpusenko
 metadata:
   title: Vadim Karpusenko - Cloud Advocate
   description: Home page for Vadim Karpusenko, a Microsoft Cloud Developer Advocate
+  ms.author: vakarpus
 remarks: |
   ## Bio
   Before joining Microsoft, I was working at Intel Corporation as a Machine Learning/Deep Learning/AI and Modern Code (aka Parallel programming and Optimization) Technical Evangelist; and as Principal HPC Research and Consulting Engineer at Colfax International involved in training and consultancy projects on data mining, software development and statistical analysis of complex systems. My research interests are in the areas of physical modeling with HPC clusters, highly parallel architectures, code optimization; machine learning and AI. 
@@ -20,9 +21,13 @@ tagline: HPC / AI / ML / DL
 image:
   alt: "Vadim Karpusenko Cloud Developer Advocate"
   src: media/profiles/vadim-karpusenko.png
-twitter: https://twitter.com/vadi
-github: https://github.com/vakarpus
-linkedin: https://linkedin.com/in/karpusenko
+connect: 
+  - title: Twitter
+    url: https://twitter.com/vadi
+  - title: GitHub
+    url: https://github.com/vakarpus
+  - title: LinkedIn
+    url: https://linkedin.com/in/karpusenko
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

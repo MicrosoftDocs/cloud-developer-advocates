@@ -4,6 +4,7 @@ name: Madoka Chiyoda
 metadata:
   title: Madoka Chiyoda (Chomado) - Cloud Developer Advocate
   description: Home page for Madoka Chiyoda, a Microsoft Cloud Developer Advocate
+  ms.author: machiy
 remarks: |
   ## Video
   > [!VIDEO https://www.youtube.com/embed/y2CLT9LgmOk?t=19]
@@ -25,15 +26,21 @@ remarks: |
   * [Muscle Voice on Google Home](https://github.com/chomado/GoogleHomeHack) | Azure Functions (C#), Google Dialogflow, Azure Storage
   * [Xamarin+Azure Hands on Lab contents in Japanese](https://github.com/chomado/xamarin-dev-doc/blob/master/hands-on/readme.md) | This is a translation of Xamarin Dev Days material into Japanese translated by Japan Xamarin User Group (including me)
 
-tagline: C# / Conversational AI / (Manga)
+tagline: Mixed Reality / HoloLens / C# / Conversational AI / (Manga)
 image:
   alt: "Madoka Chiyoda Cloud Developer Advocate"
   src: media/profiles/madoka-chiyoda.jpg
-twitter: https://twitter.com/chomado
-github: https://github.com/chomado
-facebook: https://facebook.com/chomado
-instagram: https://www.instagram.com/chomado
-linkedin: https://www.linkedin.com/in/chomado
+connect:
+  - title: Twitter
+    url: https://twitter.com/chomado
+  - title: GitHub
+    url: https://github.com/chomado
+  - title: Facebook
+    url: https://facebook.com/chomado
+  - title: Instagram
+    url: https://www.instagram.com/chomado
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/chomado
 location:
   display: Minato-ku Tokyo, Japan
   lat: 35.626610

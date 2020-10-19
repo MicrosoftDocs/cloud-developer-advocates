@@ -4,13 +4,14 @@ name: Glaucia Lemos
 metadata:
   title: Glaucia Lemos - Cloud Advocate
   description: Home page for Glaucia Lemos, a Microsoft Cloud Advocate
+  ms.author: gllemos
 remarks: |
   ## Bio
-  Glaucia Lemos is Cloud Advocate at Microsoft LATAM. She loves helping and making contributions to Open Source projects in Github (@glaucia86).
-  She's currently Member & Contributor at Node.js Foundation and at React Community making contributions to Nodejs.org and Reactjs.org translations into Portuguese.
-  Glaucia also belongs in quite inclusive Communities such as WoMakersCode - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity.
+  Glaucia Lemos is Cloud Advocate at Microsoft Brazil & LATAM. She loves helping and making contributions to Open Source projects in Github (@glaucia86).
+  Glaucia is currently Member & Contributor at Node.js Foundation and at React Community making contributions to Nodejs.org and Reactjs.org translations into Portuguese. 
+  Glaucia also belongs in quite inclusive Communities such as WoMakersCode - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity. 
   Currently, Glaucia lives in Rio de Janeiro, Brazil.
-  And his greatest passion is sharing knowledge for all people!
+  And her greatest passion is sharing knowledge for all people!
 
   Outside of development, Glaucia enjoys learn new languages, love meeting different people and cultures, a movie buff and drummer!
   ## Skills
@@ -22,15 +23,25 @@ remarks: |
   * Web Development
   * Linux
 
-tagline: JavaScript / Node.js / AI
+tagline: JavaScript / Node.js / A.I
 image:
-  alt: "Glaucia Lemos Cloud Advocate"
+  alt: "Glaucia Lemos Regional Cloud Advocate"
   src: media/profiles/glaucia-lemos.png
-twitter: https://twitter.com/glaucia_lemos86
-github: https://github.com/glaucia86/
-blog: https://glaucialemos.netlify.com
-instagram: https://www.instagram.com/glaucia.lemos.dev
-linkedin: https://www.linkedin.com/in/glaucialemos/
+connect:
+  - title: Twitter
+    url: https://twitter.com/glaucia_lemos86
+  - title: GitHub
+    url: https://github.com/glaucia86/
+  - title: Blog
+    url: https://glaucialemos.netlify.com
+  - title: Instagram
+    url: https://www.instagram.com/glaucia.lemos.dev
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/glaucialemos/
+  - title: YouTube
+    url: https://www.youtube.com/user/l32759
+  - title: Twitch
+    url: https://www.twitch.tv/glaucia_lemos86
 location:
   display: Rio de Janeiro, Brazil
   lat: -22.904491

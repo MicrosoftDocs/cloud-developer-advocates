@@ -4,6 +4,7 @@ name: Jeff Sandquist
 metadata:
   title: Jeff Sandquist - General Manager
   description: Home page for Jeff Sandquist, GM Developer Relations for the Cloud
+  ms.author: jeffsand
 remarks: |
   ## Bio
   I lead Developer Relations for the cloud at Microsoft, leading the team reinventing Microsoft's relationship with software developers around the globe.  Our team is maniacal about making the world amazing for developers of all backgrounds.
@@ -16,10 +17,15 @@ tagline: Change invigorates the soul
 image:
   alt: "Jeff Sandquist GM Cloud Developer Relations"
   src: media/profiles/jeff-sandquist.png
-twitter: https://twitter.com/jeffsand
-github: https://github.com/jeffsand
-blog: https://jeffsandquist.com
-linkedin: https://www.linkedin.com/in/jeffsandquist/
+connect:
+  - title: Twitter
+    url: https://twitter.com/jeffsand
+  - title: GitHub
+    url: https://github.com/jeffsand
+  - title: Blog
+    url: https://jeffsandquist.com
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jeffsandquist/
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

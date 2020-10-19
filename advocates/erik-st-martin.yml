@@ -4,6 +4,7 @@ name: Erik St. Martin
 metadata:
   title: Erik St. Martin - Cloud Advocate
   description: Home page for Erik St. Martine, a Microsoft Cloud Developer Advocate
+  ms.author: erikstm
 remarks: |
   ## Bio
   I have a passion for building high-scale distributed systems with unique challenging problems.
@@ -25,11 +26,21 @@ tagline: Linux
 image:
   alt: "Erik St. Martin Cloud Developer Advocate"
   src: media/profiles/erik-st-martin.png
-twitter: https://twitter.com/erikstmartin
-github: https://github.com/erikstmartin
-blog: https://erikstmartin.com/
-podcast: https://changelog.com/gotime
-linkedin: https://www.linkedin.com/in/erikstmartin/
+connect:
+  - title: Twitter
+    url: https://twitter.com/erikstmartin
+  - title: GitHub
+    url: https://github.com/erikstmartin
+  - title: Blog
+    url: https://erikstmartin.com/
+  - title: Podcast
+    url: https://changelog.com/gotime
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/erikstmartin/
+  - title: Twitch
+    url: https://www.twitch.tv/erikdotdev
+  - title: YouTube
+    url: https://www.youtube.com/channel/UCZVEaATrwhATy2PIIOp442A
 location:
   display: Land O' Lakes, Florida, United States
   lat: 28.222353
