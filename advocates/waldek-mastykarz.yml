@@ -5,6 +5,7 @@ metadata:
   title: Waldek Mastykarz - Cloud Developer Advocate
   description: Home page for Waldek Mastykarz, a Microsoft Cloud Developer Advocate
   ms.author: wmastyka
+  team: m365
 remarks: |
   ## Bio
   Waldek is a Cloud Developer Advocate at Microsoft focusing on Microsoft 365. In this role he helps developers build applications on top of Microsoft 365. He's also a part of Microsoft 365 Patterns and Practices where he builds developer guidance and tooling for extending Microsoft 365 together with the community.
