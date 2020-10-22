@@ -1,4 +1,4 @@
-metadata:
+﻿metadata:
   name: advocates_toc
 items:
 - name: Cloud Advocates
@@ -85,10 +85,10 @@ items:
     uid: advocates.dmitry-soshnikov
   - name: Donovan Brown
     uid: advocates.donovan-brown
-  - name: Em Lazer-Walker
-    uid: advocates.em-lazerwalker
   - name: Emily Freeman
     uid: advocates.emily-freeman
+  - name: Em Lazer-Walker
+    uid: advocates.em-lazerwalker
   - name: Erik St. Martin
     uid: advocates.erik-st-martin
   - name: Francesca Lazzeri
@@ -187,8 +187,6 @@ items:
     uid: advocates.todd-anglin
   - name: Tomomi Imura
     uid: advocates.tomomi-imura
-  - name: Vadim Karpusenko
-    uid: advocates.vadim-karpusenko
   - name: Waldek Mastykarz
     uid: advocates.waldek-mastykarz
   - name: Wassim Chegham

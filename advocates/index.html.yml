@@ -1,4 +1,4 @@
-### YamlMime:ProfileList
+﻿### YamlMime:ProfileList
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -339,14 +339,14 @@ profiles:
     long: -46.625290
 - uid: advocates.damian-brady
   name: Damian Brady
-  tagline: DevOps
+  tagline: DevOps / MLOps
   image:
     src: media/profiles/damian-brady.png
     alt: "Damian Brady Cloud Advocate"
   location: 
-    display: Byron Bay, Australia
-    lat: -28.647400
-    long: 153.602000
+    display: Brisbane, Australia
+    lat: -27.471300
+    long: 153.023800
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
   tagline: Fluid / Microsoft 365 / Azure
@@ -417,16 +417,6 @@ profiles:
     display: Spring, Texas, US
     lat: 30.08453
     long: -95.41929
-- uid: advocates.em-lazerwalker
-  name: Em Lazer-Walker
-  tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
-  image:
-    src: media/profiles/em-lazerwalker.png
-    alt: "Em Lazer-Walker - Cloud Advocate"
-  location: 
-    display: Toronto, Ontario, Canada
-    lat: 43.647664
-    long: -79.3802294
 - uid: advocates.emily-freeman
   name: Emily Freeman
   tagline: DevOps
@@ -437,6 +427,16 @@ profiles:
     display: Denver, Colorado, United States
     lat: 39.7392
     long: -104.9903
+- uid: advocates.em-lazerwalker
+  name: Em Lazer-Walker
+  tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
+  image:
+    src: media/profiles/em-lazerwalker.png
+    alt: "Em Lazer-Walker - Cloud Advocate"
+  location: 
+    display: Toronto, Ontario, Canada
+    lat: 43.647664
+    long: -79.3802294
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -927,16 +927,6 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.773972
     long: -122.431297
-- uid: advocates.vadim-karpusenko
-  name: Vadim Karpusenko
-  tagline: HPC / AI / ML / DL
-  image:
-    src: media/profiles/vadim-karpusenko.png
-    alt: "Vadim Karpusenko Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
 - uid: advocates.waldek-mastykarz
   name: Waldek Mastykarz
   tagline: Microsoft 365

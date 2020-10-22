@@ -369,17 +369,6 @@ profiles:
     lat: 35.2270869
     long: -80.8431267
   twitter: jdooley_clt
-- uid: advocates.jeremy-likness
-  name: Jeremy Likness
-  tagline: .NET
-  image:
-    src: media/profiles/jeremy-likness.png
-    alt: "Jeremy Likness Cloud Developer Advocate"
-  location:
-    display: Monroe, Washington, United States
-    lat: 47.85239
-    long: -121.9815
-  twitter: JeremyLikness
 - uid: advocates.jessica-deen
   name: Jessica Deen
   tagline: Linux / Open Source
@@ -555,17 +544,6 @@ profiles:
     lat: 43.107377
     long: -88.543443
   twitter: stevenmurawski
-- uid: advocates.vadim-karpusenko
-  name: Vadim Karpusenko
-  tagline: HPC / AI / ML / DL
-  image:
-    src: media/profiles/vadim-karpusenko.png
-    alt: "Vadim Karpusenko Cloud Developer Advocate"
-  location:
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-  twitter: vadi
 - uid: advocates.yoshio-terada
   name: Yoshio Terada
   tagline: Java
