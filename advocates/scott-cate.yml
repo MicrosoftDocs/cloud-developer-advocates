@@ -5,6 +5,7 @@ metadata:
   title: Scott Cate - Cloud Advocate
   description: Home page for Scott Cate, a Microsoft Cloud Developer Advocate
   ms.author: scottca
+  team: dotnet
 remarks: |
   ## Bio
   I'm a lifetime techie. I'm still doing today what I started at a very young age: copying code from people much smarter than me. Back then it was a magazine, now it's Stack Overflow. Who's with me? I have spent my career building and selling software companies ranging in size from five employees to 300+ employees. My Microsoft tech career started with an Access Database connected to a classic ASP website. Then .NET was released, and everything has been getting better day-by-day. From .NET 1.0, 1.1, 2.0….. every 3-6-12 months life added new and better ways of developing. Remember before nuget? That wasn't very long ago!

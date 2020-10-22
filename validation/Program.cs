@@ -42,6 +42,9 @@ namespace AdvocateValidation
                 if (string.IsNullOrWhiteSpace(advocate.Metadata.Alias))
                     throw new Exception($"Missing Microsoft Alias: {filePath}");
 
+                if (string.IsNullOrWhiteSpace(advocate.Metadata.Team))
+                    throw new Exception($"Missing Team: {filePath}");
+
                 advocateList.Add(advocate);
             }
 
