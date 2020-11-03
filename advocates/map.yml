@@ -375,14 +375,14 @@ profiles:
     long: -71.0994968
 - uid: advocates.david-smith
   name: David Smith
-  tagline: AI / Data Science / R
+  tagline: JavaScript / AI / Data Science / R
   image:
     src: media/profiles/david-smith.png
     alt: "David Smith Cloud Developer Advocate"
   location: 
-    display: Chicago, IL, USA
-    lat: 41.881832
-    long: -87.623177
+    display: Napa, CA, USA
+    lat: 38.2975381  
+    long: -122.286865
 - uid: advocates.dean-bryen
   name: Dean Bryen
   tagline: Serverless, Devops, Node.js
