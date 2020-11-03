@@ -36,7 +36,7 @@ namespace AdvocateValidation
                 var linkedInUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(linkedIn, StringComparison.OrdinalIgnoreCase))?.Url;
 
                 EnsureValidUri(filePath, gitHubUri, gitHub);
-                EnsureValidUri(filePath, gitHubUri, twitter);
+                EnsureValidUri(filePath, twitterUri, twitter);
                 EnsureValidUri(filePath, linkedInUri, linkedIn);
 
                 if (string.IsNullOrWhiteSpace(advocate.Metadata.Alias))
