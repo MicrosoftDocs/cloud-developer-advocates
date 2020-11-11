@@ -382,14 +382,14 @@ profiles:
   twitter: jldeen
 - uid: advocates.jim-bennett
   name: Jim Bennett
-  tagline: Xamarin
+  tagline: IoT/Academic
   image:
-    src: media/profiles/jim-bennett.png
+    src: media/profiles/jim-bennett.jpeg
     alt: "Jim Bennett Cloud Developer Advocate"
   location:
-    display: Reading, United Kingdom
-    lat: 51.458046
-    long: -1.012501
+    display: Redmond, Washington, United States
+    lat: 47.679194
+    long: -122.153322
   twitter: jimbobbennett
 - uid: advocates.john-papa
   name: John Papa
