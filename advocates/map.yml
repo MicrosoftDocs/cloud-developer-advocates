@@ -165,7 +165,7 @@ profiles:
     long: 55.2708
 - uid: advocates.aysegul-yonet
   name: Ayşegül Yönet
-  tagline: Mixed Reality / HoloLens / JavaScript / WebXR
+  tagline: Cognitive Services / Mixed Reality / HoloLens / JavaScript / WebXR
   image:
     src: media/profiles/aysegul-yonet.jpg
     alt: "Ayşegül Yönet Cloud Advocate"
@@ -823,6 +823,16 @@ profiles:
     display: DeLand, Florida, United States
     lat: 29.022108
     long: -81.312887
+- uid: advocates.shiny-zhu
+  name: Shiny Zhu
+  tagline: PM / .NET / JavaScript / Serverless
+  image:
+    src: media/profiles/shiny-zhu.png 
+    alt: "Shiny Zhu Cloud Advocate PM"
+  location: 
+    display: Shanghai, China
+    lat: 31.023138
+    long: 121.453640
 - uid: advocates.shmuela-jacobs
   name: Shmuela Jacobs
   tagline: JavaScript / Web
