@@ -565,9 +565,9 @@ profiles:
     long: -121.435883
 - uid: advocates.jim-bennett
   name: Jim Bennett
-  tagline: Xamarin
+  tagline: IoT/Academic
   image:
-    src: media/profiles/jim-bennett.png
+    src: media/profiles/jim-bennett.jpeg
     alt: "Jim Bennett Cloud Developer Advocate"
   location: 
     display: Redmond, Washington, United States
