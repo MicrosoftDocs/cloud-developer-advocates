@@ -169,7 +169,7 @@ profiles:
     long: 55.2708
 - uid: advocates.aysegul-yonet
   name: Ayşegül Yönet
-  tagline: Mixed Reality / HoloLens / JavaScript / WebXR
+  tagline: Cognitive Services / Mixed Reality / HoloLens / JavaScript / WebXR
   image:
     src: media/profiles/aysegul-yonet.jpg
     alt: "Ayşegül Yönet Cloud Advocate"
