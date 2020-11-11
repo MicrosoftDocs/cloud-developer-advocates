@@ -4,6 +4,8 @@ name: Laurent Bugnion
 metadata:
   title: Laurent Bugnion - Cloud Advocate
   description: Home page for Laurent Bugnion, a Microsoft Cloud Developer Advocate
+  ms.author: lbugnion
+  team: dotnet
 remarks: |
   ## Bio
   I come to Microsoft after a long career in the industry as a software developer. Initially an electrical engineer, I started coding professionally for Siemens in the 90s (in C!) and did a postgrade education in software engineering. Back then all the cool kids did Java and so I did too. Those were fun days but then I discovered .NET in 2001 and never looked back. I did it all, from WinForms to WebForms to ASP.NET. But I was always interested in design and so when Siemens sent me to Vegas at the first MIX conference and I discovered XAML and Blend, I was sold. The next years were spent doing a lot of WPF, Silverlight (Loved it!) and all subsequent XAML-based technologies.
@@ -30,13 +32,21 @@ tagline: .NET / Xamarin
 image:
   alt: "Laurent Bugnion Cloud Developer Advocate"
   src: media/profiles/laurent-bugnion.png 
-twitter: https://twitter.com/LBugnion
-github: https://github.com/LBugnion
-blog: http://blog.galasoft.ch
-facebook: https://facebook.com/LBugnion
-instagram: https://www.instagram.com/LBugnion
-stackoverflow: https://stackoverflow.com/users/12233/lbugnion
-linkedin: https://linkedin.com/in/LBugnion
+connect:
+  - title: Twitter
+    url: https://twitter.com/LBugnion
+  - title: GitHub
+    url: https://github.com/LBugnion
+  - title: Blog
+    url: http://blog.galasoft.ch
+  - title: Facebook
+    url: https://facebook.com/LBugnion
+  - title: Instagram
+    url: https://www.instagram.com/LBugnion
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/12233/lbugnion
+  - title: LinkedIn
+    url: https://linkedin.com/in/LBugnion
 location:
   display: Wallisellen, Bülach, Switzerland
   lat: 47.417478

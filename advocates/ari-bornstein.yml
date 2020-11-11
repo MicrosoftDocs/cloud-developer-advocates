@@ -4,6 +4,8 @@ name: Ari Bornstein
 metadata:
   title: Ari Bornstein - Cloud Advocate
   description: Home page for Ari Bornstein, a Microsoft Cloud Developer Advocate
+  ms.author: abornst
+  team: aiml
 remarks: |
   ## Bio
   I am an avid AI enthusiast with a passion for engaging with new technologies, history, and computational medicine.
@@ -32,9 +34,13 @@ tagline: Data / AI / ML
 image:
   alt: "Ari Cloud Developer Advocate"
   src: media/profiles/ari-bornstein.png
-twitter: https://twitter.com/pythiccoder
-github: https://github.com/aribornstein
-linkedin: https://www.linkedin.com/in/aaron-ari-bornstein-22aa7a77
+connect:
+  - title: Twitter
+    url: https://twitter.com/pythiccoder
+  - title: GitHub
+    url: https://github.com/aribornstein
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aaron-ari-bornstein-22aa7a77
 location:
   display: Tel Aviv, Israel
   lat: 32.081359

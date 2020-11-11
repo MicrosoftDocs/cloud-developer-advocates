@@ -4,6 +4,8 @@ name: Todd Anglin
 metadata:
   title: Todd Anglin - Cloud Advocate
   description: Home page for Todd Anglin, a Microsoft Cloud Advocate
+  ms.author: toanglin
+  team: m365
 remarks: |
   ## Bio
   Hi. I'm Todd, a Principal Cloud Advocate Lead here at Microsoft.
@@ -25,13 +27,21 @@ remarks: |
   * [Videos on Vimeo] (https://vimeo.com/toddanglin)
 
 tagline: Web / Mobile Development
+
 image:
   alt: "Todd Anglin Cloud Advocate"
   src: media/profiles/todd-anglin.png
-twitter: https://twitter.com/toddanglin
-github: https://github.com/toddanglin
-stackoverflow: https://stackoverflow.com/users/54305/todd
-linkedin: https://linkedin.com/in/toddanglin
+
+connect:
+  - title: Twitter
+    url: https://twitter.com/toddanglin
+  - title: GitHub
+    url: https://github.com/toddanglin
+  - title: StackOverflow 
+    url: https://stackoverflow.com/users/54305/todd
+  - title: LinkedIn
+    url: https://linkedin.com/in/toddanglin
+#twitch: https://www.twitch.tv/toddanglin
 location:
   display: The Woodlands, Texas, United States
   lat: 30.168403

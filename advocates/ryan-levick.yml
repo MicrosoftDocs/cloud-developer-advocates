@@ -4,6 +4,8 @@ name: Ryan Levick
 metadata:
   title: Ryan Levick - Cloud Advocate
   description: Home page for Ryan Levick, a Microsoft Cloud Advocate
+  ms.author: rylevick
+  team: rust
 remarks: |
   ## Bio
   I’m a developer advocate working in Berlin, Germany. I joined Microsoft via the acquisition of Wunderlist. I’ve spent my career building apps on the server and client side and exploring a wide range of open source technologies with a particular focus on functional programming.
@@ -23,10 +25,15 @@ tagline: Rust / Functional Programming / JavaScript/TypeScript / Architecture
 image:
   alt: "Ryan Levick, Cloud Advocate"
   src: media/profiles/ryan-levick.jpg
-twitter: https://twitter.com/ryan_levick
-github: https://github.com/rylev
-blog: http://blog.ryanlevick.com
-linkedin: https://www.linkedin.com/in/ryanlevick/
+connect:
+  - title: Twitter  
+    url: https://twitter.com/ryan_levick
+  - title: GitHub
+    url: https://github.com/rylev
+  - title: Blog
+    url: http://blog.ryanlevick.com
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/ryanlevick/
 location:
   display: Berlin, Germany
   lat: 52.515816

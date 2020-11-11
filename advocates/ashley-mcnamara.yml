@@ -4,6 +4,8 @@ name: Ashley McNamara
 metadata:
   title: Ashley McNamara - Cloud Advocate
   description: Home page for Ashley McNamara, a Microsoft Cloud Developer Advocate
+  ms.author: ashmc
+  team: opensource
 remarks: |
   ## Bio
   I've been in the tech industry for almost 20 years, though not always in the most traditional ways. 
@@ -17,12 +19,21 @@ tagline: Linux
 image:
   alt: "Ashley McNamara Cloud Developer Advocate"
   src: media/profiles/ashley-mcnamara.png
-twitter: https://twitter.com/ashleymcnamara
-github: https://github.com/ashleymcnamara
-blog: http://medium.com/@ashleymcnamara
-facebook: https://facebook.com/ashley.mcnamara1
-instagram: https://www.instagram.com/ashleymcnamara
-linkedin: https://linkedin.com/in/ashleymcnamara1
+connect:
+  - title: Twitter
+    url: https://twitter.com/ashleymcnamara
+  - title: GitHub
+    url: https://github.com/ashleymcnamara
+  - title: Blog
+    url: http://medium.com/@ashleymcnamara
+  - title: Facebook
+    url: https://facebook.com/ashley.mcnamara1
+  - title: Instagram
+    url: https://www.instagram.com/ashleymcnamara
+  - title: LinkedIn
+    url: https://linkedin.com/in/ashleymcnamara1
+  - title: YouTube
+    url: https://www.youtube.com/ashleymcnamara
 location:
   display: Redmond, Washington, United States
   lat: 47.679194

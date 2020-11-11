@@ -4,9 +4,11 @@ name: Pierre Roman
 metadata:
   title: Pierre Roman - Senior Cloud Advocate
   description: Home page for Pierre Roman, a Microsoft Senior Cloud Advocate
+  ms.author: pierrer
+  team: modops
 remarks: |
   ## Bio
-  Pierre Roman engages with the operations and infrastructure communities on behalf of Microsoft. His role is to listen to the concerns of the communities and bring that informatioon back to the Azure Engineering Team in order to improve the platform. With over 25 years of experience in the industry, Pierre brings a well-rounded view of the Ops/infra lifecycle. His experiences enable him to relate to his audiences and cultivate relationships at all levels (from the nuts and bolts guy/gal to management.) He’s a husband, a dad, a hockey fan, a gadget freak and a geek. Pierre is always ready for a conversation (in English or français - naturellement).
+  Pierre Roman engages with the operations and infrastructure communities on behalf of Microsoft. His role is to listen to the concerns of the communities and bring that information back to the Azure Engineering Team in order to improve the platform. With over 25 years of experience in the industry, Pierre brings a well-rounded view of the Ops/infra lifecycle. His experiences enable him to relate to his audiences and cultivate relationships at all levels (from the nuts and bolts guy/gal to management.) He’s a husband, a dad, a hockey fan, a gadget freak and a geek. Pierre is always ready for a conversation (in English or français - naturellement).
   
   ## Skills
   * Infrastructure
@@ -19,9 +21,15 @@ tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
 image:
   alt: "Pierre Roman Senior Cloud Advocate"
   src: media/profiles/Pierre-Roman.jpg
-twitter: https://twitter.com/WiredCanuck
-blog: https://itopstalk.com/
-linkedin: https://www.linkedin.com/in/pierreroman/
+connect:
+  - title: Twitter
+    url: https://twitter.com/WiredCanuck
+  - title: Blog
+    url: https://itopstalk.com/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/pierreroman/
+  - title: GitHub
+    url: https://github.com/pierreroman
 
 location: 
   display: Ottawa, Ontario, Canada

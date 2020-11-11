@@ -4,6 +4,8 @@ name: Tania Allard
 metadata:
   title: Tania Allard - Cloud Developer Advocate 
   description: Home page for Tania Allard, a Microsoft Cloud Developer Advocate
+  ms.author: taallard
+  team: academic
 remarks: |
   ## Bio
   Tania is a Developer advocate at Microsoft. She holds a PhD from the University of Manchester (UK).
@@ -29,9 +31,13 @@ tagline: Data Science / ML / Research engineering / MLOps
 image:
   alt: "Tania Allard Developer Advocate"
   src: media/profiles/tania-allard.jpg
-twitter: https://twitter.com/ixek
-github: https://github.com/trallard
-linkedin: https://www.linkedin.com/in/taniasanchezmonroy/
+connect: 
+  - title: Twitter
+    url: https://twitter.com/ixek
+  - title: GitHub
+    url: https://github.com/trallard
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/taniasanchezmonroy/
 location:
   display: Manchester, United Kingdom
   lat: 53.483959

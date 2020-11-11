@@ -1,0 +1,53 @@
+### YamlMime:Profile
+uid: advocates.waldek-mastykarz
+name: Waldek Mastykarz
+metadata:
+  title: Waldek Mastykarz - Cloud Developer Advocate
+  description: Home page for Waldek Mastykarz, a Microsoft Cloud Developer Advocate
+  ms.author: wmastyka
+  team: m365
+remarks: |
+  ## Bio
+  Waldek is a Cloud Developer Advocate at Microsoft focusing on Microsoft 365. In this role he helps developers build applications on top of Microsoft 365. He's also a part of Microsoft 365 Patterns and Practices where he builds developer guidance and tooling for extending Microsoft 365 together with the community.
+  
+  Before joining Microsoft, Waldek was working with different Microsoft partners in the Microsoft 365 space. For sharing his experience through his blog, speaking and social media, Waldek was a 12-time Microsoft MVP.
+
+  ## Skills 💡
+  * Microsoft Graph
+  * Microsoft Teams
+  * SharePoint Framework (SPFx)
+  * Node.js
+  * TypeScript
+  * JavaScript
+  * Identity
+  * Azure Serverless
+  * Power Platform
+  * React
+  * C#
+  * Docker
+
+  ## My Projects 👨‍💻
+  * [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365)
+  * [SPFx docker image](https://hub.docker.com/r/waldekm/spfx)
+
+tagline: Microsoft 365
+image:
+  alt: "Waldek Mastykarz Cloud Developer Advocate"
+  src: media/profiles/waldek-mastykarz.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/waldekm
+  - title: GitHub
+    url: https://github.com/waldekmastykarz
+  - title: Blog
+    url: https://blog.mastykarz.nl
+  - title: Dev
+    url: https://dev.to/waldekmastykarz
+  - title: LinkedIn
+    url: https://linkedin.com/in/waldekmastykarz
+  - title: Facebook
+    url: https://facebook.com/waldek
+location:
+  display: Alphen aan den Rijn, The Netherlands
+  lat: 52.13476
+  long: 4.658296

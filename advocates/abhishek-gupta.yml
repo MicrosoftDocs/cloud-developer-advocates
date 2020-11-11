@@ -1,0 +1,37 @@
+### YamlMime:Profile
+uid: advocates.abhishek-gupta
+name: Abhishek Gupta
+metadata:
+  title: Abhishek Gupta - Senior Cloud Advocate
+  description: Home page for Abhishek Gupta, a Microsoft Cloud Developer Advocate
+  ms.author: abhishgu
+  team: data
+remarks: |
+  ## Bio
+  I love distributed systems, databases, open source and experimenting with programming languages. My background has been that of an engineer, consultant and before joining Microsoft I was a Product Manager helping build developer focused PaaS products.
+
+  ## Skills
+  * NoSQL
+  * Kafka
+  * Java, Go
+  * Kubernetes
+  * Open Source
+  * Azure
+
+tagline: NoSQL / Kafka / Kubernetes / Open Source
+image:
+  alt: "Abhishek Gupta Cloud Developer Advocate"
+  src: media/profiles/abhishek-gupta.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/abhi_tweeter
+  - title: Blog
+    url: https://medium.com/@abhishek1987
+  - title: GitHub
+    url: https://github.com/abhirockzz
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/abhirockzz/
+location:
+  display: New Delhi, India
+  lat: 28.6000
+  long: 77.2000

@@ -4,6 +4,8 @@ name: Brian Benz
 metadata:
   title: Brian Benz - Cloud Advocate
   description: Home page for Brian Benz, a Microsoft Cloud Developer Advocate
+  ms.author: bbenz
+  team: java
 remarks: |
   ## Bio
   Brian is a Senior Developer Advocate at Microsoft, helping Java developers to get the most out of Azure. Before Joining Microsoft, he was a solution architect, consultant, developer, author and presenter at IBM, Deloitte, and other companies. 
@@ -17,11 +19,17 @@ tagline: Java
 image:
   alt: "Brian Benz Cloud Developer Advocate"
   src: media/profiles/brian-benz.png 
-twitter: https://twitter.com/bbenz
-github: https://github.com/bbenz
-blog: http://medium.com/@bbenz
-stackoverflow: https://stackoverflow.com/users/2716150/bbenz
-linkedin: https://linkedin.com/in/brianbenz
+connect:
+  - title: Twitter
+    url: https://twitter.com/bbenz
+  - title: GitHub
+    url: https://github.com/bbenz
+  - title: Blog
+    url: http://medium.com/@bbenz
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/2716150/bbenz
+  - title: LinkedIn
+    url: https://linkedin.com/in/brianbenz
 location:
   display: Las Vegas, Nevada, United States
   lat: 36.23005
