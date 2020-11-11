@@ -827,6 +827,16 @@ profiles:
     display: DeLand, Florida, United States
     lat: 29.022108
     long: -81.312887
+- uid: advocates.shiny-zhu
+  name: Shiny Zhu
+  tagline: PM / .NET / JavaScript / Serverless
+  image:
+    src: media/profiles/shiny-zhu.png 
+    alt: "Shiny Zhu Cloud Advocate PM"
+  location: 
+    display: Shanghai, China
+    lat: 31.023138
+    long: 121.453640
 - uid: advocates.shmuela-jacobs
   name: Shmuela Jacobs
   tagline: JavaScript / Web
