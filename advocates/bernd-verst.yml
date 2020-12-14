@@ -5,7 +5,7 @@ metadata:
   title: Bernd Verst - Senior Cloud Advocate
   description: Home page for Bernd Verst, a Microsoft Cloud Developer Advocate
   ms.author: beverst
-  team: python
+  team: academic
 remarks: |
   ## Bio
   From government cloud architecture to machine learning startups and social media companies my background spans a variety of industries and techologies. I have always had one foot deep into the technology and one foot into all ancillary non-technical discplines. I enjoy creating great developer experiences for new engineers and students. On the Academic Advocacy subteam I focus on Microsoft's Hackathon strategy and co-lead the Healthcare Social Impact League of the Microsoft Learn Student Ambassador program.
@@ -18,11 +18,11 @@ remarks: |
   * Storage & API backend architecture (from PostgreSQL to Cassandra, Serverless to Kubernetes)
 
   ## Selected projects
-  * [Kubeflow](https://kubeflow.org) - I am a contributor to the Tensorflow on Kubernetes OSS project
-  * [Microsoft Learn TV](https://docs.microsoft.com/learn?WT.mc_id=beverst-caprofile-github) - I co-created the first iteration of this video streaming platform
+  * [Kubeflow](https://kubeflow.org) - I am a contributor to the Tensorflow on Kubernetes OSS project, maintaining the Azure releases
+  * [Microsoft Learn TV](https://docs.microsoft.com/learn) - I co-created the first iteration of this video streaming platform
   * [Outlook vitually categorized](https://github.com/berndverst/outlook-categorized) - A tool for easily applying some advanced productivity settings to our O365 account
 
-tagline: Linux / Python / Backend & Storage Systems
+tagline: Linux & Cloud Native / Python / Backend & Storage Systems
 image:
   alt: "Bernd Verst Senior Cloud Advocate"
   src: media/profiles/bernd-verst.png 
