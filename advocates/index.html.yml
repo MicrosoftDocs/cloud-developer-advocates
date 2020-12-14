@@ -189,7 +189,7 @@ profiles:
     long: 144.946457
 - uid: advocates.bernd-verst
   name: Bernd Verst
-  tagline: Linux / Python / Backend & Storage Systems
+  tagline: Linux & Cloud Native / Python / Backend & Storage Systems
   image:
     src: media/profiles/bernd-verst.png 
     alt: "Bernd Verst Senior Cloud Advocate"
