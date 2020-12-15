@@ -105,6 +105,12 @@ namespace AdvocateValidation
 
             var imageSize = ImageService.GetDimensions(binaryReader);
 
+            if(imageSize.Height <= 0)
+                throw new Exception($"Invalid Image Height (must be greater than 0): {filePath}");
+
+            if (imageSize.Width <= 0)
+                throw new Exception($"Invalid Image Width (must be greater than 0): {filePath}");
+
             if (imageSize.Height != imageSize.Width)
                 throw new Exception($"Invalid Image (Height and Width must be equal): {filePath}");
 
