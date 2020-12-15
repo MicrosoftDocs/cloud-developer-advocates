@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Threading.Tasks;
 using YamlDotNet.Serialization;
 
@@ -31,6 +32,12 @@ namespace AdvocateValidation
 
             await foreach (var (filePath, advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
             {
+                if (string.IsNullOrWhiteSpace(advocate?.Metadata.Alias))
+                    throw new Exception($"Missing Microsoft Alias: {filePath}");
+
+                if (string.IsNullOrWhiteSpace(advocate.Metadata.Team))
+                    throw new Exception($"Missing Team: {filePath}");
+
                 var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))?.Url;
                 var twitterUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(twitter, StringComparison.OrdinalIgnoreCase))?.Url;
                 var linkedInUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(linkedIn, StringComparison.OrdinalIgnoreCase))?.Url;
@@ -39,11 +46,7 @@ namespace AdvocateValidation
                 EnsureValidUri(filePath, twitterUri, twitter);
                 EnsureValidUri(filePath, linkedInUri, linkedIn);
 
-                if (string.IsNullOrWhiteSpace(advocate.Metadata.Alias))
-                    throw new Exception($"Missing Microsoft Alias: {filePath}");
-
-                if (string.IsNullOrWhiteSpace(advocate.Metadata.Team))
-                    throw new Exception($"Missing Team: {filePath}");
+                EnsureValidImage(filePath, advocate.Image);
 
                 advocateList.Add(advocate);
             }
@@ -85,6 +88,28 @@ namespace AdvocateValidation
 
             if (!uri.IsWellFormedOriginalString())
                 throw new Exception($"Invalid {uriName} Url: {filePath}");
+        }
+
+        static void EnsureValidImage(in string filePath, in Image? cloudAdvocateImage)
+        {
+            if (cloudAdvocateImage is null)
+                throw new Exception($"Image Source Missing: {filePath}");
+
+            if (string.IsNullOrWhiteSpace(cloudAdvocateImage.Src))
+                throw new Exception($"Image Source Missing: {filePath}");
+
+            var filePathRelativeToValidation = Path.Combine(_advocatesPath, cloudAdvocateImage.Src);
+
+            var fileStream = new FileStream(filePathRelativeToValidation, FileMode.Open);
+            var binaryReader = new BinaryReader(fileStream, Encoding.UTF8);
+
+            var imageSize = ImageService.GetDimensions(binaryReader);
+
+            if (imageSize.Height != imageSize.Width)
+                throw new Exception($"Invalid Image (Height and Width must be equal): {filePath}");
+
+            if (cloudAdvocateImage.Alt is null)
+                throw new Exception($"Image Alt Text Missing: {filePath}");
         }
     }
 }
