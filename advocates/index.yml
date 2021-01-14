@@ -511,6 +511,17 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: sethjuarez
+- uid: advocates.shannon-kuehn
+  name: Shannon Kuehn
+  tagline: Azure / Infrastructure / Operations
+  image:
+    src: media/profiles/shannon-kuehn.png
+    alt: "Shannon Kuehn Cloud Advocate"
+  location:
+    display: Chicago, IL, United States
+    lat: 41.881832
+    long: -87.623177
+  twitter: shankuehn
 - uid: advocates.shayne-boyer
   name: Shayne Boyer
   tagline: .NET

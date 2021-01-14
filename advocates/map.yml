@@ -815,7 +815,7 @@ profiles:
     long: -122.153322
 - uid: advocates.shannon-kuehn
   name: Shannon Kuehn
-  tagline: Azure / Infrastructure / Operations / 
+  tagline: Azure / Infrastructure / Operations
   image:
     src: media/profiles/shannon-kuehn.png
     alt: "Shannon Kuehn Cloud Advocate"
