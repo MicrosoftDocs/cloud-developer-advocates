@@ -20,10 +20,9 @@ namespace AdvocateValidation
 
         readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
 
-        static async Task Main(string[] args)
+        static async Task Main()
         {
             const string gitHub = "GitHub";
-            const string linkedIn = "LinkedIn";
 
             var advocateList = new List<CloudAdvocateYamlModel>();
 
@@ -38,10 +37,8 @@ namespace AdvocateValidation
                     throw new Exception($"Missing Team: {filePath}");
 
                 var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))?.Url;
-                var linkedInUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(linkedIn, StringComparison.OrdinalIgnoreCase))?.Url;
 
                 EnsureValidUri(filePath, gitHubUri, gitHub);
-                EnsureValidUri(filePath, linkedInUri, linkedIn);
 
                 EnsureValidImage(filePath, advocate.Image);
 
@@ -53,6 +50,8 @@ namespace AdvocateValidation
             {
                 throw new Exception($"Duplicate Alias Found; ms.author: {duplicateAlias}");
             }
+
+            Console.WriteLine("Validation Completed Successfully");
         }
 
         static async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAdvocateYmlFiles(IEnumerable<string> files)
