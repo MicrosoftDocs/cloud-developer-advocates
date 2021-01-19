@@ -424,7 +424,7 @@ profiles:
     src: media/profiles/emily-freeman.png
     alt: "Emily Freeman Cloud Developer Advocate"
   location: 
-    display: Denver, Colorado, United States
+    display: Colorado, United States
     lat: 39.7392
     long: -104.9903
 - uid: advocates.em-lazerwalker
