@@ -23,7 +23,6 @@ namespace AdvocateValidation
         static async Task Main(string[] args)
         {
             const string gitHub = "GitHub";
-            const string twitter = "Twitter";
             const string linkedIn = "LinkedIn";
 
             var advocateList = new List<CloudAdvocateYamlModel>();
@@ -39,11 +38,9 @@ namespace AdvocateValidation
                     throw new Exception($"Missing Team: {filePath}");
 
                 var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))?.Url;
-                var twitterUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(twitter, StringComparison.OrdinalIgnoreCase))?.Url;
                 var linkedInUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(linkedIn, StringComparison.OrdinalIgnoreCase))?.Url;
 
                 EnsureValidUri(filePath, gitHubUri, gitHub);
-                EnsureValidUri(filePath, twitterUri, twitter);
                 EnsureValidUri(filePath, linkedInUri, linkedIn);
 
                 EnsureValidImage(filePath, advocate.Image);
