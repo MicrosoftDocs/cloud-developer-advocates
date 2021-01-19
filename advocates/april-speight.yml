@@ -8,21 +8,21 @@ metadata:
   team: spatial
 remarks: |
   ## Bio
-  I've been in the tech industry for 7 years after a career in luxury fashion as a menswear stylist and visual merchandiser. I love working with bots and voice enabled devices. However, I'm currently creating new realities within the world of spatial computing!
-
-  I like meeting new coders and people on their journey to transition into the tech industry. I provide advice and code tutorials on both my [website](https://www.joincomputerclub.com) and [YouTube](https://www.youtube.com/c/vogueandcode) channel. In my spare time, you can either find me crafting or scratchin' on turntables! 
-
+    April Speight is an author and developer advocate based in Beverly Hills, CA. She began her professional career in the luxury and fashion industry and later transitioned into tech as a project manager and systems analyst. Her programming journey began with Python which led to her first published title [Bite-Size Python: An Introduction to Python Programming](https://www.wiley.com/en-us/Bite+Size+Python%3A+An+Introduction+to+Python+Programming-p-9781119643821). During the summer of July 2019, she saw her first HoloLens 2 demo which integrated speech translation in real-time. This demo was the spark to her career in Mixed Reality.
+    
+    In January 2020, she and a team of 4 ambitious developers created Spell Bound, a VR learning experience designed to help children with dyslexia and dysgraphia learn letter formation and word recognition. Their team won Best in Learning, Education and Research as well as Best in Health and Wellness + Medical at the MIT Reality Hack. She has since taken on a role as a Sr. Cloud Advocate with the Spatial Computing technology team at Microsoft helping to onboard beginners in the XR space.
+  
   ## Skills
   * Python
   * HoloLens
   * Spatial Computing
+  * Mixed Reality Toolkit
 
   ## My Projects
+  * [Made with MRTK: Spatial Awareness](https://github.com/aprilspeight/mrtk-spatial-awareness), an introductory lesson on the MRTK Spatial Awareness system
+  * [Made with MRTK: Mixed Reality Museum](https://github.com/aprilspeight/mrtk-mr-museum), how to create an interactive holographic museum exhibit
   * [NASA Count Down](https://www.twilio.com/blog/nasa-astronomy-picture-day-scheduled-sms-python-twilio-azure-functions), Azure Functions Timer Trigger daily SMS count down
-  * [Take a Break](https://www.voguendcode.com/posts/take-a-break), daily SMS reminder to disconnect and take a break
-  * [Monty](https://www.vogueandcode.com/posts/monty), a bot designed to answer your Python questions
   * [Am I Talking to a Bot?](https://www.youtube.com/watch?v=CuXchWYvemY&list=PLqrz4nXepkz5ZT-bRpdhmqrpu4fiLckfu&index=26&t=0s), a talk on conversational design principles for building bots
-  * [How I'm Feeling](https://www.vogueandcode.com/posts/how-im-feeling), communicate your emotional state with the click of a Flic button
 
 tagline: Mixed Reality / HoloLens / Spatial Computing
 image:
@@ -38,7 +38,9 @@ connect:
   - title: LinkedIn
     url: https://www.linkedin.com/in/aprilspeight
   - title: Twitch
-    url: https://www.twitch.tv/vogueandcode 
+    url: https://www.twitch.tv/vogueandcode
+  - title: YouTube
+    url: https://www.youtube.com/c/vogueandcode)  
 
 location:
   display: Beverly Hills, CA
