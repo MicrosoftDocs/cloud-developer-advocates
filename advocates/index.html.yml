@@ -524,9 +524,9 @@ profiles:
     src: media/profiles/jay-gordon.png
     alt: "Jay Gordon Cloud Advocate"
   location: 
-    display: New York, New York, United States
-    lat: 40.703830518
-    long: -74.005666644
+    display: Brooklyn, New York, United States
+    lat: 40.6701033
+    long: -73.9859723
 - uid: advocates.jeff-sandquist
   name: Jeff Sandquist
   tagline: Change invigorates the soul
