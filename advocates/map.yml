@@ -673,6 +673,16 @@ profiles:
     display: Portland, Oregon, United States
     lat: 45.512794
     long: -122.679565
+- uid: advocates.orin-thomas
+  name: Orin Thomas
+  tagline: IT Infrastructure / Operations / IT Pro / Azure   
+  image:
+    src: media/profiles/orin-thomas.png
+    alt: "Orin Thomas Cloud Operations Advocate"
+  location: 
+    display: Melbourne, Victoria, Australia
+    lat: -37.48
+    long: 144.57
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
   tagline: Containers
