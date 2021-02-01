@@ -4,6 +4,8 @@ name: Aaron Schlesinger
 metadata:
   title: Aaron Schlesinger - Cloud Advocate
   description: Home page for Aaron Schlesinger, a Microsoft Cloud Developer Advocate
+  ms.author: aaschles
+  team: opensource
 remarks: |
   ## Bio
   Aaron is is a Senior Cloud Developer Advocate focusing on Go, containers and
@@ -17,11 +19,10 @@ remarks: |
   Mac team to distributed systems engineer for a major online gaming company.
 
   He is currently a core maintainer of the
-  [Athens project](https://github.com/gomods/athens), runs the North American
-  [Go Study Group](https://gophersource.com/study-group/), and created and runs
+  [Athens project](https://github.com/gomods/athens) and created and runs
   the [Go in 5 Minutes screencast series](https://goin5minutes.com).
 
-  He lives in San Mateo, CA and in his spare time he loves learning new
+  He lives in Portland, OR and in his spare time he loves learning new
   languages (spoken and computer!) and racing his wife up and down mountains.
 
   ## Skills
@@ -46,6 +47,6 @@ connect:
   - title: Twitch
     url: https://www.twitch.tv/arschles
 location:
-  display: San Mateo, CA, United States
-  lat: 37.5630556
-  long: -122.3244444
+  display: Portland, OR, United States
+  lat: 45.512230
+  long: -122.658722

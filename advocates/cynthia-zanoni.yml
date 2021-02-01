@@ -4,6 +4,8 @@ name: Cynthia Zanoni
 metadata:
   title: Cynthia Zanoni - Cloud Advocate Program Manager
   description: Home page for Cynthia Zanoni, a Microsoft Cloud Advocate Program Manager
+  ms.author: cyzanon
+  team: opensource
 remarks: |
   ## Bio
   Cynthia Zanoni is a Developer Relations Program Manager (Cloud & AI) at Microsoft, leading initiatives in LATAM, focusing on advocating for technical communities and developers, helping them to grow, taking new skills and building epic stuff. Her background is dedicated to open source development, having 10+ years of experience with JavaScript, Node.js, Web Accessibility, PHP and Python. 

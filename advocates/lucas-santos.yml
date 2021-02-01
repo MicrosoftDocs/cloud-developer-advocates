@@ -4,6 +4,8 @@ name: Lucas Santos
 metadata:
   title: Lucas Santos - Content Engineer
   description: Home page for Lucas Santos, a Microsoft Cloud Advocate
+  ms.author: ludossan
+  team: opensource
 remarks: |
   ## Bio
     Technology lover and, since 2011, works with highly available and scalable applications. Loves to teach and learn, writer of "Kubernetes: Everything you need to know about container orchestration". Former Microsoft Most Valued Professional and active Google Developer Expert. Member & Contributor to the Node.js Foundation, helping to translate the Node.js runtime documentation to Portuguese. Acts as technical author at iMasters hub, one of the biggest Brazilian tech websites. Also is one of the core members of several awesome communities such as NodeBR, JSSP, VueJs SP, Typescript BR, NodeSchool SP, TrainingCenter and ABCDev. Homebrewer in free time loves music, photography, and games! Always seeking the unknown and believes the impossible is just lack of trying

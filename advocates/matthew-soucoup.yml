@@ -4,6 +4,8 @@ name: Matthew Soucoup
 metadata:
   title: Matthew Soucoup - Sr. Cloud Developer Advocate
   description: Home page for Matthew Soucoup, a Microsoft Senior Cloud Developer Advocate
+  ms.author: masoucou
+  team: mobile
 remarks: |
   ## Bio
   Matthew Soucoup is a Senior Cloud Developer Advocate at Microsoft spreading the love of integrating Azure with Xamarin. Matt is also a Pluralsight author, a Telerik Developer Expert and prior to joining Microsoft a founder of a successful consulting firm targeting .NET and web development. Matt loves sharing his passion and insight for mobile and cloud development by blogging, writing articles, and presenting at conferences such as Xamarin Evolve, CodeMash, VS Live, and Mobile Era. When not behind a computer screen, Matt gardens hot peppers, rides bikes, and loves Wisconsin micro-brews and cheese. Follow Matt on Twitter at @codemillmatt and his personal blog at codemilltech.com.

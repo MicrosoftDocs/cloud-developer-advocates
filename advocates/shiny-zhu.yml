@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: advocates.shiny-zhu
+name: Shiny Zhu
+metadata:
+  title: Shiny Zhu - Cloud Advocate PM
+  description: Home page for Shiny Zhu, a Microsoft Cloud Advocate PM
+  ms.author: xinglzhu
+  team: opensource
+remarks: |
+  ## Bio
+  I am a Community Advocacy PM from DevRel team. Previously worked in air travel industry as a full stack developer.
+  
+  I have been active in developer community and now focus on helping developers skilling up with open source and cloud computing.
+
+  ## Skills
+  * PM
+  * .NET
+  * JavaScript
+  * Serverless
+
+tagline: PM / .NET / JavaScript / Serverless
+image:
+  alt: "Shiny Zhu Cloud Advocate PM"
+  src: media/profiles/shiny-zhu.png 
+connect: 
+  - title: Twitter
+    url: https://twitter.com/shinyzhu
+  - title: GitHub
+    url: https://github.com/shinyzhu
+  - title: LinkedIn
+    url: https://linkedin.com/in/shinyzhu
+location:
+  display: Shanghai, China
+  lat: 31.023138
+  long: 121.453640

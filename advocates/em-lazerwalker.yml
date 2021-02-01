@@ -4,6 +4,8 @@ name: Em Lazer-Walker
 metadata:
   title: Em Lazer-Walker - Cloud Advocate
   description: Home page for Em Lazer-Walker, a Microsoft Cloud Advocate
+  ms.author: emwalker
+  team: spatial
 remarks: |
   ## Bio
   Em (she/her or they/them) is a Cloud Advocate for Microsoft based in Toronto. She’s an artist/engineer who makes interactive art, experimental games, and open-source software tools to empower creativity. Most of her work focuses on using nontraditional interfaces to reframe everyday objects and spaces as playful experiences and to inspire people to become self-motivated learners. 

@@ -4,6 +4,8 @@ name: Damian Brady
 metadata:
   title: Damian Brady - Cloud Advocate
   description: Home page for Damian Brady, a Microsoft Cloud Advocate
+  ms.author: dabrady
+  team: devops
 remarks: |
   ## Bio
   Damian is a Cloud Advocate specializing in DevOps and MLOps. After spending a year in Toronto, Canada, he returned to Australia - the land of the dangerous creatures and beautiful beaches - in 2018.
@@ -16,13 +18,13 @@ remarks: |
  
   ## Skills
   * DevOps
-  * DevOps for Machine Learning
+  * DevOps for Machine Learning (MLOps)
   * ASP.NET
   * Software architecture
   * Process architecture
   * Self-inflicted sports injuries
 
-tagline: DevOps
+tagline: DevOps / MLOps
 image:
   alt: "Damian Brady Cloud Advocate"
   src: media/profiles/damian-brady.png
@@ -38,6 +40,6 @@ connect:
   - title: LinkedIn
     url: https://linkedin.com/in/damianbrady
 location:
-  display: Byron Bay, Australia
-  lat: -28.647400
-  long: 153.602000
+  display: Brisbane, Australia
+  lat: -27.471300
+  long: 153.023800

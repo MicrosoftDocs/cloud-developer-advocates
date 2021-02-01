@@ -4,6 +4,8 @@ name: Jeramiah Dooley
 metadata:
   title: Jeramiah Dooley - Sr. Cloud Operations Advocate
   description: Home page for Jeramiah Dooley, a Microsoft Cloud Operations Advocate
+  ms.author: jedooley
+  team: modops
 remarks: |
   ## Bio
   I have worked in almost every technical capacity, from network engineering, to systems design, to pre-sales engineering to product management to service delivery to product development, and I have loved all of it.

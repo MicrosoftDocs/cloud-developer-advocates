@@ -4,6 +4,8 @@ name: Madoka Chiyoda
 metadata:
   title: Madoka Chiyoda (Chomado) - Cloud Developer Advocate
   description: Home page for Madoka Chiyoda, a Microsoft Cloud Developer Advocate
+  ms.author: machiy
+  team: dotnet
 remarks: |
   ## Video
   > [!VIDEO https://www.youtube.com/embed/y2CLT9LgmOk?t=19]

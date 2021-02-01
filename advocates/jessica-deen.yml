@@ -4,6 +4,8 @@ name: Jessica Deen
 metadata:
   title: Jessica Deen - Cloud Advocate
   description: Home page for Jessica Deen, a Microsoft Cloud Developer Advocate
+  ms.author: jessde
+  team: devops
 remarks: |
   ## Bio
   Jessica is a Cloud Developer Advocate for Microsoft focusing on Azure, infrastructure, containers, Linux and open source. Prior to joining Microsoft, she spent over a decade as an IT Consultant / Systems Administrator for various corporate and enterprise environments, catering to end users and IT professionals in the San Francisco Bay Area. Jessica holds three Microsoft Certifications (MCP, MSTS, Azure Infrastructure), 3 CompTIA certifications (A+, Network+, and Security+), 4 Apple Certifications, and is a former 4-year Microsoft Most Valuable Professional for Windows and Devices for IT. In 2013, she also achieved her FEMA certification from the U.S Department of Homeland Security, which recognizes her leadership and influence abilities during times of crisis and emergency.

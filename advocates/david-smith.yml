@@ -4,24 +4,26 @@ name: David Smith
 metadata:
   title: David Smith - Cloud Advocate
   description: Home page for David Smith, a Microsoft Cloud Developer Advocate
+  ms.author: davidsmi
+  team: opensource
 remarks: |
   ## Bio
-  I trained as a statistician at the University of Adelaide (Australia) and Lancaster University (UK), 
-  but these days I'm a data scientist -- I love the working at the intersection of data analysis, 
-  computer science and communications. I've been working with statistical software my entire career: 
-  first with S-PLUS, and then with R. Since 2008, I've been writing regularly about R and data science 
-  at the [Revolutions blog](http://blog.revolutionanalytics.com/), and I'm a founding member of 
+  I lead the JavaScript team for Microsoft Cloud Advocates.
+  
+  My background is in Data Science: I trained as a statistician at the University of Adelaide (Australia) and Lancaster University (UK), 
+  Since 2008, I've been writing regularly about R at the [Revolutions blog](http://blog.revolutionanalytics.com/), and I'm a founding member of 
   the [R Consortium](http://www.r-consortium.org/) board of directors.
   
-  In my personal time, I enjoy relaxing with my husband and our two Jack Russell terriers at home in Chicago. 
-  I love movies and pinball, and playing Destiny and Rock Band on the Xbox. I'm also a proud supporter and board member 
-  for the [Center on Halsted](http://centeronhalsted.org/) in Chicago.
+  In my personal time, I enjoy relaxing with my husband and our two Jack Russell terriers at home in the Napa Valley. 
+  I love movies and pinball, and playing Destiny and Rock Band on the Xbox. 
   
-  ## Skills
+  ## Interests
+  - Javascript
+  - AI
   - Data Science
   - Statistics
   - R
-tagline: AI / Data Science / R
+tagline: JavaScript / AI / Data Science / R
 image:
   alt: "David Smith Cloud Developer Advocate"
   src: media/profiles/david-smith.png
@@ -33,6 +35,6 @@ connect:
   - title: LinkedIn
     url: https://linkedin.com/in/dmsmith
 location:
-  display: Chicago, IL, USA
-  lat: 41.881832
-  long: -87.623177
+  display: Napa, CA, USA
+  lat: 38.2975381  
+  long: -122.286865
