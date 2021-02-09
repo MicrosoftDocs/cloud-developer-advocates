@@ -473,6 +473,16 @@ profiles:
     display: Rio de Janeiro, Brazil
     lat: -22.904491
     long: -43.190777
+- uid: advocates.gustavo-cordido
+  name: Gustavo Cordido
+  tagline: Spatial Computing / Mixed Reality / AI
+  image:
+    src: media/profiles/gustavo-cordido.jpg
+    alt: "Gustavo Cordido Cloud Advocate "
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.679194
+    long: -122.153322
 - uid: advocates.henk-boelman
   name: Henk Boelman
   tagline: AI / ML / Azure / DevOps
