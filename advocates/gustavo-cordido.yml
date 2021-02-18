@@ -4,6 +4,8 @@ name: Gustavo Cordido
 metadata:
   title: Gustavo Cordido - Software Engineering Intern
   description: Home page for Gustavo Cordido, a Microsoft Software Engineering Intern
+  ms.author: gcordido
+  team: spatial
 remarks: |
   ## Bio
   Originally from Caracas, Venezuela. I am passionate about technology for social good, and aim to give my projects some of that outlook. I currently work as part of the Spatial/Mixed Reality team.
@@ -26,6 +28,8 @@ connect:
     url: https://twitter.com/gcordidoa
   - title: LinkedIn
     url: https://www.linkedin.com/in/gcordidoa
+  - title: GitHub
+    url: https://github.com/gcordido
 
 location:
   display: Redmond, Washington, United States
