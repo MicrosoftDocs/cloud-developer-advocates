@@ -123,16 +123,6 @@ profiles:
     display: Beverly Hills, CA
     lat: 34.0736
     long: -118.4004
-- uid: advocates.ari-bornstein
-  name: Ari Bornstein
-  tagline: Data / AI / ML
-  image:
-    src: media/profiles/ari-bornstein.png
-    alt: "Ari Cloud Developer Advocate"
-  location: 
-    display: Tel Aviv, Israel
-    lat: 32.081359
-    long: 34.780957
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
   tagline: Linux
@@ -183,16 +173,6 @@ profiles:
     display: Melbourne, Australia
     lat: -37.840935
     long: 144.946457
-- uid: advocates.bernd-verst
-  name: Bernd Verst
-  tagline: Linux & Cloud Native / Python / Backend & Storage Systems
-  image:
-    src: media/profiles/bernd-verst.png 
-    alt: "Bernd Verst Senior Cloud Advocate"
-  location: 
-    display: Seattle, Washington, United States
-    lat: 47.679194
-    long: -122.153322
 - uid: advocates.bob-german
   name: Bob German
   tagline: Development on Microsoft 365 with Azure
@@ -323,16 +303,6 @@ profiles:
     display: Paris, France
     lat: 48.833968 
     long: 2.265598
-- uid: advocates.cynthia-zanoni
-  name: Cynthia Zanoni
-  tagline: Diversity & Inclusion, JavaScript, Web
-  image:
-    src: media/profiles/cynthia-zanoni.jpg
-    alt: "Cynthia Zanoni Cloud Advocate Program Manager"
-  location: 
-    display: São Paulo, Brazil
-    lat: -23.533773
-    long: -46.625290
 - uid: advocates.damian-brady
   name: Damian Brady
   tagline: DevOps / MLOps
@@ -403,16 +373,6 @@ profiles:
     display: Moscow, Russia
     lat: 55.751244
     long: 37.618423
-- uid: advocates.donovan-brown
-  name: Donovan Brown
-  tagline: DevOps
-  image:
-    src: media/profiles/donovan-brown.png 
-    alt: "Donovan Brown Cloud Developer Advocate"
-  location: 
-    display: Spring, Texas, US
-    lat: 30.08453
-    long: -95.41929
 - uid: advocates.emily-freeman
   name: Emily Freeman
   tagline: DevOps
@@ -903,16 +863,6 @@ profiles:
     display: Oconomowoc, Wisconsin, United States
     lat: 43.107377
     long: -88.543443
-- uid: advocates.tania-allard
-  name: Tania Allard
-  tagline: Data Science / ML / Research engineering / MLOps
-  image:
-    src: media/profiles/tania-allard.jpg
-    alt: "Tania Allard Developer Advocate"
-  location: 
-    display: Manchester, United Kingdom
-    lat: 53.483959
-    long: -2.244644
 - uid: advocates.thomas-lewis
   name: Thomas Lewis
   tagline: Mixed Reality / HoloLens
