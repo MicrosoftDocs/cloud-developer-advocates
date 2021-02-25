@@ -437,6 +437,16 @@ profiles:
     display: Rio de Janeiro, Brazil
     lat: -22.904491
     long: -43.190777
+- uid: advocates.gustavo-cordido
+  name: Gustavo Cordido
+  tagline: Spatial Computing / Mixed Reality / AI
+  image:
+    src: media/profiles/gustavo-cordido.jpg
+    alt: "Gustavo Cordido Cloud Advocate "
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.679194
+    long: -122.153322
 - uid: advocates.henk-boelman
   name: Henk Boelman
   tagline: AI / ML / Azure / DevOps
@@ -484,9 +494,9 @@ profiles:
     src: media/profiles/jay-gordon.png
     alt: "Jay Gordon Cloud Advocate"
   location: 
-    display: New York, New York, United States
-    lat: 40.703830518
-    long: -74.005666644
+    display: Brooklyn, New York, United States
+    lat: 40.6701033
+    long: -73.9859723
 - uid: advocates.jeff-sandquist
   name: Jeff Sandquist
   tagline: Change invigorates the soul
@@ -637,6 +647,16 @@ profiles:
     display: Portland, Oregon, United States
     lat: 45.512794
     long: -122.679565
+- uid: advocates.orin-thomas
+  name: Orin Thomas
+  tagline: IT Infrastructure / Operations / IT Pro / Azure   
+  image:
+    src: media/profiles/orin-thomas.png
+    alt: "Orin Thomas Cloud Operations Advocate"
+  location: 
+    display: Melbourne, Victoria, Australia
+    lat: -37.48
+    long: 144.57
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
   tagline: Containers
