@@ -5,7 +5,7 @@ metadata:
   title: Burke Holland - Developer Advocate - Gloriously Bald
   description: Home page for Burke Holland, a Microsoft Cloud Developer Advocate
   ms.author: buhollan
-  team: m365
+  team: devcloud
 remarks: |
   ## Bio 🔥
   Burke is a web developer living in Nashville, TN; the greatest city in the world. He likes JavaScript a lot because it's the only way he Node to Express himself. Get it? Is this thing on? 🎤
@@ -14,13 +14,11 @@ remarks: |
 
   Look, Burke blogs only slightly better than he codes and definitely not as good as he talks about himself in the third person. The legal requirement for living in Nashville is to play a 🎸, so Burke plays the bass and tries in vain to rekindle his dreams of rock stardom. He's also a huge fun of running, lengthy bios and sarcasm.
 
-  Burke works on the Azure team on behalf of JavaScript developers everywhere. You can find him on various social media networks and writing all the best words at <a href="https://www.burkeknowswords.com">burkeknowswords.com</a>
+  Burke works on VS Code, GitHub and Azure; helping to make these things work better, together. You can find him on various social media networks and writing all the best words at <a href="https://burkeholland.github.io">burkeholland.github.io</a>. He mains [Wrecking Ball](https://playoverwatch.com/en-us/heroes/wrecking-ball/).
 
   ## Skills 💡
   * JavaScript
   * Node.js
-  * React
-  * NativeScript
   * Napping
   * Making lists of skills
 
@@ -28,25 +26,22 @@ remarks: |
   * [React Express Starter Kit](http://bitly.com/express-react-starter)
   * [React Cosmos DB](http://reactcosmosdb.com)
   * [vscodecandothat.com](http://vscodecandothat.com)
-  * [NativeScript Status Bar](https://github.com/burkeholland/nativescript-statusbar)
-  * [NativeScript LanScan](https://github.com/burkeholland/nativescript-lan-scan)
-  * [Instasharp](https://github.com/instasharp)
-
-tagline: JavaScript / Node.js
+  * [The Urlist](https://www.theurlist.com)
+  * [Simple React Snippets](https://github.com/burkeholland/simple-react-snippets)
+  
+tagline: JavaScript / VS Code
 image:
   alt: "Burke Holland Cloud Developer Advocate"
   src: media/profiles/burke-holland.png
 connect:
-  - title: Twitter
-    url: https://twitter.com/burkeholland
-  - title: Facebook
-    url: https://facebook.com/burkeholland
-  - title: Instagram
-    url: https://www.instagram.com/burkeholland
-  - title: LinkedIn
-    url: https://linkedin.com/in/burkeholland
   - title: GitHub
     url: https://github.com/burkeholland
+  - title: TikTok
+    url: https://tiktok.com/@burkeholland
+  - title: Twitter
+    url: https://twitter.com/burkeholland
+  - title: LinkedIn
+    url: https://linkedin.com/in/burkeholland
 
 location:
   display: Franklin, TN, USA
