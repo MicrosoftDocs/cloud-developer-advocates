@@ -77,8 +77,6 @@ items:
     uid: advocates.dean-bryen
   - name: Dmitry Soshnikov
     uid: advocates.dmitry-soshnikov
-  - name: Emily Freeman
-    uid: advocates.emily-freeman
   - name: Em Lazer-Walker
     uid: advocates.em-lazerwalker
   - name: Erik St. Martin
@@ -165,8 +163,6 @@ items:
     uid: advocates.shannon-kuehn
   - name: Shayne Boyer
     uid: advocates.shayne-boyer
-  - name: Shiny Zhu
-    uid: advocates.shiny-zhu
   - name: Shmuela Jacobs
     uid: advocates.shmuela-jacobs
   - name: Simona Cotin

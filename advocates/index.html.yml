@@ -229,7 +229,7 @@ profiles:
     long: -82.47148
 - uid: advocates.burke-holland
   name: Burke Holland
-  tagline: JavaScript / Node.js
+  tagline: JavaScript / VS Code
   image:
     src: media/profiles/burke-holland.png
     alt: "Burke Holland Cloud Developer Advocate"
@@ -377,16 +377,6 @@ profiles:
     display: Moscow, Russia
     lat: 55.751244
     long: 37.618423
-- uid: advocates.emily-freeman
-  name: Emily Freeman
-  tagline: DevOps
-  image:
-    src: media/profiles/emily-freeman.png
-    alt: "Emily Freeman Cloud Developer Advocate"
-  location: 
-    display: Colorado, United States
-    lat: 39.7392
-    long: -104.9903
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
@@ -817,16 +807,6 @@ profiles:
     display: DeLand, Florida, United States
     lat: 29.022108
     long: -81.312887
-- uid: advocates.shiny-zhu
-  name: Shiny Zhu
-  tagline: PM / .NET / JavaScript / Serverless
-  image:
-    src: media/profiles/shiny-zhu.png 
-    alt: "Shiny Zhu Cloud Advocate PM"
-  location: 
-    display: Shanghai, China
-    lat: 31.023138
-    long: 121.453640
 - uid: advocates.shmuela-jacobs
   name: Shmuela Jacobs
   tagline: JavaScript / Web
