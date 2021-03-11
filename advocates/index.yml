@@ -329,7 +329,7 @@ profiles:
   name: Greg Hurlman
   tagline: Power Platform / Web
   image:
-    src: media/profiles/greg-hurlman.png
+    src: media/profiles/greg-hurlman.jpg
     alt: "Greg Hurlman, Power Platform Advocate"
   location:
     display: Seattle, Washington
