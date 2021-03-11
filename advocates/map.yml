@@ -225,7 +225,7 @@ profiles:
     long: -82.47148
 - uid: advocates.burke-holland
   name: Burke Holland
-  tagline: JavaScript / Node.js
+  tagline: JavaScript / VS Code
   image:
     src: media/profiles/burke-holland.png
     alt: "Burke Holland Cloud Developer Advocate"
