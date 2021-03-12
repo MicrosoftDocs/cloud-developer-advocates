@@ -325,6 +325,17 @@ profiles:
     lat: 42.3601
     long: -71.1209
   twitter: frlazzeri
+- uid: advocates.greg-hurlman
+  name: Greg Hurlman
+  tagline: Power Platform / Web
+  image:
+    src: media/profiles/greg-hurlman.jpg
+    alt: "Greg Hurlman, Power Platform Advocate"
+  location:
+    display: Seattle, Washington
+    lat: 47.65
+    long: -122.35
+  twitter: 98codes
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
