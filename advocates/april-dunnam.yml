@@ -1,0 +1,45 @@
+### YamlMime:Profile
+uid: advocates.april-dunnam
+name: April Dunnam
+metadata:
+  title: April Dunnam - Power Platform Advocate
+  description: Home page for April Dunnam, a Microsoft Power Platform Advocate
+  ms.author: apdunnam
+  team: power
+remarks: |
+  ## Bio
+April is a woman who codes with a passion to help others build apps and automation with low code tools.  With years of development experience working as a consultant in the SharePoint and M365 space, April was an early adoptor of the Power Platform.
+  
+Prior to joining Microsoft, April was a Power Platform MVP.  As a Power Platform Developer Advocate at Microsoft, she helps app creators of all different backgrounds discover how they can create powerful solutions with the Power Platform.
+
+She is a contributing member of the [Microsoft 365 Patterns and Practices team](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) where she focuses on Power Platform integrations with M365. She's also an active blogger and YouTuber. 
+
+  ## Skills
+  * Power Apps
+  * Power Automate
+  * Power Virtual Agents
+  * Dataverse
+  * SharePoint
+  * Microsoft Graph
+  * SharePoint Framework
+  * Microsoft Teams Development
+
+tagline: Power Platform
+image:
+  alt: "April Dunnam"
+  src: media/profiles/april-dunnam.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/aprildunnam
+  - title: Blog
+    url: https://www.aprildunnam.com
+  - title: YouTube
+    url: https://www.youtube.com/c/aprildunnam 
+  - title: GitHub
+    url: https://github.com/AprilDunnam
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/april-dunnam/
+location:
+  display: Tulsa, OK, USA
+  lat: 36.155327
+  long: -95.99208
