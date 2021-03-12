@@ -113,6 +113,16 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.653226
     long: -79.3831843
+- uid: advocates.april-dunnam
+  name: April Dunnam
+  tagline: Power Platform
+  image:
+    src: media/profiles/april-dunnam.png
+    alt: "April Dunnam"
+  location: 
+    display: Tulsa, OK, USA
+    lat: 36.155327
+    long: -95.99208
 - uid: advocates.april-speight
   name: April Speight
   tagline: Mixed Reality / HoloLens / Spatial Computing
