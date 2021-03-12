@@ -25,6 +25,8 @@ items:
     uid: advocates.amy-boyd
   - name: Anthony Bartolo
     uid: advocates.anthony-bartolo
+  - name: April Dunnam
+    uid: advocates.april-dunnam
   - name: April Speight
     uid: advocates.april-speight
   - name: Ashley McNamara
@@ -87,6 +89,8 @@ items:
     uid: advocates.frank-boucher
   - name: Glaucia Lemos
     uid: advocates.glaucia-lemos
+  - name: Greg Hurlman
+    uid: advocates.greg-hurlman
   - name: Gustavo Cordido
     uid: advocates.gustavo-cordido
   - name: Henk Boelman
