@@ -1,4 +1,4 @@
-﻿### YamlMime:ProfileList
+### YamlMime:ProfileList
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -117,6 +117,16 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.653226
     long: -79.3831843
+- uid: advocates.anthony-shaw
+  name: Anthony Shaw
+  tagline: Python
+  image:
+    src: media/profiles/anthony-shaw.png
+    alt: "Anthony Shaw Cloud Advocate"
+  location: 
+    display: Sydney, Australia
+    lat: -33.8652521
+    long: 151.2029634
 - uid: advocates.april-dunnam
   name: April Dunnam
   tagline: Power Platform
