@@ -1,0 +1,47 @@
+### YamlMime:Profile
+uid: advocates.anthony-shaw
+name: Anthony Shaw
+metadata:
+  title: Anthony Shaw - Cloud Advocate
+  description: Home page for Anthony Shaw, a Microsoft Cloud Advocate
+  ms.author: anthonyshaw
+  team: python
+remarks: |
+  ## Bio
+  
+  Anthony is from Sydney, Australia and is a contributor to many open-source communities. 
+  Running and contributing to several popular open-source tools for DevOps, Security, Automation and Code Quality.
+  He has been recognized for his contribution to open source, including as Fellow of the Python Software Foundation and member of the Apache Software Foundation.
+  Anthony runs a Python blog and YouTube channel and has recently published a book on the Python compiler.
+
+  ## Skills
+  - Python
+  - DevOps
+  - Security
+
+  ## Books
+  - [CPython Internals](https://realpython.com/products/cpython-internals-book/)
+
+  ## My Projects
+  - [pyjion](https://github.com/tonybaloney/pyjion), a JIT Compiler for Python
+  - [wily](https://github.com/tonybaloney/wily), a Python code-quality reporting tool
+
+
+tagline: Python
+image:
+  alt: "Anthony Shaw Cloud Advocate"
+  src: media/profiles/anthony-shaw.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/anthonypjshaw
+  - title: Blog
+    url: https://tonybaloney.github.io/#blog
+  - title: GitHub
+    url: http://github.com/tonybaloney
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/anthonypshaw/
+
+location:
+  display: Sydney, Australia
+  lat: -33.8652521
+  long: 151.2029634
