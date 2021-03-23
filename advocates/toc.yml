@@ -1,4 +1,4 @@
-﻿metadata:
+metadata:
   name: advocates_toc
 items:
 - name: Cloud Advocates
@@ -25,6 +25,8 @@ items:
     uid: advocates.amy-boyd
   - name: Anthony Bartolo
     uid: advocates.anthony-bartolo
+  - name: Anthony Shaw
+    uid: advocates.anthony-shaw
   - name: April Dunnam
     uid: advocates.april-dunnam
   - name: April Speight
