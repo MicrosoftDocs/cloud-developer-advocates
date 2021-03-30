@@ -1,4 +1,4 @@
-### YamlMime:ProfileList
+﻿### YamlMime:ProfileList
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -47,16 +47,6 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.712053
     long: -79.561556
-- uid: advocates.abel-wang
-  name: Abel Wang
-  tagline: DevOps
-  image:
-    src: media/profiles/abel-wang.png
-    alt: "Abel Wang Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
 - uid: advocates.abhishek-gupta
   name: Abhishek Gupta
   tagline: NoSQL / Kafka / Kubernetes / Open Source
