@@ -1,4 +1,4 @@
-metadata:
+﻿metadata:
   name: advocates_toc
 items:
 - name: Cloud Advocates
@@ -11,8 +11,6 @@ items:
     uid: advocates.aaron-schlesinger
   - name: Aaron Wislang
     uid: advocates.aaron-wislang
-  - name: Abel Wang
-    uid: advocates.abel-wang
   - name: Abhishek Gupta
     uid: advocates.abhishek-gupta
   - name: Adi Polak
