@@ -18,17 +18,13 @@ remarks: |
 
   ## Skills
   * .NET
-  * DevOps
+  * Power Platform
   * Serverless
   * Integration
+  * DevOps
   * Messaging
 
-  ## Open-Source Projects
-  * [Azure Functions Extensions](https://github.com/aliencube/AzureFunctions.Extensions) &ndash; Useful extensions to be used for Azure Functions, including Swagger UI integration
-  * [Azure DevOps Extensions](https://github.com/aliencube/AzureDevOps.Extensions) &ndash; Useful extensions to be used for Azure DevOps, including Netlify integration
-  * [Azure Service Bus Schema Registry](https://github.com/aliencube/AzureMessaging.SchemaRegistry) &ndash; Useful libraries to implement schema registry for Azure Service Bus
-
-tagline: .NET / DevOps / Serverless / Messaging
+tagline: .NET / Power Platform / Serverless / DevOps / Messaging
 image:
   alt: "Justin Yoo Cloud Advocate"
   src: media/profiles/justin-yoo.png 
@@ -44,6 +40,6 @@ connect:
   - title: Twitch
     url: https://twitch.tv/aliencubeorg
 location:
-  display: Melbourne, Australia
-  lat: -37.9722342
-  long: 144.7729572
+  display: Daegu, South Korea
+  lat: 35.8797297
+  long: 128.4966604
