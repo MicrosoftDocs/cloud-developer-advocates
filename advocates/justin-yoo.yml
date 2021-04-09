@@ -7,7 +7,7 @@ metadata:
   ms.author: juyoo
   team: dotnet
 remarks: |
-  ## Bio
+  ## Bio ##
   I started my career as an HR consultant at Samsung for a few years. It was specialising in internal career development for engineers. Funnily enough, their successful career development influenced mine, and I changed my job to become a developer!
 
   During my software development career, I worked for many different companies as a developer or consultant in a wide range of industries. Throughout my career, learning something and sharing it with others is always my passion. It led me to become a double-awarded Microsoft MVP, and now I become a Cloud Advocate at Microsoft.
@@ -16,7 +16,7 @@ remarks: |
 
   I run two blogs &ndash; [aliencube](https://blog.aliencube.org) in Korean and [devkimchi](https://devkimchi.com) in English. I also maintain a handful of [open-source projects](https://github.com/aliencube) and [sample codes](https://github.com/devkimchi) for DevOps, serverless, integration and messaging.
 
-  ## Skills
+  ## Skills ##
   * .NET
   * Power Platform
   * Serverless
