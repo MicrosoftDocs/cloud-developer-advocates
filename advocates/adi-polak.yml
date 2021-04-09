@@ -4,9 +4,11 @@ name: Adi Polak
 metadata:
   title: Adi Polak - Cloud Advocate
   description: Home page for Adi Polak, a Microsoft Cloud Developer Advocate
+  ms.author: adpolak
+  team: data
 remarks: |
   ## Bio
-  Adi is is a Senior Cloud Developer Advocate focusing on Big Data and Serverless on the Azure platform. She does extensive work in the Big Data and 
+  Adi is a Senior Cloud Developer Advocate focusing on Big Data and Serverless on the Azure platform. She does extensive work in the Big Data and 
   Functional programming communities.
    Adi has an extensive background in software development. She holds an M.sc in Software and Information Systems Engineering from Ben Gurion University, 
   during her studies she worked with IBM and Deutsch Telekom Research labs on various projects where she gained expertise in ML.
@@ -17,16 +19,22 @@ remarks: |
   - Big Data
   - Java
   - Scala 
-  - Serveless 
-tagline: Big Data / Serveless 
+  - Serverless 
+tagline: Big Data / Serverless 
 image:
   alt: "Adi Polak Cloud Developer Advocate"
   src: media/profiles/adi-polak.png
-twitter: https://twitter.com/adipolak
-blog: https://medium.com/@adipolak
-github: https://github.com/adipola
-stackoverflow: https://stackoverflow.com/users/3683943/apolak
-linkedin: https://www.linkedin.com/in/adi-polak-68548365/
+connect:
+  - title: Twitter
+    url: https://twitter.com/adipolak
+  - title: Blog
+    url: https://medium.com/@adipolak
+  - title: GitHub
+    url: https://github.com/adipola
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/3683943/apolak
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/adi-polak-68548365/
 location:
   display: Tel Aviv, Israel
   lat: 32.081359

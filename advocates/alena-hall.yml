@@ -4,6 +4,8 @@ name: Alena Hall
 metadata:
   title: Alena Hall - Cloud Advocate
   description: Home page for Alena Hall, a Microsoft Cloud Developer Advocate
+  ms.author: alehall
+  team: data
 remarks: |
   ## Bio
   Senior Cloud Developer Advocate focusing on High Scale, Big Data, Distributed Systems and adjacent areas like Machine Learning and Data Science.
@@ -58,10 +60,15 @@ tagline: High Scale / Big Data
 image:
   alt: "Alena Hall Cloud Developer Advocate"
   src: media/profiles/alena-hall.png
-twitter: https://twitter.com/lenadroid
-github: https://github.com/lenadroid
-blog: http://lenadroid.github.io/posts.html
-linkedin: https://www.linkedin.com/in/alenadzenisenka/
+connect:
+  - title: Twitter
+    url: https://twitter.com/lenadroid
+  - title: GitHub
+    url: https://github.com/lenadroid
+  - title: Blog
+    url: http://lenadroid.github.io/posts.html
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/lena-hall/
 location:
   display: Seattle, Washington, United States
   lat: 47.60621

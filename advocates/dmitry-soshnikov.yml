@@ -4,6 +4,8 @@ name: Dmitry Soshnikov
 metadata:
   title: Dmitry Soshnikov - Cloud Advocate
   description: Home page for Dmitry Soshnikov, a Microsoft Cloud Developer Advocate
+  ms.author: dmitryso
+  team: academic
 remarks: |
   ## Bio
   Dmitry has been working at Microsoft for 13 years, out of which 10 years in Technical Evangelism. 
@@ -40,10 +42,17 @@ tagline: AI / ML / Python / F# / Students / K-12
 image:
   alt: "Dmitry Soshnikov Cloud Developer Advocate"
   src: media/profiles/dmitry-soshnikov.png
-twitter: https://twitter.com/shwars
-github: https://github.com/shwars
-blog: http://blog.soshnikov.com
-linkedin: https://www.linkedin.com/in/shwars/
+connect:
+  - title: Twitter
+    url: https://twitter.com/shwars
+  - title: GitHub
+    url: https://github.com/shwars
+  - title: Blog
+    url: http://blog.soshnikov.com
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/shwars/
+  - title: YouTube
+    url: https://www.youtube.com/user/dsoshnikov
 location:
   display: Moscow, Russia
   lat: 55.751244

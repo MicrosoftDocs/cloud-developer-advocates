@@ -4,6 +4,8 @@ name: Jasmine Greenaway
 metadata:
   title: Jasmine Greenaway - Cloud Advocate
   description: Home page for Jasmine Greenaway, a Microsoft Cloud Developer Advocate
+  ms.author: jasmineg
+  team: academic
 remarks: |
 
   ## Video
@@ -17,16 +19,25 @@ remarks: |
 
   ## Skills
   * .NET
+  * Web Development
+  * Serverless
+  * Tools
 
 tagline: .NET
 image:
   alt: "Jasmine Greenaway Cloud Developer Advocate"
-  src: media/profiles/jasmine-greenaway.png
-twitter: https://twitter.com/paladique
-github: https://github.com/paladique
-stackoverflow: https://stackoverflow.com/users/5040855/jasmine
-linkedin: https://linkedin.com/in/jasminegreenaway
+  src: media/profiles/jasmine-greenaway.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/paladique
+  - title: GitHub
+    url: https://github.com/paladique
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/5040855/jasmine
+  - title: LinkedIn
+    url: https://linkedin.com/in/jasminegreenaway
 location:
   display: Brooklyn,  New York, United States
   lat: 40.67417
   long: -74.025653
+ 

@@ -4,6 +4,8 @@ name: Paul DeCarlo
 metadata:
   title: Paul DeCarlo - Sr. Cloud Developer Advocate
   description: Home page for Paul DeCarlo, a Microsoft Cloud Developer Advocate
+  ms.author: pdecarlo
+  team: iot
 remarks: |
   ## Bio
   Sr. Cloud Developer Advocate focusing on IoT, OSS, Containers, and Kubernetes.
@@ -27,11 +29,17 @@ tagline: IoT
 image:
   alt: "Paul DeCarlo Cloud Developer Advocate"
   src: media/profiles/paul-decarlo.png
-twitter: https://twitter.com/pjdecarlo
-github: https://github.com/toolboc
-blog: http://pjdecarlo.com/
-facebook: https://www.facebook.com/pjdecarlo/
-linkedin: https://www.linkedin.com/in/pjdecarlo/
+connect:
+  - title: Twitter
+    url: https://twitter.com/pjdecarlo
+  - title: GitHub
+    url: https://github.com/toolboc
+  - title: Blog
+    url: http://pjdecarlo.com/
+  - title: Facebook
+    url: https://www.facebook.com/pjdecarlo/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/pjdecarlo/
 location:
   display: Houston, Texas, US
   lat: 29.726948

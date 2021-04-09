@@ -4,6 +4,8 @@ name: Brandon Minnick
 metadata:
   title: Brandon Minnick - Cloud Developer Advocate
   description: Home page for Brandon Minnick, a Microsoft Cloud Developer Advocate
+  ms.author: bramin
+  team: mobile
 remarks: |
   ## Bio
   Mobile app developer, Florida Gator, World Traveler!
@@ -30,11 +32,17 @@ tagline: Xamarin, .NET, C#, Mobile
 image:
   alt: "Brandon Minnick Cloud Developer Advocate"
   src: media/profiles/brandon-minnick.png
-twitter: https://twitter.com/TheCodeTraveler
-github: https://github.com/brminnick
-linkedin: https://www.linkedin.com/in/brandon-minnick/
-stackoverflow: https://stackoverflow.com/users/5953643/
-blog: https://www.codetraveler.io
+connect:
+  - title: Twitter
+    url: https://twitter.com/TheCodeTraveler
+  - title: GitHub
+    url: https://github.com/brminnick
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/brandon-minnick/
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/5953643/
+  - title: Blog
+    url: https://www.codetraveler.io
 location:
   display: San Francisco, California, United States
   lat: 37.815141999999994

@@ -50,9 +50,20 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: AbelSquidHead
+- uid: advocates.abhishek-gupta
+  name: Abhishek Gupta
+  tagline: Big Data
+  image:
+    src: media/profiles/abhishek-gupta.jpg
+    alt: "Abhishek Gupta Cloud Developer Advocate"
+  location:
+    display: New Delhi, India
+    lat: 28.6000
+    long: 77.2000
+  twitter: abhi_tweeter
 - uid: advocates.adi-polak
   name: Adi Polak
-  tagline: Big Data / Serveless
+  tagline: Big Data / Serverless
   image:
     src: media/profiles/adi-polak.png
     alt: "Adi Polak Cloud Developer Advocate"
@@ -83,28 +94,6 @@ profiles:
     lat: 51.52814
     long: -0.1339
   twitter: AmyKateNicho
-- uid: advocates.anthony-chu
-  name: Anthony Chu
-  tagline: .NET / Containers
-  image:
-    src: media/profiles/anthony-chu.png
-    alt: "Anthony Chu Cloud Developer Advocate"
-  location:
-    display: Vancouver, Canada
-    lat: 49.339277
-    long: -123.2998
-  twitter: nthonyChu
-- uid: advocates.ari-bornstein
-  name: Ari Bornstein
-  tagline: Data / AI / ML
-  image:
-    src: media/profiles/ari-bornstein.png
-    alt: "Ari Cloud Developer Advocate"
-  location:
-    display: Tel Aviv, Israel
-    lat: 32.081359
-    long: 34.780957
-  twitter: pythiccoder
 - uid: advocates.ashley-mcnamara
   name: Ashley McNamara
   tagline: Linux
@@ -127,17 +116,6 @@ profiles:
     lat: 51.458046
     long: -1.012501
   twitter: jawache
-- uid: advocates.bernd-verst
-  name: Bernd Verst
-  tagline: Linux / Containers / Python
-  image:
-    src: media/profiles/bernd-verst.png
-    alt: "Bernd Verst Cloud Developer Advocate"
-  location:
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-  twitter: BerndVerst
 - uid: advocates.brandon-minnick
   name: Brandon Minnick
   tagline: Xamarin, .NET, C#, Mobile
@@ -182,28 +160,6 @@ profiles:
     lat: 28.222353
     long: -82.47148
   twitter: bketelsen
-- uid: advocates.bruno-borges
-  name: Bruno Borges
-  tagline: Java
-  image:
-    src: media/profiles/bruno-borges.png
-    alt: "Bruno Boges Cloud Developer Advocate"
-  location:
-    display: Vancouver, BC, Canada
-    lat: 49.26038
-    long: -123.1134
-  twitter: brunoborges
-- uid: advocates.bryan-hughes
-  name: Bryan Hughes, Ph.D.
-  tagline: JavaScript
-  image:
-    src: media/profiles/bryan-hughes.png
-    alt: "Bryan Hughes Cloud Developer Advocate"
-  location:
-    display: San Francisco, California, United States
-    lat: 37.7845584
-    long: -122.3985641
-  twitter: nebrius
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / Node.js
@@ -303,28 +259,6 @@ profiles:
     lat: 51.508530
     long: -0.076132
   twitter: deanbryen
-- uid: advocates.donovan-brown
-  name: Donovan Brown
-  tagline: DevOps
-  image:
-    src: media/profiles/donovan-brown.png
-    alt: "Donovan Brown Cloud Developer Advocate"
-  location:
-    display: Spring, Texas, US
-    lat: 30.08453
-    long: -95.41929
-  twitter: DonovanBrown
-- uid: advocates.emily-freeman
-  name: Emily Freeman
-  tagline: DevOps
-  image:
-    src: media/profiles/emily-freeman.png
-    alt: "Emily Freeman Cloud Developer Advocate"
-  location:
-    display: Denver, Colorado, United States
-    lat: 39.7392
-    long: -104.9903
-  twitter: editingemily
 - uid: advocates.erik-st-martin
   name: Erik St. Martin
   tagline: Linux
@@ -347,22 +281,22 @@ profiles:
     lat: 42.3601
     long: -71.1209
   twitter: frlazzeri
-- uid: advocates.james-turnbull
-  name: James Turnbull
-  tagline: Startups
+- uid: advocates.greg-hurlman
+  name: Greg Hurlman
+  tagline: Power Platform / Web
   image:
-    src: media/profiles/james-turnbull.png
-    alt: "James Turnbull CTO Startup Advocacy"
+    src: media/profiles/greg-hurlman.jpg
+    alt: "Greg Hurlman, Power Platform Advocate"
   location:
-    display: Brooklyn, New York, United States
-    lat: 40.714722
-    long: -73.951340
-  twitter: kartar
+    display: Seattle, Washington
+    lat: 47.65
+    long: -122.35
+  twitter: 98codes
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
   image:
-    src: media/profiles/jasmine-greenaway.png
+    src: media/profiles/jasmine-greenaway.jpg
     alt: "Jasmine Greenaway Cloud Developer Advocate"
   location:
     display: Brooklyn,  New York, United States
@@ -402,17 +336,6 @@ profiles:
     lat: 35.2270869
     long: -80.8431267
   twitter: jdooley_clt
-- uid: advocates.jeremy-likness
-  name: Jeremy Likness
-  tagline: .NET
-  image:
-    src: media/profiles/jeremy-likness.png
-    alt: "Jeremy Likness Cloud Developer Advocate"
-  location:
-    display: Monroe, Washington, United States
-    lat: 47.85239
-    long: -121.9815
-  twitter: JeremyLikness
 - uid: advocates.jessica-deen
   name: Jessica Deen
   tagline: Linux / Open Source
@@ -426,14 +349,14 @@ profiles:
   twitter: jldeen
 - uid: advocates.jim-bennett
   name: Jim Bennett
-  tagline: Xamarin
+  tagline: IoT/Academic
   image:
-    src: media/profiles/jim-bennett.png
+    src: media/profiles/jim-bennett.jpeg
     alt: "Jim Bennett Cloud Developer Advocate"
   location:
-    display: Reading, United Kingdom
-    lat: 51.458046
-    long: -1.012501
+    display: Redmond, Washington, United States
+    lat: 47.679194
+    long: -122.153322
   twitter: jimbobbennett
 - uid: advocates.john-papa
   name: John Papa
@@ -490,17 +413,6 @@ profiles:
     lat: 45.5017
     long: -73.5673
   twitter: maximrouiller
-- uid: advocates.michael-bender
-  name: Michael Bender
-  tagline: Operations
-  image:
-    src: media/profiles/michael-bender.png
-    alt: "Michael Bender - Cloud Ops Advocate"
-  location:
-    display: Sun Prairie, Wisconsin, United States
-    lat: 43.1836046
-    long: -89.2137254
-  twitter: michaelbender
 - uid: advocates.mike-james
   name: Mike James
   image:
@@ -533,17 +445,6 @@ profiles:
     lat: 29.726948
     long: -95.609268
   twitter: pjdecarlo
-- uid: advocates.prashant-sridharan
-  name: Prashant Sridharan
-  tagline: Chief Herder
-  image:
-    src: media/profiles/prashant-sridharan.png
-    alt: "Prashant Sridharan Cloud Developer Advocate"
-  location:
-    display: San Francisco, California, United States
-    lat: 37.815141999999994
-    long: -122.518271
-  twitter: CoolAssPuppy
 - uid: advocates.ruth-yakubu
   name: Ruth Yakubu
   tagline: Java / AI / Data
@@ -577,6 +478,17 @@ profiles:
     lat: 47.679194
     long: -122.153322
   twitter: sethjuarez
+- uid: advocates.shannon-kuehn
+  name: Shannon Kuehn
+  tagline: Azure / Infrastructure / Operations
+  image:
+    src: media/profiles/shannon-kuehn.png
+    alt: "Shannon Kuehn Cloud Advocate"
+  location:
+    display: Chicago, IL, United States
+    lat: 41.881832
+    long: -87.623177
+  twitter: shankuehn
 - uid: advocates.shayne-boyer
   name: Shayne Boyer
   tagline: .NET
@@ -610,28 +522,6 @@ profiles:
     lat: 43.107377
     long: -88.543443
   twitter: stevenmurawski
-- uid: advocates.tanya-janca
-  name: Tanya Janca
-  tagline: AppSec
-  image:
-    src: media/profiles/tanya-janca.png
-    alt: "Tanya Janca Cloud Developer Advocate"
-  location:
-    display: Gatineau, Quebec, Canada
-    lat: 47.679194
-    long: -122.153322
-  twitter: shehackspurple
-- uid: advocates.vadim-karpusenko
-  name: Vadim Karpusenko
-  tagline: HPC / AI / ML / DL
-  image:
-    src: media/profiles/vadim-karpusenko.png
-    alt: "Vadim Karpusenko Cloud Developer Advocate"
-  location:
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-  twitter: vadi
 - uid: advocates.yoshio-terada
   name: Yoshio Terada
   tagline: Java
@@ -654,3 +544,4 @@ profiles:
     lat: 29.486311
     long: -98.872145
   twitter: zdeptawa
+

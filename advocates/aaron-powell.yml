@@ -4,6 +4,8 @@ name: Aaron Powell
 metadata:
   title: Aaron Powell - Cloud Advocate
   description: Home page for Aaron Powell, a Microsoft Cloud Advocate
+  ms.author: aapowell
+  team: javascript
 remarks: |
   ## Bio
   Hi, I'm CDA Aaron Powell, you might remember me from such roles as a [Readify](https://readify.net) consultant, organiser of [DDD Sydney](https://www.dddsydney.com.au) or presenting at events.
@@ -32,12 +34,17 @@ tagline: .NET / JavaScript / Web
 image:
   alt: "Aaron Powell Cloud Advocate"
   src: media/profiles/aaron-powell.png
-
-twitter: https://twitter.com/slace
-blog: https://www.aaron-powell.com
-github: http://github.com/aaronpowell
-stackoverflow: https://stackoverflow.com/users/11388/aaron-powell
-linkedin: https://www.linkedin.com/in/aaron-powell-66038631
+connect:
+  - title: Twitter
+    url: https://twitter.com/slace
+  - title: Blog
+    url: https://www.aaron-powell.com
+  - title: GitHub
+    url: http://github.com/aaronpowell
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/11388/aaron-powell
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/aaron-powell-66038631
 
 location:
   display: Sydney, Australia

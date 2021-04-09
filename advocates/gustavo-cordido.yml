@@ -1,0 +1,37 @@
+## YamlMime:Profile
+uid: advocates.gustavo-cordido
+name: Gustavo Cordido
+metadata:
+  title: Gustavo Cordido - Software Engineering Intern
+  description: Home page for Gustavo Cordido, a Microsoft Software Engineering Intern
+  ms.author: gcordido
+  team: spatial
+remarks: |
+  ## Bio
+  Originally from Caracas, Venezuela. I am passionate about technology for social good, and aim to give my projects some of that outlook. I currently work as part of the Spatial/Mixed Reality team.
+  Outside of tech, my hobby is cooking! I love experimenting with new ingredients and trying new cuisines.
+  I am also a big futbol (soccer) and hockey fan. Excited to see the Seattle Kraken in the upcoming years, and one day see Venezuela classify to a World Cup.
+  
+  ## Skills
+  * C#
+  * Python
+  * Mixed Reality
+  * AI
+
+tagline: Spatial Computing / Mixed Reality / AI
+image:
+  alt: "Gustavo Cordido Cloud Advocate "
+  src: media/profiles/gustavo-cordido.jpg
+
+connect:
+  - title: Twitter
+    url: https://twitter.com/gcordidoa
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/gcordidoa
+  - title: GitHub
+    url: https://github.com/gcordido
+
+location:
+  display: Redmond, Washington, United States
+  lat: 47.679194
+  long: -122.153322

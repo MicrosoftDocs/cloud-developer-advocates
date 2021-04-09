@@ -4,6 +4,8 @@ name: Dean Bryen
 metadata:
   title: Dean Bryen - Cloud Developer Advocate
   description: Home page for Dean Bryen, a Microsoft Cloud Developer Advocate
+  ms.author: debryen
+  team: devops
 remarks: |
   ## Bio
   Cloud Developer Advocate focusing on the UK developer community with a special love for Serverless, Devops, Security, Node.js and startups.
@@ -25,9 +27,17 @@ tagline: Serverless, Devops, Node.js
 image:
   alt: "Dean Bryen - Cloud Developer Advocate"
   src: media/profiles/dean-bryen.png
-twitter: https://twitter.com/deanbryen
-github: https://github.com/deanobalino
-linkedin: https://www.linkedin.com/in/DeanBryen/
+connect:
+  - title: Twitter
+    url: https://twitter.com/deanbryen
+  - title: GitHub
+    url: https://github.com/deanobalino
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/DeanBryen/
+  - title: Blog
+    url: https://deanbryen.dev/
+  - title: Twitch
+    url: https://twitch.tv/cloudsectv 
 location:
   display: London, United Kingdom
   lat: 51.508530

@@ -4,6 +4,8 @@ name: Christina Warren
 metadata:
   title: Christina Warren - Cloud Advocate
   description: Home page for Christina Warren, a Microsoft Cloud Developer Advocate
+  ms.author: chwarren
+  team: opensource
 remarks: |
   ## Bio
   I'm a Senior Cloud Developer Advocate, helping shape the overall video strategy for Channel 9, Docs.Microsoft.com, and the greater CDA team. I act as a "host" on many Channel 9 shows, interviewing developers, sharing the latest dev news, and more.
@@ -20,9 +22,15 @@ tagline: HTML
 image:
   alt: "Christina Warren Cloud Developer Advocate"
   src: media/profiles/christina-warren.png
-twitter: https://twitter.com/film_girl
-facebook: https://facebook.com/christina.warren
-linkedin: https://linkedin.com/in/filmgirl/
+connect: 
+  - title: Twitter
+    url: https://twitter.com/film_girl
+  - title: Facebook
+    url: https://facebook.com/christina.warren
+  - title: LinkedIn
+    url: https://linkedin.com/in/filmgirl/
+  - title: GitHub
+    url: https://github.com/filmgirl
 location:
   display: Redmond, Washington, United States
   lat: 47.679194
