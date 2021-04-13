@@ -1,4 +1,4 @@
-﻿### YamlMime:ProfileList
+### YamlMime:ProfileList
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -667,6 +667,16 @@ profiles:
     display: Melbourne, Victoria, Australia
     lat: -37.48
     long: 144.57
+- uid: advocates.ornella-altunyan
+  name: Ornella Altunyan
+  tagline: AI / ML / Students
+  image:
+    src: media/profiles/ornella-altunyan.png
+    alt: "Ornella Altunyan Advocate profile pic"
+  location: 
+    display: San Francisco, CA
+    lat: 37.7749
+    long: -122.4194
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
   tagline: Containers

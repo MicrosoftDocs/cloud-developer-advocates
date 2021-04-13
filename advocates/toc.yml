@@ -1,4 +1,4 @@
-﻿metadata:
+metadata:
   name: advocates_toc
 items:
 - name: Cloud Advocates
@@ -135,6 +135,8 @@ items:
     uid: advocates.nina-zakharenko
   - name: Orin Thomas
     uid: advocates.orin-thomas
+  - name: Ornella Altunyan
+    uid: advocates.ornella-altunyan
   - name: Patrick Chanezon
     uid: advocates.patrick-chanezon
   - name: Paul DeCarlo
