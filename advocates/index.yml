@@ -369,6 +369,17 @@ profiles:
     lat: 28.5029917
     long: -81.5538575
   twitter: john_papa
+- uid: advocates.justin-yoo
+  name: Justin Yoo
+  tagline: .NET / Power Platform / Serverless / DevOps / Messaging
+  image:
+    src: media/profiles/justin-yoo.png
+    alt: "Justin Yoo Cloud Developer Advocate"
+  location:
+    display: Daegu, South Korea
+    lat: 35.8797297
+    long: 128.4966604
+  twitter: justinchronicle
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Xamarin

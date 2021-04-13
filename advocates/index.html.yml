@@ -579,14 +579,14 @@ profiles:
     long: 2.22707
 - uid: advocates.justin-yoo
   name: Justin Yoo
-  tagline: .NET / DevOps / Serverless / Messaging
+  tagline: .NET / Power Platform / Serverless / DevOps / Messaging
   image:
     src: media/profiles/justin-yoo.png 
     alt: "Justin Yoo Cloud Advocate"
   location: 
-    display: Melbourne, Australia
-    lat: -37.9722342
-    long: 144.7729572
+    display: Daegu, South Korea
+    lat: 35.8797297
+    long: 128.4966604
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Xamarin
@@ -667,6 +667,16 @@ profiles:
     display: Melbourne, Victoria, Australia
     lat: -37.48
     long: 144.57
+- uid: advocates.ornella-altunyan
+  name: Ornella Altunyan
+  tagline: AI / ML / Students
+  image:
+    src: media/profiles/ornella-altunyan.png
+    alt: "Ornella Altunyan Advocate profile pic"
+  location: 
+    display: San Francisco, CA
+    lat: 37.7749
+    long: -122.4194
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
   tagline: Containers
