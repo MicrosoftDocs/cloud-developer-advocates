@@ -19,8 +19,10 @@ remarks: |
   * Developer Tools
 
   ## Projects
-  * [Take your first steps with Rust learning path]()
-  * [Take your first steps with Go learning path]()
+  * [Get started with blockchain development learning path](https://docs.microsoft.com/learn/paths/ethereum-blockchain-development/)
+  * [Beginner's series to Blockchain video series](https://channel9.msdn.com/Series/Beginners-Series-to-Blockchain?WT.mc_id=blockchainbeginner-c9-niner)
+  * [Take your first steps with Rust learning path](https://docs.microsoft.com/learn/paths/rust-first-steps/)
+  * [Take your first steps with Go learning path](https://docs.microsoft.com/learn/paths/go-first-steps/)
 tagline: Emerging Technologies
 image:
   alt: "Meaghan Lewis Advocate profile pic"
