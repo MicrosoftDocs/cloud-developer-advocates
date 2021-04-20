@@ -1,0 +1,40 @@
+### YamlMime:Profile
+uid: advocates.sarah-guthals
+name: Sarah Guthals, PhD
+metadata:
+  title: Sarah Guthals, PhD - Cloud Advocate
+  description: Home page for Sarah Guthals, PhD, a Microsoft Cloud Developer Advocate
+  ms.author: sguthals
+  team: academic
+remarks: |
+  ## Bio
+  Sarah Guthals is a Principal Program Manager at Microsoft. With a Ph.D. in Computer Science from UC San Diego, her passion is to design content, software, and companies that focus on engaging learners.
+  
+  She is from San Diego, CA but has recently moved to Washington State with her two cats, 3 dogs, husband, daughter, mother, and grandfather :D
+  
+  ## Skills
+  * Data Science
+  * Machine Learning
+  * Education
+  * Developer Tools
+
+  ## Projects
+  * [Get started with Coding through Space Exploration on Learn](https://docs.microsoft.com/learn/topics/nasa)
+  * [Use basketball stats to optimize game play with Visual Studio Code, inspired by SPACE JAM: A NEW LEGACY](https://docs.microsoft.com/learn/paths/optimize-basketball-games-with-machine-learning/)
+  * [What You Didn't Learn In School Video Series](https://www.youtube.com/playlist?list=PLjoGSbuzyErh7ffELeKxeCtgIBK1n1q9A)
+  * [Developer's Intro to Data Science Video Series](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
+tagline: Novice Developer Experiences and Tools
+image:
+  alt: "Sarah Guthals Advocate profile pic"
+  src: media/profiles/sarah-guthals.png
+connect: 
+  - title: Twitter
+    url: https://twitter.com/drguthals
+  - title: GitHub
+    url: https://github.com/drguthals
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/drguthals/
+location: 
+  display: WA, United States
+  lat: 47.697026952959355
+  long: -122.14567138117063
