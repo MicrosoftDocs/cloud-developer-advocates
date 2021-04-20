@@ -601,8 +601,8 @@ profiles:
   name: Lee Stott
   tagline: AI / ML / Students / Faculty
   image:
-    src: media/profiles/lee-stott.png 
-    alt: "Lee Stott Cloud Developer Advocate"
+    src: media/profiles/lee-stott.png
+    alt: "Lee Stott Cloud Advocate"
   location: 
     display: Manchester, United Kingdom
     lat: 53.47959
@@ -652,11 +652,11 @@ profiles:
   tagline: Emerging Technologies
   image:
     src: media/profiles/meaghan-lewis.png
-    alt: "Meaghan Lewis Cloud Advocate"
+    alt: "Meaghan Lewis Advocate profile pic"
   location: 
-    display: Vallejo, California, United States
+    display: Vallejo, CA, United States
     lat: 38.104088
-    long: -122.256638    
+    long: -122.256638
 - uid: advocates.mike-james
   name: Mike James
   tagline: Xamarin
