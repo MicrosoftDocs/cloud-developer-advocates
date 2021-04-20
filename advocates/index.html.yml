@@ -597,6 +597,16 @@ profiles:
     display: Wallisellen, Bülach, Switzerland
     lat: 47.417478
     long: 8.58175
+- uid: advocates.lee-stott
+  name: Lee Stott
+  tagline: AI / ML / Students / Faculty
+  image:
+    src: media/profiles/lee-stott.png
+    alt: "Lee Stott Cloud Advocate"
+  location: 
+    display: Manchester, United Kingdom
+    lat: 53.47959
+    long: -2.24874
 - uid: advocates.lucas-santos
   name: Lucas Santos
   tagline: Kubernetes / Containers / Docker / JavaScript / Node.js / TypeScript
@@ -637,6 +647,16 @@ profiles:
     display: Montréal, Québec, Canada
     lat: 45.5017
     long: -73.5673
+- uid: advocates.meaghan-lewis
+  name: Meaghan Lewis
+  tagline: Emerging Technologies
+  image:
+    src: media/profiles/meaghan-lewis.png
+    alt: "Meaghan Lewis Advocate profile pic"
+  location: 
+    display: Vallejo, CA, United States
+    lat: 38.104088
+    long: -122.256638
 - uid: advocates.mike-james
   name: Mike James
   tagline: Xamarin
