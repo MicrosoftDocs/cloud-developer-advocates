@@ -8,13 +8,16 @@ metadata:
   team: academic
 remarks: |
   ## Bio
-  Sarah Guthals is a Principal Program Manager at Microsoft. With a Ph.D. in Computer Science from UC San Diego, her passion is to design content, software, and companies that focus on engaging learners.
+  Sarah Guthals is a Principal Program Manager at Microsoft and focuses her life on providing access to high quality computer science education to novices of all ages, 
+  everywhere. With a Ph.D. in Computer Science from University of California, San Diego, her passion is to design content, software, and companies that focus on engaging 
+  learners. Sarah builds curriculum, teaches teachers, writes books for novices around coding, and is one of Forbes 30 Under 30 in Science for her work in Computer Science 
+  Education.
   
   She is from San Diego, CA but has recently moved to Washington State with her two cats, 3 dogs, husband, daughter, mother, and grandfather :D
   
   ## Skills
   * Data Science
-  * Machine Learning
+  * Programming Languages
   * Education
   * Developer Tools
 
@@ -23,7 +26,7 @@ remarks: |
   * [Use basketball stats to optimize game play with Visual Studio Code, inspired by SPACE JAM: A NEW LEGACY](https://docs.microsoft.com/learn/paths/optimize-basketball-games-with-machine-learning/)
   * [What You Didn't Learn In School Video Series](https://www.youtube.com/playlist?list=PLjoGSbuzyErh7ffELeKxeCtgIBK1n1q9A)
   * [Developer's Intro to Data Science Video Series](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
-tagline: Novice Developer Experiences and Tools
+tagline: Developer Experiences and Tools / she/her
 image:
   alt: "Sarah Guthals Advocate profile pic"
   src: media/profiles/sarah-guthals.png
