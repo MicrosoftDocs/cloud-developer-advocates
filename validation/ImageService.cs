@@ -68,7 +68,7 @@ namespace AdvocateValidation
             {
                 try
                 {
-                    var newBytes = await GetSomeBytes(uri, currentStart, currentStart + ChunkSize - 1).ConfigureAwait(false);
+                    var newBytes = await GetBytesFromUri(uri, currentStart, currentStart + ChunkSize - 1).ConfigureAwait(false);
                     if (newBytes is null || newBytes.Length < ChunkSize)
                         moreBytes = false;
 
@@ -86,7 +86,7 @@ namespace AdvocateValidation
             return new Size(0, 0);
         }
 
-        static async Task<byte[]?> GetSomeBytes(Uri uri, int startRange, int endRange)
+        static async Task<byte[]> GetBytesFromUri(Uri uri, int startRange, int endRange)
         {
             var request = new HttpRequestMessage { RequestUri = uri };
             request.Headers.Range = new RangeHeaderValue(startRange, endRange);
@@ -106,8 +106,10 @@ namespace AdvocateValidation
         static byte[] Combine(byte[] first, byte[] second)
         {
             byte[] ret = new byte[first.Length + second.Length];
+
             Buffer.BlockCopy(first, 0, ret, 0, first.Length);
             Buffer.BlockCopy(second, 0, ret, first.Length, second.Length);
+
             return ret;
         }
 
@@ -151,8 +153,10 @@ namespace AdvocateValidation
         static Size DecodeBitmap(BinaryReader binaryReader)
         {
             binaryReader.ReadBytes(16);
+
             int width = binaryReader.ReadInt32();
             int height = binaryReader.ReadInt32();
+
             return new Size(width, height);
         }
 
@@ -160,25 +164,28 @@ namespace AdvocateValidation
         {
             int width = binaryReader.ReadInt16();
             int height = binaryReader.ReadInt16();
+
             return new Size(width, height);
         }
 
         static Size DecodePng(BinaryReader binaryReader)
         {
             binaryReader.ReadBytes(8);
+
             int width = binaryReader.ReadLittleEndianInt32();
             int height = binaryReader.ReadLittleEndianInt32();
+
             return new Size(width, height);
         }
 
         static Size DecodeJfif(BinaryReader binaryReader)
         {
-            while (binaryReader.ReadByte() == 0xff)
+            while (binaryReader.ReadByte() is 0xff)
             {
                 byte marker = binaryReader.ReadByte();
                 short chunkLength = binaryReader.ReadLittleEndianInt16();
 
-                if (marker == 0xc0 || marker == 0xc1 || marker == 0xc2)
+                if (marker is 0xc0 or 0xc1 or 0xc2)
                 {
                     binaryReader.ReadByte();
 

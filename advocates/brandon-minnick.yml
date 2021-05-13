@@ -43,6 +43,8 @@ connect:
     url: https://stackoverflow.com/users/5953643/
   - title: Blog
     url: https://www.codetraveler.io
+  - title: Reddit
+    url: https://www.reddit.com/user/brminnick
 location:
   display: San Francisco, California, United States
   lat: 37.815141999999994

@@ -44,6 +44,8 @@ connect:
     url: https://linkedin.com/in/MaximRouiller
   - title: Twitch
     url: https://www.twitch.tv/MaximeRouiller
+  - title: Reddit
+    url: https://www.reddit.com/user/maximrouiller
 location:
   display: Montréal, Québec, Canada
   lat: 45.5017
