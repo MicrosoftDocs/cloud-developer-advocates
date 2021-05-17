@@ -731,7 +731,7 @@ profiles:
   name: Pierre Roman
   tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
   image:
-    src: media/profiles/pierre-roman.jpg
+    src: media/profiles/pierre-roman.png
     alt: "Pierre Roman Senior Cloud Advocate"
   location: 
     display: Ottawa, Ontario, Canada
@@ -797,6 +797,16 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
+- uid: advocates.sarah-guthals
+  name: Sarah Guthals, PhD
+  tagline: Developer Experiences and Tools / she/her
+  image:
+    src: media/profiles/sarah-guthals.png
+    alt: "Sarah Guthals Advocate profile pic"
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.679194
+    long: -122.153322
 - uid: advocates.sarah-lean
   name: Sarah Lean
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro

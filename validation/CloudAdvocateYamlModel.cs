@@ -7,72 +7,72 @@ namespace AdvocateValidation
     class CloudAdvocateYamlModel
     {
         [YamlMember(Alias = "uid")]
-        public string Uid { get; set; } = string.Empty;
+        public string Uid { get; init; } = string.Empty;
 
         [YamlMember(Alias = "name")]
-        public string Name { get; set; } = string.Empty;
+        public string Name { get; init; } = string.Empty;
 
         [YamlMember(Alias = "metadata")]
-        public Metadata Metadata { get; set; } = new Metadata();
+        public Metadata Metadata { get; init; } = new();
 
         [YamlMember(Alias = "remarks")]
-        public string Remarks { get; set; } = string.Empty;
+        public string Remarks { get; init; } = string.Empty;
 
         [YamlMember(Alias = "tagline")]
-        public string Tagline { get; set; } = string.Empty;
+        public string Tagline { get; init; } = string.Empty;
 
         [YamlMember(Alias = "image")]
-        public Image Image { get; set; } = new Image();
+        public Image Image { get; init; } = new Image();
 
         [YamlMember(Alias = "connect")]
-        public List<Connect> Connect { get; set; } = new List<Connect>();
+        public List<Connect> Connect { get; init; } = new();
 
         [YamlMember(Alias = "location")]
-        public Location Location { get; set; } = new Location();
+        public Location Location { get; init; } = new Location();
     }
 
     class Connect
     {
         [YamlMember(Alias = "title")]
-        public string Title { get; set; } = string.Empty;
+        public string Title { get; init; } = string.Empty;
 
         [YamlMember(Alias = "url")]
-        public Uri? Url { get; set; }
+        public Uri? Url { get; init; }
     }
 
     class Image
     {
         [YamlMember(Alias = "alt")]
-        public string Alt { get; set; } = string.Empty;
+        public string Alt { get; init; } = string.Empty;
 
         [YamlMember(Alias = "src")]
-        public string Src { get; set; } = string.Empty;
+        public string Src { get; init; } = string.Empty;
     }
 
     class Location
     {
         [YamlMember(Alias = "display")]
-        public string Display { get; set; } = string.Empty;
+        public string Display { get; init; } = string.Empty;
 
         [YamlMember(Alias = "lat")]
-        public double Lat { get; set; }
+        public double Lat { get; init; }
 
         [YamlMember(Alias = "long")]
-        public double Long { get; set; }
+        public double Long { get; init; }
     }
 
     class Metadata
     {
         [YamlMember(Alias = "title")]
-        public string Title { get; set; } = string.Empty;
+        public string Title { get; init; } = string.Empty;
 
         [YamlMember(Alias = "description")]
-        public string Description { get; set; } = string.Empty;
+        public string Description { get; init; } = string.Empty;
 
         [YamlMember(Alias = "ms.author")]
-        public string Alias { get; set; } = string.Empty;
+        public string Alias { get; init; } = string.Empty;
 
         [YamlMember(Alias = "team")]
-        public string Team { get; set; } = string.Empty;
+        public string Team { get; init; } = string.Empty;
     }
 }
