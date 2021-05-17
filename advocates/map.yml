@@ -727,7 +727,7 @@ profiles:
   name: Pierre Roman
   tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
   image:
-    src: media/profiles/pierre-roman.jpg
+    src: media/profiles/pierre-roman.png
     alt: "Pierre Roman Senior Cloud Advocate"
   location: 
     display: Ottawa, Ontario, Canada
