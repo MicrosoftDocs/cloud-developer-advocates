@@ -113,6 +113,8 @@ items:
     uid: advocates.jessica-deen
   - name: Jim Bennett
     uid: advocates.jim-bennett
+  - name: Jing Low
+    uid: advocates.jing-low
   - name: John Papa
     uid: advocates.john-papa
   - name: Julien Dubois
@@ -127,6 +129,8 @@ items:
     uid: advocates.lucas-santos
   - name: Madoka Chiyoda
     uid: advocates.madoka-chiyoda
+  - name: Mark Heckler
+    uid: advocates.markheckler
   - name: Matthew Soucoup
     uid: advocates.matthew-soucoup
   - name: Maxime Rouiller

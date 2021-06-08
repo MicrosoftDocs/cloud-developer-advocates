@@ -1,0 +1,33 @@
+### YamlMime:Profile
+uid: advocates.markheckler
+name: Mark Heckler
+metadata:
+  title: Mark Heckler - Principal Cloud Advocate, Java/JVM Languages
+  description: Home page for Mark Heckler, Principal Cloud Advocate @ Microsoft
+  ms.author: markheckler
+  team: java
+remarks: |
+  ## Bio
+  Mark is a Developer Advocate specializing in Java/JVM languages at Microsoft, a computer scientist and MBA, and licensed pilot. He is a Java Champion and Kotlin Developer Expert, Rockstar presenter, and author of the O'Reilly book Spring Boot: Up and Running! Mark speaks English and Spanish/inglés y español.
+  ## Skills
+  * Java
+  * Spring
+  * Full stack development
+  * Cloud-native applications
+  * Microservice architectures
+  * Security
+tagline: Java
+image:
+  alt: "Mark Heckler, Principal Cloud Advocate"
+  src: media/profiles/mark-heckler.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/mkheck
+  - title: GitHub
+    url: https://github.com/mkheck
+  - title: LinkedIn
+    url: https://linkedin.com/in/markheckler
+location:
+  display: St. Louis, MO, USA
+  lat: 38.7588171
+  long: -90.4011274

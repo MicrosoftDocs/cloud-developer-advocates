@@ -553,6 +553,16 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
+- uid: advocates.jing-low
+  name: Jing Low
+  tagline: Spatial Computing / Mixed Reality / WebXR / Python / (Linguistics)
+  image:
+    src: media/profiles/jing-low.jpg
+    alt: "Jing Low Software Engineering Intern"
+  location: 
+    display: Merritt Island, Florida, United States
+    lat: 28.35426
+    long: -80.700165
 - uid: advocates.john-papa
   name: John Papa
   tagline: JavaScript / Node.js / Web
@@ -623,6 +633,16 @@ profiles:
     display: Minato-ku Tokyo, Japan
     lat: 35.626610
     long: 139.740982
+- uid: advocates.markheckler
+  name: Mark Heckler
+  tagline: Java
+  image:
+    src: media/profiles/mark-heckler.png
+    alt: "Mark Heckler, Principal Cloud Advocate"
+  location: 
+    display: St. Louis, MO, USA
+    lat: 38.7588171
+    long: -90.4011274
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
   tagline: .NET / Xamarin
