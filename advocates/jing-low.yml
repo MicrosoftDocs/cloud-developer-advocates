@@ -1,0 +1,37 @@
+## YamlMime:Profile
+uid: advocates.jing-low
+name: Jing Low
+metadata:
+  title: Jing Low - Software Engineering Intern
+  description: Home page for Jing Low, a Microsoft Software Engineering Intern
+  ms.author: t-jinglow
+  team: spatial
+remarks: |
+  ## Bio
+  I'm a Software Engineering Intern on the Spatial/Mixed Reality team, currently pursuing a dual degree for Computer Science and Linguistics at the University of Florida.
+  Check out [my personal website](https://jing1201.github.io) to learn more about my experience and what I love to do.
+  
+  ## Skills
+  * Python
+  * Web Development
+  * Mixed Reality
+  * WebXR
+  * Language Technologies
+
+tagline: Spatial Computing / Mixed Reality / WebXR / Python / (Linguistics)
+image:
+  alt: "Jing Low Software Engineering Intern"
+  src: media/profiles/jing-low.jpg
+
+connect:
+  - title: Twitter
+    url: https://twitter.com/jlionwg
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jinglow
+  - title: GitHub
+    url: https://github.com/jing1201
+
+location:
+  display: Merritt Island, Florida, United States
+  lat: 28.35426
+  long: -80.700165
