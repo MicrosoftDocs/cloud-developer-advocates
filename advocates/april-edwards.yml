@@ -1,0 +1,43 @@
+### YamlMime:Profile
+uid: advocates.april-edwards
+name: April Edwards
+metadata:
+  title: April Edwards - Cloud Advocate
+  description: Home page for April Edwards, a Microsoft Cloud Developer Advocate
+  ms.author: apedward
+  team: devops
+remarks: |
+  ## Bio
+  April is a Cloud Developer Advocate at Microsoft. April started her career in Ops and moved into Dev, embracing DevOps after many painful projects and seeing the light. She works with people to help them automate all the things and is a Hashicorp Ambassador.
+  
+  Outside of work, April spends her time competing in triathlons, backcountry skiing, or wreck diving in the depths of the sea.
+  
+  You can find April at a variety of conferences, as well as a frequent guest on podcasts, The DevOps Lab and other event that focus on IaC and DevOps topics. 
+  
+  ## Skills
+  * DevOps
+  * Build and Release
+  * Microsoft Azure
+  * PowerShell
+  * AppDev
+  * Golang
+  * Architecture
+  * Windows Server
+
+tagline: DevOps
+image:
+  alt: "April Edwards Cloud Developer Advocate"
+  src: media/profiles/april-edwards.png 
+connect:
+  - title: Twitter
+    url: https://twitter.com/TheAprilEdwards
+  - title: GitHub
+    url: https://github.com/scubaninja
+  - title: Blog
+    url: https://AZApril.dev
+  - title: LinkedIn
+    url: https://linkedin.com/in/azureapril
+location:
+  display: London, UK
+  lat: 51.500153
+  long: -0.1262362
