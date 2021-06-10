@@ -123,6 +123,16 @@ profiles:
     display: Tulsa, OK, USA
     lat: 36.155327
     long: -95.99208
+- uid: advocates.april-edwards
+  name: April Edwards
+  tagline: DevOps
+  image:
+    src: media/profiles/april-edwards.png 
+    alt: "April Edwards Cloud Developer Advocate"
+  location: 
+    display: London, UK
+    lat: 51.500153
+    long: -0.1262362
 - uid: advocates.april-speight
   name: April Speight
   tagline: Mixed Reality / HoloLens / Spatial Computing
