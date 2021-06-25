@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
 using YamlDotNet.Serialization;
@@ -10,6 +11,7 @@ namespace AdvocateValidation
 {
     class Program
     {
+        readonly static HttpClient _client = new();
 
         readonly static string _advocatesPath =
 #if DEBUG
@@ -77,12 +79,16 @@ namespace AdvocateValidation
             return _yamlDeserializer.Deserialize<CloudAdvocateYamlModel>(stringReaderFile);
         }
 
-        static void EnsureValidUri(in string filePath, in Uri? uri, in string uriName)
+        static async Task EnsureValidUri(string filePath, Uri? uri, string uriName)
         {
             if (uri is null)
                 throw new Exception($"Missing {uriName} Url: {filePath}");
 
             if (!uri.IsWellFormedOriginalString())
+                throw new Exception($"Invalid {uriName} Url: {filePath}");
+
+            var response = await _client.GetAsync(uri).ConfigureAwait(false);
+            if(!response.IsSuccessStatusCode)
                 throw new Exception($"Invalid {uriName} Url: {filePath}");
         }
 
@@ -101,7 +107,7 @@ namespace AdvocateValidation
 
             var imageSize = ImageService.GetDimensions(binaryReader);
 
-            if(imageSize.Height <= 0)
+            if (imageSize.Height <= 0)
                 throw new Exception($"Invalid Image Height (must be greater than 0): {filePath}");
 
             if (imageSize.Width <= 0)
