@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="YamlDotNet" Version="11.2.0" />
+    <PackageReference Include="GitHubApiStatus" Version="2.0.1" />
   </ItemGroup>
 
 </Project>
