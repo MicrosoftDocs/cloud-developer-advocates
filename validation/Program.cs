@@ -94,7 +94,8 @@ namespace AdvocateValidation
             {
                 response = await _client.GetAsync(uri).ConfigureAwait(false);
 
-                if (_gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta) && delta is TimeSpan timeRemaining)
+                if (_gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta)
+                        && delta is TimeSpan timeRemaining)
                 {
                     Console.WriteLine($"Rate Limit Exceeded. Retrying in {timeRemaining.TotalSeconds} seconds");
                     await Task.Delay(timeRemaining).ConfigureAwait(false);
