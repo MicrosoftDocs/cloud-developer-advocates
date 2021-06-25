@@ -40,7 +40,7 @@ namespace AdvocateValidation
 
                 var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))?.Url;
 
-                EnsureValidUri(filePath, gitHubUri, gitHub);
+                await EnsureValidUri(filePath, gitHubUri, gitHub).ConfigureAwait(false);
 
                 EnsureValidImage(filePath, advocate.Image);
 
