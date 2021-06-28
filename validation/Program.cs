@@ -13,6 +13,9 @@ namespace AdvocateValidation
 {
     class Program
     {
+        readonly static HttpClient _client = new();
+        readonly static GitHubApiStatusService _gitHubApiStatusService = new();
+
         readonly static string _advocatesPath =
 #if DEBUG
             Path.Combine("../../../../", "advocates");
@@ -21,6 +24,11 @@ namespace AdvocateValidation
 #endif
 
         readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
+
+        static Program()
+        {
+            _client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue(new ProductHeaderValue(nameof(AdvocateValidation))));
+        }
 
         static async Task Main()
         {
@@ -87,17 +95,12 @@ namespace AdvocateValidation
             if (!uri.IsWellFormedOriginalString())
                 throw new Exception($"Invalid {uriName} Url: {filePath}");
 
-            var client = new HttpClient();
-            client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue( new ProductHeaderValue(nameof(AdvocateValidation))));
-
-            var gitHubApiStatusService = new GitHubApiStatusService();
-
             bool hasReceivedGitHubAbuseLimitResponse;
 
             do
             {
-                var response = await client.GetAsync(uri).ConfigureAwait(false);
-                hasReceivedGitHubAbuseLimitResponse = gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta);
+                var response = await _client.GetAsync(uri).ConfigureAwait(false);
+                hasReceivedGitHubAbuseLimitResponse = _gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta);
 
                 if (hasReceivedGitHubAbuseLimitResponse && delta is TimeSpan timeRemaining)
                 {
