@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
 using GitHubApiStatus;
@@ -12,9 +13,6 @@ namespace AdvocateValidation
 {
     class Program
     {
-        readonly static HttpClient _client = new();
-        readonly static GitHubApiStatusService _gitHubApiStatusService = new();
-
         readonly static string _advocatesPath =
 #if DEBUG
             Path.Combine("../../../../", "advocates");
@@ -89,13 +87,19 @@ namespace AdvocateValidation
             if (!uri.IsWellFormedOriginalString())
                 throw new Exception($"Invalid {uriName} Url: {filePath}");
 
-            HttpResponseMessage response;
+            var client = new HttpClient();
+            client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue( new ProductHeaderValue(nameof(AdvocateValidation))));
+
+            var gitHubApiStatusService = new GitHubApiStatusService();
+
+            bool hasReceivedGitHubAbuseLimitResponse;
+
             do
             {
-                response = await _client.GetAsync(uri).ConfigureAwait(false);
+                var response = await client.GetAsync(uri).ConfigureAwait(false);
+                hasReceivedGitHubAbuseLimitResponse = gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta);
 
-                if (_gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta)
-                        && delta is TimeSpan timeRemaining)
+                if (hasReceivedGitHubAbuseLimitResponse && delta is TimeSpan timeRemaining)
                 {
                     Console.WriteLine($"Rate Limit Exceeded. Retrying in {timeRemaining.TotalSeconds} seconds");
                     await Task.Delay(timeRemaining).ConfigureAwait(false);
@@ -105,7 +109,7 @@ namespace AdvocateValidation
                     throw new Exception($"Invalid {uriName} Url: {filePath}");
                 }
             }
-            while (!_gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out _));
+            while (hasReceivedGitHubAbuseLimitResponse);
         }
 
         static void EnsureValidImage(in string filePath, in Image? cloudAdvocateImage)
