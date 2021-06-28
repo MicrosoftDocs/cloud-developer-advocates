@@ -2,14 +2,19 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Net.Http;
+using System.Net.Http.Headers;
 using System.Text;
 using System.Threading.Tasks;
+using GitHubApiStatus;
 using YamlDotNet.Serialization;
 
 namespace AdvocateValidation
 {
     class Program
     {
+        readonly static HttpClient _client = new();
+        readonly static GitHubApiStatusService _gitHubApiStatusService = new();
 
         readonly static string _advocatesPath =
 #if DEBUG
@@ -19,6 +24,11 @@ namespace AdvocateValidation
 #endif
 
         readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
+
+        static Program()
+        {
+            _client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue(new ProductHeaderValue(nameof(AdvocateValidation))));
+        }
 
         static async Task Main()
         {
@@ -38,7 +48,7 @@ namespace AdvocateValidation
 
                 var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))?.Url;
 
-                EnsureValidUri(filePath, gitHubUri, gitHub);
+                await EnsureValidGitHubUri(filePath, gitHubUri, gitHub).ConfigureAwait(false);
 
                 EnsureValidImage(filePath, advocate.Image);
 
@@ -77,13 +87,32 @@ namespace AdvocateValidation
             return _yamlDeserializer.Deserialize<CloudAdvocateYamlModel>(stringReaderFile);
         }
 
-        static void EnsureValidUri(in string filePath, in Uri? uri, in string uriName)
+        static async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
         {
             if (uri is null)
                 throw new Exception($"Missing {uriName} Url: {filePath}");
 
             if (!uri.IsWellFormedOriginalString())
                 throw new Exception($"Invalid {uriName} Url: {filePath}");
+
+            bool hasReceivedGitHubAbuseLimitResponse;
+
+            do
+            {
+                var response = await _client.GetAsync(uri).ConfigureAwait(false);
+                hasReceivedGitHubAbuseLimitResponse = _gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta);
+
+                if (hasReceivedGitHubAbuseLimitResponse && delta is TimeSpan timeRemaining)
+                {
+                    Console.WriteLine($"Rate Limit Exceeded. Retrying in {timeRemaining.TotalSeconds} seconds");
+                    await Task.Delay(timeRemaining).ConfigureAwait(false);
+                }
+                else if (!response.IsSuccessStatusCode)
+                {
+                    throw new Exception($"Invalid {uriName} Url: {filePath}");
+                }
+            }
+            while (hasReceivedGitHubAbuseLimitResponse);
         }
 
         static void EnsureValidImage(in string filePath, in Image? cloudAdvocateImage)
@@ -101,7 +130,7 @@ namespace AdvocateValidation
 
             var imageSize = ImageService.GetDimensions(binaryReader);
 
-            if(imageSize.Height <= 0)
+            if (imageSize.Height <= 0)
                 throw new Exception($"Invalid Image Height (must be greater than 0): {filePath}");
 
             if (imageSize.Width <= 0)
