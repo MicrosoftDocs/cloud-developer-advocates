@@ -1,0 +1,50 @@
+### YamlMime:Profile
+uid: advocates.christopher-harrison
+name: Christopher Harrison
+metadata:
+  title: Christopher Harrison - Sr. Cloud Advocate
+  description: Home page for Christopher Harrison, a Microsoft Sr. Cloud Advocate
+  ms.author: chrhar
+  team: academic
+remarks: |
+  ## Bio
+
+  Christopher is a long-time web developer and all around geek. He enjoys working with various frameworks and languages, including Python, TypeScript, Svelte, and Django. He's worked on numerous chat bot projects and other AI implementations. He's spent the bulk of his career in the education space in one shape or form. He loves seeing people have those "a-ha" moments.
+
+  When not writing code or delivering a presentation, Christopher can be found running many miles with friends, playing Civilization, Cities: Skylines or Microsoft Flight Simulator, or spending time with his wife and their four-legged child (a rescue dog named Sammy).
+
+  ## Skills
+
+  - Python
+  - TypeScript
+  - JavaScript
+  - Svelte
+  - Django
+  - Flask
+  - Bot Framework
+
+
+  ## My projects
+
+  - [Create data-driven websites by using Django](https://docs.microsoft.com/learn/paths/django-create-data-driven-websites/)
+  - [Take your first steps with Vue.js](https://docs.microsoft.com/learn/paths/vue-first-steps/)
+  - [Creating your first web apps with React](https://docs.microsoft.com/learn/paths/react/)
+  - [Azure Static Web Apps and Mongoose starter kit](https://github.com/GeekTrainer/aswa-student-starter-kit)
+
+tagline: Web Development / JavaScript / TypeScript / Python
+image:
+  alt: "Christopher Harrison Sr. Cloud Advocate"
+  src: media/profiles/christopher-harrison.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/geektrainer
+  - title: GitHub
+    url: https://github.com/geektrainer
+  - title: Blog
+    url: https://www.geektrainer.dev/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/geektrainer/
+location:
+  display: Seattle, Washington, United States
+  lat: 47.5709315
+  long: -122.3865166
