@@ -313,6 +313,16 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
+- uid: advocates.christopher-harrison
+  name: Christopher Harrison
+  tagline: Web Development / JavaScript / TypeScript / Python
+  image:
+    src: media/profiles/christopher-harrison.png
+    alt: "Christopher Harrison Sr. Cloud Advocate"
+  location: 
+    display: Seattle, Washington, United States
+    lat: 47.5709315
+    long: -122.3865166
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
   tagline: IoT / Cloud Dev
