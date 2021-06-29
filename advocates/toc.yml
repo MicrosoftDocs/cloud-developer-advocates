@@ -67,8 +67,6 @@ items:
     uid: advocates.christina-warren
   - name: Christopher Maneu
     uid: advocates.christopher-maneu
-  - name: Damian Brady
-    uid: advocates.damian-brady
   - name: Dan Wahlin
     uid: advocates.dan-wahlin
   - name: Dave Glover
@@ -207,6 +205,4 @@ items:
     uid: advocates.yohan-lasorsa
   - name: Yoshio Terada
     uid: advocates.yoshio-terada
-  - name: Zachary Deptawa
-    uid: advocates.zachary-deptawa
 # Add more to the list. Be careful to preserve spaces and hyphen format.

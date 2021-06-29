@@ -323,16 +323,6 @@ profiles:
     display: Paris, France
     lat: 48.833968 
     long: 2.265598
-- uid: advocates.damian-brady
-  name: Damian Brady
-  tagline: DevOps / MLOps
-  image:
-    src: media/profiles/damian-brady.png
-    alt: "Damian Brady Cloud Advocate"
-  location: 
-    display: Brisbane, Australia
-    lat: -27.471300
-    long: 153.023800
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
   tagline: Fluid / Microsoft 365 / Azure
@@ -1023,13 +1013,3 @@ profiles:
     display: Minato-ku Tokyo, Japan
     lat: 35.626610
     long: 139.740982
-- uid: advocates.zachary-deptawa
-  name: Zachary Deptawa
-  tagline: Linux
-  image:
-    src: media/profiles/zachary-deptawa.png
-    alt: "Zachary Deptawa Cloud Developer Advocate"
-  location: 
-    display: San Antonio, Texas, United States
-    lat: 29.486311
-    long: -98.872145
