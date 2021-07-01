@@ -14,14 +14,16 @@ remarks: |
   
   ## Skills
   * Microsoft Azure
+  * Azure Arc
   * Azure Stack
   * Windows Server
   * Cloud Architecture
+   * Hybrid and Mutlicloud Management
   * Datacenter Migrations
   * PowerShell
   * Virtualization
  
-tagline: Azure / Azure Stack / Windows Server / IT Pro
+tagline: Azure / Azure Arc / Windows Server / IT Pro
 image:
   alt: "Thomas Maurer Cloud Advocate"
   src: media/profiles/thomas-maurer.png 
@@ -38,6 +40,8 @@ connect:
     url: https://linkedin.com/in/thomasmaurer2/
   - title: YouTube
     url: https://www.youtube.com/c/ThomasMaurerCloud
+  - title: Reddit
+    url: https://www.reddit.com/user/ThomasMaurerCH
 location:
   display: Basel, Switzerland
   lat: 47.55734
