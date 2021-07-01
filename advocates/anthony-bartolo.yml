@@ -42,6 +42,8 @@ connect:
     url: https://www.facebook.com/WirelessLife
   - title: StackOverflow
     url: https://stackoverflow.com/users/4200953/anthony-bartolo
+  - title: Reddit
+    url: https://www.reddit.com/user/Wireless_Life
 location:
   display: Toronto, Ontario, Canada
   lat: 43.653226
