@@ -37,3 +37,5 @@ connect:
     url: https://www.twitch.tv/clarkio
 location:
   display: Florida, United States
+  lat: 0
+  long: 0
