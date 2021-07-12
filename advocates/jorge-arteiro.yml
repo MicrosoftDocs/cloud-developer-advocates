@@ -1,0 +1,54 @@
+### YamlMime:Profile
+uid: advocates.jorge-arteiro
+name: Jorge Arteiro
+metadata:
+  title: Jorge Arteiro - Cloud Developer Advocate
+  description: Home page for Jorge Arteiro, a Microsoft Cloud Developer Advocate
+  ms.author: joarteir
+  team: opensource
+remarks: |
+  ## Bio
+  I am a Cloud Developer Advocate for Containers based in Melbourne/Australia with over 20 years in the tech industry. As former Microsoft MVP - Most Valued Professional, I developed my passion to help and sponsor the Community to get into the tech industry, to learn how to collaborate and share their own knowledge with others. 
+  
+  At the age of 12, I remember when my Dad gave me my first personal computer, a MSX 1.0 Hotbit Z80. On this computer, I learned about BASIC, MSX-DOS, Z80 Assembler, PASCAL, EPROM burners, matrix printers, Hard disks, Modem and so on. At the time, I could never imagine one day been working for the company behind BASIC and MSX-DOS. Many people consider MSX as the first Microsoft Gaming Console, as we could play many amazing games on that. My advice is to never give up from your dreams, you can do it!
+  
+  I am originally from Brazil, where I started my career, after finishing my Computer Science degree. I moved to Australia in 2006 with my Wife, and we have a beautiful Australian born daughter. Before you ask, I do love Soccer. I have played sports all my life, and I have a big passion for Volleyball. Maybe we should have sports day on the next tech conference!
+  
+  Since 2014, I have been involved on the Containers, Kubernetes, Azure, Devops and Open Source technologies space. As Linux user since 2001, I am big fan of multi platform development with GoLang and .Net Core. I would love to get in contact with you and to know more about your local communities, please reach out.
+  
+  If you want to help/sponsor others, please consider following [AzureTar Community](https://azuretar.com/welcome-to-azuretar) , [AzureTar YouTube](https://www.youtube.com/c/azuretar) and [AzureTar Twitter](https://www.twitter.com/azuretar).
+
+  ## Skills
+  - Containers (Linux & Windows)
+  - Kubernetes
+  - Open Source 
+  - Golang
+  - Linux
+  - DevOps & Infra as Code
+  - API Management
+  - Azure
+  - .NET Development (Web & Desktop)
+
+tagline: Containers / Kubernetes / Open Source / Linux
+image:
+  alt: "Jorge Arteiro Cloud Developer Advocate"
+  src: media/profiles/jorge-arteiro.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/jorgearteiro
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/jorge-arteiro-602a4a8/
+  - title: GitHub
+    url: https://github.com/jorgearteiro
+  - title: Blog
+    url: https://azuretar.com
+  - title: YouTube
+    url: https://www.youtube.com/c/azuretar    
+  - title: Dev.to
+    url: https://www.dev.to/jorgearteiro
+  - title: Twitch
+    url: https://www.twitch.tv/jorgearteiro
+location:
+  display: Melbourne, Australia
+  lat: -37.81753
+  long: 144.96715

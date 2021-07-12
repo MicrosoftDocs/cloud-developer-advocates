@@ -234,9 +234,9 @@ profiles:
     src: media/profiles/brian-clark.png
     alt: "Brian Clark Cloud Developer Advocate"
   location: 
-    display: Winter Garden, Florida, United States
-    lat: 28.554713
-    long: -81.623445
+    display: Florida, United States
+    lat: 0
+    long: 0
 - uid: advocates.brian-ketelsen
   name: Brian Ketelsen
   tagline: Linux
@@ -357,6 +357,16 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
+- uid: advocates.david-abu
+  name: David Abu
+  tagline: Power BI
+  image:
+    src: media/profiles/david-abu.png
+    alt: "David Abu Cloud Advocate"
+  location: 
+    display: Lagos, Nigeria
+    lat: 6.5244
+    long: 3.3792
 - uid: advocates.david-blank-edelman
   name: David N. Blank-Edelman
   tagline: SRE
@@ -587,6 +597,16 @@ profiles:
     display: Orlando, Florida, United States
     lat: 28.5029917
     long: -81.5538575
+- uid: advocates.jorge-arteiro
+  name: Jorge Arteiro
+  tagline: Containers / Kubernetes / Open Source / Linux
+  image:
+    src: media/profiles/jorge-arteiro.png
+    alt: "Jorge Arteiro Cloud Developer Advocate"
+  location: 
+    display: Melbourne, Australia
+    lat: -37.81753
+    long: 144.96715
 - uid: advocates.julien-dubois
   name: Julien Dubois
   tagline: Java
@@ -949,7 +969,7 @@ profiles:
     long: -122.3321
 - uid: advocates.thomas-maurer
   name: Thomas Maurer
-  tagline: Azure / Azure Stack / Windows Server / IT Pro
+  tagline: Azure / Azure Arc / Windows Server / IT Pro
   image:
     src: media/profiles/thomas-maurer.png 
     alt: "Thomas Maurer Cloud Advocate"
