@@ -73,6 +73,8 @@ items:
     uid: advocates.dan-wahlin
   - name: Dave Glover
     uid: advocates.dave-glover
+  - name: David Abu
+    uid: advocates.david-abu
   - name: David N. Blank-Edelman
     uid: advocates.david-blank-edelman
   - name: David Smith
@@ -119,6 +121,8 @@ items:
     uid: advocates.jing-low
   - name: John Papa
     uid: advocates.john-papa
+  - name: Jorge Arteiro
+    uid: advocates.jorge-arteiro
   - name: Julien Dubois
     uid: advocates.julien-dubois
   - name: Justin Yoo
