@@ -72,6 +72,9 @@ namespace AdvocateValidation
             {
                 var text = await File.ReadAllTextAsync(filePath).ConfigureAwait(false);
 
+                if (text.Contains($"{Uri.UriSchemeHttp}://"))
+                    throw new Exception($"Invalid Uri. Must Use HTTPS: {filePath}");
+
                 if (text.StartsWith("### YamlMime:Profile") && !text.StartsWith("### YamlMime:ProfileList"))
                 {
                     Console.WriteLine($"Parsing {filePath}");
