@@ -18,12 +18,12 @@ remarks: |
   For a few years he has been working as Senior Software Engineer specializing in AI/ML, 
   and did a number of projects with customers on complex event detection in videos, as well as 
   object detection using 3D models for neural network training. He loves functional programming 
-  and F#, and is the primary developer of [mPyPl](http://github.com/shwars/mPyPl) Python library, 
+  and F#, and is the primary developer of [mPyPl](https://github.com/shwars/mPyPl) Python library, 
   which makes Python development less painful by introducing functional data pipelines. 
 
   In his spare time, he teaches courses on Functional Programming and AI in 
-  [Moscow Institute for Physics and Technology](http://mipt.ru), [Higher School of Economics](http://hse.ru)
-  and [Moscow Aviation Institute](http://mai.ru), and tries to get his 15-years-old daughter 
+  [Moscow Institute for Physics and Technology](https://mipt.ru), [Higher School of Economics](https://hse.ru)
+  and [Moscow Aviation Institute](https://mai.ru), and tries to get his 15-years-old daughter 
   interested in programming and science art. He has Ph.D. in Computer Science on Distributed Knowledge
   Representation. He also performs Gun Fu Cha tea ceremonies, and loves 
   technological magic.
@@ -35,8 +35,8 @@ remarks: |
   * .NET, C#, UWP
 
   ## Memberships
-  * [F# Software Foundation](http://foundation.fsharp.org/) 
-  * [European Association for Artificial Intelligence](http://eurai.org) 
+  * [F# Software Foundation](https://foundation.fsharp.org/) 
+  * [European Association for Artificial Intelligence](https://eurai.org) 
 
 tagline: AI / ML / Python / F# / Students / K-12
 image:
@@ -48,7 +48,7 @@ connect:
   - title: GitHub
     url: https://github.com/shwars
   - title: Blog
-    url: http://blog.soshnikov.com
+    url: https://blog.soshnikov.com
   - title: LinkedIn
     url: https://www.linkedin.com/in/shwars/
   - title: YouTube
