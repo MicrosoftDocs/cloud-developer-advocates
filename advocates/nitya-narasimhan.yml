@@ -1,0 +1,59 @@
+### YamlMime:Profile
+uid: advocates.nitya-narasimhan
+name: Nitya Narasimhan
+metadata:
+  title: Nitya Narasimhan - Senior Cloud Advocate
+  description: Home page for Nitya Narasimhan, a Senior Cloud Developer Advocate in Microsoft DevRel.
+  ms.author: ninarasi
+  team: mobile
+remarks: |
+  ## Bio
+  Nitya is a PhD in Computer Engineering, and a Polyglot with 20+ years of experience in software research and development.  She is also a community builder and conference organizer in the Greater New York City region.
+
+  She is currently a Senior Cloud Advocate in Microsoft Developer Relations, focused on mobile and multi-platform app development. She is a visual storyteller, exploring the use of sketchnotes and visual vocabulary to make complex technologies easier to understand, retain, and recall.
+
+  Prior to Microsoft, she led engineering teams (in startups), taught mobile development (in academia), and developed next-generation multi-screen experiences (in industry) as a Distinguished Member of Tech Staff at Motorola Research. 
+  
+  She has authored 30+ publications, been issued 10+ patents, and spoken at numerous community and industry conferences on diverse topics related to software and soft-skills development.
+
+  ## Skills
+  - Mobile Development (Android, Flutter)
+  - Web Development (JavaScript, PWA)
+  - Cloud Computing (Azure, Power Platform)
+  - Sketchnoting (Visual Guides)
+  - Distributed & Ubiquitous Computing (Research)
+
+  ## Mobile, Cloud & Multi-Platform 
+  - [Learn PWA](https://nitya.github.io/pwa/) - 2021
+  - [Learn .NET MAUI](https://multiplatform-dev.github.io/dotnet-maui-developer-roadmap/#/) - 2021
+  - [Visual Guides to Azure](https://acloudguru.com/blog/author/nitya-narasimhan) - 2021
+  - [Seasons Of Serverless](https://dev.to/nitya/series/9911) - 2020
+  - [Surface Duo Development](https://dev.to/t/surfaceduodev) - 2020
+
+
+  ## Visual Storytelling Projects
+  - [IOT For Beginners Curriculum](https://github.com/microsoft/IoT-For-Beginners) - 2021
+  - [SketchTheDocs: Visual Guides]](https://sketchthedocs.dev) - 2021
+  - [Visual Green Tech: Campaign](https://aka.ms/visual/greentech) - 2021
+  - [Hello World! #ABSee: Puzzles](https://sketchthedocs.github.io/AB-See/helloworld/about/) - 2021
+  - [Visualize IT!: Skilling Workshops](https://aka.ms/visualize-it) - 2020
+
+tagline: Mobile, Multi-Platform, Azure, PWA
+image:
+  alt: "Nitya Narasimhan, Senior Cloud Advocate"
+  src: media/profiles/nitya-narasimhan.png
+connect: 
+  - title: Twitter
+    url: https://twitter.com/nitya
+  - title: GitHub
+    url: https://github.com/nitya
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/nitynan/
+  - title: Dev.to
+    url: https://dev.to/nitya
+  - title: Polywork
+    url: http://polywork.com/nitya
+location:
+  display: New York City, NY, United States
+  lat: 40.757131
+  long: -73.989784
