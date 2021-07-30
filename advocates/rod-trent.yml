@@ -1,0 +1,41 @@
+### YamlMime:Profile
+uid: advocates.rod-trent
+name: Rod Trent
+metadata:
+  title: RodTrent - Sr. Cloud Security Advocate
+  description: Home page for Rod Trent, a Microsoft Cloud Security Advocate
+  ms.author: rotrent
+  team: security
+remarks: |
+  ## Bio
+  As a Customer Engineer and a Security CSA, I spent first years at Microsoft delivering for our largest Azure Sentinel customers. I've presented over 70 Azure Sentinel workshops in the last year alone. This has afforded me the opportunity to become very deep level on this amazing and breakthrough security platform and to understand what our customers require. And, on the side, I have built strong community over various social platforms for Azure Sentinel. I look forward to turning my side hustle into my day job as I take this new role in Cloud Security Advocacy to deliver and develop this one-to-many relationship with our customers. 
+  Prior to joining Microsoft in 2019, I have worked in IT operations, performed marketing for a few technology companies, ran some of the largest Microsoft-focused communities in the world (myITforum anyone?), invented and managed the original Microsoft Management Summit (MMS), ran the community outreach efforts for TechEd, owned and operated IT/Dev Connections (another IT-focused conference), owned and sold businesses, and worked as a program manager and Editor-in-Chief for Penton Publishing (WindowsITPro Magazine, et al). 
+  On the personal side, I'm a husband, dad of 4, and a first-time grandfather (so speak slow and loud). I spend my spare time simultaneously watching Six Million Dollar Man TV show episodes and writing KQL queries. I'm also an avid runner, have run over 2,100 days-in-a-row (that’s over 6 years to you and me), and my longest, non-stop run is ~52 miles.
+
+
+  ## Skills
+  * Azure Sentinel  
+  * Azure Security Center/Defender
+  * M365 Security
+  * Azure
+  
+tagline: Cloud Security / Cyber 
+image:
+  alt: "Rod Trent - Cloud Security Advocate"
+  src: media/profiles/rod-trent.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/rodtrent
+  - title: GitHub
+    url: https://github.com/rod-trent
+  - title: Blog
+    url: https://aka.ms/RodsBlog
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/rodtrent
+  - title: YouTube
+    url: https://www.youtube.com/c/RodTrent
+location:
+  display: Middletown, OH, United States
+  lat: 39.5068
+  long: -84.39108
+  
