@@ -723,6 +723,16 @@ profiles:
     display: Portland, Oregon, United States
     lat: 45.512794
     long: -122.679565
+- uid: advocates.nitya-narasimhan
+  name: Nitya Narasimhan
+  tagline: Mobile, Multi-Platform, Azure, PWA
+  image:
+    src: media/profiles/nitya-narasimhan.png
+    alt: "Nitya Narasimhan, Senior Cloud Advocate"
+  location: 
+    display: New York City, NY, United States
+    lat: 40.757131
+    long: -73.989784
 - uid: advocates.orin-thomas
   name: Orin Thomas
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
@@ -803,6 +813,16 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.645171
     long: -122.130696
+- uid: advocates.rod-trent
+  name: Rod Trent
+  tagline: Cloud Security / Cyber 
+  image:
+    src: media/profiles/rod-trent.png
+    alt: "Rod Trent - Cloud Security Advocate"
+  location: 
+    display: Middletown, OH, United States
+    lat: 39.5068
+    long: -84.39108
 - uid: advocates.rory-preddy
   name: Rory Preddy
   tagline: Java
