@@ -293,16 +293,6 @@ profiles:
     display: London, United Kingdom
     lat: 51.52814
     long: -0.1339
-- uid: advocates.chris-nwamba
-  name: Chris Nwamba
-  tagline: JavaScript / Node.js
-  image:
-    src: media/profiles/chris-nwamba.jpg
-    alt: "Chris Nwamba Cloud Advocate"
-  location: 
-    display: Lagos, Nigeria
-    lat: 6.524379
-    long: 3.379206
 - uid: advocates.christina-warren
   name: Christina Warren
   tagline: HTML
@@ -413,16 +403,6 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.647664
     long: -79.3802294
-- uid: advocates.erik-st-martin
-  name: Erik St. Martin
-  tagline: Linux
-  image:
-    src: media/profiles/erik-st-martin.png
-    alt: "Erik St. Martin Cloud Developer Advocate"
-  location: 
-    display: Land O' Lakes, Florida, United States
-    lat: 28.222353
-    long: -82.47148
 - uid: advocates.francesca-lazzeri
   name: Francesca Lazzeri
   tagline: Data Science / Machine Learning / Artificial Intelligence / Big Data
@@ -573,16 +553,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
-- uid: advocates.jing-low
-  name: Jing Low
-  tagline: Spatial Computing / Mixed Reality / WebXR / Python / (Linguistics)
-  image:
-    src: media/profiles/jing-low.jpg
-    alt: "Jing Low Software Engineering Intern"
-  location: 
-    display: Merritt Island, Florida, United States
-    lat: 28.35426
-    long: -80.700165
 - uid: advocates.john-papa
   name: John Papa
   tagline: JavaScript / Node.js / Web
