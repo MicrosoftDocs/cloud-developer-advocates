@@ -43,16 +43,6 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.712053
     long: -79.561556
-- uid: advocates.abhishek-gupta
-  name: Abhishek Gupta
-  tagline: NoSQL / Kafka / Kubernetes / Open Source
-  image:
-    src: media/profiles/abhishek-gupta.jpg
-    alt: "Abhishek Gupta Cloud Developer Advocate"
-  location: 
-    display: New Delhi, India
-    lat: 28.6000
-    long: 77.2000
 - uid: advocates.adi-polak
   name: Adi Polak
   tagline: Big Data / Serverless 
