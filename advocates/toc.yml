@@ -61,8 +61,6 @@ items:
     uid: advocates.chloe-condon
   - name: Chris Noring
     uid: advocates.chris-noring
-  - name: Chris Nwamba
-    uid: advocates.chris-nwamba
   - name: Christina Warren
     uid: advocates.christina-warren
   - name: Christopher Harrison
@@ -85,8 +83,6 @@ items:
     uid: advocates.dmitry-soshnikov
   - name: Em Lazer-Walker
     uid: advocates.em-lazerwalker
-  - name: Erik St. Martin
-    uid: advocates.erik-st-martin
   - name: Francesca Lazzeri
     uid: advocates.francesca-lazzeri
   - name: Frank Boucher
@@ -117,8 +113,6 @@ items:
     uid: advocates.jessica-deen
   - name: Jim Bennett
     uid: advocates.jim-bennett
-  - name: Jing Low
-    uid: advocates.jing-low
   - name: John Papa
     uid: advocates.john-papa
   - name: Jorge Arteiro
