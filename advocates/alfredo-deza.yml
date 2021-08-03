@@ -1,0 +1,47 @@
+### YamlMime:Profile
+uid: advocates.alfredo-deza
+name: Alfredo Deza
+metadata:
+  title: Alfredo Deza - Cloud Advocate
+  description: Home page for Alfredo Deza, a Microsoft Cloud Advocate
+  ms.author: alfredodeza
+  team: academic
+remarks: |
+  ## Bio
+  Alfredo Deza is a passionate software engineer, speaker, author, and former Olympic athlete. With almost two decades of DevOps and software engineering experience, he teaches Machine Learning Engineering and gives lectures around the world about software development, personal development, and professional sports.
+
+  He has written several books about DevOps and Python including Python For DevOps and Practical MLOps. He continues to share his knowledge about resilient infrastructure, testing, and robust development practices in courses, books, and presentations.
+
+  ## Skills
+  - Python
+  - ML & MLOps
+  - DevOps
+  - VimScript
+  - DevOps
+  - Containers
+  - CI/CD
+
+  ## My Projects
+  - [Python For DevOps book](https://www.oreilly.com/library/view/python-for-devops/9781492057680/)
+  - [Practical MLOps book](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
+  - [pytest.vim](https://github.com/alfredodeza/pytest.vim) A Vim plugin for running Pytest tests
+  - [khuno.vim](https://github.com/alfredodeza/khuno.vim) A Vim plugin for linting Python projects
+  - [coveragepy.vim](https://github.com/alfredodeza/coveragepy.vim) A Vim plugin for coverage.py
+  - [posero.vim](https://github.com/alfredodeza/posero.vim) A Vim plugin for presenting with plain text
+
+tagline: Python / MLOps / DevOps
+image:
+  alt: "Alfredo Deza - Cloud Advocate"
+  src: media/profiles/alfredo-deza.png
+connect:
+  - title: GitHub
+    url: https://github.com/alfredodeza
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/alfredodeza
+  - title: Twitter
+    url: https://twitter.com/alfredodeza
+
+location:
+  display: Marieta, Georgia, United States
+  lat: 33.9483855
+  long: -84.5773912

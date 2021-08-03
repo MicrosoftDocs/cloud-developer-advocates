@@ -67,6 +67,16 @@ profiles:
     display: Seattle, Washington, United States
     lat: 47.60621
     long: -122.33207
+- uid: advocates.alfredo-deza
+  name: Alfredo Deza
+  tagline: Python / MLOps / DevOps
+  image:
+    src: media/profiles/alfredo-deza.png
+    alt: "Alfredo Deza - Cloud Advocate"
+  location: 
+    display: Marieta, Georgia, United States
+    lat: 33.9483855
+    long: -84.5773912
 - uid: advocates.alvaro-videla
   name: Alvaro Videla
   tagline: RabbitMQ / Functional Programming / Architecture
