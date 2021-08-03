@@ -1,0 +1,42 @@
+### YamlMime:Profile
+uid: advocates.gwyneth-penasiguenza
+name: Gwyneth Pena-Siguenza
+metadata:
+  title: Gwyneth Pena-Siguenza - Cloud Advocate
+  description: Home page for Gwyneth Pena-Siguenza, a Microsoft Cloud Developer Advocate
+  ms.author: gwynethp
+  team: regional
+remarks: |
+
+  
+  ## Bio
+  Hi, I'm Gwyn! Regional Cloud Advocate at Microsoft and YouTuber. I started in tech at a help desk role, this is where I was introduced to cloud computing and the learning hasn't stopped since then. My favorite topics are .NET and Azure Functions and I'm always down to try out new things. I'm passionate about introducting others to the cloud, creating friendly and concise content, and my family. When I'm not doing Advocate things, you can find me playing video games (Big fan of Days Gone, Far Cry, and Sleeping Dogs), hanging out with my family, or eating mint chocolate chip ice cream.
+  
+  ## Skills
+  * .NET
+  * Serverless
+
+tagline: .NET & Serverless
+image:
+  alt: "Gwyneth Pena-Siguenza Cloud Developer Advocate"
+  src: media/profiles/gwyneth-pena.jpg
+connect:
+  - title: Twitter
+    url: https://twitter.com/madebygps
+  - title: GitHub
+    url: https://github.com/madebygps
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/3517876/gps
+  - title: LinkedIn
+    url: https://linkedin.com/in/gwyneth-pena
+  - title: Twitch
+    url: https://twitch.tv/madebygps
+  - title: YouTube
+    url: https://youtube.com/madebygps
+  - title: Instagram
+    url: https://instagram.com/madebygps
+location:
+  display: New York,  New York, United States
+  lat: 40.75325
+  long: -74.00381
+  
