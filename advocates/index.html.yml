@@ -447,6 +447,16 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.679194
     long: -122.153322
+- uid: advocates.gwyneth-penasiguenza
+  name: Gwyneth Pena-Siguenza
+  tagline: .NET & Serverless
+  image:
+    src: media/profiles/gwyneth-pena.jpg
+    alt: "Gwyneth Pena-Siguenza Cloud Developer Advocate"
+  location: 
+    display: New York,  New York, United States
+    lat: 40.75325
+    long: -74.00381
 - uid: advocates.henk-boelman
   name: Henk Boelman
   tagline: AI / ML / Azure / DevOps
