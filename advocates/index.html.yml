@@ -8,7 +8,6 @@ focalImage:
 metadata:
   title: Microsoft Cloud Advocates
   description: Trusted advisors to developer and IT professionals.
-  twitterWidgets: true
   hide_bc: true
 filterText: Cloud Advocates
 profiles:
