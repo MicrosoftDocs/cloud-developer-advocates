@@ -5,9 +5,15 @@ description: |
 focalImage:
   src: https://developer.microsoft.com/en-us/advocates/media/bitda.png
   alt: "Developer Advocate Bit in a Red T-Shirt with Developer Advocate label."
+bannerLinks:
+- text: Map
+  url: ./map
+- text: Tweets
+  url: ./tweets
 metadata:
   title: Microsoft Cloud Advocates
   description: Trusted advisors to developer and IT professionals.
+  twitterWidgets: true
   hide_bc: true
 filterText: Cloud Advocates
 profiles:
@@ -401,16 +407,6 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.647664
     long: -79.3802294
-- uid: advocates.francesca-lazzeri
-  name: Francesca Lazzeri
-  tagline: Data Science / Machine Learning / Artificial Intelligence / Big Data
-  image:
-    src: media/profiles/francesca-lazzeri.png
-    alt: "Francesca Lazzeri Cloud Developer Advocate"
-  location: 
-    display: Boston, MA, USA
-    lat: 42.3601
-    long: -71.1209
 - uid: advocates.frank-boucher
   name: Frank Boucher
   tagline: Development / DevOps / Serverless
