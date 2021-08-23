@@ -599,14 +599,14 @@ profiles:
     long: 128.4966604
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
-  tagline: .NET / Xamarin
+  tagline: .NET / Blazor / Xamarin
   image:
     src: media/profiles/laurent-bugnion.png 
     alt: "Laurent Bugnion Cloud Developer Advocate"
   location: 
-    display: Wallisellen, Bülach, Switzerland
-    lat: 47.417478
-    long: 8.58175
+    display: Zurich, Switzerland
+    lat: 47.36685141858674
+    long: 8.542759772328836
 - uid: advocates.lee-stott
   name: Lee Stott
   tagline: AI / ML / Students / Faculty
