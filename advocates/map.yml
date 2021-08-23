@@ -253,16 +253,6 @@ profiles:
     display: Franklin, TN, USA
     lat: 35.925064
     long: -86.868889
-- uid: advocates.cassie-breviu
-  name: Cassie Breviu
-  tagline: .NET / ML / Spatial (AR/VR)
-  image:
-    src: media/profiles/cassie-breviu.png
-    alt: "Cassie Breviu Cloud Advocate"
-  location: 
-    display: Minneapolis, Minnesota, United States
-    lat: 44.9778
-    long: -93.2650
 - uid: advocates.cecil-phillip
   name: Cecil Phillip
   tagline: .NET 
