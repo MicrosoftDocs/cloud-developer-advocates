@@ -14,21 +14,27 @@ remarks: |
 
   On the private side, I love to garden (I have a fish pond with water lilies, toads, newts, and many fishes of many kinds), go hiking in the Swiss mountains that I call home, travel all around the world and explore. I recently acquired a DJI Mavic Pro quadcopter which led me to [start making videos](https://www.youtube.com/channel/UCb_gm1NXTZXyvqgXAh_H32A/videos) as well [as pictures](https://www.instagram.com/lbugnion/) of the amazing places I am lucky to visit. I love to spend time with my family (I have two teenage daughters, who can be both adorable and exhausting) and friends. A big part of my professional activity is speaking at conferences worldwide, and I love to travel and meet, train, teach people everywhere I can.
 
-  Oh, and if you want to know more, you can check [this podcast](https://wildermuth.com/hwpod/26/Laurent-Bugnion) or [my blog](https://blog.galasoft.ch/posts/).
+  Oh, and if you want to know more, you can check [this podcast](https://wildermuth.com/hwpod/26/Laurent-Bugnion) or [my blog](https://galasoft.ch/posts/).
 
   ## Skills
   * .NET
+  * Azure Functions
+  * Azure Static Web Apps
+  * Azure App Service
+  * Blazor
+  * Azure SignalR Service
+  * Congnitive Services
   * Xamarin
   * XAML
-  * Blend
   * Model-View-ViewModel
+  * and more...
 
   ## My Projects
-  * [MVVM Light Toolkit](https://www.mvvmlight.net)
-  * [My blog](https://blog.galasoft.ch)
+  * [Timekeeper](https://timekeeper.cloud)
+  * [My blog](https://galasoft.ch/posts)
   * [My presentations](https://galasoft.ch/presentations) 
   
-tagline: .NET / Xamarin
+tagline: .NET / Blazor / Xamarin
 image:
   alt: "Laurent Bugnion Cloud Developer Advocate"
   src: media/profiles/laurent-bugnion.png 
@@ -38,7 +44,7 @@ connect:
   - title: GitHub
     url: https://github.com/LBugnion
   - title: Blog
-    url: https://blog.galasoft.ch
+    url: https://galasoft.ch/posts
   - title: Facebook
     url: https://facebook.com/LBugnion
   - title: Instagram
@@ -48,6 +54,6 @@ connect:
   - title: LinkedIn
     url: https://linkedin.com/in/LBugnion
 location:
-  display: Wallisellen, Bülach, Switzerland
-  lat: 47.417478
-  long: 8.58175
+  display: Zurich, Switzerland
+  lat: 47.36685141858674
+  long: 8.542759772328836
