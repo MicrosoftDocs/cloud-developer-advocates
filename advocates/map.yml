@@ -893,16 +893,6 @@ profiles:
     display: Chicago, IL, United States
     lat: 41.881832
     long: -87.623177
-- uid: advocates.shayne-boyer
-  name: Shayne Boyer
-  tagline: .NET
-  image:
-    src: media/profiles/shayne-boyer.png
-    alt: "Shayne Boyer Cloud Developer Advocate"
-  location: 
-    display: DeLand, Florida, United States
-    lat: 29.022108
-    long: -81.312887
 - uid: advocates.shmuela-jacobs
   name: Shmuela Jacobs
   tagline: JavaScript / Web
