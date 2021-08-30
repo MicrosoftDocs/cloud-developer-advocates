@@ -1,0 +1,34 @@
+## YamlMime:Profile
+uid: advocates.mufaro-shumba
+name: Mufaro Shumba
+metadata:
+  title: Mufaro Shumba - Cloud Advocate
+  description: Home page for Mufaro Shumba, a Microsoft Cloud Advocate
+  ms.author: mshumba
+  team: academic
+remarks: |
+  ## Bio
+  Mufaro is a computer science graduate of the University of Maryland and joined Microsoft as a software engineer after completing a couple internships at Microsoft. I'm interested in computer vision and quantum computing, and outside of work i'm either practicing my photography or enjoying time with friends and family! 
+
+  
+  ## Skills
+  * React Native
+  * Python
+  * C
+  * Java
+
+tagline: Cognitive Services 
+image:
+  alt: "Mufaro Shumba Cloud Advocate"
+  src: media/profiles/mufaro-shumba.png
+
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/mshumba
+  - title: GitHub
+    url: https://github.com/mshumba
+
+location:
+  display: Washington, DC
+  lat: 38.921558
+  long: -76.994522
