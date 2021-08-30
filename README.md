@@ -12,9 +12,13 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 
 For your convenience, a snippet has been created to allow you to fill your profile.
 
-Press `CTRL-SHIFT-P` (CMD-SHIFT-P on Mac), and type `Insert snippet`. Select the `Advocate Profile` loaded from your workspace. Make sure to tab through the different options as it will ensure consistency across everything.
+Start by opening the YAML we just created (eg. `firstname-lastname.yml`) and make sure that your cursor is at the beginning of the file.
+
+Press `CTRL-SHIFT-P` (CMD-SHIFT-P on Mac), and type `Insert snippet`. Select the `Advocate Profile` loaded from your workspace. Make sure to tab through the different options as it will ensure consistency without relying on copy/paste.
 
 Make sure to update your social profiles and the longitude/latitude of your city. For security reasons, do not use your home's longitude/latitude but your city's.
+
+Feel free to add any other links to the `connect` section but to limit it to ~6. You can use any title you want.
 
 ### After filling up your profile
 
