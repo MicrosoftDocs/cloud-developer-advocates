@@ -673,6 +673,16 @@ profiles:
     display: London, United Kingodom
     lat: 51.5218
     long: 0.0839
+- uid: advocates.mufaro-shumba
+  name: Mufaro Shumba
+  tagline: Cognitive Services 
+  image:
+    src: media/profiles/mufaro-shumba.png
+    alt: "Mufaro Shumba Cloud Advocate"
+  location: 
+    display: Washington, DC
+    lat: 38.921558
+    long: -76.994522
 - uid: advocates.nina-zakharenko
   name: Nina Zakharenko
   tagline: Python
