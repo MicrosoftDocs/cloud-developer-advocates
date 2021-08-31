@@ -877,16 +877,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-- uid: advocates.seth-juarez
-  name: Seth Juarez
-  tagline: AI / ML / Quantum / Emerging
-  image:
-    src: media/profiles/seth-juarez.png 
-    alt: "Seth Juarez Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
 - uid: advocates.shannon-kuehn
   name: Shannon Kuehn
   tagline: Azure / Infrastructure / Operations
@@ -907,16 +897,6 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
-- uid: advocates.simona-cotin
-  name: Simona Cotin
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/simona-cotin.png 
-    alt: "Simona Cotin Cloud Developer Advocate"
-  location: 
-    display: Reading, United Kingdom
-    lat: 51.458046
-    long: -1.012501
 - uid: advocates.sonia-cuff
   name: Sonia Cuff
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
