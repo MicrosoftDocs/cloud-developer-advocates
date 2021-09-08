@@ -414,11 +414,6 @@ description: |
 focalImage:
   src: https://developer.microsoft.com/en-us/advocates/media/bitda.png
   alt: "Developer Advocate Bit in a Red T-Shirt with Developer Advocate label."
-bannerLinks:
-- text: Map
-  url: ./map
-- text: Tweets
-  url: ./tweets
 metadata:
   title: Microsoft Cloud Advocates
   description: Trusted advisors to developer and IT professionals.
@@ -462,9 +457,9 @@ profiles:
     ForEach-Object -Begin { return $IndexFilecontent } -Process { Format-Index-Yaml -object $objects } `
         | Out-File -filepath $index_path -encoding utf8
 
-        # writing to map file 
-    ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `
-        | Out-File -filepath $map_path -encoding utf8
+    #     # writing to map file 
+    # ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `
+    #     | Out-File -filepath $map_path -encoding utf8
     
     Write-Verbose "Generated table of contents at $toc_path"
     Write-Verbose "Generated Index file at $index_path"
