@@ -29,7 +29,7 @@ connect:
     url: https://github.com/gomomohapi
   - title: LinkedIn
     url: https://www.linkedin.com/in/gomomohapi/
-    title: Instagram
+  - title: Instagram
     url: https://www.instagram.com/gomomohapi/
 location:
   display: Durban, South Africa
