@@ -412,6 +412,16 @@ profiles:
     display: Rio de Janeiro, Brazil
     lat: -22.904491
     long: -43.190777
+- uid: advocates.gomolemo-mohapi
+  name: Gomolemo Mohapi
+  tagline: Power Apps
+  image:
+    src: media/profiles/gomolemo-mohapi.png
+    alt: "Gomolemo Mohapi - Cloud Advocate"
+  location: 
+    display: Durban, South Africa
+    lat: -29.858681
+    long: 31.021839
 - uid: advocates.greg-hurlman
   name: Greg Hurlman
   tagline: Power Platform / Web
