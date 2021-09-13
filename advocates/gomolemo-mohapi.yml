@@ -1,0 +1,37 @@
+### YamlMime:Profile
+uid: advocates.gomolemo-mohapi
+name: Gomolemo Mohapi
+metadata:
+  title: Gomolemo Mohapi - Power Apps Cloud Advocate
+  description: Home page for Gomolemo Mohapi, a Microsoft Power Apps Cloud Advocate
+  ms.author: gomomohapi
+  team: power
+remarks: |
+  ## Bio
+  Gomolemo is a young, passionate individual who has always been involved with initiatives that seek to upskill people from all walks of life with the ability to use technology to better themselves in the way that they live and work. 
+  
+  Today, he is a Power Apps Cloud Advocate at Microsoft focusing on making the Power Platform space amazing for citizen and code-first developers of all backgrounds.
+  
+  ## Skills
+  * Power Apps
+  * .NET / .NET Core
+  
+tagline: Power Apps
+image:
+  alt: "Gomolemo Mohapi - Cloud Advocate"
+  src: media/profiles/gomolemo-mohapi.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/GomoMohapi
+  - title: Blog
+    url: https://gomomohapi.com/ 
+  - title: GitHub
+    url: https://github.com/gomomohapi
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/gomomohapi/
+  - title: Instagram
+    url: https://www.instagram.com/gomomohapi/
+location:
+  display: Durban, South Africa
+  lat: -29.858681
+  long: 31.021839
