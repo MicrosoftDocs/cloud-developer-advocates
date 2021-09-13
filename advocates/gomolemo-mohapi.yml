@@ -8,22 +8,17 @@ metadata:
   team: power
 remarks: |
   ## Bio
-  April is a woman who codes with a passion to help others build apps and automation with low code tools.  With years of development experience working as a consultant in the SharePoint and M365 space, April was an early adoptor of the Power Platform.
+  Gomolemo is a young, passionate individual who has always been involved with initiatives that seek to upskill people from all walks of life with the ability to use technology to better themselves in the way that they live and work. 
   
-  Prior to joining Microsoft, April was a Power Platform MVP.  As a Power Platform Developer Advocate at Microsoft, she helps app creators of all different backgrounds discover how they can create powerful solutions with the Power Platform.
-  She is a contributing member of the [Microsoft 365 Patterns and Practices team](https://developer.microsoft.com/en-us/microsoft-365/blogs/new-microsoft-365-patterns-and-practices-pnp-team-model-with-new-community-leads/) where she focuses on Power Platform integrations with M365. She's also an active blogger and YouTuber.
+  Today, he is a Power Apps Cloud Advocate at Microsoft focusing on making the Power Platform space amazing for citizen and code-first developers of all backgrounds.
+  
   ## Skills
   * Power Apps
-  * Power Automate
-  * Power Virtual Agents
-  * Dataverse
-  * SharePoint
-  * Microsoft Graph
-  * SharePoint Framework
-  * Microsoft Teams Development
-tagline: Power Apps 
+  * .NET / .NET Core
+  
+tagline: Power Apps
 image:
-  alt: "Gomolemo Mohapi"
+  alt: "Gomolemo Mohapi - Cloud Advocate"
   src: media/profiles/gomolemo-mohapi.png
 connect:
   - title: Twitter
@@ -34,7 +29,9 @@ connect:
     url: https://github.com/gomomohapi
   - title: LinkedIn
     url: https://www.linkedin.com/in/gomomohapi/
+    title: Instagram
+    url: https://www.instagram.com/gomomohapi/
 location:
   display: Durban, South Africa
-  lat: 36.155327
-  long: -95.99208
+  lat: -29.858681
+  long: 31.021839
