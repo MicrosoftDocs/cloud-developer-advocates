@@ -42,12 +42,12 @@ connect:
     url: https://github.com/yoshuawuyts
   - title: Blog
     url: https://blog.yoshuawuyts.com
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/yoshuawuyts/
   - title: YouTube
     url: https://www.youtube.com/yoshuawuyts
   - title: Twitch
     url: https://www.twitch.tv/yoshuawuyts
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yoshuawuyts/
 location:
   display: Copenhagen, Denmark
   lat: 55.676098
