@@ -1002,3 +1002,13 @@ profiles:
     display: Minato-ku Tokyo, Japan
     lat: 35.626610
     long: 139.740982
+- uid: advocates.yoshua-wuyts
+  name: Yoshua Wuyts
+  tagline: Rust
+  image:
+    src: media/profiles/yoshua-wuyts.jpg
+    alt: "Yoshua Wuyts, Rust Developer Advocate"
+  location: 
+    display: Copenhagen, Denmark
+    lat: 55.676098
+    long: 12.568337
