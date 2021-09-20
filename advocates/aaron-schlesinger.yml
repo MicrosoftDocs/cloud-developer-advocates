@@ -8,7 +8,7 @@ metadata:
   team: opensource
 remarks: |
   ## Bio
-  Aaron is is a Senior Cloud Developer Advocate focusing on Go, containers and
+  Aaron is is a Principal Cloud Developer Advocate focusing on Go, containers and
   Kubernetes on the Azure platform. He does extensive work in the Go and 
   Kubernetes communities, including holding leadership positions on major
   Go and Kubernetes open source projects.
@@ -19,10 +19,10 @@ remarks: |
   Mac team to distributed systems engineer for a major online gaming company.
 
   He is currently a core maintainer of the
-  [Athens project](https://github.com/gomods/athens) and created and runs
+  [Athens project](https://github.com/gomods/athens) and the [KEDA HTTP Addon](https://github.com/kedacore/http-add-on) and created and runs
   the [Go in 5 Minutes screencast series](https://goin5minutes.com).
 
-  He lives in Portland, OR and in his spare time he loves learning new
+  He lives in San Mateo, CA and in his spare time he loves learning new
   languages (spoken and computer!) and racing his wife up and down mountains.
 
   ## Skills
@@ -47,6 +47,6 @@ connect:
   - title: Twitch
     url: https://www.twitch.tv/arschles
 location:
-  display: Portland, OR, United States
-  lat: 45.512230
-  long: -122.658722
+  display: San Mateo, CA, United States
+  lat: 37.563470
+  long: -122.323183

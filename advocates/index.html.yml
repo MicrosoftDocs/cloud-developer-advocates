@@ -29,9 +29,9 @@ profiles:
     src: media/profiles/aaron-schlesinger.png
     alt: "Aaron Schlesinger Cloud Developer Advocate"
   location: 
-    display: Portland, OR, United States
-    lat: 45.512230
-    long: -122.658722
+    display: San Mateo, CA, United States
+    lat: 37.563470
+    long: -122.323183
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
   tagline: Linux
