@@ -222,16 +222,6 @@ profiles:
     display: Las Vegas, Nevada, United States
     lat: 36.23005
     long: -115.544269
-- uid: advocates.brian-clark
-  name: Brian Clark
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/brian-clark.png
-    alt: "Brian Clark Cloud Developer Advocate"
-  location: 
-    display: Florida, United States
-    lat: 0
-    long: 0
 - uid: advocates.brian-ketelsen
   name: Brian Ketelsen
   tagline: Linux
@@ -522,16 +512,6 @@ profiles:
     display: Wellesley, Massachusetts, United States
     lat: 42.310593
     long: -71.27621
-- uid: advocates.jeramiah-dooley
-  name: Jeramiah Dooley
-  tagline: Operations / Platforms
-  image:
-    src: media/profiles/jeramiah-dooley.png
-    alt: "Jeramiah Dooley Cloud Operations Advocate"
-  location: 
-    display: Charlotte, NC, United States
-    lat: 35.2270869
-    long: -80.8431267
 - uid: advocates.jessica-deen
   name: Jessica Deen
   tagline: Linux / Open Source
@@ -657,7 +637,7 @@ profiles:
   tagline: .NET / Serverless / Durable Functions
   image:
     src: media/profiles/maxime-rouiller.png
-    alt: "Maxime Rouiller Cloud Advocate"
+    alt: "Maxime Rouiller Senior Cloud Advocate"
   location: 
     display: Montréal, Québec, Canada
     lat: 45.5017
