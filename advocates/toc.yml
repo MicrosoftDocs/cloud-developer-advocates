@@ -1,4 +1,7 @@
-﻿metadata:
+﻿########################################################################
+#############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
+########################################################################
+metadata:
   name: advocates_toc
 items:
 - name: Cloud Advocates
