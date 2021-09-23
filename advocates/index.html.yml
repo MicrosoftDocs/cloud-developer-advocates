@@ -552,6 +552,16 @@ profiles:
     display: Melbourne, Australia
     lat: -37.81753
     long: 144.96715
+- uid: advocates.joshua-ndemenge
+  name: Joshua Ndemenge
+  tagline: IoT
+  image:
+    src: media/profiles/joshua-ndemenge.JPG
+    alt: "Joshua Ndemenge Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: -1.286389
+    long: 36.817223
 - uid: advocates.julien-dubois
   name: Julien Dubois
   tagline: Java
