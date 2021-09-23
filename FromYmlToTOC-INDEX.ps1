@@ -402,12 +402,18 @@ foreach ($source_folder in $source_folders) {
 
     #using @' '@  to avoid new line formatting notation 
     $content = @'
+########################################################################
+#############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
+########################################################################
 metadata:
   name: advocates_toc
 items:
 '@  
     $IndexFilecontent = @' 
 ### YamlMime:ProfileList
+########################################################################
+#############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
+########################################################################
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -424,6 +430,9 @@ profiles:
 '@
 
  $MapFilecontent = @' 
+########################################################################
+#############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
+########################################################################
 ### YamlMime:ProfileList
 title: Cloud Advocates
 description: |
@@ -463,5 +472,5 @@ profiles:
     
     Write-Verbose "Generated table of contents at $toc_path"
     Write-Verbose "Generated Index file at $index_path"
-    Write-Verbose "Generated map file at $map_path"
+    # Write-Verbose "Generated map file at $map_path"
 }
