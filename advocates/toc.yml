@@ -16,8 +16,6 @@ items:
     uid: advocates.aaron-wislang
   - name: Adi Polak
     uid: advocates.adi-polak
-  - name: Alena Hall
-    uid: advocates.alena-hall
   - name: Alfredo Deza
     uid: advocates.alfredo-deza
   - name: Alvaro Videla
@@ -98,8 +96,6 @@ items:
     uid: advocates.henk-boelman
   - name: Ismaël Mejía
     uid: advocates.ismael-mejia
-  - name: Jan Schenk
-    uid: advocates.jan-schenk
   - name: Jasmine Greenaway
     uid: advocates.jasmine-greenaway
   - name: Jason Hand
@@ -174,8 +170,6 @@ items:
     uid: advocates.ryan-levick
   - name: Sandra Ahlgrimm
     uid: advocates.sandra-ahlgrimm
-  - name: Sarah Lean
-    uid: advocates.sarah-lean
   - name: Scott Cate
     uid: advocates.scott-cate
   - name: Scott Coulton
