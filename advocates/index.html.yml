@@ -455,6 +455,16 @@ profiles:
     display: Driebergen, The Netherlands
     lat: 52.0483174
     long: 5.2686323
+- uid: advocates.ismael-mejia
+  name: Ismaël Mejía
+  tagline: Big Data / Data Engineering
+  image:
+    src: media/profiles/ismael-mejia.png
+    alt: "Ismaël Mejía Cloud Developer Advocate"
+  location: 
+    display: Nantes, France
+    lat: 47.2184
+    long: 1.5536
 - uid: advocates.jan-schenk
   name: Jan Schenk
   tagline: Diversity & Inclusion, Linux
