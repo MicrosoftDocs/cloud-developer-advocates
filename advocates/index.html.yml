@@ -55,16 +55,6 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
-- uid: advocates.alena-hall
-  name: Alena Hall
-  tagline: High Scale / Big Data
-  image:
-    src: media/profiles/alena-hall.png
-    alt: "Alena Hall Cloud Developer Advocate"
-  location: 
-    display: Seattle, Washington, United States
-    lat: 47.60621
-    long: -122.33207
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
   tagline: Python / MLOps / DevOps
@@ -465,16 +455,6 @@ profiles:
     display: Nantes, France
     lat: 47.2184
     long: 1.5536
-- uid: advocates.jan-schenk
-  name: Jan Schenk
-  tagline: Diversity & Inclusion, Linux
-  image:
-    src: media/profiles/jan-schenk.png
-    alt: "Jan Schenk Cloud Developer Advocate"
-  location: 
-    display: Reading, United Kingdom
-    lat: 48.1364098
-    long: 11.5775404
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
@@ -845,16 +825,6 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
-- uid: advocates.sarah-lean
-  name: Sarah Lean
-  tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
-  image:
-    src: media/profiles/sarah-lean.png 
-    alt: "Sarah Lean Cloud Advocate"
-  location: 
-    display: Glasgow, Scotland, United Kingdom
-    lat: 55.864239
-    long: -4.251806
 - uid: advocates.scott-cate
   name: Scott Cate
   tagline: .NET
