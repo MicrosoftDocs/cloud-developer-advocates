@@ -5,15 +5,18 @@ metadata:
   title: Bea Stollnitz - Cloud Advocate
   description: Home page for Bea Stollnitz, a Microsoft Cloud Advocate
   ms.author: bstollnitz
-  team: academic
+  team: aiml
 remarks: |
   ## Bio
   I'm a developer advocate at Microsoft, focusing on Azure ML. I'm interested
-  in machine learning in general, and I'm especially interested in any topic
-  that falls within the intersection of Applied Math and ML.
+  in machine learning in general, and in the intersection of
+  Applied Math and ML in particular.
 
   Prior to this role, I've worked on the WPF and Silverlight product teams at
   Microsoft, and as an independent consultant for those technologies.
+
+  I absolutely love traveling and, together with my husband, have explored
+  more than 65 countries.
 
   ## Skills
   - Machine learning
@@ -38,6 +41,8 @@ connect:
     url: https://bea.stollnitz.com/blog/
   - title: LinkedIn
     url: https://www.linkedin.com/in/beatrizstollnitz/
+  - title: Travel blog
+    url: https://www.pixeliciousplanet.com
 
 location:
   display: Seattle, USA
