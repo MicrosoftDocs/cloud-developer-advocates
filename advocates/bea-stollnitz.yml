@@ -1,0 +1,45 @@
+### YamlMime:Profile
+uid: advocates.bea-stollnitz
+name: Bea Stollnitz
+metadata:
+  title: Bea Stollnitz - Cloud Advocate
+  description: Home page for Bea Stollnitz, a Microsoft Cloud Advocate
+  ms.author: bstollnitz
+  team: academic
+remarks: |
+  ## Bio
+  I'm a developer advocate at Microsoft, focusing on Azure ML. I'm interested
+  in machine learning in general, and I'm especially interested in any topic
+  that falls within the intersection of Applied Math and ML.
+
+  Prior to this role, I've worked on the WPF and Silverlight product teams at
+  Microsoft, and as an independent consultant for those technologies.
+
+  ## Skills
+  - Machine learning
+  - Azure ML
+  - Applied math
+
+  ## My Projects
+  - [Code for my ML blog posts](https://github.com/bstollnitz/ml-blog-posts)
+  - [Demos I'm working on](https://github.com/bstollnitz/demos)
+  - [A few grad school projects](https://github.com/bstollnitz/grad-school-portfolio)
+
+tagline: Machine Learning | Azure ML
+image:
+  alt: "Bea Stollnitz Cloud Advocate"
+  src: media/profiles/bea-stollnitz.jpg
+connect:
+  - title: GitHub
+    url: https://github.com/bstollnitz/
+  - title: Twitter
+    url: https://twitter.com/beastollnitz
+  - title: Blog
+    url: https://bea.stollnitz.com/blog/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/beatrizstollnitz/
+
+location:
+  display: Seattle, USA
+  lat: 47.6062° N
+  long: 122.3321° W
