@@ -185,6 +185,16 @@ profiles:
     display: Melbourne, Australia
     lat: -37.840935
     long: 144.946457
+- uid: advocates.bea-stollnitz
+  name: Bea Stollnitz
+  tagline: Machine Learning | Azure ML
+  image:
+    src: media/profiles/bea-stollnitz.jpg
+    alt: "Bea Stollnitz Cloud Advocate"
+  location: 
+    display: Seattle, USA
+    lat: 47.6062
+    long: 122.3321
 - uid: advocates.bob-german
   name: Bob German
   tagline: Development on Microsoft 365 with Azure
