@@ -16,5 +16,7 @@ jobs:
         with:
           trigger: '#regenerate'
           reaction: rocket
+        env:
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
       - run: 'workflow ran successfully'
         if: steps.check.outputs.triggered == 'true'
