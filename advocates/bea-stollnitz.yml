@@ -46,5 +46,5 @@ connect:
 
 location:
   display: Seattle, USA
-  lat: 47.6062° N
-  long: 122.3321° W
+  lat: 47.6062
+  long: 122.3321
