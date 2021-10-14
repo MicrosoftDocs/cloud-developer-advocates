@@ -540,7 +540,7 @@ profiles:
   tagline: JavaScript / Node.js / Web
   image:
     src: media/profiles/john-papa.png
-    alt: "John Papa Cloud Developer Advocate"
+    alt: "John Papa Principal Cloud Advocate"
   location: 
     display: Orlando, Florida, United States
     lat: 28.5029917
