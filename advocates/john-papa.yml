@@ -2,7 +2,8 @@
 uid: advocates.john-papa
 name: John Papa
 metadata:
-  title: John Papa - Principal Cloud Advocate
+  title: John Papa - Principal Cloud Advocate Lead
+
   description: Home page for John Papa, a Microsoft Principal Cloud Advocate
   ms.author: jopapa
   team: academic
@@ -34,7 +35,8 @@ remarks: |
 
 tagline: JavaScript / Node.js / Web
 image:
-  alt: "John Papa Principal Cloud Advocate"
+  alt: "John Papa Principal Cloud Advocate Lead"
+
   src: media/profiles/john-papa.png
 connect:
   - title: Twitter
