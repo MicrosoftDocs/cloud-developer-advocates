@@ -2,11 +2,10 @@
 uid: advocates.john-papa
 name: John Papa
 metadata:
-title: John Papa - Principal Cloud Advocate Lead
-
-description: Home page for John Papa, a Microsoft Principal Cloud Advocate
-ms.author: jopapa
-team: academic
+  title: John Papa - Principal Cloud Advocate Lead
+  description: Home page for John Papa, a Microsoft Principal Cloud Advocate
+  ms.author: jopapa
+  team: academic
 remarks: |
   ## Bio
   John Papa is a dedicated father and husband, a professional Web Developer, and professional storyteller in the technology community. He currently is a Principal Cloud Advocate for Microsoft and has formerly worked for Disney on several web and mobile applications that you may have used.
