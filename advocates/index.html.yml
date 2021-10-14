@@ -537,10 +537,10 @@ profiles:
     long: -122.153322
 - uid: advocates.john-papa
   name: John Papa
-  tagline: JavaScript / Node.js / Web
+  tagline: Web technologist, engineering leader, and storyteller
   image:
     src: media/profiles/john-papa.png
-    alt: "John Papa Cloud Developer Advocate"
+    alt: "John Papa Principal Cloud Advocate Lead"
   location: 
     display: Orlando, Florida, United States
     lat: 28.5029917
