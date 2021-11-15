@@ -14,8 +14,6 @@ items:
     uid: advocates.aaron-schlesinger
   - name: Aaron Wislang
     uid: advocates.aaron-wislang
-  - name: Adi Polak
-    uid: advocates.adi-polak
   - name: Alfredo Deza
     uid: advocates.alfredo-deza
   - name: Alvaro Videla
@@ -76,8 +74,6 @@ items:
     uid: advocates.david-blank-edelman
   - name: David Smith
     uid: advocates.david-smith
-  - name: Dean Bryen
-    uid: advocates.dean-bryen
   - name: Dmitry Soshnikov
     uid: advocates.dmitry-soshnikov
   - name: Em Lazer-Walker
@@ -126,8 +122,6 @@ items:
     uid: advocates.laurent-bugnion
   - name: Lee Stott
     uid: advocates.lee-stott
-  - name: Lucas Santos
-    uid: advocates.lucas-santos
   - name: Madoka Chiyoda
     uid: advocates.madoka-chiyoda
   - name: Mark Heckler
@@ -152,8 +146,6 @@ items:
     uid: advocates.patrick-chanezon
   - name: Paul DeCarlo
     uid: advocates.paul-decarlo
-  - name: Phoummala Schmitt
-    uid: advocates.phoummala-schmitt
   - name: Pierre Roman
     uid: advocates.pierre-roman
   - name: Rabia Williams
@@ -174,8 +166,6 @@ items:
     uid: advocates.scott-cate
   - name: Scott Coulton
     uid: advocates.scott-coulton
-  - name: Shannon Kuehn
-    uid: advocates.shannon-kuehn
   - name: Shmuela Jacobs
     uid: advocates.shmuela-jacobs
   - name: Sonia Cuff

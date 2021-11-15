@@ -45,16 +45,6 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.712053
     long: -79.561556
-- uid: advocates.adi-polak
-  name: Adi Polak
-  tagline: Big Data / Serverless 
-  image:
-    src: media/profiles/adi-polak.png
-    alt: "Adi Polak Cloud Developer Advocate"
-  location: 
-    display: Tel Aviv, Israel
-    lat: 32.081359
-    long: 34.780957
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
   tagline: Python / MLOps / DevOps
@@ -355,16 +345,6 @@ profiles:
     display: Napa, CA, USA
     lat: 38.2975381  
     long: -122.286865
-- uid: advocates.dean-bryen
-  name: Dean Bryen
-  tagline: Serverless, Devops, Node.js
-  image:
-    src: media/profiles/dean-bryen.png
-    alt: "Dean Bryen - Cloud Developer Advocate"
-  location: 
-    display: London, United Kingdom
-    lat: 51.508530
-    long: -0.076132
 - uid: advocates.dmitry-soshnikov
   name: Dmitry Soshnikov
   tagline: AI / ML / Python / F# / Students / K-12
@@ -489,7 +469,7 @@ profiles:
   name: Jay Gordon
   tagline: Linux
   image:
-    src: media/profiles/jay-gordon.png
+    src: media/profiles/jay-gordon.jpg
     alt: "Jay Gordon Cloud Advocate"
   location: 
     display: Brooklyn, New York, United States
@@ -605,16 +585,6 @@ profiles:
     display: Manchester, United Kingdom
     lat: 53.47959
     long: -2.24874
-- uid: advocates.lucas-santos
-  name: Lucas Santos
-  tagline: Kubernetes / Containers / Docker / JavaScript / Node.js / TypeScript
-  image:
-    src: media/profiles/lucas-santos.png
-    alt: "Lucas Santos Cloud Advocate"
-  location: 
-    display: Santo André, São Paulo
-    lat: -23.7103031
-    long: -46.4928907
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
   tagline: Mixed Reality / HoloLens / C# / Conversational AI / (Manga)
@@ -735,16 +705,6 @@ profiles:
     display: Houston, Texas, US
     lat: 29.726948
     long: -95.609268
-- uid: advocates.phoummala-schmitt
-  name: Phoummala Schmitt
-  tagline: IT Infrastructure / Operations 
-  image:
-    src: media/profiles/phoummala-schmitt.png
-    alt: "Phoummala Schmitt Cloud Operations Advocate"
-  location: 
-    display: Harrisburg, Pennsylvania, United States
-    lat: 40.2731911
-    long: -76.8867008
 - uid: advocates.pierre-roman
   name: Pierre Roman
   tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
@@ -845,16 +805,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-- uid: advocates.shannon-kuehn
-  name: Shannon Kuehn
-  tagline: Azure / Infrastructure / Operations
-  image:
-    src: media/profiles/shannon-kuehn.png
-    alt: "Shannon Kuehn Cloud Advocate"
-  location: 
-    display: Chicago, IL, United States
-    lat: 41.881832
-    long: -87.623177
 - uid: advocates.shmuela-jacobs
   name: Shmuela Jacobs
   tagline: JavaScript / Web
