@@ -225,6 +225,16 @@ profiles:
     display: Land O' Lakes, Florida, United States
     lat: 28.222353
     long: -82.47148
+- uid: advocates.bruno-capuano
+  name: Bruno Capuano
+  tagline: AI / ML / IoT
+  image:
+    src: media/profiles/bruno-capuano.png
+    alt: "Bruno Capuano Senior Cloud Advocate"
+  location: 
+    display: Dundas, Canada
+    lat: 43.262123319339025
+    long: -79.9819315511835
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / VS Code
