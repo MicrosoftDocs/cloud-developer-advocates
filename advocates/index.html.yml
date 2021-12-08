@@ -245,16 +245,6 @@ profiles:
     display: Franklin, TN, USA
     lat: 35.925064
     long: -86.868889
-- uid: advocates.cecil-phillip
-  name: Cecil Phillip
-  tagline: .NET 
-  image:
-    src: media/profiles/cecil-phillip.png
-    alt: "Cecil Phillip Cloud Developer Advocate"
-  location: 
-    display: Plantation, Florida, United States
-    lat: 26.1267513
-    long: -80.2989968
 - uid: advocates.chloe-condon
   name: Chloe Condon
   tagline: Python / JavaScript / Android
