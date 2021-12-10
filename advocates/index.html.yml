@@ -245,16 +245,6 @@ profiles:
     display: Franklin, TN, USA
     lat: 35.925064
     long: -86.868889
-- uid: advocates.chloe-condon
-  name: Chloe Condon
-  tagline: Python / JavaScript / Android
-  image:
-    src: media/profiles/chloe-condon.png
-    alt: "Chloe Condon Advocate profile pic"
-  location: 
-    display: San Francisco, CA
-    lat: 37.760999
-    long: -122.427065
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
