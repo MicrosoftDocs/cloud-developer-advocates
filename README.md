@@ -39,7 +39,7 @@ If you have merging rights on this repository, those are instructions for you.
 
 The Advocates website will only show what's inside the `live` branch. This allow us to work on multiple iteration and make mistakes in `main` before we publish.
 
-To publish all of your changes, [create a new PR to live](https://github.com/MicrosoftDocs/cloud-developer-advocates/compare/live...main?title=live%20%3C=%main) and submit it. Once all the validation and checks are green, you can merge it.
+To publish all of your changes, [create a new PR to live](https://github.com/MicrosoftDocs/cloud-developer-advocates/compare/live...main?title=live%20%3C=%20main) and submit it. Once all the validation and checks are green, you can merge it.
 
 Changes can take up to 15 minutes to be applied. 
 
