@@ -31,7 +31,7 @@ remarks: |
   * [Kitchen-Pester](https://github.com/test-kitchen/kitchen-pester)
   * [Habitat](https://github.com/habitat-sh/habitat)
 
-tagline: DevOps
+tagline: Cloud Native
 image:
   alt: "Steven Murawski Cloud Developer Advocate"
   src: media/profiles/steven-murawski.png 
