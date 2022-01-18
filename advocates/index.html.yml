@@ -715,6 +715,16 @@ profiles:
     display: Brisbane, QLD, Australia
     lat: 27.4698
     long: 153.0251
+- uid: advocates.renee-noble
+  name: Renee Noble
+  tagline: Python / AI / ML
+  image:
+    src: media/profiles/renee-noble.png
+    alt: "Renee Noble Cloud Advocate"
+  location: 
+    display: Sydney, Australia
+    lat: -33.8652521
+    long: 151.2029634
 - uid: advocates.rick-claus
   name: Rick Claus
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
@@ -822,9 +832,9 @@ profiles:
     src: media/profiles/steven-murawski.png 
     alt: "Steven Murawski Cloud Developer Advocate"
   location: 
-    display: Oconomowoc, Wisconsin, United States
-    lat: 43.107377
-    long: -88.543443
+    display: New Berlin, Wisconsin, United States
+    lat: 42.976402
+    long: -88.108422
 - uid: advocates.thomas-lewis
   name: Thomas Lewis
   tagline: Mixed Reality / HoloLens
