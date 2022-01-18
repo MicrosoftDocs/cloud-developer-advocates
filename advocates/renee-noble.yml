@@ -1,0 +1,45 @@
+### YamlMime:Profile
+uid: advocates.renee-noble
+name: Renee Noble
+metadata:
+  title: Renee Noble - Cloud Advocate
+  description: Home page for Renee Noble, a Microsoft Cloud Advocate
+  ms.author: reneenoble
+  team: regional
+remarks: |
+  ## Bio
+  Renee is the Regional Cloud Advocate for the Sydney Reactor and the Australia region. She's passionate about technology, education, community, and bringing them all together in-person and online.
+
+  A self-proclaimed "Jane of all trades", Renee has worked in sectors across tech, outreach, and education. She's previously worked in ML and web development, dabbles in embedded tech, and is always keen to learn more!
+
+  Having not discovered Computer Science until she got to university, Renee is now a passionate women in tech advocate. She spends her spare time leading the Girls' Programming Network to support women and girls around Australia to get into coding with engaging tech education. She also teaches CS in a high school and runs her own business, ConnectEd Code, working to bring exciting coding opportunities to kids and teachers.
+
+  Beside teaching and tech she loves swing dancing, cats, and having a ridiculous number of plants.
+
+  ## Skills
+  - Python
+  - AI / ML
+  - Web Development
+  - Algorithms
+  - Making tech approachable for beginners
+  - Diversity & Inclusion
+
+
+tagline: Python / AI / ML
+image:
+  alt: "Renee Noble Cloud Advocate"
+  src: media/profiles/renee-noble.png
+connect:
+  - title: GitHub
+    url: https://github.com/reneenoble/
+  - title: Twitter
+    url: https://twitter.com/noble_renee
+  - title: Blog
+    url: https://medium.com/@reneenoble
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/renee-noble-48a37159/
+
+location:
+  display: Sydney, Australia
+  lat: -33.8652521
+  long: 151.2029634
