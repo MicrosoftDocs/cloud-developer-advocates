@@ -827,7 +827,7 @@ profiles:
     long: 153.02385
 - uid: advocates.steven-murawski
   name: Steven Murawski
-  tagline: DevOps
+  tagline: Cloud Native
   image:
     src: media/profiles/steven-murawski.png 
     alt: "Steven Murawski Cloud Developer Advocate"
