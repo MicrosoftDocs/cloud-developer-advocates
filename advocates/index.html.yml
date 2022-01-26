@@ -535,6 +535,16 @@ profiles:
     display: Nairobi, Kenya
     lat: -1.286389
     long: 36.817223
+- uid: advocates.joylynn-kirui
+  name: Joylynn Kirui
+  tagline: Cybersecurity
+  image:
+    src: media/profiles/joylynn-kirui.jpg
+    alt: "Joylynn Kirui Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: -1.286389
+    long: 36.817223
 - uid: advocates.julien-dubois
   name: Julien Dubois
   tagline: Java
