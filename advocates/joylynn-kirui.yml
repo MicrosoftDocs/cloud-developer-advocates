@@ -1,0 +1,40 @@
+### YamlMime:Profile
+uid: advocates.joylynn-kirui
+name: Joylynn Kirui
+metadata:
+  title: Joylynn Kirui - Senior Cloud Security Advocate
+  description: Home page for Joylynn Kirui, a Microsoft Cloud Advocate
+  ms.author: joylynnkirui
+  team:  Cloud Security Advocacy
+remarks: |
+  ## Bio
+  Joylynn Kirui is an infosec evangelist who believes in empowering developers and users in general on security best practices. She has vast experience in web and mobile app security testing, DevSecOps and GSM security having previously worked in the telco industry for 6 years. She has a passion for mentorship and training students and empowering them. She has spoken in several conferences where she shares her knowledge in cyber security and software development. She is among the Top 50 Women in Cyber Security Africa 2020 finalists and Woman Hacker of the year Africa 2020.
+  She is a Senior Cloud Security Advocate at Microsoft; Based in Nairobi, Kenya.
+
+  ## Skills
+  - DevSecOps
+  - Application Security
+  - Infrastructure Security
+  - Mobile App Security
+  - IoT Security
+  - Security analysis
+  - Penetration testing
+
+tagline: Cybersecurity
+image:
+  alt: "Joylynn Kirui Cloud Advocate"
+  src: media/profiles/joylynn-kirui.jpg
+connect:
+  - title: GitHub
+    url: https://github.com/S2FrdQ
+  - title: Twitter
+    url: https://twitter.com/joylynn_kirui
+  - title: Blog
+    url: https://aka.ms/JoylynnKirui
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/joylynn-kirui/
+
+location:
+  display: Nairobi, Kenya
+  lat: -1.286389
+  long: 36.817223
