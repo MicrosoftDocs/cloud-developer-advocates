@@ -895,6 +895,16 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.773972
     long: -122.431297
+- uid: advocates.vinicius-apolinario
+  name: Vinicius Apolinario
+  tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
+  image:
+    src: media/profiles/vinicius-apolinario.png
+    alt: "Vinicius Apolinario Cloud Advocate"
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.645152
+    long: -122.140760
 - uid: advocates.waldek-mastykarz
   name: Waldek Mastykarz
   tagline: Microsoft 365
