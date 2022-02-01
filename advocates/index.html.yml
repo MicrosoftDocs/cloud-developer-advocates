@@ -899,7 +899,7 @@ profiles:
   name: Vinicius Apolinario
   tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
   image:
-    src: media/profiles/rick-claus.png 
+    src: media/profiles/vinicius-apolinario.png
     alt: "Vinicius Apolinario Cloud Advocate"
   location: 
     display: Redmond, Washington, United States
