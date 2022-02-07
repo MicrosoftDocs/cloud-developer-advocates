@@ -2,25 +2,28 @@
 uid: advocates.christopher-maneu
 name: Christopher Maneu
 metadata:
-  title: Christopher Maneu - IoT
+  title: Christopher Maneu - Data Engineering
   description: Home page for Christopher Maneu, a Microsoft Cloud Developer Advocate
   ms.author: chmaneu
-  team: startup
+  team: data
 remarks: |
   ## Bio
-  As a member of the startup Squad, I act as an advisor and technical liaison between startup developer communities and the product teams at Microsoft. As the Lead IoT Advocate for EMEA Region, I'm focusing on IoT startups and teams, helping them graduating from prototypes to large scale deployments, and ensuring Azure has the best experience for them.
+  Christopher is a Cloud engineer & Data engineering advocate at Microsoft. His mission is to help every technologist on the planet succeed, focusing on data and data team behind the applications.
 
+Before joining Azure Engineering, Christopher helped large corporations and startups creating user-friendly apps & services and helping build teams behind these services. He used to be an engineering lead at [Deezer.com](https://www.deezer.com), a worldwide music streaming service.
+
+When Christopher is not working in front of this computer, he's probably cooking (and yes, these [recipes are on GitHub](https://github.com/cmaneu/recipes)), or sharing his (other) passion: Scuba Diving.
   ## Skills
-  * Internet of Things
+  * Data Engineering
   * .NET
   * Cloud Architecture
   * DevOps
 
   ## My Projects
-  * [My blog](https://www.maneu.net)
+  * [NubesGen](https://www.nubesgen.com)
   * [My presentations](https://aka.ms/chris/slides) 
   
-tagline: IoT / Cloud Dev
+tagline: Data Engineering & Analytics
 image:
   alt: "Christopher Maneu Cloud Developer Advocate"
   src: media/profiles/christopher-maneu.png 
@@ -33,7 +36,9 @@ connect:
     url: https://www.maneu.net
   - title: LinkedIn
     url: https://linkedin.com/in/cmaneu
+  - title: Blog (in French)
+    url: https://www.maneu.fr
 location:
-  display: Paris, France
+  display: France
   lat: 48.833968 
   long: 2.265598
