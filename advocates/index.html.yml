@@ -245,6 +245,16 @@ profiles:
     display: Franklin, TN, USA
     lat: 35.925064
     long: -86.868889
+- uid: advocates.carlotta-castelluccio
+  name: Carlotta Castelluccio
+  tagline: Data Science / Azure / Artificial Intelligence
+  image:
+    src: media/profiles/carlotta-castelluccio.jpeg
+    alt: "Carlotta Castelluccio Cloud Developer Advocate"
+  location: 
+    display: Rome, Italy
+    lat: 41.8919300
+    long: 12.5113300
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
@@ -277,12 +287,12 @@ profiles:
     long: -122.3865166
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
-  tagline: IoT / Cloud Dev
+  tagline: Data Engineering & Analytics
   image:
     src: media/profiles/christopher-maneu.png 
     alt: "Christopher Maneu Cloud Developer Advocate"
   location: 
-    display: Paris, France
+    display: France
     lat: 48.833968 
     long: 2.265598
 - uid: advocates.dan-wahlin
