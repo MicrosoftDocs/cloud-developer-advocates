@@ -8,7 +8,7 @@ metadata:
   team: regional
 remarks: |
   ## Bio
-  Liam is a Regional Cloud Advocate at Microsoft UK. He is an IoT hobbyist, a podcast co-host and a Software Engineer with multiple Professional Cloud Certifications. He is passionate about cloud computing, clean code and creating simple and concise content for others. When he is not writing code or presenting, you'll either find him searching for the next best eatery in London, studying different cultures or at the airport jetting of to explore the next city on his TODO list. 
+  Liam is a Regional Cloud Advocate at Microsoft, UK. He is an IoT hobbyist, a podcast co-host and a Software Engineer with multiple Professional Cloud Certifications. He is passionate about cloud computing, clean code and creating simple and concise content for others. When he is not writing code or presenting, you'll either find him searching for the next best eatery in London, studying different cultures or at the airport jetting of to explore the next city on his TODO list. 
 
   ## Skills
   - Go
@@ -38,3 +38,4 @@ location:
   display: London, UK
   lat: 51.521809
   long: -0.084360
+  
