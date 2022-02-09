@@ -1,0 +1,40 @@
+### YamlMime:Profile
+uid: advocates.liam-hampton
+name: Liam Hampton
+metadata:
+  title: Liam Hampton - Cloud Advocate
+  description: Home page for Liam Hampton, a Microsoft Cloud Advocate
+  ms.author: liamhampton
+  team: regional
+remarks: |
+  ## Bio
+  Liam is a Regional Cloud Advocate at Microsoft UK. He is an IoT hobbyist, a podcast co-host and a Software Engineer with multiple Professional Cloud Certifications. He is passionate about cloud computing, clean code and creating simple and concise content for others. When he is not writing code or presenting, you'll either find him searching for the next best eatery in London, studying different cultures or at the airport jetting of to explore the next city on his TODO list. 
+
+  ## Skills
+  - Go
+  - JavaScript
+  - DevOps
+  - Serverless
+  - Containers (Docker / Kubernetes)
+
+  ## My Projects
+  - [Tech Jam Podcast](https://techjam.dev/)
+
+tagline: Go / DevOps / Containers
+image:
+  alt: "Liam Hampton Cloud Advocate"
+  src: media/profiles/liam-hampton.jpg
+connect:
+  - title: GitHub
+    url: https://github.com/liamchampton
+  - title: Twitter
+    url: https://twitter.com/liamchampton
+  - title: Blog
+    url: https://dev.to/liamchampton
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/liam-conroy-hampton/
+
+location:
+  display: London, UK
+  lat: 51.521809
+  long: -0.084360
