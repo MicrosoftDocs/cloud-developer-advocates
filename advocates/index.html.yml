@@ -595,6 +595,16 @@ profiles:
     display: Manchester, United Kingdom
     lat: 53.47959
     long: -2.24874
+- uid: advocates.liam-hampton
+  name: Liam Hampton
+  tagline: Go / DevOps / Containers
+  image:
+    src: media/profiles/liam-hampton.jpg
+    alt: "Liam Hampton Cloud Advocate"
+  location: 
+    display: London, UK
+    lat: 51.521809
+    long: -0.084360
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
   tagline: Mixed Reality / HoloLens / C# / Conversational AI / (Manga)
@@ -635,16 +645,6 @@ profiles:
     display: Montréal, Québec, Canada
     lat: 45.5017
     long: -73.5673
-- uid: advocates.meaghan-lewis
-  name: Meaghan Lewis
-  tagline: Emerging Technologies
-  image:
-    src: media/profiles/meaghan-lewis.png
-    alt: "Meaghan Lewis Advocate profile pic"
-  location: 
-    display: Vallejo, CA, United States
-    lat: 38.104088
-    long: -122.256638
 - uid: advocates.mike-james
   name: Mike James
   tagline: Xamarin

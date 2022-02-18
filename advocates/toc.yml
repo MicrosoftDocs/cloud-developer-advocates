@@ -124,6 +124,8 @@ items:
     uid: advocates.laurent-bugnion
   - name: Lee Stott
     uid: advocates.lee-stott
+  - name: Liam Hampton
+    uid: advocates.liam-hampton
   - name: Madoka Chiyoda
     uid: advocates.madoka-chiyoda
   - name: Mark Heckler
@@ -132,8 +134,6 @@ items:
     uid: advocates.matthew-soucoup
   - name: Maxime Rouiller
     uid: advocates.maxime-rouiller
-  - name: Meaghan Lewis
-    uid: advocates.meaghan-lewis
   - name: Mike James
     uid: advocates.mike-james
   - name: Nina Zakharenko
