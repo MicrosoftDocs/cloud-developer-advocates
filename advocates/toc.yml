@@ -54,6 +54,8 @@ items:
     uid: advocates.bruno-capuano
   - name: Burke Holland
     uid: advocates.burke-holland
+  - name: Carlotta Castelluccio
+    uid: advocates.carlotta-castelluccio
   - name: Chris Noring
     uid: advocates.chris-noring
   - name: Christina Warren
@@ -112,6 +114,8 @@ items:
     uid: advocates.jorge-arteiro
   - name: Joshua Ndemenge
     uid: advocates.joshua-ndemenge
+  - name: Joylynn Kirui
+    uid: advocates.joylynn-kirui
   - name: Julien Dubois
     uid: advocates.julien-dubois
   - name: Justin Yoo
@@ -146,6 +150,8 @@ items:
     uid: advocates.pierre-roman
   - name: Rabia Williams
     uid: advocates.rabia-williams
+  - name: Renee Noble
+    uid: advocates.renee-noble
   - name: Rick Claus
     uid: advocates.rick-claus
   - name: Rod Trent
@@ -178,6 +184,8 @@ items:
     uid: advocates.todd-anglin
   - name: Tomomi Imura
     uid: advocates.tomomi-imura
+  - name: Vinicius Apolinario
+    uid: advocates.vinicius-apolinario
   - name: Waldek Mastykarz
     uid: advocates.waldek-mastykarz
   - name: Wassim Chegham

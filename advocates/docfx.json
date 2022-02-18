@@ -34,7 +34,8 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-      "brand": "advocates"
+      "brand": "developer",
+      "uhfHeaderId": "DEV_Homeheader"
     },
     "fileMetadata": {},
     "template": [],

@@ -5,10 +5,10 @@ metadata:
   title: Steven Murawski - Cloud Advocate
   description: Home page for Steven Murawski, a Microsoft Cloud Developer Advocate
   ms.author: stmuraws
-  team: devops
+  team: opensource
 remarks: |
   ## Bio
-  Steven is a Cloud Developer Advocate at Microsoft. Steven focuses on DevOps scenarios with Azure (more from the Ops point of view). Steven is an active member of the Chef and WinOps communities and a maintainer for several open source projects, including Chef, Habitat, and Test-Kitchen.
+  Steven is a Cloud Developer Advocate at Microsoft. Steven is an open source developer exploring the bounds of WebAssembly in the Cloud Native ecosystem.  
 
   Prior to joining Microsoft, Steven has been a Principal Software Development Engineer at Chef and a Site Reliability Engineer at Stack Overflow.  While at Stack Overflow, Steven pioneered the use of PowerShell Desired State Configuration. 
 
@@ -16,13 +16,12 @@ remarks: |
 
   ## Skills
   * DevOps
-  * Build and Release
   * Distributed Systems
   * PowerShell
   * Ruby
   * Rust
-  * Windows Server
-  * Linux
+  * WebAssembly
+
 
   ## My Projects
   * [Chef](https://github.com/chef/chef)
@@ -32,7 +31,7 @@ remarks: |
   * [Kitchen-Pester](https://github.com/test-kitchen/kitchen-pester)
   * [Habitat](https://github.com/habitat-sh/habitat)
 
-tagline: DevOps
+tagline: Cloud Native
 image:
   alt: "Steven Murawski Cloud Developer Advocate"
   src: media/profiles/steven-murawski.png 
@@ -48,6 +47,6 @@ connect:
   - title: LinkedIn
     url: https://linkedin.com/in/usepowershell
 location:
-  display: Oconomowoc, Wisconsin, United States
-  lat: 43.107377
-  long: -88.543443
+  display: New Berlin, Wisconsin, United States
+  lat: 42.976402
+  long: -88.108422

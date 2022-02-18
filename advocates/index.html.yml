@@ -245,6 +245,16 @@ profiles:
     display: Franklin, TN, USA
     lat: 35.925064
     long: -86.868889
+- uid: advocates.carlotta-castelluccio
+  name: Carlotta Castelluccio
+  tagline: Data Science / Azure / Artificial Intelligence
+  image:
+    src: media/profiles/carlotta-castelluccio.jpeg
+    alt: "Carlotta Castelluccio Cloud Developer Advocate"
+  location: 
+    display: Rome, Italy
+    lat: 41.8919300
+    long: 12.5113300
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
@@ -277,12 +287,12 @@ profiles:
     long: -122.3865166
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
-  tagline: IoT / Cloud Dev
+  tagline: Data Engineering & Analytics
   image:
     src: media/profiles/christopher-maneu.png 
     alt: "Christopher Maneu Cloud Developer Advocate"
   location: 
-    display: Paris, France
+    display: France
     lat: 48.833968 
     long: 2.265598
 - uid: advocates.dan-wahlin
@@ -535,6 +545,16 @@ profiles:
     display: Nairobi, Kenya
     lat: -1.286389
     long: 36.817223
+- uid: advocates.joylynn-kirui
+  name: Joylynn Kirui
+  tagline: Cybersecurity
+  image:
+    src: media/profiles/joylynn-kirui.jpg
+    alt: "Joylynn Kirui Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: -1.286389
+    long: 36.817223
 - uid: advocates.julien-dubois
   name: Julien Dubois
   tagline: Java
@@ -705,6 +725,16 @@ profiles:
     display: Brisbane, QLD, Australia
     lat: 27.4698
     long: 153.0251
+- uid: advocates.renee-noble
+  name: Renee Noble
+  tagline: Python / AI / ML
+  image:
+    src: media/profiles/renee-noble.png
+    alt: "Renee Noble Cloud Advocate"
+  location: 
+    display: Sydney, Australia
+    lat: -33.8652521
+    long: 151.2029634
 - uid: advocates.rick-claus
   name: Rick Claus
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
@@ -807,14 +837,14 @@ profiles:
     long: 153.02385
 - uid: advocates.steven-murawski
   name: Steven Murawski
-  tagline: DevOps
+  tagline: Cloud Native
   image:
     src: media/profiles/steven-murawski.png 
     alt: "Steven Murawski Cloud Developer Advocate"
   location: 
-    display: Oconomowoc, Wisconsin, United States
-    lat: 43.107377
-    long: -88.543443
+    display: New Berlin, Wisconsin, United States
+    lat: 42.976402
+    long: -88.108422
 - uid: advocates.thomas-lewis
   name: Thomas Lewis
   tagline: Mixed Reality / HoloLens
@@ -865,6 +895,16 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.773972
     long: -122.431297
+- uid: advocates.vinicius-apolinario
+  name: Vinicius Apolinario
+  tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
+  image:
+    src: media/profiles/vinicius-apolinario.png
+    alt: "Vinicius Apolinario Cloud Advocate"
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.645152
+    long: -122.140760
 - uid: advocates.waldek-mastykarz
   name: Waldek Mastykarz
   tagline: Microsoft 365
