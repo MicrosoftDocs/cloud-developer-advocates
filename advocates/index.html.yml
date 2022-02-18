@@ -635,16 +635,6 @@ profiles:
     display: Montréal, Québec, Canada
     lat: 45.5017
     long: -73.5673
-- uid: advocates.meaghan-lewis
-  name: Meaghan Lewis
-  tagline: Emerging Technologies
-  image:
-    src: media/profiles/meaghan-lewis.png
-    alt: "Meaghan Lewis Advocate profile pic"
-  location: 
-    display: Vallejo, CA, United States
-    lat: 38.104088
-    long: -122.256638
 - uid: advocates.mike-james
   name: Mike James
   tagline: Xamarin
