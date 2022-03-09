@@ -8,17 +8,16 @@ metadata:
   team: academic
 remarks: |
   ## Bio
-  I do things with IoT and Azure in the Developer Relations team at Microsoft, mainly creating content for students and faculty to help them be successful with Microsoft technologies.
-  
-  I'm British, so sound way smarter than I actually am, and I'm happy I moved to Redmond in time to be locked down at home and not see the office I came to work in, or the places I wanted to visit.
-  
-  In the past I've lived in 4 continents working as a developer in the mobile, desktop, and scientific space. I also hate cats, but have a 7 year old daughter who loves cats, so I have 2 cats.
+  Jim is a Regional Cloud Advocate focusing on building out and skilling communities in the Pacific North West, with a focus on the Microsoft Reactor in Redmond, Washington. He's British, so sounds way smarter than he actually is, and is happy he moved to Redmond in time to be locked down at home and not see the office he came to work in, or the places he wanted to visit. 
+  In the past he's lived in 4 continents working as a developer in the mobile, desktop, and scientific space. He's spoken at conferences and events all around the globe, organised meetup groups and communities, and written a book on mobile development.
+
+  He also hates and is allergic to cats, but has a 9-year-old daughter who loves cats, so he has 2 cats.
   
   ## Skills
   - IoT
   - Python
   - Cognitive Services
-tagline: IoT/Academic
+tagline: IoT/Python
 image:
   alt: "Jim Bennett Cloud Developer Advocate"
   src: media/profiles/jim-bennett.jpeg
@@ -33,6 +32,8 @@ connect:
     url: https://jimbobbennett.io
   - title: Instagram
     url: https://instagram.com/jimbobbennett
+  - title: YouTube
+    url: https://www.youtube.com/channel/UC4kA3Y-xZq68cYh9cQlM5Cg
 location:
   display: Redmond, Washington, United States
   lat: 47.679194
