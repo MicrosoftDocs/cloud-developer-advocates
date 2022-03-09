@@ -507,7 +507,7 @@ profiles:
     long: -121.435883
 - uid: advocates.jim-bennett
   name: Jim Bennett
-  tagline: IoT/Academic
+  tagline: IoT/Python
   image:
     src: media/profiles/jim-bennett.jpeg
     alt: "Jim Bennett Cloud Developer Advocate"
@@ -835,6 +835,16 @@ profiles:
     display: Tel Aviv, Israel
     lat: 32.081359
     long: 34.780957
+- uid: advocates.someleze-diko
+  name: Someleze Diko
+  tagline: Power Platform
+  image:
+    src: media/profiles/someleze-diko.png
+    alt: "Someleze Diko - Cloud Advocate"
+  location: 
+    display: Durban, South Africa
+    lat: -29.858681
+    long: 31.021839
 - uid: advocates.sonia-cuff
   name: Sonia Cuff
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
