@@ -41,9 +41,9 @@ connect:
     url: https://www.youtube.com/c/RodTrent
   - title: Microsoft Sentinel Newsletter
     url: https://www.getrevue.co/profile/AzureSentinelToday
-    - title: Microsoft Defender Newsletter
+  - title: Microsoft Defender Newsletter
     url: https://www.getrevue.co/profile/MicrosoftDefender
-    - title: Learn KQL!
+  - title: Learn KQL!
     url: https://aka.ms/MustLearnKQL    
 location:
   display: Middletown, OH, United States
