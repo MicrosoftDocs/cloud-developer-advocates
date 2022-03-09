@@ -507,7 +507,7 @@ profiles:
     long: -121.435883
 - uid: advocates.jim-bennett
   name: Jim Bennett
-  tagline: IoT/Academic
+  tagline: IoT/Python
   image:
     src: media/profiles/jim-bennett.jpeg
     alt: "Jim Bennett Cloud Developer Advocate"
