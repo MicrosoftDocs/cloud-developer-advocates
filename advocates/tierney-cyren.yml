@@ -5,20 +5,17 @@ metadata:
   title: Tierney Cyren - Cloud Developer Advocate
   description: Home page for Tierney Cyren, a Microsoft Cloud Developer Advocate
   ms.author: ticyren
-  team: opensource
+  team: javascript
 remarks: |
   ## Bio
-  Tierney is a member and former Chairperson of the Node.js Community Committee, and a Senior Cloud Developer Advocate at Microsoft.
-
-  Tierney's interest in programming came from communities – starting with trying to build forums for games he was a part of. Over time he became more interested in the PHP-based forum systems than he was in the games he was playing, and invested more time into participating in their communities. This eventually led to Node.js and io.js, where he was able to participate and spin up the Node.js Evangelism Working Group while he was studying communications in college.
-
-  Outside of development, Tierney enjoys gaming and fashion.
+  Tierney is a Developer Advocate on the JavaScript Cloud Advocacy team at Microsoft, focusing on the JavaScript ecosystem through contributions to Node.js, Electron, TC39, the OpenJS Foundation, and numerous other parts of the ecosystem. They're always the Impostor. They live in New York City, but (normally) travel often.
 
   ## Skills
   - Node.js
   - JavaScript
   - GitHub
-  - npm Security
+  - npm
+  - Open Source
 
 tagline: Node.js / JavaScript / Automation / Security
 image:
@@ -34,6 +31,6 @@ connect:
   - title: Twitch
     url: https://www.twitch.tv/bitandbang
 location:
-  display: Brooklyn, New York, United States
-  lat: 40.6782
-  long: -73.9442
+  display: New York, New York, United States
+  lat: 40.7128
+  long: -74.0060

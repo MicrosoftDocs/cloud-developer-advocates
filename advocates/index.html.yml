@@ -825,16 +825,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-- uid: advocates.shmuela-jacobs
-  name: Shmuela Jacobs
-  tagline: JavaScript / Web
-  image:
-    src: media/profiles/shmuela-jacobs.png
-    alt: "Shmuela Jacobs Cloud Advocate"
-  location: 
-    display: Tel Aviv, Israel
-    lat: 32.081359
-    long: 34.780957
 - uid: advocates.someleze-diko
   name: Someleze Diko
   tagline: Power Platform
@@ -892,9 +882,9 @@ profiles:
     src: media/profiles/tierney-cyren.png
     alt: "Tierney Cyren Cloud Developer Advocate"
   location: 
-    display: Brooklyn, New York, United States
-    lat: 40.6782
-    long: -73.9442
+    display: New York, New York, United States
+    lat: 40.7128
+    long: -74.0060
 - uid: advocates.todd-anglin
   name: Todd Anglin
   tagline: Web / Mobile Development
