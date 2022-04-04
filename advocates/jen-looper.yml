@@ -2,18 +2,20 @@
 uid: advocates.jen-looper
 name: Jen Looper
 metadata:
-  title: Jen Looper - Cloud Advocate Lead
+  title: Jen Looper - Principal Cloud Advocate Lead
   description: Home page for Jen Looper, a Microsoft Cloud Advocate
   ms.author: jelooper
   team: academic
 remarks: |
     ## Bio
-    Jen is a Cloud Advocate Lead at Microsoft and a Google Developer Expert for web technologies with over 15 years' experience as a web and mobile developer, specializing in creating cross-platform mobile apps. 
-
-    She's a multilingual multiculturalist with a passion for hardware hacking, mobile apps, Vue.js, machine learning and discovering new things every day. 
-
-    She is the founder and CEO of Vue Vixens, a worldwide initiative with over 20 local chapters promoting diversity in the Vue.js community. 
-
+    Jen Looper is a Principal Cloud Developer Advocate Lead at Microsoft on the Next Generation Team and a Google Developer Expert 
+    with over 22 years' experience as a web and mobile developer, specializing in creating cross-platform mobile and web apps. 
+    She's a multilingual multiculturalist with a passion for web technologies, applied machine learning and discovering new things 
+    every day. With a PhD in medieval French literature, Jen's area of focus is curriculum development and the application of sound 
+    pedagogy to technical topics. A lecturer in Computer Science at Boston University's Metropolitan College, she is also pursuing a Master's of Education in Curriculum
+    and Instruction. Jen is also the founder and CEO of Front-End Foxes, Inc., an international nonprofit charity that 
+    promotes diversity in front-end developer communities. Visit Front-End Foxes Inc at https://www.frontendfoxes.org and learn 
+    about our bootcamp for women at https://frontendfoxes.school.
     ## Skills
     * Mobile apps
     * JavaScript
@@ -21,18 +23,17 @@ remarks: |
     * IoT
     * Web and Mobile JavaScript frameworks, particularly Vue.js
     * Building Community
+    * Curriculum Design
 
     ## My web and mobile projects
     * [Personal Web Site and Portfolio](https://jenlooper.com)
-    * [Vue Vixens](https://vuevixens.org)
-    * [YoMamaIsADev](https://yomamaisa.dev)
-    * [PocketRave](https://pocketrave.me)
-    * [Elocute](https://elocute.me)
-    * [MandalaMe](https://mandala-me.netlify.com/#/)
+    * [Front-End Foxes](https://frontendfoxes.school)
+    * [Web Dev for Beginners](https://aka.ms/webdev-beginners)
+    * [ML for Beginners](https://aka.ms/ml-beginners)
 
-tagline: Vue / JavaScript
+tagline: Vue / JavaScript / Applied ML
 image:
-  alt: "Jen Looper - Cloud Advocate Lead"
+  alt: "Jen Looper - Principal Cloud Advocate Lead"
   src: media/profiles/jen-looper.png
 connect:
   - title: Twitter
