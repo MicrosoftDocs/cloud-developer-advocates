@@ -487,10 +487,10 @@ profiles:
     long: -122.153322
 - uid: advocates.jen-looper
   name: Jen Looper
-  tagline: Vue / JavaScript
+  tagline: Vue / JavaScript / Applied ML
   image:
     src: media/profiles/jen-looper.png
-    alt: "Jen Looper - Cloud Advocate Lead"
+    alt: "Jen Looper - Principal Cloud Advocate Lead"
   location: 
     display: Wellesley, Massachusetts, United States
     lat: 42.310593
