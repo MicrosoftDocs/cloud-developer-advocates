@@ -707,7 +707,7 @@ profiles:
     long: -122.518271
 - uid: advocates.paul-decarlo
   name: Paul DeCarlo
-  tagline: IoT
+  tagline: AI, ML, Data, IoT
   image:
     src: media/profiles/paul-decarlo.png
     alt: "Paul DeCarlo Cloud Developer Advocate"
