@@ -465,16 +465,6 @@ profiles:
     display: Erie, Colorado, United States
     lat: 40.0503
     long: -105.0500
-- uid: advocates.jay-gordon
-  name: Jay Gordon
-  tagline: Linux
-  image:
-    src: media/profiles/jay-gordon.jpg
-    alt: "Jay Gordon Cloud Advocate"
-  location: 
-    display: Brooklyn, New York, United States
-    lat: 40.6701033
-    long: -73.9859723
 - uid: advocates.jeff-sandquist
   name: Jeff Sandquist
   tagline: Change invigorates the soul
@@ -865,16 +855,6 @@ profiles:
     display: Seattle, WA
     lat: 47.6062
     long: -122.3321
-- uid: advocates.thomas-maurer
-  name: Thomas Maurer
-  tagline: Azure / Azure Arc / Windows Server / IT Pro
-  image:
-    src: media/profiles/thomas-maurer.png 
-    alt: "Thomas Maurer Cloud Advocate"
-  location: 
-    display: Basel, Switzerland
-    lat: 47.55734
-    long: 7.58741
 - uid: advocates.tierney-cyren
   name: Tierney Cyren
   tagline: Node.js / JavaScript / Automation / Security
