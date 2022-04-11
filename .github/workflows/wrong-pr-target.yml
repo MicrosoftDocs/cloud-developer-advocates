@@ -23,7 +23,7 @@ jobs:
           # A list (space separated string) of base branches which are allowed to PR the given target (cannot be used with include)
           exclude: main
           # The branch the PR's target should be changed to if the target is incorrect
-          change-to: main          
+          change-to: main
           comment: |
             All pull requests needs to be targeted to main for validation. 
             
