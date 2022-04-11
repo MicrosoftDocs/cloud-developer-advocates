@@ -25,4 +25,7 @@ jobs:
           # The branch the PR's target should be changed to if the target is incorrect
           change-to: main          
           comment: |
-            All pull requests needs to be targeted to main for validation. Please open pull requests against `main` in the future.
+            All pull requests needs to be targeted to main for validation. 
+            
+            Please open pull requests against `main` in the future. 
+          already-exists-action: nothing
