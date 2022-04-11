@@ -23,7 +23,6 @@ jobs:
           # A list (space separated string) of base branches which are allowed to PR the given target (cannot be used with include)
           exclude: main
           # The branch the PR's target should be changed to if the target is incorrect
-          change-to: main
-          # The comment that will be posted when the target branch is incorrect
-          comment: "All pull requests needs to be targeted to main for validation. Please open pull requests against `main` in the future. "
-          # The action to take if a pr with the same head & base already exists
+          change-to: main          
+          comment: |
+            All pull requests needs to be targeted to main for validation. Please open pull requests against `main` in the future.
