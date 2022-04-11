@@ -1,20 +1,14 @@
-# This is a basic workflow to help you get started with Actions
-
 name: Ensure pull requests against main
 on:
   pull_request_target: # Please read https://securitylab.github.com/research/github-actions-preventing-pwn-requests/ before using
     types: [opened, edited]
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
-jobs:
-  # This workflow contains a single job called "build"
+jobs:  
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Pull Request Target Branch Action
-        uses: Vankka/pr-target-branch-action@69ab6dd5c221de3548b3b6c4d102c1f4913d3baa
+      - name: Ensure Target Branch is valid
+        uses: Vankka/pr-target-branch-action@v2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -25,9 +19,7 @@ jobs:
           # The branch the PR's target should be changed to if the target is incorrect
           change-to: main
           comment: |
-            All pull requests needs to be targeted to main for validation. 
+            All pull requests needs to be targeted to main for validation.
             
-            Please open pull requests against `main` in the future. 
+            Please open pull requests against `main` in the future.
           already-exists-action: nothing
-          already-exists-comment: "Closing {url} as it has the same base branch"
-          already-exists-other-comment: "This PR was closed in favor of {url}"
