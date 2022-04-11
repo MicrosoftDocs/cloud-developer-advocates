@@ -14,9 +14,9 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Pull Request Target Branch Action
-      # You may pin to the exact commit or the version.
-      - uses: Vankka/pr-target-branch-action@69ab6dd5c221de3548b3b6c4d102c1f4913d3baa
-      #- uses: Vankka/pr-target-branch-action@v2
+        uses: Vankka/pr-target-branch-action@69ab6dd5c221de3548b3b6c4d102c1f4913d3baa
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           # The target branch
           target: live
