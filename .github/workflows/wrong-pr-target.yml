@@ -29,3 +29,5 @@ jobs:
             
             Please open pull requests against `main` in the future. 
           already-exists-action: nothing
+          already-exists-comment: "Closing {url} as it has the same base branch"
+          already-exists-other-comment: "This PR was closed in favor of {url}"
