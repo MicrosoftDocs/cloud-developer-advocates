@@ -1,4 +1,4 @@
-﻿### YamlMime:ProfileList
+### YamlMime:ProfileList
 ########################################################################
 #############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
 ########################################################################
@@ -185,6 +185,16 @@ profiles:
     display: Seattle, USA
     lat: 47.6062
     long: 122.3321
+- uid: advocates.bethany-cheum
+  name: Bethany Cheum
+  tagline: Python / Data Science / AI & ML
+  image:
+    src: media/profiles/bethany-cheum.png
+    alt: "Bethany Cheum Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: 1.2921
+    long: 36.8219
 - uid: advocates.bob-german
   name: Bob German
   tagline: Development on Microsoft 365 with Azure
