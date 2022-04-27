@@ -1,4 +1,4 @@
-﻿########################################################################
+########################################################################
 #############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
 ########################################################################
 metadata:
@@ -42,6 +42,8 @@ items:
     uid: advocates.barnam-bora
   - name: Bea Stollnitz
     uid: advocates.bea-stollnitz
+  - name: Bethany Cheum
+    uid: advocates.bethany-cheum
   - name: Bob German
     uid: advocates.bob-german
   - name: Brandon Minnick
