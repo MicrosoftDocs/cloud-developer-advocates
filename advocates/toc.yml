@@ -1,4 +1,4 @@
-########################################################################
+﻿########################################################################
 #############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
 ########################################################################
 metadata:
@@ -132,8 +132,6 @@ items:
     uid: advocates.markheckler
   - name: Matthew Soucoup
     uid: advocates.matthew-soucoup
-  - name: Maxime Rouiller
-    uid: advocates.maxime-rouiller
   - name: Mike James
     uid: advocates.mike-james
   - name: Nina Zakharenko
