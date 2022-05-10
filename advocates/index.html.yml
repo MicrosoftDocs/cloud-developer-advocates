@@ -1,4 +1,4 @@
-### YamlMime:ProfileList
+﻿### YamlMime:ProfileList
 ########################################################################
 #############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
 ########################################################################
@@ -635,16 +635,6 @@ profiles:
     display: Seattle, WA, USA
     lat: 47.60621
     long: -122.33207
-- uid: advocates.maxime-rouiller
-  name: Maxime Rouiller
-  tagline: .NET / Serverless / Durable Functions
-  image:
-    src: media/profiles/maxime-rouiller.png
-    alt: "Maxime Rouiller Senior Cloud Advocate"
-  location: 
-    display: Montréal, Québec, Canada
-    lat: 45.5017
-    long: -73.5673
 - uid: advocates.mike-james
   name: Mike James
   tagline: Xamarin
