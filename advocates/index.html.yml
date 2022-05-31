@@ -865,16 +865,6 @@ profiles:
     display: Seattle, WA
     lat: 47.6062
     long: -122.3321
-- uid: advocates.tierney-cyren
-  name: Tierney Cyren
-  tagline: Node.js / JavaScript / Automation / Security
-  image:
-    src: media/profiles/tierney-cyren.png
-    alt: "Tierney Cyren Cloud Developer Advocate"
-  location: 
-    display: New York, New York, United States
-    lat: 40.7128
-    long: -74.0060
 - uid: advocates.todd-anglin
   name: Todd Anglin
   tagline: Web / Mobile Development
