@@ -125,26 +125,6 @@ profiles:
     display: Beverly Hills, CA
     lat: 34.0736
     long: -118.4004
-- uid: advocates.ashley-mcnamara
-  name: Ashley McNamara
-  tagline: Linux
-  image:
-    src: media/profiles/ashley-mcnamara.png
-    alt: "Ashley McNamara Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-- uid: advocates.asim-hussain
-  name: Asim Hussain
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/asim-hussain.png 
-    alt: "Asim Hussain Cloud Developer Advocate"
-  location: 
-    display: Reading, United Kingdom
-    lat: 51.458046
-    long: -1.012501
 - uid: advocates.ayca-bas
   name: Ayca Bas
   tagline: Microsoft Graph
