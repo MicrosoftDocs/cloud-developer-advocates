@@ -435,6 +435,16 @@ profiles:
     display: Nantes, France
     lat: 47.2184
     long: 1.5536
+- uid: advocates.japhlet-nwamu
+  name: Japhlet Nwamu
+  tagline: Power Platform / AI / Students / Faculty
+  image:
+    src: media/profiles/japhlet-nwamu.jpg
+    alt: "Japhlet Nwamu Cloud Advocate"
+  location: 
+    display: Abuja, Nigeria
+    lat: 9.072264
+    long: 7.491302
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
