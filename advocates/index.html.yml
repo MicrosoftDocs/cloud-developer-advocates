@@ -885,6 +885,16 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.773972
     long: -122.431297
+- uid: advocates.vincent-nwonah
+  name: Vincent Nwonah
+  tagline: Azure + .NET
+  image:
+    src: media/profiles/vincent-nwonah.jpg
+    alt: "Vincent Nwonah Cloud Advocate"
+  location: 
+    display: Lagos, Nigeria
+    lat: 6.5244
+    long: 3.3792
 - uid: advocates.vinicius-apolinario
   name: Vinicius Apolinario
   tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
