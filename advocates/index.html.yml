@@ -397,7 +397,7 @@ profiles:
     long: -43.190777
 - uid: advocates.gomolemo-mohapi
   name: Gomolemo Mohapi
-  tagline: Power Apps
+  tagline: Power Apps / Fusion Development
   image:
     src: media/profiles/gomolemo-mohapi.png
     alt: "Gomolemo Mohapi - Cloud Advocate"
