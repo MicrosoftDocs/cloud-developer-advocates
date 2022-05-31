@@ -1,4 +1,4 @@
-﻿### YamlMime:ProfileList
+### YamlMime:ProfileList
 ########################################################################
 #############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
 ########################################################################
@@ -551,6 +551,16 @@ profiles:
   image:
     src: media/profiles/joylynn-kirui.jpg
     alt: "Joylynn Kirui Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: -1.286389
+    long: 36.817223
+- uid: advocates.julia-muiruri
+  name: Julia Muiruri
+  tagline: Students/Educators/VS Code
+  image:
+    src: media/profiles/julia-muiruri.jpg
+    alt: "Julia Muiruri Cloud Advocate"
   location: 
     display: Nairobi, Kenya
     lat: -1.286389
