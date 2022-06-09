@@ -27,7 +27,7 @@ profiles:
     long: 151.2029634
 - uid: advocates.aaron-schlesinger
   name: Aaron Schlesinger
-  tagline: Linux / Containers
+  tagline: Linux / Containershttps://i.c-mac.me/XgUnX5GTWJ
   image:
     src: media/profiles/aaron-schlesinger.png
     alt: "Aaron Schlesinger Cloud Developer Advocate"
@@ -255,16 +255,6 @@ profiles:
     display: London, United Kingdom
     lat: 51.52814
     long: -0.1339
-- uid: advocates.christina-warren
-  name: Christina Warren
-  tagline: HTML
-  image:
-    src: media/profiles/christina-warren.png
-    alt: "Christina Warren Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
 - uid: advocates.christopher-harrison
   name: Christopher Harrison
   tagline: Web Development / JavaScript / TypeScript / Python
