@@ -815,6 +815,16 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
+- uid: advocates.sara-gibbons
+  name: Sara Gibbons
+  tagline: JavaScript / Node.js / Web
+  image:
+    src: media/profiles/sara-gibbons.png
+    alt: "Sara Gibbons"
+  location: 
+    display: United States
+    lat: 42.33168
+    long: -83.048
 - uid: advocates.sarah-kaiser
   name: Sarah Kaiser
   tagline: Python
