@@ -45,6 +45,16 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.712053
     long: -79.561556
+- uid: advocates.abril-ureña
+  name: Abril Ureña
+  tagline: VS Code / Front-end Development / UX Design
+  image:
+    src: media/profiles/abril-urena.png
+    alt: "Abril Urena Cloud Advocate"
+  location: 
+    display: Monterrey, Nuevo Leon, Mexico.
+    lat: 25.67507
+    long: -100.31847
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
   tagline: Python / MLOps / DevOps
