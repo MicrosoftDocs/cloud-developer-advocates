@@ -815,6 +815,16 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
+- uid: advocates.sarah-kaiser
+  name: Sarah Kaiser
+  tagline: Python
+  image:
+    src: media/profiles/sarah-kaiser.png
+    alt: "Sarah Kaiser Cloud Advocate"
+  location: 
+    display: Seattle, Washington, USA
+    lat: 47.60357
+    long: -122.32945
 - uid: advocates.scott-cate
   name: Scott Cate
   tagline: .NET
