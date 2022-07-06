@@ -375,6 +375,16 @@ profiles:
     display: Montreal, Quebec, Canada
     lat: 45.5017
     long: -73.5673
+- uid: advocates.garry-trinder
+  name: Garry Trinder
+  tagline: Development on Microsoft 365
+  image:
+    src: media/profiles/garry-trinder.jpeg
+    alt: "Garry Trinder Cloud Developer Advocate"
+  location: 
+    display: Doncaster, United Kingdom
+    lat: 53.52101
+    long: 1.13066
 - uid: advocates.glaucia-lemos
   name: Glaucia Lemos
   tagline: JavaScript / Node.js / A.I
