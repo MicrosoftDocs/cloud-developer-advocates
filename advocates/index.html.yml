@@ -695,6 +695,16 @@ profiles:
     display: New York City, NY, United States
     lat: 40.757131
     long: -73.989784
+- uid: advocates.olivia-guzzardo
+  name: Olivia Guzzardo
+  tagline: VS Code / Azure / GitHub
+  image:
+    src: media/profiles/olivia-guzzardo.png
+    alt: "Olivia Guzzardo Cloud Advocate"
+  location: 
+    display: Charleston, SC, USA
+    lat: 32.783062
+    long: -79.93444
 - uid: advocates.orin-thomas
   name: Orin Thomas
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
