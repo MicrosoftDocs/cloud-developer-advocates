@@ -1,0 +1,45 @@
+### YamlMime:Profile
+uid: advocates.garry-trinder
+name: Garry Trinder
+metadata:
+  title: Garry Trinder - Cloud Advocate
+  description: Home page for Garry Trinder, a Microsoft Cloud Developer Advocate
+  ms.author: garrytrinder
+  team: m365
+remarks: |
+  ## Bio
+  Garry is a Cloud Developer Advocate at Microsoft, focused on Microsoft 365. Before joining the Advocacy team, he worked for several Microsoft Partners for over a decade, as a developer, consultant and architect starting with SharePoint and more recently with Microsoft 365 and Azure. In that time, he became a Microsoft MVP of Office Development and also a member of the Microsoft 365 Platform Community (PnP) team, working with the community to share knowledge and best practices, through contributions to open source projects and speaking at local user groups & conferences.
+
+  ## Skills
+  * Microsoft 365 Business Applications (SharePoint Framework & React, Power Apps)
+  * Microsoft 365 Integration (Azure Logic Apps, Azure Functions, Azure Automation, Power Automate, Microsoft Graph API, SharePoint Online API)
+  * Microsoft 365 Authentication (Azure AD, Azure Managed Identity)
+  * Microsoft SharePoint Administration & Development (2010, 2013, 2016, 2019, Online)
+  * GitHub & Azure DevOps
+  * TypeScript, JavaScript, Node.js, PowerShell, C#
+
+  ## My Projects
+  * [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365)
+
+tagline: Development on Microsoft 365
+image:
+  alt: "Garry Trinder Cloud Developer Advocate"
+  src: media/profiles/garry-trinder.jpeg
+connect:
+  - title: Twitter
+    url: https://twitter.com/garrytrinder
+  - title: GitHub
+    url: https://github.com/garrytrinder
+  - title: Blog
+    url: https://garrytrinder.github.io
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/gtrinder
+  - title: DEV
+    url: https://dev.to/garrytrinder
+  - title: Stack Overflow
+    url: https://stackoverflow.com/users/4871999/garry-trinder
+
+location:
+  display: Doncaster, United Kingdom
+  lat: 53.52101
+  long: 1.13066
