@@ -25,16 +25,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-- uid: advocates.aaron-schlesinger
-  name: Aaron Schlesinger
-  tagline: Linux / Containers
-  image:
-    src: media/profiles/aaron-schlesinger.png
-    alt: "Aaron Schlesinger Cloud Developer Advocate"
-  location: 
-    display: San Mateo, CA, United States
-    lat: 37.563470
-    long: -122.323183
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
   tagline: Linux
@@ -215,16 +205,6 @@ profiles:
     display: Las Vegas, Nevada, United States
     lat: 36.23005
     long: -115.544269
-- uid: advocates.brian-ketelsen
-  name: Brian Ketelsen
-  tagline: Linux
-  image:
-    src: media/profiles/brian-ketelsen.png
-    alt: "Brian Ketelsen Cloud Developer Advocate"
-  location: 
-    display: Land O' Lakes, Florida, United States
-    lat: 28.222353
-    long: -82.47148
 - uid: advocates.bruno-capuano
   name: Bruno Capuano
   tagline: AI / ML / IoT
@@ -265,16 +245,6 @@ profiles:
     display: London, United Kingdom
     lat: 51.52814
     long: -0.1339
-- uid: advocates.christopher-harrison
-  name: Christopher Harrison
-  tagline: Web Development / JavaScript / TypeScript / Python
-  image:
-    src: media/profiles/christopher-harrison.png
-    alt: "Christopher Harrison Sr. Cloud Advocate"
-  location: 
-    display: Seattle, Washington, United States
-    lat: 47.5709315
-    long: -122.3865166
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
   tagline: Data Engineering & Analytics
@@ -485,36 +455,6 @@ profiles:
     display: San Diego, California, United States
     lat: 32.715736
     long: -117.161087
-- uid: advocates.jeff-sandquist
-  name: Jeff Sandquist
-  tagline: Change invigorates the soul
-  image:
-    src: media/profiles/jeff-sandquist.png
-    alt: "Jeff Sandquist GM Cloud Developer Relations"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-- uid: advocates.jen-looper
-  name: Jen Looper
-  tagline: Vue / JavaScript / Applied ML
-  image:
-    src: media/profiles/jen-looper.png
-    alt: "Jen Looper - Principal Cloud Advocate Lead"
-  location: 
-    display: Wellesley, Massachusetts, United States
-    lat: 42.310593
-    long: -71.27621
-- uid: advocates.jessica-deen
-  name: Jessica Deen
-  tagline: Linux / Open Source
-  image:
-    src: media/profiles/jessica-deen.png
-    alt: "Jessica Deen Cloud Developer Advocate"
-  location: 
-    display: Morgan Hill, CA, USA
-    lat: 37.191441
-    long: -121.435883
 - uid: advocates.jim-bennett
   name: Jim Bennett
   tagline: IoT/Python
@@ -845,16 +785,6 @@ profiles:
     display: Seattle, Washington, USA
     lat: 47.60357
     long: -122.32945
-- uid: advocates.scott-cate
-  name: Scott Cate
-  tagline: .NET
-  image:
-    src: media/profiles/scott-cate.png
-    alt: "Scott Cate Cloud Developer Advocate"
-  location: 
-    display: West Palm Beach, Florida, United States
-    lat: 26.758461
-    long: -80.226609
 - uid: advocates.scott-coulton
   name: Scott Coulton
   tagline: Linux / Containers / Kubernetes

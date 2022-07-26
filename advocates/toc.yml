@@ -10,8 +10,6 @@ items:
   items: 
   - name: Aaron Powell
     uid: advocates.aaron-powell
-  - name: Aaron Schlesinger
-    uid: advocates.aaron-schlesinger
   - name: Aaron Wislang
     uid: advocates.aaron-wislang
   - name: Abril Ureña
@@ -48,8 +46,6 @@ items:
     uid: advocates.brandon-minnick
   - name: Brian Benz
     uid: advocates.brian-benz
-  - name: Brian Ketelsen
-    uid: advocates.brian-ketelsen
   - name: Bruno Capuano
     uid: advocates.bruno-capuano
   - name: Burke Holland
@@ -58,8 +54,6 @@ items:
     uid: advocates.carlotta-castelluccio
   - name: Chris Noring
     uid: advocates.chris-noring
-  - name: Christopher Harrison
-    uid: advocates.christopher-harrison
   - name: Christopher Maneu
     uid: advocates.christopher-maneu
   - name: Dan Wahlin
@@ -102,12 +96,6 @@ items:
     uid: advocates.jahand
   - name: Jay Miller
     uid: advocates.jay-miller
-  - name: Jeff Sandquist
-    uid: advocates.jeff-sandquist
-  - name: Jen Looper
-    uid: advocates.jen-looper
-  - name: Jessica Deen
-    uid: advocates.jessica-deen
   - name: Jim Bennett
     uid: advocates.jim-bennett
   - name: John Papa
@@ -174,8 +162,6 @@ items:
     uid: advocates.sara-gibbons
   - name: Sarah Kaiser
     uid: advocates.sarah-kaiser
-  - name: Scott Cate
-    uid: advocates.scott-cate
   - name: Scott Coulton
     uid: advocates.scott-coulton
   - name: Someleze Diko
