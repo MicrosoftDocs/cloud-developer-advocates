@@ -1,1 +1,35 @@
-
+### YamlMime:Profile
+uid: advocates.sarah-young
+name: Sarah Young
+metadata:
+  title: Sarah Young - Cloud Security Advocate
+  description: Home page for Sarah Young, a Microsoft Cloud Security Advocate
+  ms.author: sayoung
+  team: modops
+remarks: |
+  ## Bio
+  Sarah has worked in security for over a decade across Europe, the US and Asia. Sarah loves to connect and engage with security communities all over the globe, as security affects every single one of us and it is her firm belief that everyone can (and should) know things about security to keep themselves - both on a professional and personal level - safe from threats. 
+  Her technical areas of expertise are security architecture, zero trust, SIEM, posture manageemnt and cloud native security. 
+ 
+  ## Skills
+  * Cloud Security
+  * Security Operations
+  * Posture Management
+  * Security Architecture
+  * Zero Trust
+ 
+tagline: Security for all the things
+image:
+  alt: "Sarah Young Cloud Security Advocate"
+  src: media/profiles/sarah-young.png 
+connect:
+  - title: Twitter
+    url: https://twitter.com/_sarahyo
+  - title: GitHub
+    url: https://github.com/sarah-yo
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sarahyo16/
+location:
+  display: Redmond, Washington, United States
+  lat: 47.645171
+  long: -122.130696
