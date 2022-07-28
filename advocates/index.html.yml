@@ -625,6 +625,16 @@ profiles:
     display: New York City, NY, United States
     lat: 40.757131
     long: -73.989784
+- uid: advocates.olanrewaju-oyinbooke
+  name: Olanrewaju Oyinbooke
+  tagline: Power Platform / Data Science & ML / Fusion Dev
+  image:
+    src: media/profiles/olanrewaju-oyinbooke.png
+    alt: "Olanrewaju Oyinbooke Senior Cloud Advocate"
+  location: 
+    display: Lagos, Nigeria
+    lat: 6.5244
+    long: 3.3792
 - uid: advocates.olivia-guzzardo
   name: Olivia Guzzardo
   tagline: VS Code / Azure / GitHub
