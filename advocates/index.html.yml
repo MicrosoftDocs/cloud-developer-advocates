@@ -785,6 +785,16 @@ profiles:
     display: Seattle, Washington, USA
     lat: 47.60357
     long: -122.32945
+- uid: advocates.sarah-young
+  name: Sarah Young
+  tagline: Security for all the things
+  image:
+    src: media/profiles/sarah-young.png 
+    alt: "Sarah Young Cloud Security Advocate"
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.645171
+    long: -122.130696
 - uid: advocates.scott-coulton
   name: Scott Coulton
   tagline: Linux / Containers / Kubernetes
