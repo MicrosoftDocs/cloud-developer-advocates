@@ -185,16 +185,6 @@ profiles:
     display: Boston, MA, USA
     lat: 42.35866
     long: -71.05674
-- uid: advocates.brandon-minnick
-  name: Brandon Minnick
-  tagline: Xamarin, .NET, C#, Mobile
-  image:
-    src: media/profiles/brandon-minnick.png
-    alt: "Brandon Minnick Cloud Developer Advocate"
-  location: 
-    display: San Francisco, California, United States
-    lat: 37.815141999999994
-    long: -122.518271
 - uid: advocates.brian-benz
   name: Brian Benz
   tagline: Java
