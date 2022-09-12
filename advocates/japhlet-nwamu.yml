@@ -22,19 +22,19 @@ remarks: |
   * C#
   * Community Building
 
-tagline: Power Platform / AI / Students / Faculty
+tagline: AI / Power Platform / Microsoft 365 / Students / Faculty
 image:
   alt: "Japhlet Nwamu Cloud Advocate"
   src: media/profiles/japhlet-nwamu.jpg
 connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/japhletnwamu
   - title: GitHub
     url: https://github.com/japhletnwamu
   - title: Twitter
     url: https://twitter.com/japhletnwamu
   - title: Microsoft Tech Community
     url: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1379878
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/japhletnwamu
 
 location:
   display: Abuja, Nigeria
