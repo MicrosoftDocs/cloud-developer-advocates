@@ -255,6 +255,16 @@ profiles:
     display: Chandler, AZ, USA
     lat: 33.302284
     long: -111.8401
+- uid: advocates.daniel-laskewitz
+  name: Daniel Laskewitz
+  tagline: Power Platform
+  image:
+    src: media/profiles/daniel-laskewitz.png
+    alt: "Daniel Laskewitz"
+  location: 
+    display: Utrecht, The Netherlands
+    lat: 52.090736
+    long: 5.121420
 - uid: advocates.dave-glover
   name: Dave Glover
   tagline: IoT and Cloud
