@@ -407,7 +407,7 @@ profiles:
     long: 1.5536
 - uid: advocates.japhlet-nwamu
   name: Japhlet Nwamu
-  tagline: Power Platform / AI / Students / Faculty
+  tagline: AI / Power Platform / Microsoft 365 / Students / Faculty
   image:
     src: media/profiles/japhlet-nwamu.jpg
     alt: "Japhlet Nwamu Cloud Advocate"
