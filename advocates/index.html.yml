@@ -287,7 +287,7 @@ profiles:
     long: -71.0994968
 - uid: advocates.david-smith
   name: David Smith
-  tagline: JavaScript / AI / Data Science / R
+  tagline: AI / ML / Data Science / R
   image:
     src: media/profiles/david-smith.png
     alt: "David Smith Cloud Developer Advocate"
