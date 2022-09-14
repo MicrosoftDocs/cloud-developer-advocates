@@ -535,6 +535,16 @@ profiles:
     display: Daegu, South Korea
     lat: 35.8797297
     long: 128.4966604
+- uid: advocates.kamalshree-soundirapandian
+  name: Kamal Shree Soundirapandian
+  tagline: Microsoft 365 / Flutter & Dart / Android
+  image:
+    src: media/profiles/kamalshree-soundirapandian.jpg
+    alt: "Kamal Shree - Developer Advocate for Microsoft 365"
+  location: 
+    display: Bangalore, India
+    lat: 12.972442
+    long: 77.580643
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Blazor / Xamarin
