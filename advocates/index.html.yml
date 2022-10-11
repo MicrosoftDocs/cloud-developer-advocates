@@ -615,16 +615,6 @@ profiles:
     display: London, United Kingodom
     lat: 51.5218
     long: 0.0839
-- uid: advocates.nina-zakharenko
-  name: Nina Zakharenko
-  tagline: Python
-  image:
-    src: media/profiles/nina-zakharenko.png
-    alt: "Nina Zakharenko Cloud Developer Advocate"
-  location: 
-    display: Portland, Oregon, United States
-    lat: 45.512794
-    long: -122.679565
 - uid: advocates.nitya-narasimhan
   name: Nitya Narasimhan
   tagline: Mobile, Multi-Platform, Azure, PWA
