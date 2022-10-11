@@ -486,11 +486,11 @@ profiles:
     lat: -37.81753
     long: 144.96715
 - uid: advocates.joshua-ndemenge
-  name: Joshua Ndemenge
-  tagline: IoT
+  name: Josh Ndemenge
+  tagline: Data Engineering and Analytics
   image:
     src: media/profiles/joshua-ndemenge.JPG
-    alt: "Joshua Ndemenge Cloud Advocate"
+    alt: "Josh Ndemenge Cloud Advocate"
   location: 
     display: Nairobi, Kenya
     lat: -1.286389
