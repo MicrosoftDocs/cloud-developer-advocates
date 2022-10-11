@@ -1,0 +1,56 @@
+### YamlMime:Profile
+uid: advocates.pamela-fox
+name: Pamela Fox
+metadata:
+  title: Pamela Fox - Cloud Advocate
+  description: Home page for Pamela Fox, a Microsoft Cloud Advocate
+  ms.author: pamelafox
+  team: python
+remarks: |
+  ## Bio
+  👋🏻 Hi! I'm Pamela Fox, a human that loves to learn, teach, and create.
+  I love being a Cloud Developer Advocate because I get to do all three at once!
+
+  🧑🏼‍🏫 On the teaching front, I've taught computer science at UC Berkeley and volunteered in bay area classrooms
+  as part of the TEALS, GirlsWhoCode, and CoderDojo organizations.
+  I also started the SF chapter of GirlDevelopIt, where I taught dozens of web development workshops.
+
+  💻 I've been in the tech industry for 15 years now, starting with my first role at Google
+  as one of theit first developer advocates. I went on to be an early full-stack engineer at Coursera
+  and spent many years after at Khan Academy, both as an engineer and the creator of the computer programming content.
+
+  🐛 I love watching caterpillars morph from one instar to another, until they finally (hopefully) turn into butterflies. 🦋
+
+  ## Skills
+  - Python
+  - JavaScript
+  - Web Development
+  - Cloud
+
+  ## My Projects
+  - [Recursive visualizations](https://github.com/pamelafox/recursive-visualizations), a tool for visualizing recursive Python function call graphs
+  - [Faded Parsons runner](https://github.com/pamelafox/faded-parsons-static), drag-and-drop Python coding exercises
+  - [lscache](https://github.com/pamelafox/lscache), a memcache-like localStorage wrapper 
+
+tagline: Python
+image:
+  alt: "Pamela Fox Cloud Advocate"
+  src: media/profiles/pamela-fox.png
+connect:
+  - title: Website
+    url: https://pamelafox.org
+  - title: GitHub
+    url: https://github.com/pamelafox
+  - title: Twitter
+    url: https://twitter.com/pamelafox
+  - title: Blog
+    url: https://blog.pamelafox.org
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/pamela-fox-5668b1b4
+
+location:
+  display: El Cerrito, CA
+  lat: 37.9180571
+  long: -122.319883
