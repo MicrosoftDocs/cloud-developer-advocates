@@ -805,16 +805,6 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.645171
     long: -122.130696
-- uid: advocates.scott-coulton
-  name: Scott Coulton
-  tagline: Linux / Containers / Kubernetes
-  image:
-    src: media/profiles/scott-coulton.png
-    alt: "Scott Coulton Cloud Developer Advocate"
-  location: 
-    display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
 - uid: advocates.someleze-diko
   name: Someleze Diko
   tagline: Power Platform
