@@ -615,16 +615,6 @@ profiles:
     display: London, United Kingodom
     lat: 51.5218
     long: 0.0839
-- uid: advocates.nina-zakharenko
-  name: Nina Zakharenko
-  tagline: Python
-  image:
-    src: media/profiles/nina-zakharenko.png
-    alt: "Nina Zakharenko Cloud Developer Advocate"
-  location: 
-    display: Portland, Oregon, United States
-    lat: 45.512794
-    long: -122.679565
 - uid: advocates.nitya-narasimhan
   name: Nitya Narasimhan
   tagline: Mobile, Multi-Platform, Azure, PWA
@@ -665,16 +655,16 @@ profiles:
     display: Melbourne, Victoria, Australia
     lat: -37.48
     long: 144.57
-- uid: advocates.ornella-altunyan
-  name: Ornella Altunyan
-  tagline: AI / ML / Students
+- uid: advocates.pamela-fox
+  name: Pamela Fox
+  tagline: Python
   image:
-    src: media/profiles/ornella-altunyan.png
-    alt: "Ornella Altunyan Advocate profile pic"
+    src: media/profiles/pamela-fox.png
+    alt: "Pamela Fox Cloud Advocate"
   location: 
-    display: San Francisco, CA
-    lat: 37.7749
-    long: -122.4194
+    display: El Cerrito, CA
+    lat: 37.9180571
+    long: -122.319883
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
   tagline: Containers
