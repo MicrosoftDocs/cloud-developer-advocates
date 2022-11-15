@@ -1,0 +1,42 @@
+### YamlMime:Profile
+uid: advocates.daniel-laskewitz
+name: Daniel Laskewitz
+metadata:
+  title: Daniel Laskewitz - Power Platform Advocate
+  description: Home page for Daniel Laskewitz, a Microsoft Power Platform Advocate
+  ms.author: dlaskewitz
+  team: power
+remarks: |
+  ## Bio
+  Daniel loves to help others build apps, workflows, chatbots and solutions with low code. For years, he has been working on SharePoint and M365, before moving towards the Power Platform as one of the first people in the world. Daniel is a fan of sharing best practices to make sure others can be productive. 
+
+  Before joining Microsoft, Daniel was a Power Platform MVP 6 years in a row. He also got recognized for his work with clients when he got the FastTrack Recognized Solution Architect title for Power Apps as one of the 31 people around the world. 
+  
+  He is always trying to help others, whether it's by organizing or giving a session at User Groups, Conferences and other events or by co-authoring a weekly newsletter called [Power Platform Weekly](https://www.ppweekly.com). 
+
+  ## Skills
+  * Power Apps
+  * Power Automate
+  * Power Virtual Agents
+  * Power Pages
+  * Dataverse
+  * SharePoint
+  * ALM
+  * Governance
+
+tagline: Power Platform
+image:
+  alt: "Daniel Laskewitz"
+  src: media/profiles/daniel-laskewitz.png
+connect:
+  - title: GitHub
+    url: https://github.com/laskewitz
+  - title: Twitter
+    url: https://twitter.com/laskewitz
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/laskewitz
+
+location:
+  display: Utrecht, The Netherlands
+  lat: 52.090736
+  long: 5.121420

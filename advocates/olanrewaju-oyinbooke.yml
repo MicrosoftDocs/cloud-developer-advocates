@@ -1,0 +1,39 @@
+### YamlMime:Profile
+uid: advocates.olanrewaju-oyinbooke
+name: Olanrewaju Oyinbooke
+metadata:
+  title: Olanrewaju Oyinbooke - Senior Cloud Advocate
+  description: Home page for Olanrewaju Oyinbooke, a Microsoft Cloud Advocate
+  ms.author: theoyinbooke
+  team: academic
+remarks: |
+  ## Bio
+  Olanrewaju is a Senior Cloud Advocate for Power Platform, Data Science & ML, Modern Workplace, and Fusion Development with over 6 professional and freelancing experience in everything analytics, automation, and productivity. As a passionate Educator, Olanrewaju turned employees in his previous firm to students by organizing and nurturing two (2) communities; Data Science Community and Power User Group with monthly meetup and competing to build business solutions to showcase their skill.
+  
+  As a Community builder, Olanrewaju is part of the Power Platform Community leaders in Nigeria with several event organized and speaking engagements to his profile. He was an Ex-MVP (Business Application) and mentor to lots of people within and outside Nigeria. Olanrewaju has developed Machine Learning solutions in production today that have reduced costs, increased company's revenues and optimized lots of process with power-platform driven solutions at the enterprise level.
+  
+  My Goal is to cover the technical skill gap needed to accelerate Africa's growth and leveraging Microsoft Technologies as a tool to help people become more.
+  
+  ## Skills
+  - Power Platform
+  - Data Science and ML
+  - Fusion Dev
+  - Community Building
+  - Storytelling
+
+tagline: Power Platform / Data Science & ML / Fusion Dev
+image:
+  alt: "Olanrewaju Oyinbooke Senior Cloud Advocate"
+  src: media/profiles/olanrewaju-oyinbooke.png
+connect:
+  - title: GitHub
+    url: https://github.com/theoyinbooke
+  - title: Twitter
+    url: https://twitter.com/theoyinbooke
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/olanrewaju-oyinbooke
+
+location:
+  display: Lagos, Nigeria
+  lat:  6.5244
+  long: 3.3792

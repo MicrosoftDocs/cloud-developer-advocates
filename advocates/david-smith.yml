@@ -8,22 +8,22 @@ metadata:
   team: opensource
 remarks: |
   ## Bio
-  I lead the JavaScript team for Microsoft Cloud Advocates.
+  I lead the Artifical Intelligence & Machine Learning team for Microsoft Cloud Advocates.
   
   My background is in Data Science: I trained as a statistician at the University of Adelaide (Australia) and Lancaster University (UK), 
   Since 2008, I've been writing regularly about R at the [Revolutions blog](https://blog.revolutionanalytics.com/), and I'm a founding member of 
   the [R Consortium](https://www.r-consortium.org/) board of directors.
   
-  In my personal time, I enjoy relaxing with my husband and our two Jack Russell terriers at home in the Napa Valley. 
+  In my personal time, I enjoy relaxing with my two German Shepherd mix rescue dogs at home in the Napa Valley. 
   I love movies and pinball, and playing Destiny and Rock Band on the Xbox. 
   
   ## Interests
-  - Javascript
   - AI
   - Data Science
   - Statistics
   - R
-tagline: JavaScript / AI / Data Science / R
+  - Javascript
+tagline: AI / ML / Data Science / R
 image:
   alt: "David Smith Cloud Developer Advocate"
   src: media/profiles/david-smith.png

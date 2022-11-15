@@ -16,9 +16,12 @@ remarks: |
 
 
   ## Skills
-  * Azure Sentinel  
-  * Azure Security Center/Defender
-  * M365 Security
+  * Microsoft Sentinel  
+  * Defender for Cloud
+  * M365 Security/Defender
+  * KQL
+  * Azure Monitor
+  * Log Analytics    
   * Azure
   
 tagline: Cloud Security / Cyber 
@@ -36,8 +39,12 @@ connect:
     url: https://www.linkedin.com/in/rodtrent
   - title: YouTube
     url: https://www.youtube.com/c/RodTrent
-  - title: Newsletter
+  - title: Microsoft Sentinel Newsletter
     url: https://www.getrevue.co/profile/AzureSentinelToday
+  - title: Microsoft Defender Newsletter
+    url: https://www.getrevue.co/profile/MicrosoftDefender
+  - title: Learn KQL!
+    url: https://aka.ms/MustLearnKQL    
 location:
   display: Middletown, OH, United States
   lat: 39.5068

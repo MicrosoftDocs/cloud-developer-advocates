@@ -1,25 +1,26 @@
 ### YamlMime:Profile
 uid: advocates.joshua-ndemenge
-name: Joshua Ndemenge
+name: Josh Ndemenge
 metadata:
-  title: Joshua Ndemenge - Cloud Advocate
+  title: Josh Ndemenge - Cloud Advocate
   description: Home page for Joshua Ndemenge, a Microsoft Cloud Advocate
   ms.author: jndemenge
   team: iot
 remarks: |
   ## Bio
-  Josh is a young passionate Tech Enthusiast and Cloud Advocate for Microsoft based in Nairobi, Kenya. 
-  
-  As a former [Gold Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/en-US/profile/1711) &amp; [Imagine Cup 2020 EMEA Regional Finalist](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-the-2020-imagine-cup-emea-regional-finalists/ba-p/1111410) Josh has developed a passion to enable anyone get started with technology especially revolving around Internet of Things, AI, and Cloud computing.
+  Josh is a Cloud Developer Advocate at Microsoft in the Data Engineering and Analytics team with experience in data tools having spent his early career days in the IoT (internet of things) & AI (artificial intelligence) space. He is a passionate community tech lead who is passionate to teach and guide individuals interested in tech, especially around Data and Cloud Computing.
+
+  Outside works Josh focuses on mentoring young individuals interested in tech. He is a firm believer that the younger generation should be involved in tech, if not actively building the next generation tech solutions, then at least understand what is happening in the tech space, because technology is directly influencing our lives and livelihoods. 
 
   ## Skills
-  - Internet of Things
-  - .NET / .NET Core
-  - Python
+  - Data Engineering & Analytics
+  - Internet of Things (Iot)
+  - .NET
+  - Artificial Intelligence (AI)
 
-tagline: IoT
+tagline: Data Engineering and Analytics
 image:
-  alt: "Joshua Ndemenge Cloud Advocate"
+  alt: "Josh Ndemenge Cloud Advocate"
   src: media/profiles/joshua-ndemenge.JPG
 connect:
   - title: GitHub
