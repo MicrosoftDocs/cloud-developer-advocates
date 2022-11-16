@@ -75,6 +75,16 @@ profiles:
     display: London, United Kingdom
     lat: 51.52814
     long: -0.1339
+- uid: advocates.amy-colyer
+  name: Amy Colyer
+  tagline: Infrastructure / Azure / Hybrid / Operations / IT Pro
+  image:
+    src: media/profiles/amy-colyer.jpg
+    alt: "Amy Colyer Senior Cloud Advocate"
+  location: 
+    display: Chicago, Illinois
+    lat: 41.88425
+    long: -87.63245
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
   tagline: Infrastructure / IoT / Identity Management / Security
