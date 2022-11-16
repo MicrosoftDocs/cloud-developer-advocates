@@ -1,4 +1,4 @@
-﻿########################################################################
+########################################################################
 #############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
 ########################################################################
 metadata:
@@ -10,10 +10,10 @@ items:
   items: 
   - name: Aaron Powell
     uid: advocates.aaron-powell
-  - name: Aaron Schlesinger
-    uid: advocates.aaron-schlesinger
   - name: Aaron Wislang
     uid: advocates.aaron-wislang
+  - name: Abril Ureña
+    uid: advocates.abril-ureña
   - name: Alfredo Deza
     uid: advocates.alfredo-deza
   - name: Alvaro Videla
@@ -30,10 +30,6 @@ items:
     uid: advocates.april-edwards
   - name: April Speight
     uid: advocates.april-speight
-  - name: Ashley McNamara
-    uid: advocates.ashley-mcnamara
-  - name: Asim Hussain
-    uid: advocates.asim-hussain
   - name: Ayca Bas
     uid: advocates.ayca-bas
   - name: Ayşegül Yönet
@@ -42,14 +38,12 @@ items:
     uid: advocates.barnam-bora
   - name: Bea Stollnitz
     uid: advocates.bea-stollnitz
+  - name: Bethany Cheum
+    uid: advocates.bethany-cheum
   - name: Bob German
     uid: advocates.bob-german
-  - name: Brandon Minnick
-    uid: advocates.brandon-minnick
   - name: Brian Benz
     uid: advocates.brian-benz
-  - name: Brian Ketelsen
-    uid: advocates.brian-ketelsen
   - name: Bruno Capuano
     uid: advocates.bruno-capuano
   - name: Burke Holland
@@ -58,14 +52,12 @@ items:
     uid: advocates.carlotta-castelluccio
   - name: Chris Noring
     uid: advocates.chris-noring
-  - name: Christina Warren
-    uid: advocates.christina-warren
-  - name: Christopher Harrison
-    uid: advocates.christopher-harrison
   - name: Christopher Maneu
     uid: advocates.christopher-maneu
   - name: Dan Wahlin
     uid: advocates.dan-wahlin
+  - name: Daniel Laskewitz
+    uid: advocates.daniel-laskewitz
   - name: Dave Glover
     uid: advocates.dave-glover
   - name: David Abu
@@ -80,6 +72,8 @@ items:
     uid: advocates.em-lazerwalker
   - name: Frank Boucher
     uid: advocates.frank-boucher
+  - name: Garry Trinder
+    uid: advocates.garry-trinder
   - name: Glaucia Lemos
     uid: advocates.glaucia-lemos
   - name: Gomolemo Mohapi
@@ -94,32 +88,32 @@ items:
     uid: advocates.henk-boelman
   - name: Ismaël Mejía
     uid: advocates.ismael-mejia
+  - name: Japhlet Nwamu
+    uid: advocates.japhlet-nwamu
   - name: Jasmine Greenaway
     uid: advocates.jasmine-greenaway
   - name: Jason Hand
     uid: advocates.jahand
-  - name: Jay Gordon
-    uid: advocates.jay-gordon
-  - name: Jeff Sandquist
-    uid: advocates.jeff-sandquist
-  - name: Jen Looper
-    uid: advocates.jen-looper
-  - name: Jessica Deen
-    uid: advocates.jessica-deen
+  - name: Jay Miller
+    uid: advocates.jay-miller
   - name: Jim Bennett
     uid: advocates.jim-bennett
   - name: John Papa
     uid: advocates.john-papa
   - name: Jorge Arteiro
     uid: advocates.jorge-arteiro
-  - name: Joshua Ndemenge
+  - name: Josh Ndemenge
     uid: advocates.joshua-ndemenge
   - name: Joylynn Kirui
     uid: advocates.joylynn-kirui
+  - name: Julia Muiruri
+    uid: advocates.julia-muiruri
   - name: Julien Dubois
     uid: advocates.julien-dubois
   - name: Justin Yoo
     uid: advocates.justin-yoo
+  - name: Kamal Shree Soundirapandian
+    uid: advocates.kamalshree-soundirapandian
   - name: Laurent Bugnion
     uid: advocates.laurent-bugnion
   - name: Lee Stott
@@ -132,18 +126,18 @@ items:
     uid: advocates.markheckler
   - name: Matthew Soucoup
     uid: advocates.matthew-soucoup
-  - name: Maxime Rouiller
-    uid: advocates.maxime-rouiller
   - name: Mike James
     uid: advocates.mike-james
-  - name: Nina Zakharenko
-    uid: advocates.nina-zakharenko
   - name: Nitya Narasimhan
     uid: advocates.nitya-narasimhan
+  - name: Olanrewaju Oyinbooke
+    uid: advocates.olanrewaju-oyinbooke
+  - name: Olivia Guzzardo
+    uid: advocates.olivia-guzzardo
   - name: Orin Thomas
     uid: advocates.orin-thomas
-  - name: Ornella Altunyan
-    uid: advocates.ornella-altunyan
+  - name: Pamela Fox
+    uid: advocates.pamela-fox
   - name: Patrick Chanezon
     uid: advocates.patrick-chanezon
   - name: Paul DeCarlo
@@ -166,26 +160,26 @@ items:
     uid: advocates.ryan-levick
   - name: Sandra Ahlgrimm
     uid: advocates.sandra-ahlgrimm
-  - name: Scott Cate
-    uid: advocates.scott-cate
-  - name: Scott Coulton
-    uid: advocates.scott-coulton
-  - name: Shmuela Jacobs
-    uid: advocates.shmuela-jacobs
+  - name: Sara Gibbons
+    uid: advocates.sara-gibbons
+  - name: Sarah Kaiser
+    uid: advocates.sarah-kaiser
+  - name: Sarah Young
+    uid: advocates.sarah-young
+  - name: Someleze Diko
+    uid: advocates.someleze-diko
   - name: Sonia Cuff
     uid: advocates.sonia-cuff
   - name: Steven Murawski
     uid: advocates.steven-murawski
   - name: Thomas Lewis
     uid: advocates.thomas-lewis
-  - name: Thomas Maurer
-    uid: advocates.thomas-maurer
-  - name: Tierney Cyren
-    uid: advocates.tierney-cyren
   - name: Todd Anglin
     uid: advocates.todd-anglin
   - name: Tomomi Imura
     uid: advocates.tomomi-imura
+  - name: Vincent Nwonah
+    uid: advocates.vincent-nwonah
   - name: Vinicius Apolinario
     uid: advocates.vinicius-apolinario
   - name: Waldek Mastykarz
