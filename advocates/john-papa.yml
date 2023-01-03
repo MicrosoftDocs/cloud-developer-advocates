@@ -2,34 +2,46 @@
 uid: advocates.john-papa
 name: John Papa
 metadata:
-  title: John Papa - Cloud Advocate
-  description: Home page for John Papa, a Microsoft Cloud Developer Advocate
+  title: John Papa - Principal Cloud Advocate Lead
+  description: Home page for John Papa, a Microsoft Principal Cloud Advocate
   ms.author: jopapa
-  team: javascript
+  team: academic
 remarks: |
   ## Bio
-  John Papa is a dedicated father and husband, a Principal Developer Advocate with Microsoft, and an alumnus of the Google Developer Expert, Microsoft RD and MVP programs. His passions are deploying and teaching modern web technologies, and enjoying everything Disney with his family. John is a co-host of the popular Adventures in Angular podcast, author of the Angular Style Guide, and many popular Pluralsight courses.
+  John Papa is a dedicated father and husband, a professional Web Developer, and professional storyteller in the technology community. He currently is a Principal Cloud Advocate for Microsoft and has formerly worked for Disney on several web and mobile applications that you may have used.
+
+  His passions are coding and teaching modern web technologies and enjoying everything Disney with his family.
+
+  John is a co-host of the Web Rush podcast, author of the Angular Style Guide, and many popular Pluralsight online videos courses.
+
+  You can reach John on Twitter at [@john_papa](https://twitter.com/john_papa) or listen at Web Rush https://webrush.io
 
   ## Skills
+
+  * Angular
+  * Architecture
   * JavaScript
   * Node.js
-  * Angular
-  * Vue
+  * Svelte
   * TypeScript
-  * Architecture
+  * Vue
 
   ## My Projects
-  * [Angular Style Guide](https://angular.io/guide/styleguide)
-  * [AngularJS Style Guide](https://jpapa.me/a1styleguide)
-  * [Angular Tour of Heroes Tutorial](https://jpapa.me/angulartoh)
-  * [MEAN & Cosmos DB Tutorial](https://docs.microsoft.com/en-us/azure/cosmos-db/tutorial-develop-mongodb-nodejs)
-  * [Angular Snippets for VS Code](https://jpapa.me/asnippets)
-  * [Azure Serverless Functions Snippets](https://jpapa.me/serverlessfunc)
 
-tagline: JavaScript / Node.js / Web
+  * [Web Rush podcast](https://webrush.io)
+  * [Vue, Svelte, React and Angular example apps](https://shopathome.dev)
+  * [Angular Style Guide](https://angular.io/guide/styleguide)
+  * [AngularJS v1 Style Guide](https://jpapa.me/a1styleguide)
+  * [Angular Tour of Heroes Tutorial](https://jpapa.me/angulartoh)
+  * [Angular Snippets for VS Code](https://jpapa.me/asnippets)
+  * [Peacock for Visual Studio Code](https://peacockcode.dev)
+  * [Winter is Coming! them for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=johnpapa.winteriscoming)
+
+tagline: Web technologist, engineering leader, and storyteller
 image:
-  alt: "John Papa Cloud Developer Advocate"
+  alt: "John Papa Principal Cloud Advocate Lead"
   src: media/profiles/john-papa.png
+
 connect:
   - title: Twitter
     url: https://twitter.com/john_papa
@@ -38,12 +50,12 @@ connect:
   - title: Blog
     url: https://johnpapa.net
   - title: Instagram
-    url: https://www.instagram.com/thejohnpapa
+    url: https://www.instagram.com/_john.papa
   - title: LinkedIn
     url: https://linkedin.com/in/papajohn
-  - title: Twitch
-    url: https://www.twitch.tv/john_papa
+
 location:
   display: Orlando, Florida, United States
   lat: 28.5029917
   long: -81.5538575
+  

@@ -1,0 +1,51 @@
+### YamlMime:Profile
+uid: advocates.bruno-capuano
+name: Bruno Capuano
+metadata:
+  title: Bruno Capuano - Senior Cloud Advocate
+  description: Home page for Bruno Capuano, a Microsoft Senior Cloud Advocate
+  ms.author: brunocapuano
+  team: regional
+remarks: |
+  ## Bio
+   ⚡ My name is Bruno Capuano! Sr Cloud Advocate at Microsoft. 
+     
+
+    🔭 I am a technology enthusiast. I have spoken in at least 2 different countries, so I am also an international speaker. 
+     
+
+    💬 I was a Microsoft MVP (Microsoft Most Valuable Professional) for 14 years. I was awarded in various categories, Artificial Intelligence, Windows Developer and ALM/DevOps. 
+     
+
+    🌱 In the past, I spent my time helping to connect real Business with cool technologies in Europe and North America. 
+     
+
+    👯 Because I am the father the greatest kids on the earth, I developed a passion to run (to run a lot!) 
+     
+
+    🤖 I like to make things, to challenge myself, and to improve and learn new stuff all the time. 
+
+  ## Skills
+  - AI / ML
+  - IoT  
+  - .NET
+  - Python  
+
+tagline: AI / ML / IoT
+image:
+  alt: "Bruno Capuano Senior Cloud Advocate"
+  src: media/profiles/bruno-capuano.png
+connect:
+  - title: GitHub
+    url: https://github.com/elbruno
+  - title: Twitter
+    url: https://twitter.com/elbruno
+  - title: Blog
+    url: https://www.elbruno.com
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/elbruno/
+
+location:
+  display: Dundas, Canada
+  lat: 43.262123319339025
+  long: -79.9819315511835

@@ -1,0 +1,31 @@
+### YamlMime:Profile
+uid: advocates.kamalshree-soundirapandian
+name: Kamal Shree Soundirapandian
+metadata:
+  title: Kamal Shree - Developer Advocate for Microsoft 365
+  description: Home page for kamal Shree, Developer Advocate for Microsoft 365
+  ms.author: kamalshree
+  team: m365
+remarks: |
+  ## Bio
+  I am a Developer Advocate at Microsoft and work with the Microsoft 365 Developer Advocacy Team. 
+  I’m a Google Developer Expert in Flutter & Dart with 12 years of experience in Web Technologies, Android, Flutter, and HarmonyOS. I have worked for multinational firms in
+  India, the Netherlands, and the USA. I am a Youtuber (whatsupcoders), Mentor @MentorCruise, and Open-Source Community Builder. 
+
+tagline: Microsoft 365 / Flutter & Dart / Android
+image:
+  alt: "Kamal Shree - Developer Advocate for Microsoft 365"
+  src: media/profiles/kamalshree-soundirapandian.jpg
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/kamalshree/
+  - title: Twitter
+    url: https://twitter.com/whatsupcoders
+  - title: Youtube
+    url: https://www.youtube.com/c/whatsupcoders
+  - title: GitHub
+    url: https://github.com/kamalshree
+location:
+  display: Bangalore, India
+  lat: 12.972442
+  long: 77.580643

@@ -1,0 +1,36 @@
+### YamlMime:Profile
+uid: advocates.olivia-guzzardo
+name: Olivia Guzzardo
+metadata:
+  title: Olivia Guzzardo - Cloud Advocate
+  description: Home page for Olivia Guzzardo, a Microsoft Cloud Advocate
+  ms.author: olguzzar
+  team: devcloud
+remarks: |
+  ## Bio
+  Olivia Guzzardo is a Cloud Advocate living in Charleston, SC. She began her career in the .NET space as a consultant, spending most of her day developing applications for customers. These projects ranged from Xamarin, to Blazor, to CRM and SharePoint development, in both the private and public sectors. Her passion for connecting with developers led her to the advocacy side. 
+  
+  In her free time, you can find her cheering on the Clemson Tigers, listening to true crime podcasts, or traveling the world.
+
+  ## Skills
+  - .NET
+  - JavaScript
+  - Azure
+  - DevOps
+
+tagline: VS Code / Azure / GitHub
+image:
+  alt: "Olivia Guzzardo Cloud Advocate"
+  src: media/profiles/olivia-guzzardo.png
+connect:
+  - title: GitHub
+    url: https://github.com/olguzzar
+  - title: Twitter
+    url: https://twitter.com/@oliviaguzzardo
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/olivia-guzzardo
+
+location:
+  display: Charleston, SC, USA
+  lat: 32.783062
+  long: -79.93444

@@ -1,0 +1,39 @@
+### YamlMime:Profile
+uid: advocates.jay-miller
+name: Jay Miller
+metadata:
+  title: Jay Miller - Senior Cloud Advocate
+  description: Home page for Jay Miller, a Microsoft Senior Cloud Advocate
+  ms.author: jaymiller
+  team: python
+remarks: |
+  ## Bio
+  
+  Jay is based in San Diego, CA and creates content around Python, automation, and productivity.
+  He has created many automation and web tools to serve underrepresented communities.
+
+  ## Skills
+  - Python
+  
+  ## My Projects
+  - [DiversityOrgs.tech](https://diversityorgs.tech), find tech user groups and resources for underrepresent groups around the globe.
+
+
+tagline: Python
+image:
+  alt: "Jay Miller Senior Cloud Advocate"
+  src: media/profiles/jay-miller.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/kjaymiller
+  - title: Blog
+    url: https://kjaymiller.com
+  - title: GitHub
+    url: https://github.com/kjaymiller
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/kjaymiller/
+
+location:
+  display: San Diego, California, United States
+  lat: 32.715736
+  long: -117.161087

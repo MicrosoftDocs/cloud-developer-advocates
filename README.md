@@ -4,7 +4,7 @@ For more information see the [Code of Conduct FAQ](https://opensource.microsoft.
 
 ## Adding your profile
 
-1. Fork the [main repository](https://github.com/MicrosoftDocs/cloud-developer-advocates) to your account. Clone the repository locally and switch to the `master` branch.
+1. Fork the [main repository](https://github.com/MicrosoftDocs/cloud-developer-advocates) to your account. Clone the repository locally and switch to the `main` branch.
 2. Add a YAML file with the following convention `firstname-lastname.yml` at the path `/advocates/`.
 3. Add your profile picture (PNG/JPG) to `/advocates/media/profiles/` with the same convention. Ensure that your picture don't go above 450px and that it is perfectly square (eg. 450x450)
 
@@ -37,9 +37,9 @@ If you have merging rights on this repository, those are instructions for you.
 
 ## Merging to `live`
 
-The Advocates website will only show what's inside the `live` branch. This allow us to work on multiple iteration and make mistakes in `master` before we publish.
+The Advocates website will only show what's inside the `live` branch. This allow us to work on multiple iteration and make mistakes in `main` before we publish.
 
-To publish all of your changes, [create a new PR to live](https://github.com/MicrosoftDocs/cloud-developer-advocates/compare/live...master?title=live%20%3C=%20master) and submit it. Once all the validation and checks are green, you can merge it.
+To publish all of your changes, [create a new PR to live](https://github.com/MicrosoftDocs/cloud-developer-advocates/compare/live...main?title=live%20%3C=%20main) and submit it. Once all the validation and checks are green, you can merge it.
 
 Changes can take up to 15 minutes to be applied. 
 

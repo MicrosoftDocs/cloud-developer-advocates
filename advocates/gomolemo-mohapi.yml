@@ -2,21 +2,25 @@
 uid: advocates.gomolemo-mohapi
 name: Gomolemo Mohapi
 metadata:
-  title: Gomolemo Mohapi - Power Apps Cloud Advocate
-  description: Home page for Gomolemo Mohapi, a Microsoft Power Apps Cloud Advocate
-  ms.author: gomomohapi
+  title: Gomolemo Mohapi - Cloud Advocate
+  description: Home page for Gomolemo Mohapi, a Microsoft Cloud Advocate
+  ms.author: gmohapi
   team: power
 remarks: |
   ## Bio
-  Gomolemo is a young, passionate individual who has always been involved with initiatives that seek to upskill people from all walks of life with the ability to use technology to better themselves in the way that they live and work. 
+  Gomolemo is a young South African who is determined to make a long-lasting impact on the world through technology. 
   
-  Today, he is a Power Apps Cloud Advocate at Microsoft focusing on making the Power Platform space amazing for citizen and code-first developers of all backgrounds.
+  In university, he took it upon himself to create multiple written programming tutorials for his peers which significantly assisted those who were struggling to grasp programming concepts. Thereafter, Gomolemo joined the Microsoft Learn Student Ambassador program where he gained advanced technical skills and eventually expanded to host workshops, hackathons and speaking at various conferences.
+  
+  Gomolemo eventually fell in love with the Power Platform, because it was a low-code platform which gave way for him to empower and upskill not just those with a technical background, but anyone from any industry who was looking to learn how to build applications.
+  
+  He has since co-authored a Power Platform Udacity course and is now a Cloud Advocate at Microsoft focused on Power Apps and Fusion Development.
   
   ## Skills
   * Power Apps
   * .NET / .NET Core
   
-tagline: Power Apps
+tagline: Power Apps / Fusion Development
 image:
   alt: "Gomolemo Mohapi - Cloud Advocate"
   src: media/profiles/gomolemo-mohapi.png
