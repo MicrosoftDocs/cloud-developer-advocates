@@ -495,11 +495,11 @@ profiles:
     display: Melbourne, Australia
     lat: -37.81753
     long: 144.96715
-- uid: advocates.joshua-ndemenge
+- uid: advocates.josh-ndemenge
   name: Josh Ndemenge
   tagline: Data Engineering and Analytics
   image:
-    src: media/profiles/joshua-ndemenge.JPG
+    src: media/profiles/josh-ndemenge.JPG
     alt: "Josh Ndemenge Cloud Advocate"
   location: 
     display: Nairobi, Kenya
