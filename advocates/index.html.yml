@@ -145,16 +145,6 @@ profiles:
     display: Dubai, United Arab Emirates
     lat: 25.2048
     long: 55.2708
-- uid: advocates.aysegul-yonet
-  name: Ayşegül Yönet
-  tagline: Cognitive Services / Mixed Reality / HoloLens / JavaScript / WebXR
-  image:
-    src: media/profiles/aysegul-yonet.jpg
-    alt: "Ayşegül Yönet Cloud Advocate"
-  location: 
-    display: San Francisco, CA
-    lat: 37.7958
-    long: -122.3938
 - uid: advocates.barnam-bora
   name: Barnam Bora
   tagline: AI / ML / Microsoft Teams / Microsoft Graph / CTO Advisory
