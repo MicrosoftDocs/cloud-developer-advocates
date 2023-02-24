@@ -605,16 +605,6 @@ profiles:
     display: Seattle, WA, USA
     lat: 47.60621
     long: -122.33207
-- uid: advocates.mike-james
-  name: Mike James
-  tagline: Xamarin
-  image:
-    src: media/profiles/mike-james.png
-    alt: "Mike James Cloud Developer Advocate"
-  location: 
-    display: London, United Kingodom
-    lat: 51.5218
-    long: 0.0839
 - uid: advocates.nitya-narasimhan
   name: Nitya Narasimhan
   tagline: Mobile, Multi-Platform, Azure, PWA
@@ -865,16 +855,6 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.773972
     long: -122.431297
-- uid: advocates.vincent-nwonah
-  name: Vincent Nwonah
-  tagline: Azure + .NET
-  image:
-    src: media/profiles/vincent-nwonah.jpg
-    alt: "Vincent Nwonah Cloud Advocate"
-  location: 
-    display: Lagos, Nigeria
-    lat: 6.5244
-    long: 3.3792
 - uid: advocates.vinicius-apolinario
   name: Vinicius Apolinario
   tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
