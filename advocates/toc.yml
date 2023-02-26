@@ -126,8 +126,6 @@ items:
     uid: advocates.markheckler
   - name: Matthew Soucoup
     uid: advocates.matthew-soucoup
-  - name: Mike James
-    uid: advocates.mike-james
   - name: Nitya Narasimhan
     uid: advocates.nitya-narasimhan
   - name: Olanrewaju Oyinbooke
@@ -178,8 +176,6 @@ items:
     uid: advocates.todd-anglin
   - name: Tomomi Imura
     uid: advocates.tomomi-imura
-  - name: Vincent Nwonah
-    uid: advocates.vincent-nwonah
   - name: Vinicius Apolinario
     uid: advocates.vinicius-apolinario
   - name: Waldek Mastykarz
