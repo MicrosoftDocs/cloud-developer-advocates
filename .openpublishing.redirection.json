@@ -1,6 +1,6 @@
 {
     "redirections": [{
-        "source_path": "advocates/azure-developer-tour-2018/index.html.md",
+        "source_path": "advocates/azure-developer-tour-2018/index.md",
         "redirect_url": "https://www.microsoft.com/ignite-the-tour",
         "redirect_document_id": false
     }]
