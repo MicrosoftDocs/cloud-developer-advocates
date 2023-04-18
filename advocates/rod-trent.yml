@@ -8,7 +8,7 @@ metadata:
   team: security
 remarks: |
   ## Bio
-  As a Customer Engineer and a Security CSA, I spent my first years at Microsoft delivering for our largest Azure Sentinel customers. I've presented over 70 Azure Sentinel workshops in the last year alone. This has afforded me the opportunity to become very deep level on this amazing and breakthrough security platform and to understand what our customers require. And, on the side, I have built strong community over various social platforms for Azure Sentinel. I look forward to turning my side hustle into my day job as I take this new role in Cloud Security Advocacy to deliver and develop this one-to-many relationship with our customers. 
+  As a Customer Engineer and a Security CSA, I spent my first years at Microsoft delivering for our largest Microsoft Sentinel customers. I've presented over 70 Azure Sentinel workshops in the last year alone. This has afforded me the opportunity to become very deep level on this amazing and breakthrough security platform and to understand what our customers require. And, on the side, I have built strong community over various social platforms for Azure Sentinel. I look forward to turning my side hustle into my day job as I take this new role in Cloud Security Advocacy to deliver and develop this one-to-many relationship with our customers. 
   
   Prior to joining Microsoft in 2019, I have worked in IT operations, performed marketing for a few technology companies, ran some of the largest Microsoft-focused communities in the world (myITforum anyone?), helped invent and managed the original Microsoft Management Summit (MMS), ran the community outreach efforts for TechEd, owned and operated IT/Dev Connections (another IT-focused conference), owned and sold businesses, and worked as a program manager and Editor-in-Chief for Penton Publishing (WindowsITPro Magazine, et al). 
   
@@ -16,8 +16,9 @@ remarks: |
 
 
   ## Skills
+  * Azure Open AI
   * Microsoft Sentinel  
-  * Defender for Cloud
+  * Defender for Cloud  
   * M365 Security/Defender
   * KQL
   * Azure Monitor
@@ -39,10 +40,10 @@ connect:
     url: https://www.linkedin.com/in/rodtrent
   - title: YouTube
     url: https://www.youtube.com/c/RodTrent
-  - title: Microsoft Sentinel Newsletter
-    url: https://www.getrevue.co/profile/AzureSentinelToday
-  - title: Microsoft Defender Newsletter
-    url: https://www.getrevue.co/profile/MicrosoftDefender
+  - title: Weekly Microsoft Sentinel Newsletter
+    url: https://sentinelthisweek.substack.com/
+  - title: Weekly Microsoft Defender Newsletter
+    url: https://microsoftdefender.substack.com/
   - title: Learn KQL!
     url: https://aka.ms/MustLearnKQL    
 location:
