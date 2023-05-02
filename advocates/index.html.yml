@@ -449,7 +449,7 @@ profiles:
   name: Joey Snow
   tagline: Common sense security for all.
   image:
-    src: media/profiles/joey-snow.png
+    src: media/profiles/joey-snow.jpg
     alt: "Joey Snow Principal Cloud Advocate"
   location: 
     display: Redmond, WA, USA

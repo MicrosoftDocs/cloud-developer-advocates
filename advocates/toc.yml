@@ -5,7 +5,7 @@ metadata:
   name: advocates_toc
 items:
 - name: Cloud Advocates
-  href: index.yml
+  href: index.html.yml
   expanded: true
   items: 
   - name: Aaron Powell
