@@ -15,8 +15,7 @@ remarks: |
   - Security Operations
   - Zero Trust
   - Infrastructure Operations
-  - Cloud Security  
-
+  - Cloud Security
 
 tagline: Common sense security for all.
 image:
@@ -28,7 +27,7 @@ connect:
   - title: Twitter
     url: https://twitter.com/joeysnow
   - title: Blog
-    url: https://
+    url: https://about.me/joeysnow
   - title: LinkedIn
     url: https://www.linkedin.com/in/joeysnow
 
