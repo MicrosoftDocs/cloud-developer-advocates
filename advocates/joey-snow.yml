@@ -1,0 +1,38 @@
+### YamlMime:Profile
+uid: advocates.joey-snow
+name: Joey Snow
+metadata:
+  title: Joey Snow - Principal Cloud Advocate
+  description: Home page for Joey Snow, a Microsoft Principal Cloud Advocate
+  ms.author: jsnow
+  team: security
+remarks: |
+  ## Bio
+  Joey is a Principal Security Advocate lead whose teams goal is to enable all audiences to confidently implement security controls within their organizations leveraging Microsoft Security Solutions. Joey is also ½ of the technology podcast duo Patch & Switch and is a frequent speaker at various Microsoft, 3rd party, and industry-sponsored events.
+
+  ## Skills
+  - Identity
+  - Security Operations
+  - Zero Trust
+  - Infrastructure Operations
+  - Cloud Security  
+
+
+tagline: Common sense security for all.
+image:
+  alt: "Joey Snow Principal Cloud Advocate"
+  src: media/profiles/joey-snow.png
+connect:
+  - title: GitHub
+    url: https://github.com/joey-snow
+  - title: Twitter
+    url: https://twitter.com/joeysnow
+  - title: Blog
+    url: https://
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/joeysnow
+
+location:
+  display: Redmond, WA, USA
+  lat: 47.673988
+  long: -122.121513
