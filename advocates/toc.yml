@@ -28,8 +28,6 @@ items:
     uid: advocates.anthony-shaw
   - name: April Dunnam
     uid: advocates.april-dunnam
-  - name: April Edwards
-    uid: advocates.april-edwards
   - name: April Speight
     uid: advocates.april-speight
   - name: Ayca Bas
@@ -66,8 +64,6 @@ items:
     uid: advocates.david-blank-edelman
   - name: David Smith
     uid: advocates.david-smith
-  - name: Dmitry Soshnikov
-    uid: advocates.dmitry-soshnikov
   - name: Em Lazer-Walker
     uid: advocates.em-lazerwalker
   - name: Frank Boucher
@@ -98,6 +94,8 @@ items:
     uid: advocates.jay-miller
   - name: Jim Bennett
     uid: advocates.jim-bennett
+  - name: Joey Snow
+    uid: advocates.joey-snow
   - name: John Papa
     uid: advocates.john-papa
   - name: Jorge Arteiro
@@ -154,8 +152,6 @@ items:
     uid: advocates.rory-preddy
   - name: Ruth Yakubu
     uid: advocates.ruth-yakubu
-  - name: Ryan Levick
-    uid: advocates.ryan-levick
   - name: Sandra Ahlgrimm
     uid: advocates.sandra-ahlgrimm
   - name: Sara Gibbons
