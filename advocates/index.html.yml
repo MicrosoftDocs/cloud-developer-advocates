@@ -415,16 +415,6 @@ profiles:
     display: Brooklyn,  New York, United States
     lat: 40.67417
     long: -74.025653
-- uid: advocates.jahand
-  name: Jason Hand
-  tagline: DevOps
-  image:
-    src: media/profiles/jahand.jpg
-    alt: "Jason Hand Cloud Advocate"
-  location: 
-    display: Erie, Colorado, United States
-    lat: 40.0503
-    long: -105.0500
 - uid: advocates.jay-miller
   name: Jay Miller
   tagline: Python
