@@ -44,6 +44,6 @@ connect:
     url: https://www.twitch.tv/lazerwalker
 
 location:
-  display: Toronto, Ontario, Canada
-  lat: 43.647664
-  long: -79.3802294
+  display: San Francisco, California, United States
+  lat: 37.815141999999994
+  long: -122.518271

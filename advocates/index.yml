@@ -115,16 +115,6 @@ profiles:
     display: Tulsa, OK, USA
     lat: 36.155327
     long: -95.99208
-- uid: advocates.april-edwards
-  name: April Edwards
-  tagline: DevOps
-  image:
-    src: media/profiles/april-edwards.png 
-    alt: "April Edwards Cloud Developer Advocate"
-  location: 
-    display: London, UK
-    lat: 51.500153
-    long: -0.1262362
 - uid: advocates.april-speight
   name: April Speight
   tagline: Mixed Reality / HoloLens / Spatial Computing
@@ -132,7 +122,7 @@ profiles:
     src: media/profiles/april-speight.png
     alt: "April Speight Cloud Advocate"
   location: 
-    display: Beverly Hills, CA
+    display: Los Angeles, CA
     lat: 34.0736
     long: -118.4004
 - uid: advocates.ayca-bas
@@ -305,16 +295,6 @@ profiles:
     display: Napa, CA, USA
     lat: 38.2975381  
     long: -122.286865
-- uid: advocates.dmitry-soshnikov
-  name: Dmitry Soshnikov
-  tagline: AI / ML / Python / F# / Students / K-12
-  image:
-    src: media/profiles/dmitry-soshnikov.png
-    alt: "Dmitry Soshnikov Cloud Developer Advocate"
-  location: 
-    display: Moscow, Russia
-    lat: 55.751244
-    long: 37.618423
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
@@ -322,9 +302,9 @@ profiles:
     src: media/profiles/em-lazerwalker.png
     alt: "Em Lazer-Walker - Cloud Advocate"
   location: 
-    display: Toronto, Ontario, Canada
-    lat: 43.647664
-    long: -79.3802294
+    display: San Francisco, California, United States
+    lat: 37.815141999999994
+    long: -122.518271
 - uid: advocates.frank-boucher
   name: Frank Boucher
   tagline: Development / DevOps / Serverless
@@ -435,16 +415,6 @@ profiles:
     display: Brooklyn,  New York, United States
     lat: 40.67417
     long: -74.025653
-- uid: advocates.jahand
-  name: Jason Hand
-  tagline: DevOps
-  image:
-    src: media/profiles/jahand.jpg
-    alt: "Jason Hand Cloud Advocate"
-  location: 
-    display: Erie, Colorado, United States
-    lat: 40.0503
-    long: -105.0500
 - uid: advocates.jay-miller
   name: Jay Miller
   tagline: Python
@@ -745,16 +715,6 @@ profiles:
     display: New York, New York, United States
     lat: 40.770425
     long: -74.404626
-- uid: advocates.ryan-levick
-  name: Ryan Levick
-  tagline: Rust / Functional Programming / JavaScript/TypeScript / Architecture
-  image:
-    src: media/profiles/ryan-levick.jpg
-    alt: "Ryan Levick, Cloud Advocate"
-  location: 
-    display: Berlin, Germany
-    lat: 52.515816
-    long: 13.45429
 - uid: advocates.sandra-ahlgrimm
   name: Sandra Ahlgrimm
   tagline: Container / Java / DevOps
