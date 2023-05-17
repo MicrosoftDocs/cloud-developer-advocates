@@ -302,9 +302,9 @@ profiles:
     src: media/profiles/em-lazerwalker.png
     alt: "Em Lazer-Walker - Cloud Advocate"
   location: 
-    display: Toronto, Ontario, Canada
-    lat: 43.647664
-    long: -79.3802294
+    display: San Francisco, California, United States
+    lat: 37.815141999999994
+    long: -122.518271
 - uid: advocates.frank-boucher
   name: Frank Boucher
   tagline: Development / DevOps / Serverless
