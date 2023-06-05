@@ -1,0 +1,35 @@
+### YamlMime:Profile
+uid: advocates.pablo-lopes
+name: Pablo Lopes
+metadata:
+  title: Pablo Lopes - Cloud Advocate
+  description: Pablo Lopes, Cloud Developer Advocate
+  ms.author: pablolopes
+  team: academic
+remarks: |
+  ## Bio
+  Pablo is an enthusiast for Technology since his early teens, a Software Engineer, a SysAdmin and former Microsoft Learn Student Ambassador. He loves the rapid pace, growth and knowledge from the tech community, advocating for a better, up to date technolgy integration with the future IT workers, students and adopting advances to a better future.
+  Having a diverse background, from Startup companies to Fortune 500, and dealt with tech in many ways, shapes and forms, is happy to integrate the Microsoft Advocacy team in Application Development, integrating students and the rising learner with Python, .Net with Azure, AI and Microsoft stack. 
+  
+  ## Skills
+  * Python
+  * Dot Net
+  * VS Code
+  * AI
+  * Azure
+ 
+tagline: Azure / Python / Dot Net / VS Code / AI
+image:
+  alt: "Pablo Lopes Cloud Advocate"
+  src: media/profiles/pablo-lopes.png
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/pablonuneslopes/
+  - title: GitHub
+    url: https://github.com/PabloNunes
+  - title: Instagram
+    url: https://www.instagram.com/pab_nunes/
+location:
+  display: São Paulo, São Paulo, Brazil
+  lat: -23.5475
+  long: -46.6361
