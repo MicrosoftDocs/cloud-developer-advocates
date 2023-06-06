@@ -625,6 +625,16 @@ profiles:
     display: Melbourne, Victoria, Australia
     lat: -37.48
     long: 144.57
+- uid: advocates.pablo-lopes
+  name: Pablo Lopes
+  tagline: Azure / Python / Dot Net / VS Code / AI
+  image:
+    src: media/profiles/pablo-lopes.jpg
+    alt: "Pablo Lopes Cloud Advocate"
+  location: 
+    display: São Paulo, São Paulo, Brazil
+    lat: -23.5475
+    long: -46.6361
 - uid: advocates.pamela-fox
   name: Pamela Fox
   tagline: Python
