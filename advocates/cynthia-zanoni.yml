@@ -1,0 +1,48 @@
+### YamlMime:Profile
+uid: advocates.cynthia-zanoni
+name: Cynthia Zanoni
+metadata:
+  title: Cynthia Zanoni - Cloud Advocate
+  description: Home page for Cynthia Zanoni, a Microsoft Cloud Advocate
+  ms.author: 
+  team: academic
+remarks: |
+  ## Bio
+  Cynthia Zanoni is a developer passionate about education, communities, and kitten gifs. Currently, she works as a Cloud Advocate at Microsoft in the Developer Tools team, helping developers learn more about Azure, VSCode, and GitHub to take the next step in their professional careers. She is also the leader of the Gender Equity and Women in Technology Committee for LATAM at Microsoft.
+
+  In addition to her work at Microsoft, Cynthia is the founder of WoMakersCode, a social impact initiative that aims to support the empowerment and employability of women in technology. WoMakersCode is a member of the UN Global Compact in Brazil and has been awarded the "Seal of Racial Equality" by the São Paulo City Council.
+  
+  ## Skills
+  - Azure
+  - Front-end Development
+  - Python
+  - Linux & Open Source
+  - VS Code
+  - DevOps
+  - Microsoft Power Platform
+  - Artificial Intelligence for developers
+
+  ## My Projects
+  - [WoMakersCode](https://womakerscode.org/)
+  - [#MaisMulheresTech](https://maismulheres.tech/)
+
+tagline: JavaScript / GitHub / VSCode 
+image:
+  alt: "Cynthia Zanoni - Cloud Advocate"
+  src: media/profiles/cynthia-zanoni.png
+connect:
+  - title: GitHub
+    url: https://github.com/cyz
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/cynthiazanoni/
+  - title: Twitter
+    url: https://twitter.com/cynthia_zanoni
+  - title: YouTube
+    url: https://youtube.com/womakerscode
+  - title: Newsletter
+    url: https://womakerscode.substack.com/
+
+location:
+  display: São Paulo, Brazil
+  lat: -23.6820636
+  long: -46.9249497
