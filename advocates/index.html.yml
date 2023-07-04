@@ -235,6 +235,16 @@ profiles:
     display: France
     lat: 48.833968 
     long: 2.265598
+- uid: advocates.cynthia-zanoni
+  name: Cynthia Zanoni
+  tagline: JavaScript / GitHub / VSCode 
+  image:
+    src: media/profiles/cynthia-zanoni.png
+    alt: "Cynthia Zanoni - Cloud Advocate"
+  location: 
+    display: São Paulo, Brazil
+    lat: -23.6820636
+    long: -46.9249497
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
   tagline: Fluid / Microsoft 365 / Azure
