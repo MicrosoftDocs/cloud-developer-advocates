@@ -8,14 +8,15 @@ metadata:
   team: javascript
 remarks: |
   ## Bio
-Glaucia Lemos is a Developer Advocate in JavaScript and TypeScript at Microsoft and a Software Engineer with over 10 years of development experience in JavaScript, 
-TypeScript, and Node.js (BackEnd), as well as in .NET C#. She has both national and international experience working with small and large companies. Glaucia enjoys 
-making contributions to Open Source projects. She has been a Member and Contributor to the Node.js Foundation and the React Community, making contributions to the 
-translations of the Nodejs.org and Reactjs.org websites into Portuguese. She also volunteers and serves as a Board Member for the WoMakersCode NGO.
+  Glaucia Lemos is a Developer Advocate in JavaScript and TypeScript at Microsoft and a Software Engineer with over 10 years of development experience in JavaScript, 
+  TypeScript, and Node.js (BackEnd), as well as in .NET C#. She has both national and international experience working with small and large companies. Glaucia enjoys 
+  making contributions to Open Source projects. She has been a Member and Contributor to the Node.js Foundation and the React Community, making contributions to the 
+  translations of the Nodejs.org and Reactjs.org websites into Portuguese. She also volunteers and serves as a Board Member for the WoMakersCode NGO.
 
-In her free time, Glaucia loves listening to good music, watching movies or TV series, and exploring new places. She travels to go snorkeling, meet new people, 
-and learn new languages. She enjoys live coding sessions on her YouTube channel and loves sharing knowledge through technical articles, videos, and presentations. 
-Glaucia's primary focus and goal have been the development of applications in JavaScript, Node.js, and TypeScript integrated with Cloud services and AI.
+  In her free time, Glaucia loves listening to good music, watching movies or TV series, and exploring new places. She travels to go snorkeling, meet new people, 
+  and learn new languages. She enjoys live coding sessions on her YouTube channel and loves sharing knowledge through technical articles, videos, and presentations. 
+  Glaucia's primary focus and goal have been the development of applications in JavaScript, Node.js, and TypeScript integrated with Cloud services and AI.
+  
   ## Skills
   * JavaScript
   * TypeScript
@@ -27,9 +28,9 @@ Glaucia's primary focus and goal have been the development of applications in Ja
   * Web Development
   * Linux
 
-tagline: JavaScript / Node.js / TypeScript / A.I
+tagline: JavaScript / Node.js / A.I
 image:
-  alt: "Glaucia Lemos Developer Advocate"
+  alt: "Glaucia Lemos - Developer Advocate"
   src: media/profiles/glaucia-lemos.png
 connect:
   - title: Twitter
