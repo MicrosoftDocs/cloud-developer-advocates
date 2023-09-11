@@ -2,23 +2,22 @@
 uid: advocates.glaucia-lemos
 name: Glaucia Lemos
 metadata:
-  title: Glaucia Lemos - Cloud Advocate
-  description: Home page for Glaucia Lemos, a Microsoft Cloud Advocate
+  title: Glaucia Lemos - Developer Advocate
+  description: Home page for Glaucia Lemos, a Microsoft Developer Advocate
   ms.author: gllemos
   team: javascript
 remarks: |
   ## Bio
-  Glaucia Lemos is Cloud Advocate at Microsoft Brazil & LATAM. She loves helping and making contributions to Open Source projects in Github (@glaucia86).
-  Glaucia is currently Member & Contributor at Node.js Foundation and at React Community making contributions to Nodejs.org and Reactjs.org translations into Portuguese. 
-  Glaucia also belongs in quite inclusive Communities such as WoMakersCode - an organization focused on helping, inspiring and empowering even more women in technology help them to gain a job opportunity. 
-  Currently, Glaucia lives in Rio de Janeiro, Brazil.
-  And her greatest passion is sharing knowledge for all people!
+  Glaucia Lemos is a Developer Advocate in JavaScript and TypeScript at Microsoft and a Software Engineer with over 10 years of development experience in JavaScript, TypeScript, and Node.js (BackEnd), as well as in .NET C#. She has both national and international experience working with small and large companies. Glaucia enjoys making contributions to Open Source projects. She has been a Member and Contributor to the Node.js Foundation and the React Community, making contributions to the translations of the Nodejs.org and Reactjs.org websites into Portuguese. She also volunteers and serves as a Board Member for the WoMakersCode NGO.
 
-  Outside of development, Glaucia enjoys learn new languages, love meeting different people and cultures, a movie buff and drummer!
+  In her free time, Glaucia loves listening to good music, watching movies or TV series, and exploring new places. She travels to go snorkeling, meet new people, and learn new languages. She enjoys live coding sessions on her YouTube channel and loves sharing knowledge through technical articles, videos, and presentations. Glaucia's primary focus and goal have been the development of applications in JavaScript, Node.js, and TypeScript integrated with Cloud services and AI.
+  
   ## Skills
   * JavaScript
+  * TypeScript
   * Node.js
-  * Angular/Vue/TypeScript/Electron
+  * Angular
+  * Vue.JS
   * A.I
   * ChatBots
   * Web Development
@@ -26,7 +25,7 @@ remarks: |
 
 tagline: JavaScript / Node.js / A.I
 image:
-  alt: "Glaucia Lemos Regional Cloud Advocate"
+  alt: "Glaucia Lemos - Developer Advocate"
   src: media/profiles/glaucia-lemos.png
 connect:
   - title: Twitter
@@ -34,7 +33,7 @@ connect:
   - title: GitHub
     url: https://github.com/glaucia86/
   - title: Blog
-    url: https://glaucialemos.netlify.com
+    url: https://www.glaucialemos.dev/
   - title: Instagram
     url: https://www.instagram.com/glaucia.lemos.dev
   - title: LinkedIn
