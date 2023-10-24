@@ -1,0 +1,48 @@
+### YamlMime:Profile
+uid: advocates.scott-durow
+name: Scott Durow
+metadata:
+  title: Scott Durow - Power Platform Advocate
+  description: Home page for Scott Durow, a Microsoft Power Platform Advocate
+  ms.author: scottdurow
+  team: power
+remarks: |
+  ## Bio
+  👋🏻 Hi, I'm Scott, and I have a passion for helping developers work with the Power Platform to give them more power using low-code along side their existing pro-dev tools. 
+
+  💻 Prior to joining Microsoft, I was a Microsoft MVP for 11 years. Working as a solution architect and consultant on enterprise implementations, I was privileged to be involved with the Power Platform's evolution, helping shape and transform the way that customers build and deliver software together. I've also written many community tools over the years such as the Ribbon Workbench.
+
+  😊 You can see me speaking at conferences around the globe, or on my YouTube channel. I also co-host the [XrmToolCast](https://xrmtoolcast.libsyn.com/), a podcast that covers all topics related to Power Platform development!
+
+  🌄 When I'm not coding games using Power Fx in my spare time, I love the outdoors, running, hiking, and skiing with my family.
+
+  ## Skills
+  * Power Apps
+  * Power Automate
+  * Power Virtual Agents
+  * Dataverse
+  * Dynamics 365 Sales, Service & Marketing
+  * SharePoint
+  * Microsoft Graph
+  * Extending the Power Platform using .NET (C#), JavaScript/TypeScript, & Azure
+  * ALM
+  * React & Power Apps Component Framework
+
+tagline: Power Platform
+image:
+  alt: "Scott Durow"
+  src: media/profiles/scott-durow.png
+connect:
+  - title: YouTube
+    url: https://www.youtube.com/scottdurow 
+  - title: GitHub
+    url: https://github.com/scottdurow
+  - title: Twitter
+    url: https://twitter.com/ScottDurow
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/scottdurow
+
+location:
+  display: Vancouver, Canada
+  lat: 49.246292
+  long: -123.116226
