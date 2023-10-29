@@ -8,15 +8,16 @@ metadata:
   team: data
 remarks: |
   ## Bio
-  A former RabbitMQ core-dev, before moving to Europe he used to work in Shanghai where he helped building one of Germany biggest dating websites. 
+  A former RabbitMQ core-dev and distributed system expert who enjoys thinking about scaling Real-Time Messaging architectures. 
   
-  He co-authored the book "RabbitMQ in Action" for Manning Publishing.
+  He co-authored the book "RabbitMQ in Action" for Manning Publishing, and writes for magazines like Communications of the ACM, and Increment.
   
   Apart from code related activities he likes traveling with his wife, listening/playing music, and reading books.
 
   ## Skills
   - RabbitMQ
-  - Erlang
+  - Real-Time Analytics
+  - Microsoft Fabric
   - Architecture
   - Messaging
   - Scalability
