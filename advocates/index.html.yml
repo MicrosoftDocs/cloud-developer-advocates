@@ -532,7 +532,7 @@ profiles:
     src: media/profiles/kamalshree-soundirapandian.jpg
     alt: "Kamal Shree - Developer Advocate for Microsoft 365"
   location: 
-    display: Bangalore, India
+    display: Bengaluru (Bangalore)
     lat: 12.972442
     long: 77.580643
 - uid: advocates.laurent-bugnion
@@ -785,6 +785,16 @@ profiles:
     display: Melbourne, Victoria, Australia
     lat: -37.48
     long: 144.57
+- uid: advocates.scott-durow
+  name: Scott Durow
+  tagline: Power Platform
+  image:
+    src: media/profiles/scott-durow.png
+    alt: "Scott Durow"
+  location: 
+    display: Vancouver, Canada
+    lat: 49.246292
+    long: -123.116226
 - uid: advocates.someleze-diko
   name: Someleze Diko
   tagline: Power Platform
