@@ -18,7 +18,7 @@ remarks: |
 tagline: Secure Software Supply Chain
 image:
   alt: "Joshua Duffney Senior Cloud Advocate"
-  src: media/profiles/joshua-duffney.png
+  src: media/profiles/joshua-duffney.jpg
 connect:
   - title: Twitter
     url: https://x.com/joshduffney
@@ -28,3 +28,5 @@ connect:
     url: https://linkedin.com/in/joshduffney
 location:
   display: Bellevue, NE
+  lat: 41.1543623
+  long: -95.914556
