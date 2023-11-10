@@ -485,6 +485,16 @@ profiles:
     display: Nairobi, Kenya
     lat: -1.286389
     long: 36.817223
+- uid: advocates.joshua-duffney
+  name: Joshua Duffney
+  tagline: Secure Software Supply Chain
+  image:
+    src: media/profiles/joshua-duffney.jpg
+    alt: "Joshua Duffney Senior Cloud Advocate"
+  location: 
+    display: Bellevue, NE
+    lat: 41.1543623
+    long: -95.914556
 - uid: advocates.joylynn-kirui
   name: Joylynn Kirui
   tagline: Cybersecurity

@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: advocates.joshua-duffney
+name: Joshua Duffney
+metadata:
+  title: Joshua Duffney - Senior Cloud Advocate
+  description: Home page for Joshua Duffney, a Senior Cloud Advocate at Microsoft
+  ms.author: jduffney
+  team: cloud-native
+remarks: |
+  ## Bio
+  Hey, I'm Joshua! A Senior Cloud Advocate at Microsoft, a former Microsoft MVP, and an ex-SRE at Stack Overflow. At the moment, I'm focused on containers, securing software supply chains, and writing as much code in golang as possible. In my free time I enjoy reading (mostly non-fiction), lifting heavy things, and spending time with my wife and kids.
+  
+  ## Skills
+  - Secure Supply Chain
+  - Container Security
+  - Kubernetes
+  - Go
+tagline: Secure Software Supply Chain
+image:
+  alt: "Joshua Duffney Senior Cloud Advocate"
+  src: media/profiles/joshua-duffney.jpg
+connect:
+  - title: Twitter
+    url: https://x.com/joshduffney
+  - title: GitHub
+    url: https://github.com/duffney
+  - title: LinkedIn
+    url: https://linkedin.com/in/joshduffney
+location:
+  display: Bellevue, NE
+  lat: 41.1543623
+  long: -95.914556
