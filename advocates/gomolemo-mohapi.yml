@@ -27,8 +27,6 @@ image:
 connect:
   - title: Twitter
     url: https://twitter.com/GomoMohapi
-  - title: Blog
-    url: https://gomomohapi.com/ 
   - title: GitHub
     url: https://github.com/gomomohapi
   - title: LinkedIn
