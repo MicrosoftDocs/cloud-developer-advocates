@@ -1,0 +1,39 @@
+### YamlMime:Profile
+uid: advocates.paul-yu
+name: Paul Yu
+metadata:
+  title: Paul Yu - Cloud Native Developer Advocate
+  description: Home page for Paul Yu, a Microsoft Cloud Developer Advocate
+  ms.author: pauyu
+  team: cloudnative
+remarks: |
+  ## Bio
+  Paul Yu is a Senior Cloud Advocate at Microsoft focusing on cloud native technologies and the Kubernetes landscape. Paul has well over a decade of industry experience working as a Software Engineer and Solution Architect. He is passionate about promoting cloud native and sustainable solutions to help organizations optimize processes and workflows.  
+
+  ## Skills
+  * Containers
+  * Kubernetes
+  * Open source
+  * Microsoft Azure
+  * DevOps
+  * IaC
+  * Web dev
+  
+image:
+  alt: "Paul Yu Cloud Advocate"
+  src: media/profiles/paul-yu.jpg 
+connect:
+  - title: Twitter
+    url: https://twitter.com/pauldotyu
+  - title: GitHub
+    url: https://github.com/pauldotyu
+  - title: Blog
+    url: https://paulyu.dev
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yupaul
+  - title: YouTube
+    url: https://www.youtube.com/@pauldotyu
+location:
+  display: Los Angeles, California, United States
+  lat: 34.0549
+  long: 118.2426
