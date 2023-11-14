@@ -725,6 +725,15 @@ profiles:
     display: Redmond, Washington, United States
     lat: 47.645171
     long: -122.130696
+- uid: advocates.rob-conery
+  name: Rob Conery
+  image:
+    src: media/profiles/rob-conery.jpg 
+    alt: "Rob Conery Cloud Advocate"
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.645171
+    long: -122.130696
 - uid: advocates.rod-trent
   name: Rod Trent
   tagline: Cloud Security / Cyber 
