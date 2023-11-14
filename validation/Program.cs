@@ -1,149 +1,210 @@
-using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Text;
-using System.Threading.Tasks;
 using GitHubApiStatus;
 using YamlDotNet.Serialization;
 
-namespace AdvocateValidation
+namespace AdvocateValidation;
+class Program
 {
-    class Program
-    {
-        readonly static HttpClient _client = new();
-        readonly static GitHubApiStatusService _gitHubApiStatusService = new();
+    readonly static HttpClient _client = new();
+    readonly static GitHubApiStatusService _gitHubApiStatusService = new();
 
-        readonly static string _advocatesPath =
+    readonly static string _advocatesPath =
 #if DEBUG
-            Path.Combine("../../../../", "advocates");
+        Path.Combine("../../../../", "advocates");
 #else
             Path.Combine("../", "advocates");
 #endif
 
-        readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
+    readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
 
-        static Program()
+    static Program()
+    {
+        _client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue(new ProductHeaderValue(nameof(AdvocateValidation))));
+    }
+
+    static async Task Main()
+    {
+        const string gitHub = "GitHub";
+
+        List<CloudAdvocateYamlModel> advocateList = [];
+
+        string[] advocateFiles = Directory.GetFiles(_advocatesPath);
+
+        List<string> parsingErrors = [];
+
+        await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
         {
-            _client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue(new ProductHeaderValue(nameof(AdvocateValidation))));
-        }
-
-        static async Task Main()
-        {
-            const string gitHub = "GitHub";
-
-            var advocateList = new List<CloudAdvocateYamlModel>();
-
-            var advocateFiles = Directory.GetFiles(_advocatesPath);
-
-            await foreach (var (filePath, advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
+            if (string.IsNullOrWhiteSpace(advocate?.Metadata.Alias))
             {
-                if (string.IsNullOrWhiteSpace(advocate?.Metadata.Alias))
-                    throw new Exception($"Missing Microsoft Alias: {filePath}");
+                parsingErrors.Add($"Missing Microsoft Alias: {filePath}");
+                continue;
+            }
 
-                if (string.IsNullOrWhiteSpace(advocate.Metadata.Team))
-                    throw new Exception($"Missing Team: {filePath}");
+            if (string.IsNullOrWhiteSpace(advocate.Metadata.Team))
+            {
+                parsingErrors.Add($"Missing Team: {filePath}");
+                continue;
+            }
 
-                var gitHubUri = advocate.Connect.FirstOrDefault(x => x.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))?.Url;
+            foreach (Connect connect in advocate.Connect)
+            {
+                if (connect.Title.Equals("LinkedIn", StringComparison.OrdinalIgnoreCase))
+                {
+#if DEBUG
+                    Console.WriteLine($"LinkedIn doesn't like being validated, it returns 999 response codes, skipping {connect.Url} from {filePath}.");
+#endif
+                    continue;
+                }
 
-                await EnsureValidGitHubUri(filePath, gitHubUri, gitHub).ConfigureAwait(false);
+                try
+                {
+                    if (connect.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))
+                    {
+                        await EnsureValidGitHubUri(filePath, connect.Url, gitHub).ConfigureAwait(false);
+                    }
+                    else
+                    {
+                        await EnsureValidUri(filePath, connect.Url, connect.Title).ConfigureAwait(false);
+                    }
+                }
+                catch (Exception ex)
+                {
+                    parsingErrors.Add(ex.Message);
+                }
+            }
 
+            try
+            {
                 EnsureValidImage(filePath, advocate.Image);
-
-                advocateList.Add(advocate);
             }
-
-            var duplicateAliasList = advocateList.GroupBy(x => x.Metadata.Alias).Where(g => g.Count() > 1).Select(x => x.Key);
-            foreach (var duplicateAlias in duplicateAliasList)
+            catch (Exception ex)
             {
-                throw new Exception($"Duplicate Alias Found; ms.author: {duplicateAlias}");
+                parsingErrors.Add(ex.Message);
             }
 
-            Console.WriteLine("Validation Completed Successfully");
+            advocateList.Add(advocate);
         }
 
-        static async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAdvocateYmlFiles(IEnumerable<string> files)
+        IEnumerable<string> duplicateAliasList = advocateList.GroupBy(x => x.Metadata.Alias).Where(g => g.Count() > 1).Select(x => x.Key);
+        foreach (string duplicateAlias in duplicateAliasList)
         {
-            var ymlFiles = files.Where(x => x.EndsWith(".yml", StringComparison.OrdinalIgnoreCase));
+            parsingErrors.Add($"Duplicate Alias Found; ms.author: {duplicateAlias}");
+        }
 
-            foreach (var filePath in ymlFiles)
+        if (parsingErrors.Count != 0)
+        {
+            Console.WriteLine("Validation Failed");
+            foreach (string parsingError in parsingErrors)
             {
-                var text = await File.ReadAllTextAsync(filePath).ConfigureAwait(false);
-
-                if (text.Contains($"{Uri.UriSchemeHttp}://"))
-                    throw new Exception($"Invalid Uri. Must Use HTTPS: {filePath}");
-
-                if (text.StartsWith("### YamlMime:Profile") && !text.StartsWith("### YamlMime:ProfileList"))
-                {
-                    Console.WriteLine($"Parsing {filePath}");
-                    yield return (filePath, ParseAdvocateFromYaml(text));
-                }
+                Console.WriteLine(parsingError);
             }
+            throw new Exception("Validation Failed");
         }
 
-        static CloudAdvocateYamlModel ParseAdvocateFromYaml(in string fileText)
+        Console.WriteLine("Validation Completed Successfully");
+    }
+
+    static async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAdvocateYmlFiles(IEnumerable<string> files)
+    {
+        var ymlFiles = files.Where(x => x.EndsWith(".yml", StringComparison.OrdinalIgnoreCase));
+
+        foreach (var filePath in ymlFiles)
         {
-            var stringReaderFile = new StringReader(fileText);
+            var text = await File.ReadAllTextAsync(filePath).ConfigureAwait(false);
 
-            return _yamlDeserializer.Deserialize<CloudAdvocateYamlModel>(stringReaderFile);
-        }
+            if (text.Contains($"{Uri.UriSchemeHttp}://"))
+                throw new Exception($"Invalid Uri. Must Use HTTPS: {filePath}");
 
-        static async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
-        {
-            if (uri is null)
-                throw new Exception($"Missing {uriName} Url: {filePath}");
-
-            if (!uri.IsWellFormedOriginalString())
-                throw new Exception($"Invalid {uriName} Url: {filePath}");
-
-            bool hasReceivedGitHubAbuseLimitResponse;
-
-            do
+            if (text.StartsWith("### YamlMime:Profile") && !text.StartsWith("### YamlMime:ProfileList"))
             {
-                var response = await _client.GetAsync(uri).ConfigureAwait(false);
-                hasReceivedGitHubAbuseLimitResponse = _gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta);
-
-                if (hasReceivedGitHubAbuseLimitResponse && delta is TimeSpan timeRemaining)
-                {
-                    Console.WriteLine($"Rate Limit Exceeded. Retrying in {timeRemaining.TotalSeconds} seconds");
-                    await Task.Delay(timeRemaining).ConfigureAwait(false);
-                }
-                else if (!response.IsSuccessStatusCode)
-                {
-                    throw new Exception($"Invalid {uriName} Url: {filePath}");
-                }
+                Console.WriteLine($"Parsing {filePath}");
+                yield return (filePath, ParseAdvocateFromYaml(text));
             }
-            while (hasReceivedGitHubAbuseLimitResponse);
         }
+    }
 
-        static void EnsureValidImage(in string filePath, in Image? cloudAdvocateImage)
+    static CloudAdvocateYamlModel ParseAdvocateFromYaml(in string fileText)
+    {
+        var stringReaderFile = new StringReader(fileText);
+
+        return _yamlDeserializer.Deserialize<CloudAdvocateYamlModel>(stringReaderFile);
+    }
+
+    static async Task EnsureValidUri(string filePath, Uri? uri, string uriName)
+    {
+        if (uri is null)
+            throw new Exception($"Missing {uriName} Url: {uri}, File: {filePath}");
+
+        if (!uri.IsWellFormedOriginalString())
+            throw new Exception($"URI for {uriName} is malformed. Url: {uri}, File: {filePath}");
+
+        try
         {
-            if (cloudAdvocateImage is null)
-                throw new Exception($"Image Source Missing: {filePath}");
+            HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
-            if (string.IsNullOrWhiteSpace(cloudAdvocateImage.Src))
-                throw new Exception($"Image Source Missing: {filePath}");
-
-            var filePathRelativeToValidation = Path.Combine(_advocatesPath, cloudAdvocateImage.Src);
-
-            var fileStream = new FileStream(filePathRelativeToValidation, FileMode.Open);
-            var binaryReader = new BinaryReader(fileStream, Encoding.UTF8);
-
-            var imageSize = ImageService.GetDimensions(binaryReader);
-
-            if (imageSize.Height <= 0)
-                throw new Exception($"Invalid Image Height (must be greater than 0): {filePath}");
-
-            if (imageSize.Width <= 0)
-                throw new Exception($"Invalid Image Width (must be greater than 0): {filePath}");
-
-            if (imageSize.Height != imageSize.Width)
-                throw new Exception($"Invalid Image (Height and Width must be equal): {filePath}");
-
-            if (cloudAdvocateImage.Alt is null)
-                throw new Exception($"Image Alt Text Missing: {filePath}");
+            if (!response.IsSuccessStatusCode)
+                throw new Exception($"Failed to resolve URI for {uriName}. Url: {uri}, File: {filePath}");
         }
+        catch (Exception ex)
+        {
+            throw new Exception($"Failed to resolve URI for {uriName}. Url: {uri}, File: {filePath}", ex);
+        }
+    }
+
+    static async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
+    {
+        if (uri is null)
+            throw new Exception($"Missing {uriName} Url: {uri}, File: {filePath}");
+
+        if (!uri.IsWellFormedOriginalString())
+            throw new Exception($"Invalid {uriName} Url: {uri}, File: {filePath}");
+
+        bool hasReceivedGitHubAbuseLimitResponse;
+
+        do
+        {
+            HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
+            hasReceivedGitHubAbuseLimitResponse = _gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta);
+
+            if (hasReceivedGitHubAbuseLimitResponse && delta is TimeSpan timeRemaining)
+            {
+                Console.WriteLine($"Rate Limit Exceeded. Retrying in {timeRemaining.TotalSeconds} seconds");
+                await Task.Delay(timeRemaining).ConfigureAwait(false);
+            }
+            else if (!response.IsSuccessStatusCode)
+            {
+                throw new Exception($"Invalid {uriName} Url: {uri}, File: {filePath}");
+            }
+        }
+        while (hasReceivedGitHubAbuseLimitResponse);
+    }
+
+    static void EnsureValidImage(in string filePath, in Image? cloudAdvocateImage)
+    {
+        if (cloudAdvocateImage is null)
+            throw new Exception($"Image Source Missing: {filePath}");
+
+        if (string.IsNullOrWhiteSpace(cloudAdvocateImage.Src))
+            throw new Exception($"Image Source Missing: {filePath}");
+
+        string filePathRelativeToValidation = Path.Combine(_advocatesPath, cloudAdvocateImage.Src);
+
+        using FileStream fileStream = new(filePathRelativeToValidation, FileMode.Open);
+        using BinaryReader binaryReader = new(fileStream, Encoding.UTF8);
+
+        System.Drawing.Size imageSize = ImageService.GetDimensions(binaryReader);
+
+        if (imageSize.Height <= 0)
+            throw new Exception($"Invalid Image Height (must be greater than 0): {filePath}");
+
+        if (imageSize.Width <= 0)
+            throw new Exception($"Invalid Image Width (must be greater than 0): {filePath}");
+
+        if (imageSize.Height != imageSize.Width)
+            throw new Exception($"Invalid Image (Height and Width must be equal): {filePath}");
+
+        if (cloudAdvocateImage.Alt is null)
+            throw new Exception($"Image Alt Text Missing: {filePath}");
     }
 }
