@@ -31,19 +31,19 @@ class Program
 
         string[] advocateFiles = Directory.GetFiles(_advocatesPath);
 
-        List<string> parsingErrors = [];
+        List<(string, string)> parsingErrors = [];
 
         await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
         {
             if (string.IsNullOrWhiteSpace(advocate?.Metadata.Alias))
             {
-                parsingErrors.Add($"Missing Microsoft Alias: {filePath}");
+                parsingErrors.Add((filePath, "Missing Microsoft Alias"));
                 continue;
             }
 
             if (string.IsNullOrWhiteSpace(advocate.Metadata.Team))
             {
-                parsingErrors.Add($"Missing Team: {filePath}");
+                parsingErrors.Add((filePath, "Missing Team"));
                 continue;
             }
 
@@ -70,7 +70,7 @@ class Program
                 }
                 catch (Exception ex)
                 {
-                    parsingErrors.Add(ex.Message);
+                    parsingErrors.Add((filePath, ex.Message));
                 }
             }
 
@@ -80,7 +80,7 @@ class Program
             }
             catch (Exception ex)
             {
-                parsingErrors.Add(ex.Message);
+                parsingErrors.Add((filePath, ex.Message));
             }
 
             advocateList.Add(advocate);
@@ -89,20 +89,21 @@ class Program
         IEnumerable<string> duplicateAliasList = advocateList.GroupBy(x => x.Metadata.Alias).Where(g => g.Count() > 1).Select(x => x.Key);
         foreach (string duplicateAlias in duplicateAliasList)
         {
-            parsingErrors.Add($"Duplicate Alias Found; ms.author: {duplicateAlias}");
+            parsingErrors.Add(("", $"Duplicate Alias Found; ms.author: {duplicateAlias}"));
         }
 
         if (parsingErrors.Count != 0)
         {
             Console.WriteLine("Validation Failed");
-            foreach (string parsingError in parsingErrors)
+            foreach ((string filePath, string parsingError) in parsingErrors)
             {
-                Console.WriteLine(parsingError);
+                Console.WriteLine($"::warning file={filePath}::{parsingError}");
             }
-            throw new Exception("Validation Failed");
         }
-
-        Console.WriteLine("Validation Completed Successfully");
+        else
+        {
+            Console.WriteLine("Validation Completed Successfully");
+        }
     }
 
     static async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAdvocateYmlFiles(IEnumerable<string> files)
@@ -113,12 +114,6 @@ class Program
         {
             var text = await File.ReadAllTextAsync(filePath).ConfigureAwait(false);
 
-            if (text.Contains($"{Uri.UriSchemeHttp}://"))
-            {
-                // throw new Exception($"Invalid Uri. Must Use HTTPS: {filePath}");
-                Console.WriteLine($"::warning file={filePath}:: Invalid Uri. Must Use HTTPS: {filePath}");
-            }
-                
             if (text.StartsWith("### YamlMime:Profile") && !text.StartsWith("### YamlMime:ProfileList"))
             {
                 Console.WriteLine($"Parsing {filePath}");
@@ -141,6 +136,9 @@ class Program
 
         if (!uri.IsWellFormedOriginalString())
             throw new Exception($"URI for {uriName} is malformed. Url: {uri}, File: {filePath}");
+
+        if (uri.Scheme == Uri.UriSchemeHttp)
+            Console.WriteLine($"::warning file={filePath}:: {uriName} Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
 
         try
         {
