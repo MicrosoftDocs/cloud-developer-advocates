@@ -30,7 +30,7 @@ remarks: |
   ## My Projects
   - [Recursive visualizations](https://github.com/pamelafox/recursive-visualizations), a tool for visualizing recursive Python function call graphs
   - [Faded Parsons runner](https://github.com/pamelafox/faded-parsons-static), drag-and-drop Python coding exercises
-  - [lscache](https://github.com/pamelafox/lscache), a memcache-like localStorage wrapper 
+  - [lscache](https://github.com/pamelafox/lscache), a memcache-like localStorage wrapper
 
 tagline: Python
 image:
@@ -38,7 +38,7 @@ image:
   src: media/profiles/pamela-fox.png
 connect:
   - title: Website
-    url: https://pamelafox.org
+    url: https://www.pamelafox.org/
   - title: GitHub
     url: https://github.com/pamelafox
   - title: Twitter
