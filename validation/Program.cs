@@ -97,7 +97,7 @@ class Program
             Console.WriteLine("Validation Failed");
             foreach ((string filePath, string parsingError) in parsingErrors)
             {
-                Console.WriteLine($"::warning file={filePath}::{parsingError}");
+                Console.WriteLine($"::error file={filePath}::{parsingError}");
             }
         }
         else
