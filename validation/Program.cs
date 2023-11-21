@@ -99,6 +99,7 @@ class Program
             {
                 Console.WriteLine($"::error file={filePath}::{parsingError}");
             }
+            throw new Exception("Validation Failed");
         }
         else
         {
