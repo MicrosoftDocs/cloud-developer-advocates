@@ -752,9 +752,9 @@ profiles:
     src: media/profiles/sarah-young.png 
     alt: "Sarah Young Cloud Security Advocate"
   location: 
-    display: Redmond, Washington, United States
-    lat: 47.645171
-    long: -122.130696
+    display: Melbourne, Victoria, Australia
+    lat: -37.48
+    long: 144.57
 - uid: advocates.someleze-diko
   name: Someleze Diko
   tagline: Power Platform
