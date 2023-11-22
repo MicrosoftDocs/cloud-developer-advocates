@@ -425,16 +425,6 @@ profiles:
     display: San Diego, California, United States
     lat: 32.715736
     long: -117.161087
-- uid: advocates.jim-bennett
-  name: Jim Bennett
-  tagline: IoT/Python
-  image:
-    src: media/profiles/jim-bennett.jpeg
-    alt: "Jim Bennett Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
 - uid: advocates.john-papa
   name: John Papa
   tagline: Web technologist, engineering leader, and storyteller
@@ -585,16 +575,6 @@ profiles:
     display: New York City, NY, United States
     lat: 40.757131
     long: -73.989784
-- uid: advocates.olanrewaju-oyinbooke
-  name: Olanrewaju Oyinbooke
-  tagline: Power Platform / Data Science & ML / Fusion Dev
-  image:
-    src: media/profiles/olanrewaju-oyinbooke.png
-    alt: "Olanrewaju Oyinbooke Senior Cloud Advocate"
-  location: 
-    display: Lagos, Nigeria
-    lat: 6.5244
-    long: 3.3792
 - uid: advocates.olivia-guzzardo
   name: Olivia Guzzardo
   tagline: VS Code / Azure / GitHub
@@ -752,9 +732,9 @@ profiles:
     src: media/profiles/sarah-young.png 
     alt: "Sarah Young Cloud Security Advocate"
   location: 
-    display: Redmond, Washington, United States
-    lat: 47.645171
-    long: -122.130696
+    display: Melbourne, Victoria, Australia
+    lat: -37.48
+    long: 144.57
 - uid: advocates.someleze-diko
   name: Someleze Diko
   tagline: Power Platform

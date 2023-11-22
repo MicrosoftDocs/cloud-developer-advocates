@@ -92,8 +92,6 @@ items:
     uid: advocates.jasmine-greenaway
   - name: Jay Miller
     uid: advocates.jay-miller
-  - name: Jim Bennett
-    uid: advocates.jim-bennett
   - name: Joey Snow
     uid: advocates.joey-snow
   - name: John Papa
@@ -128,8 +126,6 @@ items:
     uid: advocates.matthew-soucoup
   - name: Nitya Narasimhan
     uid: advocates.nitya-narasimhan
-  - name: Olanrewaju Oyinbooke
-    uid: advocates.olanrewaju-oyinbooke
   - name: Olivia Guzzardo
     uid: advocates.olivia-guzzardo
   - name: Orin Thomas
@@ -142,6 +138,8 @@ items:
     uid: advocates.patrick-chanezon
   - name: Paul DeCarlo
     uid: advocates.paul-decarlo
+  - name: Paul Yu
+    uid: advocates.paul-yu
   - name: Pierre Roman
     uid: advocates.pierre-roman
   - name: Rabia Williams
