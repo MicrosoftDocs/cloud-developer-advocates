@@ -8,25 +8,25 @@ metadata:
   team: power
 remarks: |
   ## Bio
-  👋🏻 Hi, I'm Elaiza, and I have a passion for helping the technical community work with the Power Platform to build solutions. 
+  Hello | Kia Ora 🇳🇿 | Kamusta 🇵🇭
+  
+  I'm Elaiza 👋 
+  
+  I have a ✨passion✨ for helping the technical community build solutions with Microsoft Power Platform. I started with Microsoft Dynamics CRM 4.0 and then fell in love with Power Platform in 2018. 
 
-  💻 Prior to joining Microsoft, I was a Microsoft MVP for 11 years. Working as a solution architect and consultant on enterprise implementations, I was privileged to be involved with the Power Platform's evolution, helping shape and transform the way that customers build and deliver software together. I've also written many community tools over the years such as the Ribbon Workbench.
+  Prior to joining Microsoft, I was a Microsoft MVP for 6 years in a row. I was a consultant working on implementation projects with Dynamics 365 and/or Power Platform.
 
-  😊 You can see me speaking at conferences around the globe, or on my YouTube channel. I also co-host the [XrmToolCast](https://xrmtoolcast.libsyn.com/), a podcast that covers all topics related to Power Platform development!
+  I often speak at online virtual events or in-person events. I also have a series on my [YouTube channel](https://www.youtube.com/@ElaizaBenitez) called WTF - What The Flow where I help others learn about cloud flows.
 
-  🌄 When I'm not coding games using Power Fx in my spare time, I love the outdoors, running, hiking, and skiing with my family.
+  When I'm not experimenting with the Power Platform, you can find me making delicious meals 🍽️ or hanging out with my family 😊
 
   ## Skills
-  * Power Apps
-  * Power Automate
-  * Power Virtual Agents
   * Dataverse
-  * Dynamics 365 Sales, Service & Marketing
-  * SharePoint
+  * Power Automate
+  * Power Apps
+  * Copilot Studio
+  * Dynamics 365 Sales, Service
   * Microsoft Graph
-  * Extending the Power Platform using .NET (C#), JavaScript/TypeScript, & Azure
-  * ALM
-  * React & Power Apps Component Framework
 
 tagline: Power Platform
 image:
@@ -34,15 +34,15 @@ image:
   src: media/profiles/elaiza-benitez.jpg
 connect:
   - title: YouTube
-    url: https://www.youtube.com/scottdurow 
+    url: https://www.youtube.com/@ElaizaBenitez 
   - title: GitHub
-    url: https://github.com/scottdurow
+    url: https://github.com/elaizabenitez
   - title: Twitter
-    url: https://twitter.com/ScottDurow
+    url: https://twitter.com/benitezhere
   - title: LinkedIn
-    url: https://www.linkedin.com/in/scottdurow
+    url: https://www.linkedin.com/in/elaiza-benitez/
 
 location:
-  display: Vancouver, Canada
-  lat: 49.246292
-  long: -123.116226
+  display: Wellington, New Zealand
+  lat: -41.28664000
+  long: 174.77557000
