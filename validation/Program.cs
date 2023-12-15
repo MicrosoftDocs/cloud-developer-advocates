@@ -141,17 +141,11 @@ class Program
         if (uri.Scheme == Uri.UriSchemeHttp)
             Console.WriteLine($"::warning file={filePath}:: {uriName} Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
 
-        try
-        {
-            HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
-            if (!response.IsSuccessStatusCode)
-                throw new Exception($"Failed to resolve URI for {uriName}. Url: {uri}, File: {filePath}");
-        }
-        catch (Exception ex)
-        {
-            throw new Exception($"Failed to resolve URI for {uriName}. Url: {uri}, File: {filePath}", ex);
-        }
+        HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
+
+        if (!response.IsSuccessStatusCode)
+            throw new Exception($"Failed to resolve URI for {uriName} ({response.StatusCode}). Url: {uri}. File: {filePath}");
     }
 
     static async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
