@@ -6,7 +6,6 @@ using YamlDotNet.Serialization;
 namespace AdvocateValidation;
 class Program
 {
-    readonly static HttpClient _client = new();
     readonly static GitHubApiStatusService _gitHubApiStatusService = new();
 
     readonly static string _advocatesPath =
@@ -17,11 +16,6 @@ class Program
 #endif
 
     readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
-
-    static Program()
-    {
-        _client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue(new ProductHeaderValue(nameof(AdvocateValidation))));
-    }
 
     static async Task Main()
     {
@@ -141,7 +135,7 @@ class Program
         if (uri.Scheme == Uri.UriSchemeHttp)
             Console.WriteLine($"::warning file={filePath}:: {uriName} Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
 
-
+        HttpClient _client = new();
         HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
         if (!response.IsSuccessStatusCode)
@@ -160,6 +154,7 @@ class Program
 
         do
         {
+            HttpClient _client = new();
             HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
             hasReceivedGitHubAbuseLimitResponse = _gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta);
 
