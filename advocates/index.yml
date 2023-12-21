@@ -345,16 +345,6 @@ profiles:
     display: Durban, South Africa
     lat: -29.858681
     long: 31.021839
-- uid: advocates.greg-hurlman
-  name: Greg Hurlman
-  tagline: Power Platform / Web
-  image:
-    src: media/profiles/greg-hurlman.jpg
-    alt: "Greg Hurlman"
-  location: 
-    display: Seattle, Washington
-    lat: 47.65
-    long: -122.35
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
   tagline: Spatial Computing / Mixed Reality / AI

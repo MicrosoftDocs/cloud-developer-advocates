@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: AdvocateValidation",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}\\validation\\AdvocateValidation.csproj",
+      "launchConfigurationId": "TargetFramework=;AdvocateValidation"
+    }
+  ]
+}

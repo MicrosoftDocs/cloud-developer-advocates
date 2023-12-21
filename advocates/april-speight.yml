@@ -11,7 +11,7 @@ remarks: |
     April Speight is a developer, author, speaker, and educator who believes that creating for XR should be accessible for all. At Microsoft, she leads the Strategic Bets Focus Areas (Gaming, Green, Rust, and Spatial Computing) within Cloud Advocacy. 
     
     Her experience in technical training and developing curriculum spans 10 years in the non-profit sector and now includes the onboarding of developing for XR. Her focus on fundamentals, safety, design principles, and inclusivity serves as the foundation of her approach to educating others. She believes that learning shouldn't start with building an app or experience, rather, understanding the what, why and impact is the stepping stone to fostering a new generation of developers who are both mindful and strategic throughout the creation process. 
-  
+
   ## Skills
   * Mesh
   * HoloLens
@@ -25,13 +25,13 @@ connect:
   - title: Twitter
     url: https://twitter.com/monthaftermars
   - title: Blog
-    url: https://www.monthaftermars.com/blog
+    url: https://www.monthaftermars.com
   - title: GitHub
     url: https://github.com/aprilspeight
   - title: LinkedIn
     url: https://www.linkedin.com/in/aprilspeight
   - title: YouTube
-    url: https://www.youtube.com/@mam.doesTech 
+    url: https://www.youtube.com/@mam.doesTech
 
 location:
   display: Los Angeles, CA

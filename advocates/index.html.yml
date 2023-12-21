@@ -305,6 +305,16 @@ profiles:
     display: Napa, CA, USA
     lat: 38.2975381  
     long: -122.286865
+- uid: advocates.elaiza-benitez
+  name: Elaiza Benitez
+  tagline: Power Platform
+  image:
+    src: media/profiles/elaiza-benitez.jpg
+    alt: "Elaiza Benitez"
+  location: 
+    display: Wellington, New Zealand
+    lat: -41.28664000
+    long: 174.77557000
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
@@ -355,16 +365,6 @@ profiles:
     display: Durban, South Africa
     lat: -29.858681
     long: 31.021839
-- uid: advocates.greg-hurlman
-  name: Greg Hurlman
-  tagline: Power Platform / Web
-  image:
-    src: media/profiles/greg-hurlman.jpg
-    alt: "Greg Hurlman"
-  location: 
-    display: Seattle, Washington
-    lat: 47.65
-    long: -122.35
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
   tagline: Spatial Computing / Mixed Reality / AI

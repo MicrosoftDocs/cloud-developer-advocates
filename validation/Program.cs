@@ -6,8 +6,9 @@ using YamlDotNet.Serialization;
 namespace AdvocateValidation;
 class Program
 {
-    readonly static HttpClient _client = new();
     readonly static GitHubApiStatusService _gitHubApiStatusService = new();
+
+    readonly static string[] linkTypesToIgnore = ["LinkedIn", "Reddit"];
 
     readonly static string _advocatesPath =
 #if DEBUG
@@ -17,11 +18,6 @@ class Program
 #endif
 
     readonly static IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
-
-    static Program()
-    {
-        _client.DefaultRequestHeaders.UserAgent.Add(new ProductInfoHeaderValue(new ProductHeaderValue(nameof(AdvocateValidation))));
-    }
 
     static async Task Main()
     {
@@ -49,10 +45,10 @@ class Program
 
             foreach (Connect connect in advocate.Connect)
             {
-                if (connect.Title.Equals("LinkedIn", StringComparison.OrdinalIgnoreCase))
+                if (linkTypesToIgnore.Contains(connect.Title, StringComparer.OrdinalIgnoreCase))
                 {
 #if DEBUG
-                    Console.WriteLine($"LinkedIn doesn't like being validated, it returns 999 response codes, skipping {connect.Url} from {filePath}.");
+                    Console.WriteLine($"{connect.Title} doesn't like being validated, skipping {connect.Url} from {filePath}.");
 #endif
                     continue;
                 }
@@ -141,17 +137,13 @@ class Program
         if (uri.Scheme == Uri.UriSchemeHttp)
             Console.WriteLine($"::warning file={filePath}:: {uriName} Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
 
-        try
-        {
-            HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
+        HttpClient _client = new();
+        _client.DefaultRequestHeaders.UserAgent.Clear();
+        _client.DefaultRequestHeaders.UserAgent.ParseAdd("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0");
+        HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
-            if (!response.IsSuccessStatusCode)
-                throw new Exception($"Failed to resolve URI for {uriName}. Url: {uri}, File: {filePath}");
-        }
-        catch (Exception ex)
-        {
-            throw new Exception($"Failed to resolve URI for {uriName}. Url: {uri}, File: {filePath}", ex);
-        }
+        if (!response.IsSuccessStatusCode)
+            throw new Exception($"Failed to resolve URI for {uriName} ({response.StatusCode}). Url: {uri}. File: {filePath}");
     }
 
     static async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
@@ -166,6 +158,7 @@ class Program
 
         do
         {
+            HttpClient _client = new();
             HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
             hasReceivedGitHubAbuseLimitResponse = _gitHubApiStatusService.IsAbuseRateLimit(response.Headers, out var delta);
 
