@@ -305,6 +305,16 @@ profiles:
     display: Napa, CA, USA
     lat: 38.2975381  
     long: -122.286865
+- uid: advocates.elaiza-benitez
+  name: Elaiza Benitez
+  tagline: Power Platform
+  image:
+    src: media/profiles/elaiza-benitez.jpg
+    alt: "Elaiza Benitez"
+  location: 
+    display: Wellington, New Zealand
+    lat: -41.28664000
+    long: 174.77557000
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
