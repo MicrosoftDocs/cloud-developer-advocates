@@ -1,0 +1,48 @@
+### YamlMime:Profile
+uid: advocates.elaiza-benitez
+name: Elaiza Benitez
+metadata:
+  title: Elaiza Benitez - Power Platform Advocate
+  description: Home page for Elaiza Benitez, a Microsoft Power Platform Advocate
+  ms.author: ebenitez
+  team: power
+remarks: |
+  ## Bio
+  Hello | Kia Ora 🇳🇿 | Kamusta 🇵🇭
+  
+  I'm Elaiza 👋 
+  
+  I have a ✨passion✨ for helping the technical community build solutions with Microsoft Power Platform. I started with Microsoft Dynamics CRM 4.0 and then fell in love with Power Platform in 2018. 
+
+  Prior to joining Microsoft, I was a Microsoft MVP for 6 years in a row. I was a consultant working on implementation projects with Dynamics 365 and/or Power Platform.
+
+  I often speak at online virtual events or in-person events. I also have a series on my [YouTube channel](https://www.youtube.com/@ElaizaBenitez) called WTF - What The Flow where I help others learn about cloud flows.
+
+  When I'm not experimenting with the Power Platform, you can find me making delicious meals 🍽️ or hanging out with my family 😊
+
+  ## Skills
+  * Dataverse
+  * Power Automate
+  * Power Apps
+  * Copilot Studio
+  * Dynamics 365 Sales, Service
+  * Microsoft Graph
+
+tagline: Power Platform
+image:
+  alt: "Elaiza Benitez"
+  src: media/profiles/elaiza-benitez.jpg
+connect:
+  - title: YouTube
+    url: https://www.youtube.com/@ElaizaBenitez 
+  - title: GitHub
+    url: https://github.com/elaizabenitez
+  - title: Twitter
+    url: https://twitter.com/benitezhere
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/elaiza-benitez/
+
+location:
+  display: Wellington, New Zealand
+  lat: -41.28664000
+  long: 174.77557000
