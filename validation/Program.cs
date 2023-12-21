@@ -136,6 +136,8 @@ class Program
             Console.WriteLine($"::warning file={filePath}:: {uriName} Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
 
         HttpClient _client = new();
+        _client.DefaultRequestHeaders.UserAgent.Clear();
+        _client.DefaultRequestHeaders.UserAgent.ParseAdd("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0");
         HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
         if (!response.IsSuccessStatusCode)
