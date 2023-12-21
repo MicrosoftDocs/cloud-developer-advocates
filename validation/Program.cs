@@ -8,6 +8,8 @@ class Program
 {
     readonly static GitHubApiStatusService _gitHubApiStatusService = new();
 
+    readonly static string[] linkTypesToIgnore = ["LinkedIn", "Reddit"];
+
     readonly static string _advocatesPath =
 #if DEBUG
         Path.Combine("../../../../", "advocates");
@@ -43,10 +45,10 @@ class Program
 
             foreach (Connect connect in advocate.Connect)
             {
-                if (connect.Title.Equals("LinkedIn", StringComparison.OrdinalIgnoreCase))
+                if (linkTypesToIgnore.Contains(connect.Title, StringComparer.OrdinalIgnoreCase))
                 {
 #if DEBUG
-                    Console.WriteLine($"LinkedIn doesn't like being validated, it returns 999 response codes, skipping {connect.Url} from {filePath}.");
+                    Console.WriteLine($"{connect.Title} doesn't like being validated, skipping {connect.Url} from {filePath}.");
 #endif
                     continue;
                 }
