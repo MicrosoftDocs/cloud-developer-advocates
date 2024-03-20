@@ -5,24 +5,22 @@ metadata:
   title: Lee Stott - Cloud Advocate
   description: Home page for Lee Stott, a Microsoft Cloud Advocate
   ms.author: leestott
-  team: academic
+  team: aiml
 remarks: |
   ## Bio
-  Lee Stott is a Principal Cloud Advocate in the Academic Advocacy team. Lee has spent the last 20 years Developing solutions and service focused on Microsoft Technologies within academia. Lee works with academic institutions, Microsoft Learn Student Ambassadors, Microsoft Learn Educators and Academic Institutions across the globe. Lee is member of a number of Academic working groups with IEEE, ACM and speaks at academic conferences across the globe.
+  Lee Stott is a Principal Cloud Advocate Manager in the AI Advocacy team. Lee has spent the last 20 years Developing solutions and service focused on Microsoft Technologies. Lee is a Associate Professor at University College London and works with academic institutions, Microsoft Learn Student Ambassadors, Microsoft Learn Educators and Academic Institutions across the globe. Lee is member of a number of Academic working groups with IEEE, ACM and speaks at academic conferences across the globe.
   In his free time, he love touring and camping in his VW Campervan, fishing and doing home improvements smart technologies.
   ## Skills
-  * Microsoft Academic Engagements
-  * ML Services
   * AI Solution
+  * ML Solutions
   * Data Science
   * Developer tools
   * Process / Patterns
   * ITIL
 
    ## Projects
-  * [Microsoft LTI Application](https://github.com/microsoft/learn-lti)
   * [PyBryt AutoAssessment Library](https://github.com/microsoft/pybryt)
-tagline: AI / ML / Students / Faculty
+tagline: AI / ML 
 image:
   alt: "Lee Stott Cloud Advocate"
   src: media/profiles/lee-stott.png
