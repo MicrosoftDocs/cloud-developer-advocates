@@ -129,13 +129,13 @@ class Program
     static async Task EnsureValidUri(string filePath, Uri? uri, string uriName)
     {
         if (uri is null)
-            throw new Exception($"Missing {uriName} Url: {uri}, File: {filePath}");
+            throw new Exception($"Missing '{uriName}' Url: {uri}, File: {filePath}");
 
         if (!uri.IsWellFormedOriginalString())
-            throw new Exception($"URI for {uriName} is malformed. Url: {uri}, File: {filePath}");
+            throw new Exception($"URI for '{uriName}' is malformed. Url: {uri}, File: {filePath}");
 
         if (uri.Scheme == Uri.UriSchemeHttp)
-            Console.WriteLine($"::warning file={filePath}:: {uriName} Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
+            Console.WriteLine($"::warning file={filePath}:: '{uriName}' Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
 
         HttpClient _client = new();
         _client.DefaultRequestHeaders.UserAgent.Clear();
@@ -143,7 +143,7 @@ class Program
         HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
         if (!response.IsSuccessStatusCode)
-            throw new Exception($"Failed to resolve URI for {uriName} ({response.StatusCode}). Url: {uri}. File: {filePath}");
+            throw new Exception($"Failed to resolve URI for '{uriName}' ({response.StatusCode}). Url: {uri}. File: {filePath}");
     }
 
     static async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
@@ -169,7 +169,7 @@ class Program
             }
             else if (!response.IsSuccessStatusCode)
             {
-                throw new Exception($"Invalid {uriName} Url: {uri}, File: {filePath}");
+                throw new Exception($"Invalid '{uriName}' Url: {uri}, File: {filePath}");
             }
         }
         while (hasReceivedGitHubAbuseLimitResponse);
