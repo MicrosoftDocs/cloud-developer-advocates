@@ -8,9 +8,7 @@ metadata:
   team: aiml
 remarks: |
   ## Bio
-  Cynthia Zanoni is a developer passionate about education, communities, and kitten gifs. Currently, she works as a Cloud Advocate at Microsoft in the Developer Tools team, helping developers learn more about Azure, VSCode, and GitHub to take the next step in their professional careers. She is also the leader of the Gender Equity and Women in Technology Committee for LATAM at Microsoft.
-
-  In addition to her work at Microsoft, Cynthia is the founder of WoMakersCode, a social impact initiative that aims to support the empowerment and employability of women in technology. WoMakersCode is a member of the UN Global Compact in Brazil and has been awarded the "Seal of Racial Equality" by the São Paulo City Council.
+  Kinfey Lo focuses on AI + Data. At this stage, he mainly provides technical evangelism to students, developers, and entrepreneurial teams, mainly including Semantic Kernel, LangChain's Copilot application development, AutoGen to build intelligent agent applications, as well as LLMOps and SLMOps, etc.
   
   ## Skills
   - Azure AI Service
@@ -24,8 +22,7 @@ remarks: |
   - Artificial Intelligence for developers
 
   ## My Projects
-  - [WoMakersCode](https://womakerscode.org/)
-  - [#MaisMulheresTech](https://maismulheres.tech/)
+  - [SemanticKernelCookBook](https://aka.ms/SemanticKernelCookBook)
 
 tagline: AzureOpenAIService / AzureAI / GitHub
 image:
