@@ -1,0 +1,43 @@
+### YamlMime:Profile
+uid: advocates.kinfey-lo
+name: Kinfey Lo
+metadata:
+  title: Kinfey Lo - Senior Cloud Advocate
+  description: Home page for Kinfey Lo, a Microsoft Senior Cloud Advocate
+  ms.author: kinfeylo
+  team: aiml
+remarks: |
+  ## Bio
+  Cynthia Zanoni is a developer passionate about education, communities, and kitten gifs. Currently, she works as a Cloud Advocate at Microsoft in the Developer Tools team, helping developers learn more about Azure, VSCode, and GitHub to take the next step in their professional careers. She is also the leader of the Gender Equity and Women in Technology Committee for LATAM at Microsoft.
+
+  In addition to her work at Microsoft, Cynthia is the founder of WoMakersCode, a social impact initiative that aims to support the empowerment and employability of women in technology. WoMakersCode is a member of the UN Global Compact in Brazil and has been awarded the "Seal of Racial Equality" by the São Paulo City Council.
+  
+  ## Skills
+  - Azure AI Service
+  - Azure OpenAI Service 
+  - Python
+  - .NET
+  - Rust
+  - MLOps
+  - Visual Studio Code
+  - GitHub
+  - Artificial Intelligence for developers
+
+  ## My Projects
+  - [WoMakersCode](https://womakerscode.org/)
+  - [#MaisMulheresTech](https://maismulheres.tech/)
+
+tagline: AzureOpenAIService / AzureAI / GitHub
+image:
+  alt: "Kinfey Lo - Senior Cloud Advocate"
+  src: media/profiles/kinfey-lo.jpg
+connect:
+  - title: GitHub
+    url: https://github.com/kinfeylo
+  - title: Twitter
+    url: https://twitter.com/Ljh8304
+
+location:
+  display: Guangzhou, China
+  lat: 23.128994
+  long: 113.253250
