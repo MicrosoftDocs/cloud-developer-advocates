@@ -1,3 +1,4 @@
+using System.Net;
 using System.Net.Http.Headers;
 using System.Text;
 using GitHubApiStatus;
@@ -28,6 +29,7 @@ class Program
         string[] advocateFiles = Directory.GetFiles(_advocatesPath);
 
         List<(string, string)> parsingErrors = [];
+        List<(string, string)> parsingWarnings = [];
 
         await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
         {
@@ -64,9 +66,13 @@ class Program
                         await EnsureValidUri(filePath, connect.Url, connect.Title).ConfigureAwait(false);
                     }
                 }
-                catch (Exception ex)
+                catch (ValidationException ex)
                 {
                     parsingErrors.Add((filePath, ex.Message));
+                }
+                catch (ValidationWarningException ex)
+                {
+                    parsingWarnings.Add((filePath, ex.Message));
                 }
             }
 
@@ -74,7 +80,7 @@ class Program
             {
                 EnsureValidImage(filePath, advocate.Image);
             }
-            catch (Exception ex)
+            catch (ValidationException ex)
             {
                 parsingErrors.Add((filePath, ex.Message));
             }
@@ -86,6 +92,11 @@ class Program
         foreach (string duplicateAlias in duplicateAliasList)
         {
             parsingErrors.Add(("", $"Duplicate Alias Found; ms.author: {duplicateAlias}"));
+        }
+
+        foreach ((string filePath, string parsingWarning) in parsingWarnings)
+        {
+            Console.WriteLine($"::warning file={filePath}::{parsingWarning}");
         }
 
         if (parsingErrors.Count != 0)
@@ -129,30 +140,32 @@ class Program
     static async Task EnsureValidUri(string filePath, Uri? uri, string uriName)
     {
         if (uri is null)
-            throw new Exception($"Missing {uriName} Url: {uri}, File: {filePath}");
+            throw new ValidationException($"Missing '{uriName}' Url: {uri}, File: {filePath}");
 
         if (!uri.IsWellFormedOriginalString())
-            throw new Exception($"URI for {uriName} is malformed. Url: {uri}, File: {filePath}");
+            throw new ValidationException($"URI for '{uriName}' is malformed. Url: {uri}, File: {filePath}");
 
         if (uri.Scheme == Uri.UriSchemeHttp)
-            Console.WriteLine($"::warning file={filePath}:: {uriName} Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
+            Console.WriteLine($"::warning file={filePath}:: '{uriName}' Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
 
         HttpClient _client = new();
         _client.DefaultRequestHeaders.UserAgent.Clear();
         _client.DefaultRequestHeaders.UserAgent.ParseAdd("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0");
         HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
-        if (!response.IsSuccessStatusCode)
-            throw new Exception($"Failed to resolve URI for {uriName} ({response.StatusCode}). Url: {uri}. File: {filePath}");
+        if (!response.IsSuccessStatusCode && response.StatusCode is HttpStatusCode.NotFound)
+            throw new ValidationException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}). Url: {uri}. File: {filePath}");
+        else if (!response.IsSuccessStatusCode)
+            throw new ValidationWarningException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}) but we're going to ignore it. Url: {uri}. File: {filePath}");
     }
 
     static async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
     {
         if (uri is null)
-            throw new Exception($"Missing {uriName} Url: {uri}, File: {filePath}");
+            throw new ValidationException($"Missing {uriName} Url: {uri}, File: {filePath}");
 
         if (!uri.IsWellFormedOriginalString())
-            throw new Exception($"Invalid {uriName} Url: {uri}, File: {filePath}");
+            throw new ValidationException($"Invalid {uriName} Url: {uri}, File: {filePath}");
 
         bool hasReceivedGitHubAbuseLimitResponse;
 
@@ -169,7 +182,7 @@ class Program
             }
             else if (!response.IsSuccessStatusCode)
             {
-                throw new Exception($"Invalid {uriName} Url: {uri}, File: {filePath}");
+                throw new ValidationException($"Invalid '{uriName}' Url: {uri}, File: {filePath}");
             }
         }
         while (hasReceivedGitHubAbuseLimitResponse);
@@ -203,3 +216,7 @@ class Program
             throw new Exception($"Image Alt Text Missing: {filePath}");
     }
 }
+
+class ValidationException(string message) : Exception(message);
+
+class ValidationWarningException(string message) : Exception(message);
