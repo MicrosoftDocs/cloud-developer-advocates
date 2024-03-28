@@ -1,0 +1,32 @@
+### YamlMime:Profile
+uid: advocates.marlene-mhangami
+name: Marlene Mhangami
+metadata:
+  title: Marlene Mhangami - Senior Cloud Advocate, Python Language
+  description: Home page for Marlene Mhangami, Senior Cloud Advocate @ Microsoft
+  ms.author: marlene-mhangami
+  team: python
+remarks: |
+  ## Bio
+  Marlene is a Developer Advocate specializing in Python and AI at Microsoft, a computer scientist, keynote speaker and explorer. She is the current vice chair of the Association for Computing Machinery, was the previous vice chair of the Python Software Foundation and lead the first PyCon Africa. Marlene is an avid runner, loves to travel and is a big fan of cucumbers! 
+  ## Skills
+  * Python
+  * Cython 
+  * Database infrustructure 
+  * GPU Accelerated Computing
+  * AI and ML 
+tagline: Python 
+image:
+  alt: "Marlene Mhangami, Senior Cloud Advocate"
+  src: media/profiles/marlene-mhangami.jpeg
+connect:
+  - title: Twitter
+    url: https://twitter.com/marlene_zw
+  - title: GitHub
+    url: https://github.com/marlenemhangami
+  - title: LinkedIn
+    url: https://linkedin.com/in/marlenemhangami
+location:
+  display: London, UK
+  lat: 51.521809
+  long: -0.084360
