@@ -9,7 +9,7 @@ metadata:
 remarks: |
   ## Bio
   Kinfey Lo focuses on AI + Data. At this stage, he mainly provides technical evangelism to students, developers, and entrepreneurial teams, mainly including Semantic Kernel, LangChain's Copilot application development, AutoGen to build intelligent agent applications, as well as LLMOps and SLMOps, etc.
-  
+
   ## Skills
   - Azure AI Service
   - Azure OpenAI Service 
@@ -30,7 +30,7 @@ image:
   src: media/profiles/kinfey-lo.jpg
 connect:
   - title: GitHub
-    url: https://github.com/kinfeylo
+    url: https://github.com/kinfey
   - title: Twitter
     url: https://twitter.com/Ljh8304
 
