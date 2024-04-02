@@ -177,7 +177,7 @@ class Program
 
             if (hasReceivedGitHubAbuseLimitResponse && delta is TimeSpan timeRemaining)
             {
-                Console.WriteLine($"Rate Limit Exceeded. Retrying in {timeRemaining.TotalSeconds} seconds");
+                Console.WriteLine($"::notice file={filePath}:: GitHub Rate Limit Exceeded. Retrying in {timeRemaining.TotalSeconds} seconds.");
                 await Task.Delay(timeRemaining).ConfigureAwait(false);
             }
             else if (!response.IsSuccessStatusCode)
