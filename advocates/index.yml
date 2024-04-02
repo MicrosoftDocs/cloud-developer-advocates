@@ -87,10 +87,10 @@ profiles:
     long: -87.63245
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
-  tagline: Infrastructure / IoT / Identity Management / Security
+  tagline: Developer Tools / AI / Infrastructure / Security
   image:
     src: media/profiles/anthony-bartolo.png
-    alt: "Anthony Bartolo Sr. Cloud Advocate"
+    alt: "Anthony Bartolo Principal Cloud Advocate"
   location: 
     display: Toronto, Ontario, Canada
     lat: 43.653226
@@ -497,7 +497,7 @@ profiles:
     long: 77.580643
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
-  tagline: .NET / Blazor / Xamarin
+  tagline: AI / ML
   image:
     src: media/profiles/laurent-bugnion.png 
     alt: "Laurent Bugnion Cloud Developer Advocate"

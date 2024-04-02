@@ -140,10 +140,10 @@ class Program
     static async Task EnsureValidUri(string filePath, Uri? uri, string uriName)
     {
         if (uri is null)
-            throw new ValidationException($"Missing '{uriName}' Url: {uri}, File: {filePath}");
+            throw new ValidationException($"Missing '{uriName}' Url: {uri} - File: {filePath}");
 
         if (!uri.IsWellFormedOriginalString())
-            throw new ValidationException($"URI for '{uriName}' is malformed. Url: {uri}, File: {filePath}");
+            throw new ValidationException($"URI for '{uriName}' is malformed. Url: {uri} - File: {filePath}");
 
         if (uri.Scheme == Uri.UriSchemeHttp)
             Console.WriteLine($"::warning file={filePath}:: '{uriName}' Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.");
@@ -154,18 +154,18 @@ class Program
         HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
         if (!response.IsSuccessStatusCode && response.StatusCode is HttpStatusCode.NotFound)
-            throw new ValidationException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}). Url: {uri}. File: {filePath}");
+            throw new ValidationException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}). Url: {uri} - File: {filePath}");
         else if (!response.IsSuccessStatusCode)
-            throw new ValidationWarningException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}) but we're going to ignore it. Url: {uri}. File: {filePath}");
+            throw new ValidationWarningException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}) but we're going to ignore it. Url: {uri} - File: {filePath}");
     }
 
     static async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
     {
         if (uri is null)
-            throw new ValidationException($"Missing {uriName} Url: {uri}, File: {filePath}");
+            throw new ValidationException($"Missing '{uriName}' Url: {uri} - File: {filePath}");
 
         if (!uri.IsWellFormedOriginalString())
-            throw new ValidationException($"Invalid {uriName} Url: {uri}, File: {filePath}");
+            throw new ValidationException($"URI for '{uriName}' is malformed. Url: {uri} - File: {filePath}");
 
         bool hasReceivedGitHubAbuseLimitResponse;
 
@@ -182,7 +182,7 @@ class Program
             }
             else if (!response.IsSuccessStatusCode)
             {
-                throw new ValidationException($"Invalid '{uriName}' Url: {uri}, File: {filePath}");
+                throw new ValidationException($"Rate limit for '{uriName}' failed with {response.StatusCode}. Url: {uri} - File: {filePath}");
             }
         }
         while (hasReceivedGitHubAbuseLimitResponse);
@@ -190,13 +190,13 @@ class Program
 
     static void EnsureValidImage(in string filePath, in Image? cloudAdvocateImage)
     {
-        if (cloudAdvocateImage is null)
-            throw new Exception($"Image Source Missing: {filePath}");
-
-        if (string.IsNullOrWhiteSpace(cloudAdvocateImage.Src))
-            throw new Exception($"Image Source Missing: {filePath}");
+        if (cloudAdvocateImage is null || string.IsNullOrWhiteSpace(cloudAdvocateImage.Src))
+            throw new ValidationException($"Image Source Missing: {filePath}");
 
         string filePathRelativeToValidation = Path.Combine(_advocatesPath, cloudAdvocateImage.Src);
+
+        if (!File.Exists(filePathRelativeToValidation))
+            throw new ValidationException($"Image Source Missing: {filePathRelativeToValidation}");
 
         using FileStream fileStream = new(filePathRelativeToValidation, FileMode.Open);
         using BinaryReader binaryReader = new(fileStream, Encoding.UTF8);
@@ -204,16 +204,16 @@ class Program
         System.Drawing.Size imageSize = ImageService.GetDimensions(binaryReader);
 
         if (imageSize.Height <= 0)
-            throw new Exception($"Invalid Image Height (must be greater than 0): {filePath}");
+            throw new ValidationException($"Invalid Image Height (must be greater than 0): {filePath}");
 
         if (imageSize.Width <= 0)
-            throw new Exception($"Invalid Image Width (must be greater than 0): {filePath}");
+            throw new ValidationException($"Invalid Image Width (must be greater than 0): {filePath}");
 
         if (imageSize.Height != imageSize.Width)
-            throw new Exception($"Invalid Image (Height and Width must be equal): {filePath}");
+            throw new ValidationException($"Invalid Image (Height and Width must be equal - {imageSize.Height} x {imageSize.Width}): {filePath}");
 
         if (cloudAdvocateImage.Alt is null)
-            throw new Exception($"Image Alt Text Missing: {filePath}");
+            throw new ValidationException($"Image Alt Text Missing: {filePath}");
     }
 }
 
