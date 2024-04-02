@@ -405,16 +405,6 @@ profiles:
     display: Brooklyn,  New York, United States
     lat: 40.67417
     long: -74.025653
-- uid: advocates.jay-miller
-  name: Jay Miller
-  tagline: Python
-  image:
-    src: media/profiles/jay-miller.png
-    alt: "Jay Miller Senior Cloud Advocate"
-  location: 
-    display: San Diego, California, United States
-    lat: 32.715736
-    long: -117.161087
 - uid: advocates.john-papa
   name: John Papa
   tagline: Web technologist, engineering leader, and storyteller

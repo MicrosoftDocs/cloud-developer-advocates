@@ -87,10 +87,10 @@ profiles:
     long: -87.63245
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
-  tagline: Infrastructure / IoT / Identity Management / Security
+  tagline: Developer Tools / AI / Infrastructure / Security
   image:
     src: media/profiles/anthony-bartolo.png
-    alt: "Anthony Bartolo Sr. Cloud Advocate"
+    alt: "Anthony Bartolo Principal Cloud Advocate"
   location: 
     display: Toronto, Ontario, Canada
     lat: 43.653226
@@ -425,16 +425,6 @@ profiles:
     display: Brooklyn,  New York, United States
     lat: 40.67417
     long: -74.025653
-- uid: advocates.jay-miller
-  name: Jay Miller
-  tagline: Python
-  image:
-    src: media/profiles/jay-miller.png
-    alt: "Jay Miller Senior Cloud Advocate"
-  location: 
-    display: San Diego, California, United States
-    lat: 32.715736
-    long: -117.161087
 - uid: advocates.joey-snow
   name: Joey Snow
   tagline: Common sense security for all.
@@ -535,6 +525,16 @@ profiles:
     display: Bengaluru (Bangalore)
     lat: 12.972442
     long: 77.580643
+- uid: advocates.kinfey-lo
+  name: Kinfey Lo
+  tagline: AzureOpenAIService / AzureAI / GitHub
+  image:
+    src: media/profiles/kinfey-lo.jpg
+    alt: "Kinfey Lo - Senior Cloud Advocate"
+  location: 
+    display: Guangzhou, China
+    lat: 23.128994
+    long: 113.253250
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Blazor / Xamarin
@@ -547,7 +547,7 @@ profiles:
     long: 8.542759772328836
 - uid: advocates.lee-stott
   name: Lee Stott
-  tagline: AI / ML / Students / Faculty
+  tagline: AI / ML 
   image:
     src: media/profiles/lee-stott.png
     alt: "Lee Stott Cloud Advocate"
@@ -585,6 +585,16 @@ profiles:
     display: St. Louis, MO, USA
     lat: 38.7588171
     long: -90.4011274
+- uid: advocates.marlene-mhangami
+  name: Marlene Mhangami
+  tagline: Python 
+  image:
+    src: media/profiles/marlene-mhangami.jpeg
+    alt: "Marlene Mhangami, Senior Cloud Advocate"
+  location: 
+    display: London, UK
+    lat: 51.521809
+    long: -0.084360
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
   tagline: .NET / Xamarin
