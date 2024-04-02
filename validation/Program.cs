@@ -8,9 +8,17 @@ int MAX_RETRIES = 3;
 
 bool debug = Environment.GetEnvironmentVariable("DOTNET_ENVIRONMENT") == "Development";
 
-var loggerFactory = LoggerFactory.Create(builder =>
+ILoggerFactory loggerFactory = LoggerFactory.Create(builder =>
 {
-    builder.AddConsole();
+    if (!debug)
+    {
+        builder.AddConsoleFormatter<GitHubActionsConsoleLogFormatter, GitHubActionsConsoleLogFormatterOptions>(o => o.IncludeScopes = true);
+        builder.AddConsole(opt => opt.FormatterName = nameof(GitHubActionsConsoleLogFormatter));
+    }
+    else
+    {
+        builder.AddSimpleConsole(o => o.IncludeScopes = true);
+    }
 });
 
 ILogger<Program> logger = loggerFactory.CreateLogger<Program>();
@@ -34,6 +42,9 @@ List<(string, string)> parsingWarnings = [];
 
 await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocateYmlFiles(advocateFiles).ConfigureAwait(false))
 {
+    using var scope = logger.BeginScope("File: {filePath}", filePath);
+
+    logger.LogInformation("Parsing {filePath}", filePath);
     if (string.IsNullOrWhiteSpace(advocate?.Metadata.Alias))
     {
         parsingErrors.Add((filePath, "Missing Microsoft Alias"));
@@ -50,7 +61,7 @@ await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocate
     {
         if (linkTypesToIgnore.Contains(connect.Title, StringComparer.OrdinalIgnoreCase))
         {
-            logger.LogInformation("::debug file={filePath}:: {Title} doesn't like being validated, skipping {Url}.", filePath, connect.Title, connect.Url);
+            logger.LogInformation("{Title} doesn't like being validated, skipping {Url}.", connect.Title, connect.Url);
             continue;
         }
 
@@ -99,7 +110,7 @@ foreach (string duplicateAlias in duplicateAliasList)
 
 foreach ((string filePath, string parsingWarning) in parsingWarnings)
 {
-    logger.LogWarning("::warning file={filePath}::{parsingWarning}", filePath, parsingWarning);
+    logger.LogWarning(parsingWarning);
 }
 
 if (parsingErrors.Count != 0)
@@ -107,13 +118,13 @@ if (parsingErrors.Count != 0)
     logger.LogError("Validation Failed");
     foreach ((string filePath, string parsingError) in parsingErrors)
     {
-        logger.LogError("::error file={filePath}::{parsingError}", filePath, parsingError);
+        logger.LogError(parsingError);
     }
     throw new Exception("Validation Failed");
 }
 else
 {
-    logger.LogInformation("::notice:: Validation Completed Successfully");
+    logger.LogInformation("Validation Completed Successfully");
 }
 
 async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAdvocateYmlFiles(IEnumerable<string> files)
@@ -126,7 +137,6 @@ async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAd
 
         if (text.StartsWith("### YamlMime:Profile") && !text.StartsWith("### YamlMime:ProfileList"))
         {
-            logger.LogInformation("::debug file={filePath}:: Parsing {filePath}", filePath, filePath);
             yield return (filePath, ParseAdvocateFromYaml(text));
         }
     }
@@ -148,7 +158,7 @@ async Task EnsureValidUri(string filePath, Uri? uri, string uriName)
         throw new ValidationException($"URI for '{uriName}' is malformed. Url: {uri} - File: {filePath}");
 
     if (uri.Scheme == Uri.UriSchemeHttp)
-        logger.LogWarning("::warning file={filePath}:: '{uriName}' Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.", filePath, uriName, uri);
+        logger.LogWarning("'{uriName}' Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.", uriName, uri);
 
     HttpClient _client = new();
     _client.DefaultRequestHeaders.UserAgent.Clear();
@@ -195,7 +205,7 @@ async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
 
             hasReceivedGitHubAbuseLimitResponse = true;
             retryCount++;
-            logger.LogWarning("::warning file={filePath}:: GitHub Rate Limit Exceeded. Retrying in {TotalSeconds} seconds.", filePath, retryAfter.TotalSeconds);
+            logger.LogWarning("GitHub Rate Limit Exceeded for {Url}. Retrying in {TotalSeconds} seconds.", uri, retryAfter.TotalSeconds);
             await Task.Delay(retryAfter).ConfigureAwait(false);
         }
         else if (!response.IsSuccessStatusCode)
