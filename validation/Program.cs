@@ -50,7 +50,7 @@ await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocate
     {
         if (linkTypesToIgnore.Contains(connect.Title, StringComparer.OrdinalIgnoreCase))
         {
-            logger.LogInformation("{Title} doesn't like being validated, skipping {Url} from {filePath}.", connect.Title, connect.Url, filePath);
+            logger.LogInformation("::debug file={filePath}:: {Title} doesn't like being validated, skipping {Url}.", filePath, connect.Title, connect.Url);
             continue;
         }
 
