@@ -18,6 +18,7 @@ ILoggerFactory loggerFactory = LoggerFactory.Create(builder =>
     else
     {
         builder.AddSimpleConsole(o => o.IncludeScopes = true);
+        builder.SetMinimumLevel(LogLevel.Debug);
     }
 });
 
@@ -30,8 +31,6 @@ string _advocatesPath = debug ?
     Path.Combine("../", "advocates");
 
 IDeserializer _yamlDeserializer = new DeserializerBuilder().Build();
-
-const string gitHub = "GitHub";
 
 List<CloudAdvocateYamlModel> advocateList = [];
 
@@ -67,14 +66,7 @@ await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocate
 
         try
         {
-            if (connect.Title.Equals(gitHub, StringComparison.OrdinalIgnoreCase))
-            {
-                await EnsureValidGitHubUri(filePath, connect.Url, gitHub).ConfigureAwait(false);
-            }
-            else
-            {
-                await EnsureValidUri(filePath, connect.Url, connect.Title).ConfigureAwait(false);
-            }
+            await EnsureValidUri(filePath, connect.Url, connect.Title).ConfigureAwait(false);
         }
         catch (ValidationException ex)
         {
@@ -160,39 +152,25 @@ async Task EnsureValidUri(string filePath, Uri? uri, string uriName)
     if (uri.Scheme == Uri.UriSchemeHttp)
         logger.LogWarning("'{uriName}' Url is HTTP, you really should be hosting on HTTPS. Url: {uri}.", uriName, uri);
 
-    HttpClient _client = new();
-    _client.DefaultRequestHeaders.UserAgent.Clear();
-    _client.DefaultRequestHeaders.UserAgent.ParseAdd("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36 Edg/122.0.0.0");
-    HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
-
-    if (!response.IsSuccessStatusCode && response.StatusCode is HttpStatusCode.NotFound)
-        throw new ValidationException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}). Url: {uri} - File: {filePath}");
-    else if (!response.IsSuccessStatusCode)
-        throw new ValidationWarningException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}) but we're going to ignore it. Url: {uri} - File: {filePath}");
+    await ValidateLinkWithRetry(uri, uriName);
 }
 
-async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
+async Task ValidateLinkWithRetry(Uri uri, string uriName)
 {
-    if (uri is null)
-        throw new ValidationException($"Missing '{uriName}' Url: {uri} - File: {filePath}");
-
-    if (!uri.IsWellFormedOriginalString())
-        throw new ValidationException($"URI for '{uriName}' is malformed. Url: {uri} - File: {filePath}");
-
-    bool hasReceivedGitHubAbuseLimitResponse = false;
+    bool retry = false;
     int retryCount = 0;
 
     do
     {
         if (retryCount >= MAX_RETRIES)
-            throw new ValidationException($"Validation of '{uriName}' failed after {MAX_RETRIES} retries. Url: {uri} - File: {filePath}");
+            throw new ValidationException($"Validation of '{uriName}' failed after {MAX_RETRIES} retries. Url: {uri}");
 
         HttpClient _client = new();
         HttpResponseMessage response = await _client.GetAsync(uri).ConfigureAwait(false);
 
         if (response.IsSuccessStatusCode)
         {
-            return;
+            retry = false;
         }
         else if (response.StatusCode is HttpStatusCode.TooManyRequests)
         {
@@ -203,17 +181,21 @@ async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
                 _ => TimeSpan.FromMinutes(1)
             };
 
-            hasReceivedGitHubAbuseLimitResponse = true;
+            retry = true;
             retryCount++;
             logger.LogWarning("{Url} exceeded rate limiting of host. Retrying in {TotalSeconds} seconds.", uri, retryAfter.TotalSeconds);
             await Task.Delay(retryAfter).ConfigureAwait(false);
         }
+        else if (response.StatusCode is HttpStatusCode.NotFound)
+        {
+            throw new ValidationException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}). Url: {uri}");
+        }
         else if (!response.IsSuccessStatusCode)
         {
-            throw new ValidationException($"Validation of '{uriName}' failed with {response.StatusCode}. Url: {uri} - File: {filePath}");
+            throw new ValidationWarningException($"Failed to resolve URI for '{uriName}' ({response.StatusCode}) but we're going to ignore it. Url: {uri}");
         }
     }
-    while (hasReceivedGitHubAbuseLimitResponse);
+    while (retry);
 }
 
 void EnsureValidImage(in string filePath, in Image? cloudAdvocateImage)
