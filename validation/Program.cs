@@ -113,7 +113,7 @@ if (parsingErrors.Count != 0)
 }
 else
 {
-    logger.LogInformation("Validation Completed Successfully");
+    logger.LogInformation("::notice:: Validation Completed Successfully");
 }
 
 async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAdvocateYmlFiles(IEnumerable<string> files)
@@ -126,7 +126,7 @@ async IAsyncEnumerable<(string filePath, CloudAdvocateYamlModel advocate)> GetAd
 
         if (text.StartsWith("### YamlMime:Profile") && !text.StartsWith("### YamlMime:ProfileList"))
         {
-            logger.LogInformation("Parsing {filePath}", filePath);
+            logger.LogInformation("::debug file={filePath}:: Parsing {filePath}", filePath, filePath);
             yield return (filePath, ParseAdvocateFromYaml(text));
         }
     }
