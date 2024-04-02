@@ -44,7 +44,7 @@ await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocate
 {
     using var scope = logger.BeginScope("File: {filePath}", filePath);
 
-    logger.LogInformation("Parsing {filePath}", filePath);
+    logger.LogDebug("Parsing {filePath}", filePath);
     if (string.IsNullOrWhiteSpace(advocate?.Metadata.Alias))
     {
         parsingErrors.Add((filePath, "Missing Microsoft Alias"));
@@ -61,7 +61,7 @@ await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocate
     {
         if (linkTypesToIgnore.Contains(connect.Title, StringComparer.OrdinalIgnoreCase))
         {
-            logger.LogInformation("{Title} doesn't like being validated, skipping {Url}.", connect.Title, connect.Url);
+            logger.LogDebug("{Title} doesn't like being validated, skipping {Url}.", connect.Title, connect.Url);
             continue;
         }
 
