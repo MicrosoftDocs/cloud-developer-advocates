@@ -205,7 +205,7 @@ async Task EnsureValidGitHubUri(string filePath, Uri? uri, string uriName)
 
             hasReceivedGitHubAbuseLimitResponse = true;
             retryCount++;
-            logger.LogWarning("GitHub Rate Limit Exceeded for {Url}. Retrying in {TotalSeconds} seconds.", uri, retryAfter.TotalSeconds);
+            logger.LogWarning("{Url} exceeded rate limiting of host. Retrying in {TotalSeconds} seconds.", uri, retryAfter.TotalSeconds);
             await Task.Delay(retryAfter).ConfigureAwait(false);
         }
         else if (!response.IsSuccessStatusCode)
