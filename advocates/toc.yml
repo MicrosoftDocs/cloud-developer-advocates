@@ -48,6 +48,8 @@ items:
     uid: advocates.burke-holland
   - name: Carlotta Castelluccio
     uid: advocates.carlotta-castelluccio
+  - name: Cedric Vidal
+    uid: advocates.cedric-vidal
   - name: Chris Noring
     uid: advocates.chris-noring
   - name: Christopher Maneu
@@ -90,8 +92,6 @@ items:
     uid: advocates.japhlet-nwamu
   - name: Jasmine Greenaway
     uid: advocates.jasmine-greenaway
-  - name: Jay Miller
-    uid: advocates.jay-miller
   - name: Joey Snow
     uid: advocates.joey-snow
   - name: John Papa

@@ -215,6 +215,16 @@ profiles:
     display: Rome, Italy
     lat: 41.8919300
     long: 12.5113300
+- uid: advocates.cedric-vidal
+  name: Cedric Vidal
+  tagline: AI
+  image:
+    src: media/profiles/cedric-vidal.png
+    alt: "Cedric Vidal Principal AI Advocate"
+  location: 
+    display: San Francisco, United States
+    lat: 37.773972
+    long: -122.431297
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
@@ -425,16 +435,6 @@ profiles:
     display: Brooklyn,  New York, United States
     lat: 40.67417
     long: -74.025653
-- uid: advocates.jay-miller
-  name: Jay Miller
-  tagline: Python
-  image:
-    src: media/profiles/jay-miller.png
-    alt: "Jay Miller Senior Cloud Advocate"
-  location: 
-    display: San Diego, California, United States
-    lat: 32.715736
-    long: -117.161087
 - uid: advocates.joey-snow
   name: Joey Snow
   tagline: Common sense security for all.
