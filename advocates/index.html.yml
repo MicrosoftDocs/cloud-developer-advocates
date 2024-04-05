@@ -215,6 +215,16 @@ profiles:
     display: Rome, Italy
     lat: 41.8919300
     long: 12.5113300
+- uid: advocates.cedric-vidal
+  name: Cedric Vidal
+  tagline: AI
+  image:
+    src: media/profiles/cedric-vidal.png
+    alt: "Cedric Vidal Principal AI Advocate"
+  location: 
+    display: San Francisco, United States
+    lat: 37.773972
+    long: -122.431297
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
