@@ -1,0 +1,46 @@
+### YamlMime:Profile
+uid: advocates.cedric-vidal
+name: Cedric Vidal
+metadata:
+  title: Cedric Vidal - Principal AI Advocate
+  description: Home page for Cedric Vidal, a Microsoft Principal AI Advocate
+  ms.author: cedricvidal
+  team: aiml
+remarks: |
+  ## Bio 🔥
+  Cedric is a Principal AI Advocate at [Microsoft](https://developer.microsoft.com/en-us/advocates/), with a focus 
+  on Generative AI 🤖 and the startup 🚀 ecosystem. He is dedicated to advocating for the use of AI in startups and helping 
+  them bring their products to market.
+
+  Prior to his current role, Cedric spent 4 years as an Engineering Manager in the AI data labeling space for the 
+  self-driving 🚕 industry at [Argo AI](https://en.wikipedia.org/wiki/Argo_AI) (now re-spawned as [Latitude AI](https://lat.ai/)). 
+  He also served as the CTO of the Fintech AI SAAS startup [Quicksign](https://www.quicksign.com/) and worked as a software 
+  engineering services consultant for major Fintech enterprises for 10 years.
+
+  ## Skills 💡
+  - AI / LLM / Promptflow
+  - Python / Java / TypeScript
+  - Cloud Architecture
+  - Kubernetes / Docker / Linux
+  - Meta Modeling
+
+tagline: AI
+image:
+  alt: "Cedric Vidal Principal AI Advocate"
+  src: media/profiles/cedric-vidal.png
+connect:
+  - title: GitHub
+    url: https://github.com/cedricvidal/
+  - title: Twitter / X
+    url: https://twitter.com/cedricvidal/
+  - title: Website
+    url: https://vidal.biz/
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/838635/cedric-vidal
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/cedricvidal/
+
+location:
+  display: San Francisco, United States
+  lat: 37.773972
+  long: -122.431297
