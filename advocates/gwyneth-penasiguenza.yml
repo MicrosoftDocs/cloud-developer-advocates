@@ -1,25 +1,27 @@
 ### YamlMime:Profile
 uid: advocates.gwyneth-penasiguenza
-name: Gwyneth Pena-Siguenza
+name: Gwyneth Peña-Siguenza
 metadata:
-  title: Gwyneth Pena-Siguenza - Cloud Advocate
-  description: Home page for Gwyneth Pena-Siguenza, a Microsoft Cloud Developer Advocate
+  title: Gwyneth Peña-Siguenza - Cloud Advocate
+  description: Home page for Gwyneth Pena-Siguenza, a Microsoft Cloud Advocate
   ms.author: gwynethp
   team: regional
 remarks: |
 
   
   ## Bio
-  Hi, I'm Gwyn! Cloud Developer Advocate at Microsoft and YouTuber. I'm passionate about introducing people to the Cloud Computing and creating friendly and concise content. When I'm not doing Advocate things, I'm probably playing video games (Big fan of Days Gone, Far Cry, and Sleeping Dogs), hanging out with my family, friends, or eating mint chocolate chip ice cream.
-  
+  Gwyn is a Senior Cloud Advocate at Microsoft focused on Azure developer tools, founder of LearnToCloud and YouTuber, blending her dedication to community with a passion for cloud computing. Beyond tech, Gwyneth enjoys reading, time with loved ones, and mint chocolate chip ice cream.
+ 
   ## Skills
   * .NET
-  * Serverless
+  * Python
+  * Developer Tools
+  * Cloud Native
 
-tagline: .NET & Serverless
+tagline: Developer Tools
 image:
-  alt: "Gwyneth Pena-Siguenza Cloud Developer Advocate"
-  src: media/profiles/gwyneth-pena.jpg
+  alt: "Gwyneth Peña-Siguenza Cloud Advocate"
+  src: media/profiles/gwyneth-penasiguenza.jpg
 connect:
   - title: Twitter
     url: https://twitter.com/madebygps
