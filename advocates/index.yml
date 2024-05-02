@@ -145,16 +145,6 @@ profiles:
     display: Melbourne, Australia
     lat: -37.840935
     long: 144.946457
-- uid: advocates.bea-stollnitz
-  name: Bea Stollnitz
-  tagline: Machine Learning | Azure ML
-  image:
-    src: media/profiles/bea-stollnitz.jpg
-    alt: "Bea Stollnitz Cloud Advocate"
-  location: 
-    display: Seattle, USA
-    lat: 47.6062
-    long: 122.3321
 - uid: advocates.bethany-cheum
   name: Bethany Cheum
   tagline: Python / Data Science / AI & ML
@@ -265,26 +255,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-- uid: advocates.david-abu
-  name: David Abu
-  tagline: Power BI
-  image:
-    src: media/profiles/david-abu.png
-    alt: "David Abu Cloud Advocate"
-  location: 
-    display: Lagos, Nigeria
-    lat: 6.5244
-    long: 3.3792
-- uid: advocates.david-blank-edelman
-  name: David N. Blank-Edelman
-  tagline: SRE
-  image:
-    src: media/profiles/david-blank-edelman.png
-    alt: "David Blank-Edelman Cloud Ops Advocate"
-  location: 
-    display: Somerville, Massachusetts, United States
-    lat: 42.3875968
-    long: -71.0994968
 - uid: advocates.david-smith
   name: David Smith
   tagline: AI / ML / Data Science / R
@@ -497,7 +467,7 @@ profiles:
     long: 8.542759772328836
 - uid: advocates.lee-stott
   name: Lee Stott
-  tagline: AI / ML / Students / Faculty
+  tagline: AI / ML
   image:
     src: media/profiles/lee-stott.png
     alt: "Lee Stott Cloud Advocate"
@@ -535,6 +505,16 @@ profiles:
     display: St. Louis, MO, USA
     lat: 38.7588171
     long: -90.4011274
+- uid: advocates.marlene-mhangami
+  name: Marlene Mhangami
+  tagline: Python 
+  image:
+    src: media/profiles/marlene-mhangami.jpeg
+    alt: "Marlene Mhangami, Senior Cloud Advocate"
+  location: 
+    display: London, UK
+    lat: 51.521809
+    long: -0.084360
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
   tagline: .NET / Xamarin
@@ -665,16 +645,6 @@ profiles:
     display: Johannesburg, South Africa
     lat: -26.204103
     long: 28.047304
-- uid: advocates.ruth-yakubu
-  name: Ruth Yakubu
-  tagline: Java / AI / Data
-  image:
-    src: media/profiles/ruth-yakubu.png
-    alt: "Ruth Yakubu Cloud Developer Advocate"
-  location: 
-    display: New York, New York, United States
-    lat: 40.770425
-    long: -74.404626
 - uid: advocates.sandra-ahlgrimm
   name: Sandra Ahlgrimm
   tagline: Container / Java / DevOps
@@ -685,16 +655,6 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
-- uid: advocates.sara-gibbons
-  name: Sara Gibbons
-  tagline: JavaScript / Node.js / Web
-  image:
-    src: media/profiles/sara-gibbons.png
-    alt: "Sara Gibbons"
-  location: 
-    display: United States
-    lat: 42.33168
-    long: -83.048
 - uid: advocates.sarah-kaiser
   name: Sarah Kaiser
   tagline: Python
