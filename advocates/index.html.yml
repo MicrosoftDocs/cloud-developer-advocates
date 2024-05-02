@@ -285,26 +285,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-- uid: advocates.david-abu
-  name: David Abu
-  tagline: Power BI
-  image:
-    src: media/profiles/david-abu.png
-    alt: "David Abu Cloud Advocate"
-  location: 
-    display: Lagos, Nigeria
-    lat: 6.5244
-    long: 3.3792
-- uid: advocates.david-blank-edelman
-  name: David N. Blank-Edelman
-  tagline: SRE
-  image:
-    src: media/profiles/david-blank-edelman.png
-    alt: "David Blank-Edelman Cloud Ops Advocate"
-  location: 
-    display: Somerville, Massachusetts, United States
-    lat: 42.3875968
-    long: -71.0994968
 - uid: advocates.david-smith
   name: David Smith
   tagline: AI / ML / Data Science / R
@@ -773,16 +753,6 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
-- uid: advocates.sara-gibbons
-  name: Sara Gibbons
-  tagline: JavaScript / Node.js / Web
-  image:
-    src: media/profiles/sara-gibbons.png
-    alt: "Sara Gibbons"
-  location: 
-    display: United States
-    lat: 42.33168
-    long: -83.048
 - uid: advocates.sarah-kaiser
   name: Sarah Kaiser
   tagline: Python
