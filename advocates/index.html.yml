@@ -386,11 +386,11 @@ profiles:
     lat: 47.679194
     long: -122.153322
 - uid: advocates.gwyneth-penasiguenza
-  name: Gwyneth Pena-Siguenza
-  tagline: .NET & Serverless
+  name: Gwyneth Peña-Siguenza
+  tagline: Developer Tools
   image:
-    src: media/profiles/gwyneth-pena.jpg
-    alt: "Gwyneth Pena-Siguenza Cloud Developer Advocate"
+    src: media/profiles/gwyneth-penasiguenza.jpg
+    alt: "Gwyneth Peña-Siguenza Cloud Advocate"
   location: 
     display: New York,  New York, United States
     lat: 40.75325
@@ -763,16 +763,6 @@ profiles:
     display: Johannesburg, South Africa
     lat: -26.204103
     long: 28.047304
-- uid: advocates.ruth-yakubu
-  name: Ruth Yakubu
-  tagline: Java / AI / Data
-  image:
-    src: media/profiles/ruth-yakubu.png
-    alt: "Ruth Yakubu Cloud Developer Advocate"
-  location: 
-    display: New York, New York, United States
-    lat: 40.770425
-    long: -74.404626
 - uid: advocates.sandra-ahlgrimm
   name: Sandra Ahlgrimm
   tagline: Container / Java / DevOps
