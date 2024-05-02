@@ -329,7 +329,7 @@ profiles:
   name: Gwyneth Pena-Siguenza
   tagline: .NET & Serverless
   image:
-    src: media/profiles/gwyneth-pena.jpg
+    src: media/profiles/gwyneth-penasiguenza.jpg
     alt: "Gwyneth Pena-Siguenza Cloud Developer Advocate"
   location: 
     display: New York,  New York, United States
