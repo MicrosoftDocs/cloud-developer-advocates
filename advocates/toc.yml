@@ -34,8 +34,6 @@ items:
     uid: advocates.ayca-bas
   - name: Barnam Bora
     uid: advocates.barnam-bora
-  - name: Bea Stollnitz
-    uid: advocates.bea-stollnitz
   - name: Bethany Cheum
     uid: advocates.bethany-cheum
   - name: Bob German
@@ -62,10 +60,6 @@ items:
     uid: advocates.daniel-laskewitz
   - name: Dave Glover
     uid: advocates.dave-glover
-  - name: David Abu
-    uid: advocates.david-abu
-  - name: David N. Blank-Edelman
-    uid: advocates.david-blank-edelman
   - name: David Smith
     uid: advocates.david-smith
   - name: Elaiza Benitez
@@ -160,8 +154,6 @@ items:
     uid: advocates.rory-preddy
   - name: Sandra Ahlgrimm
     uid: advocates.sandra-ahlgrimm
-  - name: Sara Gibbons
-    uid: advocates.sara-gibbons
   - name: Sarah Kaiser
     uid: advocates.sarah-kaiser
   - name: Sarah Young
