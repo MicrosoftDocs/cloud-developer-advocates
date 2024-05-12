@@ -67,12 +67,12 @@ profiles:
     long: 8.6180
 - uid: advocates.amy-boyd
   name: Amy Boyd
-  tagline: Data / AI / ML
+  tagline: AI / ML
   image:
     src: media/profiles/amy-boyd.png
-    alt: "Amy Boyd Cloud Developer Advocate"
+    alt: "Amy Boyd Principal Cloud Advocate"
   location: 
-    display: London, United Kingdom
+    display: United Kingdom
     lat: 51.52814
     long: -0.1339
 - uid: advocates.amy-colyer
