@@ -29,5 +29,5 @@ connect:
     url: https://twitter.com/koreyspace
 location:
   display: Stockholm, Sweden
-  lat: 59.334591,
-  long: 18.063240,
+  lat: 59.334591
+  long: 18.063240
