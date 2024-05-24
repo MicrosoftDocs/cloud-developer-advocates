@@ -117,7 +117,7 @@ profiles:
     long: -95.99208
 - uid: advocates.april-speight
   name: April Speight
-  tagline: Mixed Reality / HoloLens / Spatial Computing
+  tagline: AI / Responsible AI / Python
   image:
     src: media/profiles/april-speight.png
     alt: "April Speight Cloud Advocate"
