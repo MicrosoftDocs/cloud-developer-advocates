@@ -67,12 +67,12 @@ profiles:
     long: 8.6180
 - uid: advocates.amy-boyd
   name: Amy Boyd
-  tagline: Data / AI / ML
+  tagline: AI / ML
   image:
     src: media/profiles/amy-boyd.png
-    alt: "Amy Boyd Cloud Developer Advocate"
+    alt: "Amy Boyd Principal Cloud Advocate"
   location: 
-    display: London, United Kingdom
+    display: United Kingdom
     lat: 51.52814
     long: -0.1339
 - uid: advocates.amy-colyer
@@ -515,6 +515,16 @@ profiles:
     display: Guangzhou, China
     lat: 23.128994
     long: 113.253250
+- uid: advocates.Korey-stegared-pace
+  name: Korey Stegared-Pace
+  tagline: Data Science / Azure / Artificial Intelligence
+  image:
+    src: media/profiles/korey-stegaredpace.png
+    alt: "Korey Stegared-Pace Cloud Developer Advocate"
+  location: 
+    display: Stockholm, Sweden
+    lat: 59.334591
+    long: 18.063240
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Blazor / Xamarin
