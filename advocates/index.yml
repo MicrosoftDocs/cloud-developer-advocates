@@ -455,6 +455,26 @@ profiles:
     display: Bengaluru (Bangalore), India
     lat: 12.972442
     long: 77.580643
+- uid: advocates.kinfey-lo
+  name: Kinfey Lo
+  tagline: AzureOpenAIService / AzureAI / GitHub
+  image:
+    src: media/profiles/kinfey-lo.jpg
+    alt: "Kinfey Lo - Senior Cloud Advocate"
+  location: 
+    display: Guangzhou, China
+    lat: 23.128994
+    long: 113.253250
+- uid: advocates.Korey-stegared-pace
+  name: Korey Stegared-Pace
+  tagline: Data Science / Azure / Artificial Intelligence
+  image:
+    src: media/profiles/korey-stegaredpace.png
+    alt: "Korey Stegared-Pace Cloud Developer Advocate"
+  location: 
+    display: Stockholm, Sweden
+    lat: 59.334591
+    long: 18.063240   
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: AI / ML

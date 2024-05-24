@@ -5,7 +5,7 @@ metadata:
   title: Bethany Jepchumba Cheum - Cloud Advocate, Data Science, AI & ML
   description: Home page for Bethany Jepchumba, a Microsoft Cloud Advocate
   ms.author: bethanyjep
-  team: academic
+  team: aiml
 remarks: |
   ## Bio
   Bethany is passionate about Data Science, Artificial Intelligence and Machine Learning.
@@ -14,9 +14,14 @@ remarks: |
   She comes from a community of marathon runners 🏃🏃 but decided to run code instead🤓.
 
   ## Skills
-  - Python
-  - Data Science
-
+  * Python
+  * Data Science
+  
+  ## Projects
+  * [Gen AI for Beginners](https://aka.ms/gen-ai-beginners)
+  * [AI for Beginners](https://aka.ms/ai-beginners)
+  * [ML for Beginners] (https://aka.ms/ml-beginners)
+  * [Data Science for Beginners](https://aka.ms/datascience-beginners)
 tagline: Python / Data Science / AI & ML
 image:
   alt: "Bethany Cheum Cloud Advocate"
