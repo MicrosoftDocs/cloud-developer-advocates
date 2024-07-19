@@ -1,0 +1,39 @@
+### YamlMime:Profile
+uid: advocates.gomolemo-mohapi
+name: Gomolemo Mohapi
+metadata:
+  title: Gomolemo Mohapi - Cloud Advocate
+  description: Home page for Gomolemo Mohapi, a Microsoft Cloud Advocate
+  ms.author: gmohapi
+  team: power
+remarks: |
+  ## Bio
+  Gomolemo is a young South African who is determined to make a long-lasting impact on the world through technology.
+  
+  A .NET developer with a history of creating written programming tutorials for university students and conducting multiple coding workshops, hackathons and speaking at various conferences across the globe. 
+  
+  Gomolemo eventually fell in love with the Power Platform, because it was a low-code platform which gave way for him to empower and upskill not just those with a technical background, but anyone from any industry who was looking to learn how to build applications.
+  
+  He has since co-authored a Power Platform Udacity course and is now a Cloud Advocate at Microsoft focused on Power Apps and Fusion Development leveraging his love and skill for both traditional and low-code development.
+  
+  ## Skills
+  * Power Apps
+  * .NET / .NET Core
+  
+tagline: Power Apps / Fusion Development
+image:
+  alt: "Gomolemo Mohapi - Cloud Advocate"
+  src: media/profiles/gomolemo-mohapi.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/GomoMohapi
+  - title: GitHub
+    url: https://github.com/gomomohapi
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/gomomohapi/
+  - title: Instagram
+    url: https://www.instagram.com/gomomohapi/
+location:
+  display: Durban, South Africa
+  lat: -29.858681
+  long: 31.021839

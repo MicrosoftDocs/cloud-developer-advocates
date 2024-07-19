@@ -1,4 +1,7 @@
-﻿### YamlMime:ProfileList
+### YamlMime:ProfileList
+########################################################################
+#############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
+########################################################################
 title: Cloud Advocates
 description: |
   Our team's charter is to help every technologist on the planet succeed, be they students or those working in enterprises or startups. We engage in outreach to developers and others in the software ecosystem, all designed to further technical education and proficiency with the Microsoft Cloud + AI platform.
@@ -22,16 +25,6 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-- uid: advocates.aaron-schlesinger
-  name: Aaron Schlesinger
-  tagline: Linux / Containers
-  image:
-    src: media/profiles/aaron-schlesinger.png
-    alt: "Aaron Schlesinger Cloud Developer Advocate"
-  location: 
-    display: Portland, OR, United States
-    lat: 45.512230
-    long: -122.658722
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
   tagline: Linux
@@ -42,26 +35,16 @@ profiles:
     display: Toronto, Ontario, Canada
     lat: 43.712053
     long: -79.561556
-- uid: advocates.adi-polak
-  name: Adi Polak
-  tagline: Big Data / Serverless 
+- uid: advocates.abril-ureña
+  name: Abril Ureña
+  tagline: VS Code / Front-end Development / UX Design
   image:
-    src: media/profiles/adi-polak.png
-    alt: "Adi Polak Cloud Developer Advocate"
+    src: media/profiles/abril-urena.png
+    alt: "Abril Urena Cloud Advocate"
   location: 
-    display: Tel Aviv, Israel
-    lat: 32.081359
-    long: 34.780957
-- uid: advocates.alena-hall
-  name: Alena Hall
-  tagline: High Scale / Big Data
-  image:
-    src: media/profiles/alena-hall.png
-    alt: "Alena Hall Cloud Developer Advocate"
-  location: 
-    display: Seattle, Washington, United States
-    lat: 47.60621
-    long: -122.33207
+    display: Monterrey, Nuevo Leon, Mexico.
+    lat: 25.67507
+    long: -100.31847
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
   tagline: Python / MLOps / DevOps
@@ -84,20 +67,30 @@ profiles:
     long: 8.6180
 - uid: advocates.amy-boyd
   name: Amy Boyd
-  tagline: Data / AI / ML
+  tagline: AI / ML
   image:
     src: media/profiles/amy-boyd.png
-    alt: "Amy Boyd Cloud Developer Advocate"
+    alt: "Amy Boyd Principal Cloud Advocate"
   location: 
-    display: London, United Kingdom
+    display: United Kingdom
     lat: 51.52814
     long: -0.1339
+- uid: advocates.amy-colyer
+  name: Amy Colyer
+  tagline: Infrastructure / Azure / Hybrid / Operations / IT Pro
+  image:
+    src: media/profiles/amy-colyer.jpg
+    alt: "Amy Colyer Senior Cloud Advocate"
+  location: 
+    display: Chicago, Illinois
+    lat: 41.88425
+    long: -87.63245
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
-  tagline: Infrastructure / IoT / Identity Management / Security
+  tagline: Developer Tools / AI / Infrastructure / Security
   image:
     src: media/profiles/anthony-bartolo.png
-    alt: "Anthony Bartolo Sr. Cloud Advocate"
+    alt: "Anthony Bartolo Principal Cloud Advocate"
   location: 
     display: Toronto, Ontario, Canada
     lat: 43.653226
@@ -122,46 +115,16 @@ profiles:
     display: Tulsa, OK, USA
     lat: 36.155327
     long: -95.99208
-- uid: advocates.april-edwards
-  name: April Edwards
-  tagline: DevOps
-  image:
-    src: media/profiles/april-edwards.png 
-    alt: "April Edwards Cloud Developer Advocate"
-  location: 
-    display: London, UK
-    lat: 51.500153
-    long: -0.1262362
 - uid: advocates.april-speight
   name: April Speight
-  tagline: Mixed Reality / HoloLens / Spatial Computing
+  tagline: AI / Responsible AI / Python
   image:
     src: media/profiles/april-speight.png
     alt: "April Speight Cloud Advocate"
   location: 
-    display: Beverly Hills, CA
+    display: Los Angeles, CA
     lat: 34.0736
     long: -118.4004
-- uid: advocates.ashley-mcnamara
-  name: Ashley McNamara
-  tagline: Linux
-  image:
-    src: media/profiles/ashley-mcnamara.png
-    alt: "Ashley McNamara Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-- uid: advocates.asim-hussain
-  name: Asim Hussain
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/asim-hussain.png 
-    alt: "Asim Hussain Cloud Developer Advocate"
-  location: 
-    display: Reading, United Kingdom
-    lat: 51.458046
-    long: -1.012501
 - uid: advocates.ayca-bas
   name: Ayca Bas
   tagline: Microsoft Graph
@@ -172,16 +135,6 @@ profiles:
     display: Dubai, United Arab Emirates
     lat: 25.2048
     long: 55.2708
-- uid: advocates.aysegul-yonet
-  name: Ayşegül Yönet
-  tagline: Cognitive Services / Mixed Reality / HoloLens / JavaScript / WebXR
-  image:
-    src: media/profiles/aysegul-yonet.jpg
-    alt: "Ayşegül Yönet Cloud Advocate"
-  location: 
-    display: San Francisco, CA
-    lat: 37.7958
-    long: -122.3938
 - uid: advocates.barnam-bora
   name: Barnam Bora
   tagline: AI / ML / Microsoft Teams / Microsoft Graph / CTO Advisory
@@ -192,6 +145,16 @@ profiles:
     display: Melbourne, Australia
     lat: -37.840935
     long: 144.946457
+- uid: advocates.bethany-cheum
+  name: Bethany Cheum
+  tagline: Python / Data Science / AI & ML
+  image:
+    src: media/profiles/bethany-cheum.png
+    alt: "Bethany Cheum Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: 1.2921
+    long: 36.8219
 - uid: advocates.bob-german
   name: Bob German
   tagline: Development on Microsoft 365 with Azure
@@ -202,16 +165,6 @@ profiles:
     display: Boston, MA, USA
     lat: 42.35866
     long: -71.05674
-- uid: advocates.brandon-minnick
-  name: Brandon Minnick
-  tagline: Xamarin, .NET, C#, Mobile
-  image:
-    src: media/profiles/brandon-minnick.png
-    alt: "Brandon Minnick Cloud Developer Advocate"
-  location: 
-    display: San Francisco, California, United States
-    lat: 37.815141999999994
-    long: -122.518271
 - uid: advocates.brian-benz
   name: Brian Benz
   tagline: Java
@@ -222,26 +175,16 @@ profiles:
     display: Las Vegas, Nevada, United States
     lat: 36.23005
     long: -115.544269
-- uid: advocates.brian-clark
-  name: Brian Clark
-  tagline: JavaScript / Node.js / Python
+- uid: advocates.bruno-capuano
+  name: Bruno Capuano
+  tagline: AI / ML / IoT
   image:
-    src: media/profiles/brian-clark.png
-    alt: "Brian Clark Cloud Developer Advocate"
+    src: media/profiles/bruno-capuano.png
+    alt: "Bruno Capuano Senior Cloud Advocate"
   location: 
-    display: Florida, United States
-    lat: 0
-    long: 0
-- uid: advocates.brian-ketelsen
-  name: Brian Ketelsen
-  tagline: Linux
-  image:
-    src: media/profiles/brian-ketelsen.png
-    alt: "Brian Ketelsen Cloud Developer Advocate"
-  location: 
-    display: Land O' Lakes, Florida, United States
-    lat: 28.222353
-    long: -82.47148
+    display: Dundas, Canada
+    lat: 43.262123319339025
+    long: -79.9819315511835
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / VS Code
@@ -252,36 +195,26 @@ profiles:
     display: Franklin, TN, USA
     lat: 35.925064
     long: -86.868889
-- uid: advocates.cassie-breviu
-  name: Cassie Breviu
-  tagline: .NET / ML / Spatial (AR/VR)
+- uid: advocates.carlotta-castelluccio
+  name: Carlotta Castelluccio
+  tagline: Data Science / Azure / Artificial Intelligence
   image:
-    src: media/profiles/cassie-breviu.png
-    alt: "Cassie Breviu Cloud Advocate"
+    src: media/profiles/carlotta-castelluccio.jpeg
+    alt: "Carlotta Castelluccio Cloud Developer Advocate"
   location: 
-    display: Minneapolis, Minnesota, United States
-    lat: 44.9778
-    long: -93.2650
-- uid: advocates.cecil-phillip
-  name: Cecil Phillip
-  tagline: .NET 
+    display: Rome, Italy
+    lat: 41.8919300
+    long: 12.5113300
+- uid: advocates.cedric-vidal
+  name: Cedric Vidal
+  tagline: AI
   image:
-    src: media/profiles/cecil-phillip.png
-    alt: "Cecil Phillip Cloud Developer Advocate"
+    src: media/profiles/cedric-vidal.png
+    alt: "Cedric Vidal Principal AI Advocate"
   location: 
-    display: Plantation, Florida, United States
-    lat: 26.1267513
-    long: -80.2989968
-- uid: advocates.chloe-condon
-  name: Chloe Condon
-  tagline: Python / JavaScript / Android
-  image:
-    src: media/profiles/chloe-condon.png
-    alt: "Chloe Condon Advocate profile pic"
-  location: 
-    display: San Francisco, CA
-    lat: 37.760999
-    long: -122.427065
+    display: San Francisco, United States
+    lat: 37.773972
+    long: -122.431297
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
@@ -292,36 +225,26 @@ profiles:
     display: London, United Kingdom
     lat: 51.52814
     long: -0.1339
-- uid: advocates.christina-warren
-  name: Christina Warren
-  tagline: HTML
-  image:
-    src: media/profiles/christina-warren.png
-    alt: "Christina Warren Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-- uid: advocates.christopher-harrison
-  name: Christopher Harrison
-  tagline: Web Development / JavaScript / TypeScript / Python
-  image:
-    src: media/profiles/christopher-harrison.png
-    alt: "Christopher Harrison Sr. Cloud Advocate"
-  location: 
-    display: Seattle, Washington, United States
-    lat: 47.5709315
-    long: -122.3865166
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
-  tagline: IoT / Cloud Dev
+  tagline: Data Engineering & Analytics
   image:
     src: media/profiles/christopher-maneu.png 
     alt: "Christopher Maneu Cloud Developer Advocate"
   location: 
-    display: Paris, France
+    display: France
     lat: 48.833968 
     long: 2.265598
+- uid: advocates.cynthia-zanoni
+  name: Cynthia Zanoni
+  tagline: JavaScript / GitHub / VSCode 
+  image:
+    src: media/profiles/cynthia-zanoni.png
+    alt: "Cynthia Zanoni - Cloud Advocate"
+  location: 
+    display: São Paulo, Brazil
+    lat: -23.6820636
+    long: -46.9249497
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
   tagline: Fluid / Microsoft 365 / Azure
@@ -332,6 +255,16 @@ profiles:
     display: Chandler, AZ, USA
     lat: 33.302284
     long: -111.8401
+- uid: advocates.daniel-laskewitz
+  name: Daniel Laskewitz
+  tagline: Power Platform
+  image:
+    src: media/profiles/daniel-laskewitz.png
+    alt: "Daniel Laskewitz"
+  location: 
+    display: Utrecht, The Netherlands
+    lat: 52.090736
+    long: 5.121420
 - uid: advocates.dave-glover
   name: Dave Glover
   tagline: IoT and Cloud
@@ -342,29 +275,9 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
-- uid: advocates.david-abu
-  name: David Abu
-  tagline: Power BI
-  image:
-    src: media/profiles/david-abu.png
-    alt: "David Abu Cloud Advocate"
-  location: 
-    display: Lagos, Nigeria
-    lat: 6.5244
-    long: 3.3792
-- uid: advocates.david-blank-edelman
-  name: David N. Blank-Edelman
-  tagline: SRE
-  image:
-    src: media/profiles/david-blank-edelman.png
-    alt: "David Blank-Edelman Cloud Ops Advocate"
-  location: 
-    display: Somerville, Massachusetts, United States
-    lat: 42.3875968
-    long: -71.0994968
 - uid: advocates.david-smith
   name: David Smith
-  tagline: JavaScript / AI / Data Science / R
+  tagline: AI / ML / Data Science / R
   image:
     src: media/profiles/david-smith.png
     alt: "David Smith Cloud Developer Advocate"
@@ -372,26 +285,16 @@ profiles:
     display: Napa, CA, USA
     lat: 38.2975381  
     long: -122.286865
-- uid: advocates.dean-bryen
-  name: Dean Bryen
-  tagline: Serverless, Devops, Node.js
+- uid: advocates.elaiza-benitez
+  name: Elaiza Benitez
+  tagline: Power Platform
   image:
-    src: media/profiles/dean-bryen.png
-    alt: "Dean Bryen - Cloud Developer Advocate"
+    src: media/profiles/elaiza-benitez.jpg
+    alt: "Elaiza Benitez"
   location: 
-    display: London, United Kingdom
-    lat: 51.508530
-    long: -0.076132
-- uid: advocates.dmitry-soshnikov
-  name: Dmitry Soshnikov
-  tagline: AI / ML / Python / F# / Students / K-12
-  image:
-    src: media/profiles/dmitry-soshnikov.png
-    alt: "Dmitry Soshnikov Cloud Developer Advocate"
-  location: 
-    display: Moscow, Russia
-    lat: 55.751244
-    long: 37.618423
+    display: Wellington, New Zealand
+    lat: -41.28664000
+    long: 174.77557000
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
@@ -399,19 +302,9 @@ profiles:
     src: media/profiles/em-lazerwalker.png
     alt: "Em Lazer-Walker - Cloud Advocate"
   location: 
-    display: Toronto, Ontario, Canada
-    lat: 43.647664
-    long: -79.3802294
-- uid: advocates.francesca-lazzeri
-  name: Francesca Lazzeri
-  tagline: Data Science / Machine Learning / Artificial Intelligence / Big Data
-  image:
-    src: media/profiles/francesca-lazzeri.png
-    alt: "Francesca Lazzeri Cloud Developer Advocate"
-  location: 
-    display: Boston, MA, USA
-    lat: 42.3601
-    long: -71.1209
+    display: San Francisco, California, United States
+    lat: 37.815141999999994
+    long: -122.518271
 - uid: advocates.frank-boucher
   name: Frank Boucher
   tagline: Development / DevOps / Serverless
@@ -422,26 +315,36 @@ profiles:
     display: Montreal, Quebec, Canada
     lat: 45.5017
     long: -73.5673
+- uid: advocates.garry-trinder
+  name: Garry Trinder
+  tagline: Development on Microsoft 365
+  image:
+    src: media/profiles/garry-trinder.jpeg
+    alt: "Garry Trinder Cloud Developer Advocate"
+  location: 
+    display: Doncaster, United Kingdom
+    lat: 53.52101
+    long: 1.13066
 - uid: advocates.glaucia-lemos
   name: Glaucia Lemos
   tagline: JavaScript / Node.js / A.I
   image:
     src: media/profiles/glaucia-lemos.png
-    alt: "Glaucia Lemos Regional Cloud Advocate"
+    alt: "Glaucia Lemos - Developer Advocate"
   location: 
     display: Rio de Janeiro, Brazil
     lat: -22.904491
     long: -43.190777
-- uid: advocates.greg-hurlman
-  name: Greg Hurlman
-  tagline: Power Platform / Web
+- uid: advocates.gomolemo-mohapi
+  name: Gomolemo Mohapi
+  tagline: Power Apps / Fusion Development
   image:
-    src: media/profiles/greg-hurlman.jpg
-    alt: "Greg Hurlman"
+    src: media/profiles/gomolemo-mohapi.png
+    alt: "Gomolemo Mohapi - Cloud Advocate"
   location: 
-    display: Seattle, Washington
-    lat: 47.65
-    long: -122.35
+    display: Durban, South Africa
+    lat: -29.858681
+    long: 31.021839
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
   tagline: Spatial Computing / Mixed Reality / AI
@@ -453,11 +356,11 @@ profiles:
     lat: 47.679194
     long: -122.153322
 - uid: advocates.gwyneth-penasiguenza
-  name: Gwyneth Pena-Siguenza
-  tagline: .NET & Serverless
+  name: Gwyneth Peña-Siguenza
+  tagline: Developer Tools
   image:
-    src: media/profiles/gwyneth-pena.jpg
-    alt: "Gwyneth Pena-Siguenza Cloud Developer Advocate"
+    src: media/profiles/gwyneth-penasiguenza.jpg
+    alt: "Gwyneth Peña-Siguenza Cloud Advocate"
   location: 
     display: New York,  New York, United States
     lat: 40.75325
@@ -472,16 +375,26 @@ profiles:
     display: Driebergen, The Netherlands
     lat: 52.0483174
     long: 5.2686323
-- uid: advocates.jan-schenk
-  name: Jan Schenk
-  tagline: Diversity & Inclusion, Linux
+- uid: advocates.ismael-mejia
+  name: Ismaël Mejía
+  tagline: Big Data / Data Engineering
   image:
-    src: media/profiles/jan-schenk.png
-    alt: "Jan Schenk Cloud Developer Advocate"
+    src: media/profiles/ismael-mejia.png
+    alt: "Ismaël Mejía Cloud Developer Advocate"
   location: 
-    display: Reading, United Kingdom
-    lat: 48.1364098
-    long: 11.5775404
+    display: Nantes, France
+    lat: 47.2184
+    long: 1.5536
+- uid: advocates.japhlet-nwamu
+  name: Japhlet Nwamu
+  tagline: AI / Power Platform / Microsoft 365 / Students / Faculty
+  image:
+    src: media/profiles/japhlet-nwamu.jpg
+    alt: "Japhlet Nwamu Cloud Advocate"
+  location: 
+    display: Abuja, Nigeria
+    lat: 9.072264
+    long: 7.491302
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: .NET
@@ -492,82 +405,22 @@ profiles:
     display: Brooklyn,  New York, United States
     lat: 40.67417
     long: -74.025653
-- uid: advocates.jahand
-  name: Jason Hand
-  tagline: DevOps
+- uid: advocates.joey-snow
+  name: Joey Snow
+  tagline: Common sense security for all.
   image:
-    src: media/profiles/jahand.jpg
-    alt: "Jason Hand Cloud Advocate"
+    src: media/profiles/joey-snow.jpg
+    alt: "Joey Snow Principal Cloud Advocate"
   location: 
-    display: Erie, Colorado, United States
-    lat: 40.0503
-    long: -105.0500
-- uid: advocates.jay-gordon
-  name: Jay Gordon
-  tagline: Linux
-  image:
-    src: media/profiles/jay-gordon.png
-    alt: "Jay Gordon Cloud Advocate"
-  location: 
-    display: Brooklyn, New York, United States
-    lat: 40.6701033
-    long: -73.9859723
-- uid: advocates.jeff-sandquist
-  name: Jeff Sandquist
-  tagline: Change invigorates the soul
-  image:
-    src: media/profiles/jeff-sandquist.png
-    alt: "Jeff Sandquist GM Cloud Developer Relations"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-- uid: advocates.jen-looper
-  name: Jen Looper
-  tagline: Vue / JavaScript
-  image:
-    src: media/profiles/jen-looper.png
-    alt: "Jen Looper - Cloud Advocate Lead"
-  location: 
-    display: Wellesley, Massachusetts, United States
-    lat: 42.310593
-    long: -71.27621
-- uid: advocates.jeramiah-dooley
-  name: Jeramiah Dooley
-  tagline: Operations / Platforms
-  image:
-    src: media/profiles/jeramiah-dooley.png
-    alt: "Jeramiah Dooley Cloud Operations Advocate"
-  location: 
-    display: Charlotte, NC, United States
-    lat: 35.2270869
-    long: -80.8431267
-- uid: advocates.jessica-deen
-  name: Jessica Deen
-  tagline: Linux / Open Source
-  image:
-    src: media/profiles/jessica-deen.png
-    alt: "Jessica Deen Cloud Developer Advocate"
-  location: 
-    display: Morgan Hill, CA, USA
-    lat: 37.191441
-    long: -121.435883
-- uid: advocates.jim-bennett
-  name: Jim Bennett
-  tagline: IoT/Academic
-  image:
-    src: media/profiles/jim-bennett.jpeg
-    alt: "Jim Bennett Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
+    display: Redmond, WA, USA
+    lat: 47.673988
+    long: -122.121513
 - uid: advocates.john-papa
   name: John Papa
-  tagline: JavaScript / Node.js / Web
+  tagline: Web technologist, engineering leader, and storyteller
   image:
     src: media/profiles/john-papa.png
-    alt: "John Papa Cloud Developer Advocate"
+    alt: "John Papa Principal Cloud Advocate Lead"
   location: 
     display: Orlando, Florida, United States
     lat: 28.5029917
@@ -582,6 +435,46 @@ profiles:
     display: Melbourne, Australia
     lat: -37.81753
     long: 144.96715
+- uid: advocates.josh-ndemenge
+  name: Josh Ndemenge
+  tagline: Data Engineering and Analytics
+  image:
+    src: media/profiles/josh-ndemenge.JPG
+    alt: "Josh Ndemenge Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: -1.286389
+    long: 36.817223
+- uid: advocates.joshua-duffney
+  name: Joshua Duffney
+  tagline: Secure Software Supply Chain
+  image:
+    src: media/profiles/joshua-duffney.jpg
+    alt: "Joshua Duffney Senior Cloud Advocate"
+  location: 
+    display: Bellevue, NE
+    lat: 41.1543623
+    long: -95.914556
+- uid: advocates.joylynn-kirui
+  name: Joylynn Kirui
+  tagline: Cybersecurity
+  image:
+    src: media/profiles/joylynn-kirui.jpg
+    alt: "Joylynn Kirui Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: -1.286389
+    long: 36.817223
+- uid: advocates.julia-muiruri
+  name: Julia Muiruri
+  tagline: Students/Educators/VS Code
+  image:
+    src: media/profiles/julia-muiruri.jpg
+    alt: "Julia Muiruri Cloud Advocate"
+  location: 
+    display: Nairobi, Kenya
+    lat: -1.286389
+    long: 36.817223
 - uid: advocates.julien-dubois
   name: Julien Dubois
   tagline: Java
@@ -602,19 +495,49 @@ profiles:
     display: Daegu, South Korea
     lat: 35.8797297
     long: 128.4966604
+- uid: advocates.kamalshree-soundirapandian
+  name: Kamal Shree Soundirapandian
+  tagline: Microsoft 365 / Flutter & Dart / Android
+  image:
+    src: media/profiles/kamalshree-soundirapandian.jpg
+    alt: "Kamal Shree - Developer Advocate for Microsoft 365"
+  location: 
+    display: Bengaluru (Bangalore)
+    lat: 12.972442
+    long: 77.580643
+- uid: advocates.kinfey-lo
+  name: Kinfey Lo
+  tagline: AzureOpenAIService / AzureAI / GitHub
+  image:
+    src: media/profiles/kinfey-lo.jpg
+    alt: "Kinfey Lo - Senior Cloud Advocate"
+  location: 
+    display: Guangzhou, China
+    lat: 23.128994
+    long: 113.253250
+- uid: advocates.Korey-stegared-pace
+  name: Korey Stegared-Pace
+  tagline: Data Science / Azure / Artificial Intelligence
+  image:
+    src: media/profiles/korey-stegaredpace.png
+    alt: "Korey Stegared-Pace Cloud Developer Advocate"
+  location: 
+    display: Stockholm, Sweden
+    lat: 59.334591
+    long: 18.063240
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
-  tagline: .NET / Xamarin
+  tagline: .NET / Blazor / Xamarin
   image:
     src: media/profiles/laurent-bugnion.png 
     alt: "Laurent Bugnion Cloud Developer Advocate"
   location: 
-    display: Wallisellen, Bülach, Switzerland
-    lat: 47.417478
-    long: 8.58175
+    display: Zurich, Switzerland
+    lat: 47.36685141858674
+    long: 8.542759772328836
 - uid: advocates.lee-stott
   name: Lee Stott
-  tagline: AI / ML / Students / Faculty
+  tagline: AI / ML 
   image:
     src: media/profiles/lee-stott.png
     alt: "Lee Stott Cloud Advocate"
@@ -622,16 +545,16 @@ profiles:
     display: Manchester, United Kingdom
     lat: 53.47959
     long: -2.24874
-- uid: advocates.lucas-santos
-  name: Lucas Santos
-  tagline: Kubernetes / Containers / Docker / JavaScript / Node.js / TypeScript
+- uid: advocates.liam-hampton
+  name: Liam Hampton
+  tagline: Go / DevOps / Containers
   image:
-    src: media/profiles/lucas-santos.png
-    alt: "Lucas Santos Cloud Advocate"
+    src: media/profiles/liam-hampton.jpg
+    alt: "Liam Hampton Cloud Advocate"
   location: 
-    display: Santo André, São Paulo
-    lat: -23.7103031
-    long: -46.4928907
+    display: London, UK
+    lat: 51.521809
+    long: -0.084360
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
   tagline: Mixed Reality / HoloLens / C# / Conversational AI / (Manga)
@@ -652,6 +575,16 @@ profiles:
     display: St. Louis, MO, USA
     lat: 38.7588171
     long: -90.4011274
+- uid: advocates.marlene-mhangami
+  name: Marlene Mhangami
+  tagline: Python 
+  image:
+    src: media/profiles/marlene-mhangami.jpeg
+    alt: "Marlene Mhangami, Senior Cloud Advocate"
+  location: 
+    display: London, UK
+    lat: 51.521809
+    long: -0.084360
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
   tagline: .NET / Xamarin
@@ -662,46 +595,6 @@ profiles:
     display: Seattle, WA, USA
     lat: 47.60621
     long: -122.33207
-- uid: advocates.maxime-rouiller
-  name: Maxime Rouiller
-  tagline: .NET / Serverless / Durable Functions
-  image:
-    src: media/profiles/maxime-rouiller.png
-    alt: "Maxime Rouiller Cloud Advocate"
-  location: 
-    display: Montréal, Québec, Canada
-    lat: 45.5017
-    long: -73.5673
-- uid: advocates.meaghan-lewis
-  name: Meaghan Lewis
-  tagline: Emerging Technologies
-  image:
-    src: media/profiles/meaghan-lewis.png
-    alt: "Meaghan Lewis Advocate profile pic"
-  location: 
-    display: Vallejo, CA, United States
-    lat: 38.104088
-    long: -122.256638
-- uid: advocates.mike-james
-  name: Mike James
-  tagline: Xamarin
-  image:
-    src: media/profiles/mike-james.png
-    alt: "Mike James Cloud Developer Advocate"
-  location: 
-    display: London, United Kingodom
-    lat: 51.5218
-    long: 0.0839
-- uid: advocates.nina-zakharenko
-  name: Nina Zakharenko
-  tagline: Python
-  image:
-    src: media/profiles/nina-zakharenko.png
-    alt: "Nina Zakharenko Cloud Developer Advocate"
-  location: 
-    display: Portland, Oregon, United States
-    lat: 45.512794
-    long: -122.679565
 - uid: advocates.nitya-narasimhan
   name: Nitya Narasimhan
   tagline: Mobile, Multi-Platform, Azure, PWA
@@ -712,6 +605,16 @@ profiles:
     display: New York City, NY, United States
     lat: 40.757131
     long: -73.989784
+- uid: advocates.olivia-guzzardo
+  name: Olivia Guzzardo
+  tagline: VS Code / Azure / GitHub
+  image:
+    src: media/profiles/olivia-guzzardo.png
+    alt: "Olivia Guzzardo Cloud Advocate"
+  location: 
+    display: Charleston, SC, USA
+    lat: 32.783062
+    long: -79.93444
 - uid: advocates.orin-thomas
   name: Orin Thomas
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
@@ -722,16 +625,26 @@ profiles:
     display: Melbourne, Victoria, Australia
     lat: -37.48
     long: 144.57
-- uid: advocates.ornella-altunyan
-  name: Ornella Altunyan
-  tagline: AI / ML / Students
+- uid: advocates.pablo-lopes
+  name: Pablo Lopes
+  tagline: Azure / Python / Dot Net / VS Code / AI
   image:
-    src: media/profiles/ornella-altunyan.png
-    alt: "Ornella Altunyan Advocate profile pic"
+    src: media/profiles/pablo-lopes.jpg
+    alt: "Pablo Lopes Cloud Advocate"
   location: 
-    display: San Francisco, CA
-    lat: 37.7749
-    long: -122.4194
+    display: São Paulo, São Paulo, Brazil
+    lat: -23.5475
+    long: -46.6361
+- uid: advocates.pamela-fox
+  name: Pamela Fox
+  tagline: Python
+  image:
+    src: media/profiles/pamela-fox.png
+    alt: "Pamela Fox Cloud Advocate"
+  location: 
+    display: El Cerrito, CA
+    lat: 37.9180571
+    long: -122.319883
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
   tagline: Containers
@@ -744,7 +657,7 @@ profiles:
     long: -122.518271
 - uid: advocates.paul-decarlo
   name: Paul DeCarlo
-  tagline: IoT
+  tagline: AI, ML, Data, IoT
   image:
     src: media/profiles/paul-decarlo.png
     alt: "Paul DeCarlo Cloud Developer Advocate"
@@ -752,16 +665,15 @@ profiles:
     display: Houston, Texas, US
     lat: 29.726948
     long: -95.609268
-- uid: advocates.phoummala-schmitt
-  name: Phoummala Schmitt
-  tagline: IT Infrastructure / Operations 
+- uid: advocates.paul-yu
+  name: Paul Yu
   image:
-    src: media/profiles/phoummala-schmitt.png
-    alt: "Phoummala Schmitt Cloud Operations Advocate"
+    src: media/profiles/paul-yu.jpg 
+    alt: "Paul Yu Cloud Advocate"
   location: 
-    display: Harrisburg, Pennsylvania, United States
-    lat: 40.2731911
-    long: -76.8867008
+    display: Los Angeles, California, United States
+    lat: 34.0549
+    long: 118.2426
 - uid: advocates.pierre-roman
   name: Pierre Roman
   tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
@@ -782,12 +694,31 @@ profiles:
     display: Brisbane, QLD, Australia
     lat: 27.4698
     long: 153.0251
+- uid: advocates.renee-noble
+  name: Renee Noble
+  tagline: Python / AI / ML
+  image:
+    src: media/profiles/renee-noble.png
+    alt: "Renee Noble Cloud Advocate"
+  location: 
+    display: Sydney, Australia
+    lat: -33.8652521
+    long: 151.2029634
 - uid: advocates.rick-claus
   name: Rick Claus
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
   image:
     src: media/profiles/rick-claus.png 
     alt: "Rick Claus Cloud Advocate"
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.645171
+    long: -122.130696
+- uid: advocates.rob-conery
+  name: Rob Conery
+  image:
+    src: media/profiles/rob-conery.jpg 
+    alt: "Rob Conery Cloud Advocate"
   location: 
     display: Redmond, Washington, United States
     lat: 47.645171
@@ -812,26 +743,6 @@ profiles:
     display: Johannesburg, South Africa
     lat: -26.204103
     long: 28.047304
-- uid: advocates.ruth-yakubu
-  name: Ruth Yakubu
-  tagline: Java / AI / Data
-  image:
-    src: media/profiles/ruth-yakubu.png
-    alt: "Ruth Yakubu Cloud Developer Advocate"
-  location: 
-    display: New York, New York, United States
-    lat: 40.770425
-    long: -74.404626
-- uid: advocates.ryan-levick
-  name: Ryan Levick
-  tagline: Rust / Functional Programming / JavaScript/TypeScript / Architecture
-  image:
-    src: media/profiles/ryan-levick.jpg
-    alt: "Ryan Levick, Cloud Advocate"
-  location: 
-    display: Berlin, Germany
-    lat: 52.515816
-    long: 13.45429
 - uid: advocates.sandra-ahlgrimm
   name: Sandra Ahlgrimm
   tagline: Container / Java / DevOps
@@ -842,116 +753,66 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
-- uid: advocates.sarah-guthals
-  name: Sarah Guthals, PhD
-  tagline: Developer Experiences and Tools / she/her
+- uid: advocates.sarah-kaiser
+  name: Sarah Kaiser
+  tagline: Python
   image:
-    src: media/profiles/sarah-guthals.png
-    alt: "Sarah Guthals Advocate profile pic"
+    src: media/profiles/sarah-kaiser.png
+    alt: "Sarah Kaiser Cloud Advocate"
   location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-- uid: advocates.sarah-lean
-  name: Sarah Lean
-  tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
+    display: Seattle, Washington, USA
+    lat: 47.60357
+    long: -122.32945
+- uid: advocates.sarah-young
+  name: Sarah Young
+  tagline: Security for all the things
   image:
-    src: media/profiles/sarah-lean.png 
-    alt: "Sarah Lean Cloud Advocate"
+    src: media/profiles/sarah-young.png 
+    alt: "Sarah Young Cloud Security Advocate"
   location: 
-    display: Glasgow, Scotland, United Kingdom
-    lat: 55.864239
-    long: -4.251806
-- uid: advocates.scott-cate
-  name: Scott Cate
-  tagline: .NET
+    display: Melbourne, Victoria, Australia
+    lat: -37.48
+    long: 144.57
+- uid: advocates.scott-durow
+  name: Scott Durow
+  tagline: Power Platform
   image:
-    src: media/profiles/scott-cate.png
-    alt: "Scott Cate Cloud Developer Advocate"
+    src: media/profiles/scott-durow.png
+    alt: "Scott Durow"
   location: 
-    display: West Palm Beach, Florida, United States
-    lat: 26.758461
-    long: -80.226609
-- uid: advocates.scott-coulton
-  name: Scott Coulton
-  tagline: Linux / Containers / Kubernetes
+    display: Vancouver, Canada
+    lat: 49.246292
+    long: -123.116226
+- uid: advocates.someleze-diko
+  name: Someleze Diko
+  tagline: Power Platform
   image:
-    src: media/profiles/scott-coulton.png
-    alt: "Scott Coulton Cloud Developer Advocate"
+    src: media/profiles/someleze-diko.png
+    alt: "Someleze Diko - Cloud Advocate"
   location: 
-    display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
-- uid: advocates.seth-juarez
-  name: Seth Juarez
-  tagline: AI / ML / Quantum / Emerging
-  image:
-    src: media/profiles/seth-juarez.png 
-    alt: "Seth Juarez Cloud Developer Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
-- uid: advocates.shannon-kuehn
-  name: Shannon Kuehn
-  tagline: Azure / Infrastructure / Operations
-  image:
-    src: media/profiles/shannon-kuehn.png
-    alt: "Shannon Kuehn Cloud Advocate"
-  location: 
-    display: Chicago, IL, United States
-    lat: 41.881832
-    long: -87.623177
-- uid: advocates.shayne-boyer
-  name: Shayne Boyer
-  tagline: .NET
-  image:
-    src: media/profiles/shayne-boyer.png
-    alt: "Shayne Boyer Cloud Developer Advocate"
-  location: 
-    display: DeLand, Florida, United States
-    lat: 29.022108
-    long: -81.312887
-- uid: advocates.shmuela-jacobs
-  name: Shmuela Jacobs
-  tagline: JavaScript / Web
-  image:
-    src: media/profiles/shmuela-jacobs.png
-    alt: "Shmuela Jacobs Cloud Advocate"
-  location: 
-    display: Tel Aviv, Israel
-    lat: 32.081359
-    long: 34.780957
-- uid: advocates.simona-cotin
-  name: Simona Cotin
-  tagline: JavaScript / Node.js / Python
-  image:
-    src: media/profiles/simona-cotin.png 
-    alt: "Simona Cotin Cloud Developer Advocate"
-  location: 
-    display: Reading, United Kingdom
-    lat: 51.458046
-    long: -1.012501
+    display: Durban, South Africa
+    lat: -29.858681
+    long: 31.021839
 - uid: advocates.sonia-cuff
   name: Sonia Cuff
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
   image:
     src: media/profiles/sonia-cuff.png
-    alt: "Sonia Cuff Cloud Operations Advocate"
+    alt: "Sonia Cuff Cloud Advocate Lead"
   location: 
     display: Brisbane, Queensland, Australia
     lat: -27.47126
     long: 153.02385
 - uid: advocates.steven-murawski
   name: Steven Murawski
-  tagline: DevOps
+  tagline: Cloud Native
   image:
     src: media/profiles/steven-murawski.png 
     alt: "Steven Murawski Cloud Developer Advocate"
   location: 
-    display: Oconomowoc, Wisconsin, United States
-    lat: 43.107377
-    long: -88.543443
+    display: New Berlin, Wisconsin, United States
+    lat: 42.976402
+    long: -88.108422
 - uid: advocates.thomas-lewis
   name: Thomas Lewis
   tagline: Mixed Reality / HoloLens
@@ -962,26 +823,6 @@ profiles:
     display: Seattle, WA
     lat: 47.6062
     long: -122.3321
-- uid: advocates.thomas-maurer
-  name: Thomas Maurer
-  tagline: Azure / Azure Arc / Windows Server / IT Pro
-  image:
-    src: media/profiles/thomas-maurer.png 
-    alt: "Thomas Maurer Cloud Advocate"
-  location: 
-    display: Basel, Switzerland
-    lat: 47.55734
-    long: 7.58741
-- uid: advocates.tierney-cyren
-  name: Tierney Cyren
-  tagline: Node.js / JavaScript / Automation / Security
-  image:
-    src: media/profiles/tierney-cyren.png
-    alt: "Tierney Cyren Cloud Developer Advocate"
-  location: 
-    display: Brooklyn, New York, United States
-    lat: 40.6782
-    long: -73.9442
 - uid: advocates.todd-anglin
   name: Todd Anglin
   tagline: Web / Mobile Development
@@ -1002,6 +843,16 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.773972
     long: -122.431297
+- uid: advocates.vinicius-apolinario
+  name: Vinicius Apolinario
+  tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
+  image:
+    src: media/profiles/vinicius-apolinario.png
+    alt: "Vinicius Apolinario Cloud Advocate"
+  location: 
+    display: Redmond, Washington, United States
+    lat: 47.645152
+    long: -122.140760
 - uid: advocates.waldek-mastykarz
   name: Waldek Mastykarz
   tagline: Microsoft 365
@@ -1042,3 +893,13 @@ profiles:
     display: Minato-ku Tokyo, Japan
     lat: 35.626610
     long: 139.740982
+- uid: advocates.yoshua-wuyts
+  name: Yoshua Wuyts
+  tagline: Rust
+  image:
+    src: media/profiles/yoshua-wuyts.jpg
+    alt: "Yoshua Wuyts, Rust Developer Advocate"
+  location: 
+    display: Copenhagen, Denmark
+    lat: 55.676098
+    long: 12.568337

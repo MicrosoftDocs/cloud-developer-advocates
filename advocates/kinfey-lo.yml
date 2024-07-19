@@ -1,0 +1,40 @@
+### YamlMime:Profile
+uid: advocates.kinfey-lo
+name: Kinfey Lo
+metadata:
+  title: Kinfey Lo - Senior Cloud Advocate
+  description: Home page for Kinfey Lo, a Microsoft Senior Cloud Advocate
+  ms.author: kinfeylo
+  team: aiml
+remarks: |
+  ## Bio
+  Kinfey Lo focuses on AI + Data. At this stage, he mainly provides technical evangelism to students, developers, and entrepreneurial teams, mainly including Semantic Kernel, LangChain's Copilot application development, AutoGen to build intelligent agent applications, as well as LLMOps and SLMOps, etc.
+
+  ## Skills
+  * Azure AI Service
+  * Azure OpenAI Service 
+  * Python
+  * .NET
+  * Rust
+  * MLOps
+  * Visual Studio Code
+  * GitHub
+  * Artificial Intelligence for developers
+
+  ## My Projects
+  * [SemanticKernelCookBook](https://aka.ms/SemanticKernelCookBook)
+  * [Phi-3CookBook](https://aka.ms/Phi-3CookBook)
+tagline: AzureOpenAIService / AzureAI / GitHub
+image:
+  alt: "Kinfey Lo - Senior Cloud Advocate"
+  src: media/profiles/kinfey-lo.jpg
+connect:
+  - title: GitHub
+    url: https://github.com/kinfey
+  - title: Twitter
+    url: https://twitter.com/Ljh8304
+
+location:
+  display: Guangzhou, China
+  lat: 23.128994
+  long: 113.253250

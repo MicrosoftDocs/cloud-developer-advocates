@@ -1,10 +1,13 @@
-# This is a basic workflow to help you get started with Actions
-
-name: CI
+name: Advocate Schema Validation
 
 # Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
-on: [push, pull_request]
+# events but only for the main branch
+on: 
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches: [main, live]
+    paths: 
+      - 'advocates/**'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -13,12 +16,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
 
-    - name: Setup .NET 5
-      uses: actions/setup-dotnet@v1
+    - name: Setup .NET 8
+      uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: 5.0.x
+        dotnet-version: 8.0.x
 
     - name: Install dependencies
       run: |

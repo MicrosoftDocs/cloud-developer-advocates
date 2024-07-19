@@ -1,0 +1,42 @@
+### YamlMime:Profile
+uid: advocates.japhlet-nwamu
+name: Japhlet Nwamu
+metadata:
+  title: Japhlet Nwamu - Cloud Advocate
+  description: Home page for Japhlet Nwamu, a Microsoft Cloud Advocate
+  ms.author: japhletnwamu
+  team: academic
+remarks: |
+  ## Bio
+  Japhlet Nwamu is a Cloud Advocate focused on Microsoft Power Platform, Microsoft 365, Data and AI. He is a community builder and is passionate about empowering the world bit by bit, helping everyone on the planet achieve more with technology.
+  Japhlet strongly believes that everyone when given access to the right tools and opportunities, can innovate and build mind-blowing solutions. 
+  <br>
+
+  Before joining Microsoft, he was a [Gold Microsoft Learn Student Ambassador](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate/ba-p/3239001) and had the opportunity of speaking at over 100 sessions upskilling thousands of students and communities around the world. During his free time, he loves watching movies, visiting new places, interacting with people and making new friends, playing football and hiking. 
+
+  ## Skills
+  * AI
+  * Power Platform
+  * Data Science
+  * Microsoft Azure
+  * C#
+  * Community Building
+
+tagline: AI / Power Platform / Microsoft 365 / Students / Faculty
+image:
+  alt: "Japhlet Nwamu Cloud Advocate"
+  src: media/profiles/japhlet-nwamu.jpg
+connect:
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/japhletnwamu
+  - title: GitHub
+    url: https://github.com/japhletnwamu
+  - title: Twitter
+    url: https://twitter.com/japhletnwamu
+  - title: Microsoft Tech Community
+    url: https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/1379878
+
+location:
+  display: Abuja, Nigeria
+  lat: 9.072264
+  long: 7.491302

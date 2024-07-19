@@ -1,0 +1,42 @@
+### YamlMime:Profile
+uid: advocates.bethany-cheum
+name: Bethany Cheum
+metadata:
+  title: Bethany Jepchumba Cheum - Cloud Advocate, Data Science, AI & ML
+  description: Home page for Bethany Jepchumba, a Microsoft Cloud Advocate
+  ms.author: bethanyjep
+  team: aiml
+remarks: |
+  ## Bio
+  Bethany is passionate about Data Science, Artificial Intelligence and Machine Learning.
+  Prior to joining the role, she was a Gold [Microsoft Learn Student Ambassador](https://techcommunity.microsoft.com/t5/student-developer-blog/meet-a-recent-microsoft-learn-student-ambassador-graduate/ba-p/3034377?msclkid=46d12890c1b211ec83765c0a2a2e587b).
+
+  She comes from a community of marathon runners 🏃🏃 but decided to run code instead🤓.
+
+  ## Skills
+  * Python
+  * Data Science
+  
+  ## Projects
+  * [Gen AI for Beginners](https://aka.ms/gen-ai-beginners)
+  * [AI for Beginners](https://aka.ms/ai-beginners)
+  * [ML for Beginners] (https://aka.ms/ml-beginners)
+  * [Data Science for Beginners](https://aka.ms/datascience-beginners)
+tagline: Python / Data Science / AI & ML
+image:
+  alt: "Bethany Cheum Cloud Advocate"
+  src: media/profiles/bethany-cheum.png
+connect:
+  - title: GitHub
+    url: https://github.com/bethanyjep
+  - title: Twitter
+    url: https://twitter.com/bethanyjep
+  - title: Blog
+    url: https://dev.to/bethanyjep
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/bethany-jep
+
+location:
+  display: Nairobi, Kenya
+  lat: 1.2921
+  long: 36.8219

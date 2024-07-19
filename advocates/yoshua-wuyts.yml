@@ -1,0 +1,54 @@
+### YamlMime:Profile
+uid: advocates.yoshua-wuyts
+name: Yoshua Wuyts
+metadata:
+  title: Yoshua Wuyts - Rust Developer Advocate
+  description: Home page for Yoshua Wuyts, a Microsoft Rust Developer Advocate
+  ms.author: yoshwuyts
+  team: rust
+remarks: |
+  ## Bio
+
+  Yosh is a developer advocate at Microsoft for the Rust programming language, based
+  in Copenhagen, Denmark. They've spent their career working on public projects,
+  starting in Node.js but gradually moving to doing more in Rust until that became
+  their primary focus.
+
+  They keep [a blog](https://blog.yoshuawuyts.com) where they write about designing
+  the Rust language and libraries, and occasionally they make videos on programming and
+  Rust specifically. When they're not working they love to cook (and tweet about said
+  cooking), and goof off with their two (extremely cute) cats.
+
+  ## Office Hours
+
+  Yosh is always happy to grab a coffee and chat about Rust, programming
+  languages, or tech in general. Times available are generally between 10:00 and
+  17:00 CET/CEST. Contact them via [Twitter](https://twitter.com/yoshuawuyts).
+
+  ## Notable Projects
+
+  - [Choo](https://choo.io) - A minimal JavaScript frontend framework.
+  - [async-std](https://async.rs) - A full reimplementation of the Rust stdlib using async Rust.
+  - [Tide](https://docs.rs/tide) - A pragmatic web framework built for async Rust.
+
+tagline: Rust
+image:
+  alt: "Yoshua Wuyts, Rust Developer Advocate"
+  src: media/profiles/yoshua-wuyts.jpg
+connect:
+  - title: Twitter  
+    url: https://twitter.com/yoshuawuyts
+  - title: GitHub
+    url: https://github.com/yoshuawuyts
+  - title: Blog
+    url: https://blog.yoshuawuyts.com
+  - title: YouTube
+    url: https://www.youtube.com/yoshuawuyts
+  - title: Twitch
+    url: https://www.twitch.tv/yoshuawuyts
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/yoshuawuyts/
+location:
+  display: Copenhagen, Denmark
+  lat: 55.676098
+  long: 12.568337

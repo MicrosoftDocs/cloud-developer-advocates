@@ -9,7 +9,7 @@ metadata:
 remarks: |
   ## Bio
   Orin Thomas is a Principal Cloud Operations Advocate at Microsoft and has written more than 3 dozen books for Microsoft Press on topics including Windows Server, Windows Client, Azure, Microsoft 365, Office 365, System Center, Exchange Server, Security, and SQL Server. 
-  As a Cloud Advocate with an IT Operations focus, Orin educates, empowers and upskills technical communities and captures feedback on how to make Microsoft's products even better. He is completing a Doctorate of Information Technology on cloud computing security and compliance at Charles Sturt University. 
+  As a Cloud Advocate with an IT Operations focus, Orin advocates to and on behalf of the Microsoft ecosystem IT Professional community. 
   ## Skills
   * Infrastructure 
   * Windows Server
@@ -28,7 +28,7 @@ connect:
   - title: GitHub
     url: https://github.com/orin-thomas
   - title: Blog
-    url: https://orinthomas.com/
+    url: http://orinthomas.com/
   - title: LinkedIn
     url: https://www.linkedin.com/in/orin-thomas
   - title: Instagram

@@ -1,0 +1,57 @@
+### YamlMime:Profile
+uid: advocates.sarah-kaiser
+name: Sarah Kaiser
+metadata:
+  title: Sarah Kaiser - Senior Cloud Advocate
+  description: Home page for Sarah Kaiser, a Microsoft Cloud Advocate
+  ms.author: sarahkaiser
+  team: academic
+remarks: |
+  ## Bio
+
+  👋 Hi! My name is Sarah Kaiser (she/her), your friendly neighborhood Cloud Advocate at Microsoft.
+  
+  🧪 I have spent much of my career developing new hardware in the lab, from satellites to VR to quantum computers. My house and my boat are my lab, and I experiment with microcontrollers to make them smarter.
+  
+  🔊 Communicating what is new and exciting about technology is my passion. I love writing, speaking and building new tools to enable the open source community to grow.
+
+  💎 Lasers are my jam, and I am constantly finding new reasons I need to laser cut or etch everything I can get my hands on.
+
+  🐕 When not at my split ergo keyboard, I love boating in the Puget Sound area, and playing with my dog Chewie.
+
+  ## Skills
+  - Python
+  - Data Science
+  - AI/ML
+  - Quantum Technologies
+  - OSS Community Building
+  - Public Speaking
+
+  ## Featured Talks & Publications
+  - [Learn Quantum Computing with Python and Q#, Manning]()
+  - [ABCs of Engineering](https://read.sourcebooks.com/for-children/9781492671213-abcs-of-engineering-board-book.html), [Neural Networks for Babies](https://read.sourcebooks.com/for-children/9781492671206-neural-networks-for-babies-board-book.html), and [Robotics for Babies, Sourcebooks](https://read.sourcebooks.com/for-children/9781492671190-robotics-for-babies-board-book.html)
+  - [Microsoft Build 2019 - Learning Q# with Python: building the quantum programming community](https://www.youtube.com/watch?v=c8v2XaI9AsI)
+  - [Quantum Questions with Dr. Sarah Kaiser | CodeStories (Channel 9)](https://www.youtube.com/watch?v=10GacpQDfDQ)
+  - [Quantum Code with Dr. Sarah Kaiser | CodeStories (Channel 9)](https://www.youtube.com/watch?v=4or-9rwLaTg)
+  - PhD Thesis - Quantum key distribution devices: How to make them and how to break them - [PDF](https://uwspace.uwaterloo.ca/handle/10012/10725), [Slides](https://www.sckaiser.com/talks/thesis_defense/#/)
+
+tagline: Python
+image:
+  alt: "Sarah Kaiser Cloud Advocate"
+  src: media/profiles/sarah-kaiser.png
+connect:
+  - title: GitHub
+    url: https://github.com/crazy4pi314
+  - title: Twitter
+    url: https://twitter.com/crazy4pi314
+  - title: Twitch
+    url:  https://twitch.tv/crazy4pi314
+  - title: Website
+    url: https://www.sckaiser.com
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/sckaiser1
+
+location:
+  display: Seattle, Washington, USA
+  lat: 47.60357
+  long: -122.32945
