@@ -3,51 +3,63 @@ uid: advocates.laurent-bugnion
 name: Laurent Bugnion
 metadata:
   title: Laurent Bugnion - Cloud Advocate
-  description: Home page for Laurent Bugnion, a Microsoft Cloud Developer Advocate
+  description: Home page for Laurent Bugnion, a Microsoft Cloud Advocate
   ms.author: lbugnion
-  team: dotnet
+  team: devtools
 remarks: |
   ## Bio
-  I come to Microsoft after a long career in the industry as a software developer. Initially an electrical engineer, I started coding professionally for Siemens in the 90s (in C!) and did a postgrade education in software engineering. Back then all the cool kids did Java and so I did too. Those were fun days but then I discovered .NET in 2001 and never looked back. I did it all, from WinForms to WebForms to ASP.NET. But I was always interested in design and so when Siemens sent me to Vegas at the first MIX conference and I discovered XAML and Blend, I was sold. The next years were spent doing a lot of WPF, Silverlight (Loved it!) and all subsequent XAML-based technologies.
+  I come to Microsoft after a long career in the industry as a software developer. Initially an electrical engineer, I started coding professionally for Siemens in the 90s (in C!) and did a postgrade education in software engineering. Back then all the cool kids did Java and so I did too. Those were fun days but then I discovered .NET in 2000 and never looked back. I did it all, from WinForms to WebForms to ASP.NET. But I was always interested in design and so when Siemens sent me to Vegas at the first MIX conference in 2006, and I discovered XAML and Blend, I was sold. The next years were spent doing a lot of WPF, Silverlight (Loved it!) and all subsequent XAML-based technologies.
 
-  I wrote Silverlight 2 Unleashed for Sams in 2008 and later Silverlight 4 Unleashed. In 2009 I also published an Model-View-Viewmodel framework called MVVM Light Toolkit which has become surprisingly popular, and led me to speak about this architecture pattern and the XAML (and later Xamarin) technologies all around the world. I spoke at MIX three times (2009, 2010, 2011) which is one of the most amazing experiences of my professional life. Even though I was more of a client guy, I am really excited about Azure. Next to being a Windows Dev MVP from 2007 to 2017, I was also a Microsoft Regional Director since 2013 ( [https://rd.microsoft.com](https://rd.microsoft.com)) and I saw how excited this amazing group of people is about Azure. It is clear for me that this is the place to be. That's why I got really excited when I received the offer to join this team and work with a lot of friends and colleagues on promoting and teaching it.
+  I wrote Silverlight 2 Unleashed for Sams in 2008 and later Silverlight 4 Unleashed. In 2009 I also published an Model-View-Viewmodel framework called MVVM Light Toolkit which became surprisingly popular, and led me to speak about this architecture pattern and the XAML (and later Xamarin) technologies all around the world. I spoke at MIX three times (2009, 2010, 2011) which was one of the most amazing experiences of my professional life. Next to being a Windows Dev MVP from 2007 to 2017, I was also a Microsoft Regional Director since 2013 ( [https://rd.microsoft.com](https://rd.microsoft.com)) and I saw how excited this amazing group of people is about Azure. It was clear for me that this is the place to be. That's why I got really excited when I received the offer to join this team and work with a lot of friends and colleagues on promoting and teaching Azure.
 
-  On the private side, I love to garden (I have a fish pond with water lilies, toads, newts, and many fishes of many kinds), go hiking in the Swiss mountains that I call home, travel all around the world and explore. I recently acquired a DJI Mavic Pro quadcopter which led me to [start making videos](https://www.youtube.com/channel/UCb_gm1NXTZXyvqgXAh_H32A/videos) as well [as pictures](https://www.instagram.com/lbugnion/) of the amazing places I am lucky to visit. I love to spend time with my family (I have two teenage daughters, who can be both adorable and exhausting) and friends. A big part of my professional activity is speaking at conferences worldwide, and I love to travel and meet, train, teach people everywhere I can.
+  For the Cloud Advocacy team, I am active on multiple fronts. For the past few years I was the Executive Producer of a show called [Learn Live](https://aka.ms/learnlive). After about 350 shows in 2.5 years, I decided to pass the torch in July 2024 to the Microsoft Reactors team who will continue to produce the show. For me, I will concentrate in the future on a few activities:
+
+  - Working on first party event labs such as Microsoft Build and Microsoft Ignite. Hands-on labs (both instructors-led and on-demand are very popular at our events and we are striving to offer a great experience to our attendees. This comes with challenges too, but who doesn't like a good challenge!
+  - Working on the Microsoft AI Tour, a series of events worldwide around Microsoft AI, Copilot and other cool technologies we are working on.
+  - Working with the Visual Studio team to promote and create content around this amazing tool that I've been using for 20 years now ([my first Visual Studio was 6.0!!](https://en.wikipedia.org/wiki/Visual_Studio#History)).
+
+  On the private side, I am a Harley rider and ride often with my wife Vanch in the Swiss alps, in Europe and sometimes the US. I love to garden (we have a fish pond with water lilies, toads, newts, and many fishes of many kinds), go hiking in the Swiss mountains that I call home, kayak on the lakes and rivers (we have two foldable kayaks), travel all around the world and explore. I also create a lot of content with our travel, my drone, or when riding the Harley. I publish content occasionally on my private [YouTube channel](https://gslb.ch/youtube) as well [on Flickr](https://gslb.ch/flickr) of the amazing places I am lucky to visit. I love to spend time with my family and friends. A big part of my professional activity is speaking at conferences worldwide, and I love to travel and meet, train, teach people everywhere I can.
 
   Oh, and if you want to know more, you can check [this podcast](https://wildermuth.com/hwpod/26/Laurent-Bugnion) or [my blog](https://blog.galasoft.ch/posts/).
 
   ## Skills
   * .NET
-  * Xamarin
-  * XAML
-  * Blend
-  * Model-View-ViewModel
+  * Visual Studio
+  * GitHub Copilot
+  * Azure Functions
+  * Azure Static Web Apps
+  * Azure App Service
+  * Azure Logic Apps
+  * Blazor
+  * Azure SignalR Service
+  * Azure AI Studio
+  * and more...
 
   ## My Projects
-  * [MVVM Light Toolkit](https://www.mvvmlight.net)
   * [My blog](https://blog.galasoft.ch)
-  * [My presentations](https://galasoft.ch/presentations) 
+  * [My presentations](https://galasoft.ch/presentations)
+  * [My professional YouTube channel](https://www.youtube.com/@lbugnionpro)
+  * [Timekeeper](https://github.com/lbugnion/timekeeper)
+  * [MVVM Light Toolkit (deprecated)](https://github.com/lbugnion/mvvmlight)
   
-tagline: .NET / Xamarin
+tagline: .NET / Azure / AI
 image:
-  alt: "Laurent Bugnion Cloud Developer Advocate"
+  alt: "Laurent Bugnion Cloud Advocate"
   src: media/profiles/laurent-bugnion.png 
 connect:
-  - title: Twitter
-    url: https://twitter.com/LBugnion
-  - title: GitHub
-    url: https://github.com/LBugnion
   - title: Blog
     url: https://blog.galasoft.ch
-  - title: Facebook
-    url: https://facebook.com/LBugnion
-  - title: Instagram
-    url: https://www.instagram.com/LBugnion
-  - title: StackOverflow
-    url: https://stackoverflow.com/users/12233/lbugnion
   - title: LinkedIn
     url: https://linkedin.com/in/LBugnion
+  - title: Threads
+    url: https://www.threads.net/@lbugnion
+  - title: GitHub
+    url: https://github.com/LBugnion
+  - title: Twitter
+    url: https://twitter.com/LBugnion
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/12233/lbugnion
 location:
-  display: Wallisellen, Bülach, Switzerland
-  lat: 47.417478
-  long: 8.58175
+  display: The Circle, Zurich Airport, Switzerland
+  lat: 47.45144
+  long: 8.56559
