@@ -8,19 +8,27 @@ metadata:
   team: dotnet
 remarks: |
   ## Bio
-  With mostly 20 years of experience in the IT industry, Frank Boucher is a trusted Microsoft Azure professional whose expertise and bilingual service are relied upon in large Canadian markets (Ottawa and Montreal) as well as internationally (Minsk). You can follow him on his YouTube channel Cloud 5 minutes cloud5mins.com
+  Frank Boucher, was born on the French side of this wide Canadian country. Passionate about the Cloud computing he is seeking to learn from other and share his knowledge. His goal is to make it easier for others to leverage the power of Azure in their business and projects.  
 
-  Among his many accolades, Francois has been awarded four times Microsoft Azure MVP, and is also Microsoft Azure Advisor,
+  Frank's dedication to sharing knowledge is evident through his "Cloud 5 minutes" YouTube channel, where he simplifies complex cloud concepts into bite-sized, accessible content. His contributions have not gone unnoticed, as he's a four-time recipient of the prestigious Microsoft Azure MVP award, solidifying his status as a leading voice in the cloud computing sphere. 
 
-  Seeking to explore a new medium, Frank created the “Cloud 5 minutes” show. Where every second week, a new episode that answers a different technical question, is published both in French and English (cloud5mins.com)
-
-  As a trusted voice on Microsoft Azure, Frank has authored a technical book review and continues to write about his experiences with Microsoft Azure on his two blogs,Frankysnotes.com (in English) and Cloudenfrancais.com (in French).
+  He is a .NET - DevOps - Integrator that love creating tools and contributing to open-source projects, and will use videos to shares all the goodness he finds. 
 
   ## Skills
   * Web Development
   * DevOps
   * Serverless
-  * .NET / .NET Core
+  * .NET
+  * Linux
+  * GitHub Copilot
+  * Developer tools
+  * Integration 
+
+  ## Projects
+  * [Open at Microsoft](https://aka.ms/OpenAtMicrosoftPlaylist)
+  * [Azure Url Shortener (AzUrlShortener)](https://github.com/fboucher/AzUrlShortener)
+  * [My professional YouTube channel](https://www.youtube.com/@fboucheros)
+  * [My professional French YouTube channel](https://www.youtube.com/@cloudenfrancais)
 
 tagline: Development / DevOps / Serverless
 image:
