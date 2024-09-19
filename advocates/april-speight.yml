@@ -8,14 +8,22 @@ metadata:
   team: aiml
 remarks: |
   ## Bio
-    April Speight is a developer, author, speaker, and educator who believes that creating for technology should be accessible for all. At Microsoft, she is within AI Cloud Advocacy. 
-    
-    Her experience in technical training and developing curriculum spans 10 years in the non-profit sector and now includes the onboarding of developing for XR. Her focus on fundamentals, safety, design principles, and inclusivity serves as the foundation of her approach to educating others. She believes that learning shouldn't start with building an app or experience, rather, understanding the what, why and impact is the stepping stone to fostering a new generation of developers who are both mindful and strategic throughout the creation process. 
+    April Speight's career began in the fashion industry, where she worked as a menswear stylist and visual merchandiser for prestigious brands like Club Monaco, Saks, and Neiman Marcus. She holds a BS in Global Business & Public Policy from the University of Maryland. Her transition to tech started with project management roles at the Consumer Technology Association, Lidl US, Impexium, and The Milken Institute.
+
+    April completed her Masters in Luxury & Fashion Management at the Savannah College of Art and Design. During her leisure time, she learned Python with an initial aim to become a data scientist but later shifted her focus to AI assistants, chat bots, and conversational design. Her innovative work in this field was showcased at Twilio’s annual developer conference, SIGNAL, earning her the Twilio Champion and the Twilio Doer award in 2019.
+
+    Her curiosity led her to a pivotal moment at a Microsoft event, inspiring her to transition into Extended Reality (XR). In 2020, she joined Microsoft as a Senior Cloud Advocate for Spatial Computing. April participated in her first hackathon, MIT Reality Hack, where her team developed Spell Bound, an immersive speech therapy app for children with dyslexia and dysgraphia, winning in two categories.
+
+    From 2020 to 2022, April became a thought leader in XR, advocating for safety, diversity, and inclusivity in XR experiences. She served as Director of Community & Education for the XR Safety Initiative (XRSI), advising on XR curriculum. At Microsoft, she collaborated with the Mixed Reality and Mixed Reality Toolkit (MRTK) teams, creating XR samples and technical content. Her team won Silver in the 2021 Telly Awards for Remote Production – Non-Broadcast for "Microsoft One Dev Question with April Speight". She also hosted the 2022 Mixed Reality Dev Days and worked with the Microsoft Mesh team before moving to the Cloud Advocacy leadership team.
+
+    April has authored two Python books with Wiley: Bite-Size Python: An Introduction to Python Programming and Visual Studio Code for Python Programmers. She has collaborated with brands such as Warner Bros., Pluralsight, and Codecademy, and shared the virtual stage with notable figures such as astronaut Stanley G. Love and Bill Nye the Science Guy.
+
+    Currently, April resides in Los Angeles, serving as a Principal Cloud Advocate at Microsoft, focusing on Responsible AI.
 
   ## Skills
   * Python
   * AI
-  * RAI
+  * Responsible AI
 
 tagline: AI / Responsible AI / Python
 image:
@@ -25,15 +33,13 @@ connect:
   - title: Twitter
     url: https://twitter.com/vogueandcode
   - title: Blog
-    url: https://www.vogueandcode.com/
+    url: https://www.millennialworkweek.com/
   - title: GitHub
     url: https://github.com/aprilspeight
   - title: LinkedIn
     url: https://www.linkedin.com/in/aprilspeight
-  - title: YouTube
-    url: https://www.youtube.com/@vogueandcode
 
 location:
-  display: Los Angeles, CA
+  display: United States
   lat: 34.0736
   long: -118.4004
