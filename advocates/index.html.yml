@@ -122,7 +122,7 @@ profiles:
     src: media/profiles/april-speight.png
     alt: "April Speight Cloud Advocate"
   location: 
-    display: Los Angeles, CA
+    display: United States
     lat: 34.0736
     long: -118.4004
 - uid: advocates.ayca-bas
@@ -397,7 +397,7 @@ profiles:
     long: 7.491302
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
-  tagline: .NET
+  tagline: AI, Data
   image:
     src: media/profiles/jasmine-greenaway.jpg
     alt: "Jasmine Greenaway Cloud Developer Advocate"
@@ -527,14 +527,14 @@ profiles:
     long: 18.063240
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
-  tagline: .NET / Blazor / Xamarin
+  tagline: .NET / Azure / AI
   image:
     src: media/profiles/laurent-bugnion.png 
-    alt: "Laurent Bugnion Cloud Developer Advocate"
+    alt: "Laurent Bugnion Cloud Advocate"
   location: 
-    display: Zurich, Switzerland
-    lat: 47.36685141858674
-    long: 8.542759772328836
+    display: The Circle, Zurich Airport, Switzerland
+    lat: 47.45144
+    long: 8.56559
 - uid: advocates.lee-stott
   name: Lee Stott
   tagline: AI / ML 
@@ -843,6 +843,16 @@ profiles:
     display: San Francisco, California, United States
     lat: 37.773972
     long: -122.431297
+- uid: advocates.vinayak-hegde
+  name: Vinayak Hegde
+  tagline: AI / ML 
+  image:
+    src: media/profiles/vinayak-hegde.png
+    alt: "Vinayak Hegde"
+  location: 
+    display: Bangalore, India
+    lat: 12.97254
+    long: 77.63344
 - uid: advocates.vinicius-apolinario
   name: Vinicius Apolinario
   tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
