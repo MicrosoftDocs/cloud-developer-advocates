@@ -2,13 +2,13 @@
 uid: advocates.bruno-capuano
 name: Bruno Capuano
 metadata:
-  title: Bruno Capuano - Senior Cloud Advocate
-  description: Home page for Bruno Capuano, a Microsoft Senior Cloud Advocate
+  title: Bruno Capuano - Principal Cloud Advocate
+  description: Home page for Bruno Capuano, a Microsoft Principal Cloud Advocate
   ms.author: brunocapuano
-  team: regional
+  team: dotnet
 remarks: |
   ## Bio
-   ⚡ My name is Bruno Capuano! Sr Cloud Advocate at Microsoft. 
+   ⚡ My name is Bruno Capuano! Principal Cloud Advocate at Microsoft. 
      
 
     🔭 I am a technology enthusiast. I have spoken in at least 2 different countries, so I am also an international speaker. 
@@ -27,23 +27,27 @@ remarks: |
 
   ## Skills
   - AI / ML
-  - IoT  
   - .NET
   - Python  
+  - C++
 
-tagline: AI / ML / IoT
+tagline: AI / ML / .NET
 image:
-  alt: "Bruno Capuano Senior Cloud Advocate"
+  alt: "Bruno Capuano Principal Cloud Advocate"
   src: media/profiles/bruno-capuano.png
 connect:
   - title: GitHub
     url: https://github.com/elbruno
   - title: Twitter
     url: https://twitter.com/elbruno
-  - title: Blog
-    url: https://www.elbruno.com
   - title: LinkedIn
     url: https://www.linkedin.com/in/elbruno/
+  - title: YouTube
+    url: https://aka.ms/ebyt
+  - title: Podcast
+    url: https://aka.ms/ebntn 
+  - title: Blog
+    url: https://www.elbruno.com
 
 location:
   display: Dundas, Canada
