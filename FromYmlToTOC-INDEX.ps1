@@ -50,8 +50,6 @@ function Get-DocumentMetadata {
         $metadata.UID = if ($uid) { $uid }
 
         $metadata.tagline = Get-YamlProp -file $file -propName 'tagline'
-        $metadata.twitter = Get-YamlProp -file $file -propName 'twitter'
-        #$metadata.location = Get-YamlProp -file $file -propName 'location'
         $metadata.imageAlt = Get-YamlProp -file $file -propName '  alt'
         $metadata.imageSrc = Get-YamlProp -file $file -propName '  src'
         $metadata.display = Get-YamlProp -file $file -propName '  display'
@@ -65,6 +63,8 @@ function Get-DocumentMetadata {
                 $metadata.tagline = $metadata.tagline + " | " + $awards[$award]
             }
         }
+
+        $metadata.twitter = Get-Twitter -file $file
 
         return $metadata
     }
@@ -113,6 +113,17 @@ function Get-YamlName {
     }    
 }
 
+function Get-Twitter {
+    param (
+        [System.IO.FileInfo] $file
+    )
+
+    foreach ($linegroup in (Get-Content $file.FullName -ReadCount 1000)) {
+        if ($linegroup -match '\s*https\:\/\/twitter\.com.*') {
+            return ($linegroup -split '/')[-1]
+        }
+    }
+}
 
 function Get-YamlUID {
     param (
