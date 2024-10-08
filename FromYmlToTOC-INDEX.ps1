@@ -53,8 +53,6 @@ function Get-DocumentMetadata {
         $metadata.imageAlt = Get-YamlProp -file $file -propName '  alt'
         $metadata.imageSrc = Get-YamlProp -file $file -propName '  src'
         $metadata.display = Get-YamlProp -file $file -propName '  display'
-        $metadata.lat = Get-YamlProp -file $file -propName '  lat'
-        $metadata.long = Get-YamlProp -file $file -propName '  long'
 
         # iterate through awards and append to the metadata.tagline property
         foreach ($award in $awards.Keys) {

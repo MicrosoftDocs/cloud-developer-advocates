@@ -23,8 +23,6 @@ profiles:
     alt: "Aaron Powell Cloud Advocate"
   location: 
     display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
   twitter: slace
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
@@ -34,8 +32,6 @@ profiles:
     alt: "Aaron Wislang Cloud Developer Advocate"
   location: 
     display: Toronto, Ontario, Canada
-    lat: 43.712053
-    long: -79.561556
   twitter: as_w
 - uid: advocates.abril-ureña
   name: Abril Ureña
@@ -45,8 +41,6 @@ profiles:
     alt: "Abril Urena Cloud Advocate"
   location: 
     display: Monterrey, Nuevo Leon, Mexico.
-    lat: 25.67507
-    long: -100.31847
   twitter: abrildaur
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
@@ -56,8 +50,6 @@ profiles:
     alt: "Alfredo Deza - Cloud Advocate"
   location: 
     display: Marieta, Georgia, United States
-    lat: 33.9483855
-    long: -84.5773912
   twitter: alfredodeza
 - uid: advocates.alvaro-videla
   name: Alvaro Videla
@@ -67,8 +59,6 @@ profiles:
     alt: "Alvaro Videla Cloud Advocate"
   location: 
     display: Dübendorf, Switzerland
-    lat: 47.3971
-    long: 8.6180
   twitter: old_sound
 - uid: advocates.amy-boyd
   name: Amy Boyd
@@ -78,8 +68,6 @@ profiles:
     alt: "Amy Boyd Principal Cloud Advocate"
   location: 
     display: United Kingdom
-    lat: 51.52814
-    long: -0.1339
   twitter: AmyKateNicho
 - uid: advocates.amy-colyer
   name: Amy Colyer
@@ -89,8 +77,6 @@ profiles:
     alt: "Amy Colyer Senior Cloud Advocate"
   location: 
     display: Chicago, Illinois
-    lat: 41.88425
-    long: -87.63245
   twitter: wyrdgirl
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
@@ -100,8 +86,6 @@ profiles:
     alt: "Anthony Bartolo Principal Cloud Advocate"
   location: 
     display: Toronto, Ontario, Canada
-    lat: 43.653226
-    long: -79.3831843
   twitter: wirelesslife
 - uid: advocates.anthony-shaw
   name: Anthony Shaw
@@ -111,8 +95,6 @@ profiles:
     alt: "Anthony Shaw Cloud Advocate"
   location: 
     display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
   twitter: anthonypjshaw
 - uid: advocates.april-dunnam
   name: April Dunnam
@@ -122,8 +104,6 @@ profiles:
     alt: "April Dunnam"
   location: 
     display: Tulsa, OK, USA
-    lat: 36.155327
-    long: -95.99208
   twitter: aprildunnam
 - uid: advocates.april-speight
   name: April Speight
@@ -133,8 +113,6 @@ profiles:
     alt: "April Speight Cloud Advocate"
   location: 
     display: United States
-    lat: 34.0736
-    long: -118.4004
   twitter: vogueandcode
 - uid: advocates.ayca-bas
   name: Ayca Bas
@@ -144,8 +122,6 @@ profiles:
     alt: "Ayca Bas Cloud Advocate"
   location: 
     display: Dubai, United Arab Emirates
-    lat: 25.2048
-    long: 55.2708
   twitter: aycabs
 - uid: advocates.barnam-bora
   name: Barnam Bora
@@ -155,8 +131,6 @@ profiles:
     alt: "Barnam Bora - Cloud Advocacy Lead for Microsoft Teams & Graph"
   location: 
     display: Melbourne, Australia
-    lat: -37.840935
-    long: 144.946457
   twitter: barnambora
 - uid: advocates.bethany-cheum
   name: Bethany Cheum
@@ -166,8 +140,6 @@ profiles:
     alt: "Bethany Cheum Cloud Advocate"
   location: 
     display: Nairobi, Kenya
-    lat: 1.2921
-    long: 36.8219
   twitter: bethanyjep
 - uid: advocates.bob-german
   name: Bob German
@@ -177,8 +149,6 @@ profiles:
     alt: "Bob German"
   location: 
     display: Boston, MA, USA
-    lat: 42.35866
-    long: -71.05674
   twitter: Bob1German
 - uid: advocates.brian-benz
   name: Brian Benz
@@ -188,8 +158,6 @@ profiles:
     alt: "Brian Benz Cloud Developer Advocate"
   location: 
     display: Las Vegas, Nevada, United States
-    lat: 36.23005
-    long: -115.544269
   twitter: bbenz
 - uid: advocates.bruno-capuano
   name: Bruno Capuano
@@ -199,8 +167,6 @@ profiles:
     alt: "Bruno Capuano Principal Cloud Advocate"
   location: 
     display: Dundas, Canada
-    lat: 43.262123319339025
-    long: -79.9819315511835
   twitter: elbruno
 - uid: advocates.burke-holland
   name: Burke Holland
@@ -210,8 +176,6 @@ profiles:
     alt: "Burke Holland Cloud Developer Advocate"
   location: 
     display: Franklin, TN, USA
-    lat: 35.925064
-    long: -86.868889
   twitter: burkeholland
 - uid: advocates.carlotta-castelluccio
   name: Carlotta Castelluccio
@@ -221,8 +185,6 @@ profiles:
     alt: "Carlotta Castelluccio Cloud Developer Advocate"
   location: 
     display: Rome, Italy
-    lat: 41.8919300
-    long: 12.5113300
 - uid: advocates.cedric-vidal
   name: Cedric Vidal
   tagline: AI
@@ -231,8 +193,6 @@ profiles:
     alt: "Cedric Vidal Principal AI Advocate"
   location: 
     display: San Francisco, United States
-    lat: 37.773972
-    long: -122.431297
 - uid: advocates.chris-noring
   name: Chris Noring
   tagline: Web / Azure / JavaScript
@@ -241,8 +201,6 @@ profiles:
     alt: "Chris Noring Cloud Developer Advocate"
   location: 
     display: London, United Kingdom
-    lat: 51.52814
-    long: -0.1339
   twitter: chris_noring
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
@@ -252,8 +210,6 @@ profiles:
     alt: "Christopher Maneu Cloud Developer Advocate"
   location: 
     display: France
-    lat: 48.833968 
-    long: 2.265598
   twitter: cmaneu
 - uid: advocates.cynthia-zanoni
   name: Cynthia Zanoni
@@ -263,8 +219,6 @@ profiles:
     alt: "Cynthia Zanoni - Cloud Advocate"
   location: 
     display: São Paulo, Brazil
-    lat: -23.6820636
-    long: -46.9249497
   twitter: cynthia_zanoni
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
@@ -274,8 +228,6 @@ profiles:
     alt: "Dan Wahlin Cloud Developer Advocate"
   location: 
     display: Chandler, AZ, USA
-    lat: 33.302284
-    long: -111.8401
   twitter: danwahlin
 - uid: advocates.daniel-laskewitz
   name: Daniel Laskewitz
@@ -285,8 +237,6 @@ profiles:
     alt: "Daniel Laskewitz"
   location: 
     display: Utrecht, The Netherlands
-    lat: 52.090736
-    long: 5.121420
   twitter: laskewitz
 - uid: advocates.dave-glover
   name: Dave Glover
@@ -296,8 +246,6 @@ profiles:
     alt: "Dave Glover Cloud Developer Advocate"
   location: 
     display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
   twitter: dglover
 - uid: advocates.david-smith
   name: David Smith
@@ -307,8 +255,6 @@ profiles:
     alt: "David Smith Cloud Developer Advocate"
   location: 
     display: Napa, CA, USA
-    lat: 38.2975381  
-    long: -122.286865
   twitter: revodavid
 - uid: advocates.elaiza-benitez
   name: Elaiza Benitez
@@ -318,8 +264,6 @@ profiles:
     alt: "Elaiza Benitez"
   location: 
     display: Wellington, New Zealand
-    lat: -41.28664000
-    long: 174.77557000
   twitter: benitezhere
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
@@ -329,8 +273,6 @@ profiles:
     alt: "Em Lazer-Walker - Cloud Advocate"
   location: 
     display: San Francisco, California, United States
-    lat: 37.815141999999994
-    long: -122.518271
   twitter: lazerwalker
 - uid: advocates.frank-boucher
   name: Frank Boucher
@@ -340,8 +282,6 @@ profiles:
     alt: "Frank Boucher - Cloud Advocate"
   location: 
     display: Montreal, Quebec, Canada
-    lat: 45.5017
-    long: -73.5673
   twitter: fboucheros
 - uid: advocates.garry-trinder
   name: Garry Trinder
@@ -351,8 +291,6 @@ profiles:
     alt: "Garry Trinder Cloud Developer Advocate"
   location: 
     display: Doncaster, United Kingdom
-    lat: 53.52101
-    long: 1.13066
   twitter: garrytrinder
 - uid: advocates.glaucia-lemos
   name: Glaucia Lemos
@@ -362,8 +300,6 @@ profiles:
     alt: "Glaucia Lemos - Developer Advocate"
   location: 
     display: Rio de Janeiro, Brazil
-    lat: -22.904491
-    long: -43.190777
   twitter: glaucia_lemos86
 - uid: advocates.gomolemo-mohapi
   name: Gomolemo Mohapi
@@ -373,8 +309,6 @@ profiles:
     alt: "Gomolemo Mohapi - Cloud Advocate"
   location: 
     display: Durban, South Africa
-    lat: -29.858681
-    long: 31.021839
   twitter: GomoMohapi
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
@@ -384,8 +318,6 @@ profiles:
     alt: "Gustavo Cordido Cloud Advocate "
   location: 
     display: Redmond, Washington, United States
-    lat: 47.679194
-    long: -122.153322
   twitter: gcordidoa
 - uid: advocates.gwyneth-penasiguenza
   name: Gwyneth Peña-Siguenza
@@ -395,8 +327,6 @@ profiles:
     alt: "Gwyneth Peña-Siguenza Cloud Advocate"
   location: 
     display: New York,  New York, United States
-    lat: 40.75325
-    long: -74.00381
   twitter: madebygps
 - uid: advocates.henk-boelman
   name: Henk Boelman
@@ -406,8 +336,6 @@ profiles:
     alt: "Henk Boelman"
   location: 
     display: Driebergen, The Netherlands
-    lat: 52.0483174
-    long: 5.2686323
   twitter: hboelman
 - uid: advocates.ismael-mejia
   name: Ismaël Mejía
@@ -417,8 +345,6 @@ profiles:
     alt: "Ismaël Mejía Cloud Developer Advocate"
   location: 
     display: Nantes, France
-    lat: 47.2184
-    long: 1.5536
   twitter: iemejia
 - uid: advocates.japhlet-nwamu
   name: Japhlet Nwamu
@@ -428,8 +354,6 @@ profiles:
     alt: "Japhlet Nwamu Cloud Advocate"
   location: 
     display: Abuja, Nigeria
-    lat: 9.072264
-    long: 7.491302
   twitter: japhletnwamu
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
@@ -439,8 +363,6 @@ profiles:
     alt: "Jasmine Greenaway Cloud Developer Advocate"
   location: 
     display: Brooklyn,  New York, United States
-    lat: 40.67417
-    long: -74.025653
   twitter: paladique
 - uid: advocates.joey-snow
   name: Joey Snow
@@ -450,8 +372,6 @@ profiles:
     alt: "Joey Snow Principal Cloud Advocate"
   location: 
     display: Redmond, WA, USA
-    lat: 47.673988
-    long: -122.121513
   twitter: joeysnow
 - uid: advocates.john-papa
   name: John Papa
@@ -461,8 +381,6 @@ profiles:
     alt: "John Papa Principal Cloud Advocate Lead"
   location: 
     display: Orlando, Florida, United States
-    lat: 28.5029917
-    long: -81.5538575
   twitter: webrush.io
 - uid: advocates.jorge-arteiro
   name: Jorge Arteiro
@@ -472,8 +390,6 @@ profiles:
     alt: "Jorge Arteiro Cloud Developer Advocate"
   location: 
     display: Melbourne, Australia
-    lat: -37.81753
-    long: 144.96715
   twitter: jorgearteiro
 - uid: advocates.josh-ndemenge
   name: Josh Ndemenge
@@ -483,8 +399,6 @@ profiles:
     alt: "Josh Ndemenge Cloud Advocate"
   location: 
     display: Nairobi, Kenya
-    lat: -1.286389
-    long: 36.817223
   twitter: Jcardif254
 - uid: advocates.joshua-duffney
   name: Joshua Duffney
@@ -494,8 +408,6 @@ profiles:
     alt: "Joshua Duffney Senior Cloud Advocate"
   location: 
     display: Bellevue, NE
-    lat: 41.1543623
-    long: -95.914556
 - uid: advocates.joylynn-kirui
   name: Joylynn Kirui
   tagline: Cybersecurity
@@ -504,8 +416,6 @@ profiles:
     alt: "Joylynn Kirui Cloud Advocate"
   location: 
     display: Nairobi, Kenya
-    lat: -1.286389
-    long: 36.817223
   twitter: joylynn_kirui
 - uid: advocates.julia-muiruri
   name: Julia Muiruri
@@ -515,8 +425,6 @@ profiles:
     alt: "Julia Muiruri Cloud Advocate"
   location: 
     display: Nairobi, Kenya
-    lat: -1.286389
-    long: 36.817223
   twitter: juliamuiruri4
 - uid: advocates.julien-dubois
   name: Julien Dubois
@@ -526,8 +434,6 @@ profiles:
     alt: "Julien Dubois Cloud Advocate"
   location: 
     display: Suresnes, France
-    lat: 48.8712
-    long: 2.22707
   twitter: juliendubois
 - uid: advocates.justin-yoo
   name: Justin Yoo
@@ -537,8 +443,6 @@ profiles:
     alt: "Justin Yoo Cloud Advocate"
   location: 
     display: Daegu, South Korea
-    lat: 35.8797297
-    long: 128.4966604
   twitter: justinchronicle
 - uid: advocates.kamalshree-soundirapandian
   name: Kamal Shree Soundirapandian
@@ -548,8 +452,6 @@ profiles:
     alt: "Kamal Shree - Developer Advocate for Microsoft 365"
   location: 
     display: Bengaluru (Bangalore)
-    lat: 12.972442
-    long: 77.580643
   twitter: whatsupcoders
 - uid: advocates.kinfey-lo
   name: Kinfey Lo
@@ -559,8 +461,6 @@ profiles:
     alt: "Kinfey Lo - Senior Cloud Advocate"
   location: 
     display: Guangzhou, China
-    lat: 23.128994
-    long: 113.253250
   twitter: Ljh8304
 - uid: advocates.Korey-stegared-pace
   name: Korey Stegared-Pace
@@ -570,8 +470,6 @@ profiles:
     alt: "Korey Stegared-Pace Cloud Developer Advocate"
   location: 
     display: Stockholm, Sweden
-    lat: 59.334591
-    long: 18.063240
   twitter: koreyspace
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
@@ -581,8 +479,6 @@ profiles:
     alt: "Laurent Bugnion Cloud Advocate"
   location: 
     display: The Circle, Zurich Airport, Switzerland
-    lat: 47.45144
-    long: 8.56559
   twitter: LBugnion
 - uid: advocates.lee-stott
   name: Lee Stott
@@ -592,8 +488,6 @@ profiles:
     alt: "Lee Stott Cloud Advocate"
   location: 
     display: Manchester, United Kingdom
-    lat: 53.47959
-    long: -2.24874
   twitter: lee_stott
 - uid: advocates.liam-hampton
   name: Liam Hampton
@@ -603,8 +497,6 @@ profiles:
     alt: "Liam Hampton Cloud Advocate"
   location: 
     display: London, UK
-    lat: 51.521809
-    long: -0.084360
   twitter: liamchampton
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
@@ -614,8 +506,6 @@ profiles:
     alt: "Madoka Chiyoda Cloud Developer Advocate"
   location: 
     display: Minato-ku Tokyo, Japan
-    lat: 35.626610
-    long: 139.740982
   twitter: chomado
 - uid: advocates.markheckler
   name: Mark Heckler
@@ -625,8 +515,6 @@ profiles:
     alt: "Mark Heckler, Principal Cloud Advocate"
   location: 
     display: St. Louis, MO, USA
-    lat: 38.7588171
-    long: -90.4011274
   twitter: mkheck
 - uid: advocates.marlene-mhangami
   name: Marlene Mhangami
@@ -636,8 +524,6 @@ profiles:
     alt: "Marlene Mhangami, Senior Cloud Advocate"
   location: 
     display: London, UK
-    lat: 51.521809
-    long: -0.084360
   twitter: marlene_zw
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
@@ -647,8 +533,6 @@ profiles:
     alt: "Matthew Soucoup Cloud Developer Advocate"
   location: 
     display: Seattle, WA, USA
-    lat: 47.60621
-    long: -122.33207
   twitter: codemillmatt
 - uid: advocates.nitya-narasimhan
   name: Nitya Narasimhan
@@ -658,8 +542,6 @@ profiles:
     alt: "Nitya Narasimhan, Senior Cloud Advocate"
   location: 
     display: New York City, NY, United States
-    lat: 40.757131
-    long: -73.989784
   twitter: nitya
 - uid: advocates.olivia-guzzardo
   name: Olivia Guzzardo
@@ -669,8 +551,6 @@ profiles:
     alt: "Olivia Guzzardo Cloud Advocate"
   location: 
     display: Charleston, SC, USA
-    lat: 32.783062
-    long: -79.93444
   twitter: @oliviaguzzardo
 - uid: advocates.orin-thomas
   name: Orin Thomas
@@ -680,8 +560,6 @@ profiles:
     alt: "Orin Thomas Cloud Operations Advocate"
   location: 
     display: Melbourne, Victoria, Australia
-    lat: -37.48
-    long: 144.57
   twitter: orinthomas
 - uid: advocates.pablo-lopes
   name: Pablo Lopes
@@ -691,8 +569,6 @@ profiles:
     alt: "Pablo Lopes Cloud Advocate"
   location: 
     display: São Paulo, São Paulo, Brazil
-    lat: -23.5475
-    long: -46.6361
 - uid: advocates.pamela-fox
   name: Pamela Fox
   tagline: Python
@@ -701,8 +577,6 @@ profiles:
     alt: "Pamela Fox Cloud Advocate"
   location: 
     display: El Cerrito, CA
-    lat: 37.9180571
-    long: -122.319883
   twitter: pamelafox
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
@@ -712,8 +586,6 @@ profiles:
     alt: "Patrick Chanezon Cloud Advocate"
   location: 
     display: San Francisco, California, United States
-    lat: 37.815141999999994
-    long: -122.518271
   twitter: chanezon
 - uid: advocates.paul-decarlo
   name: Paul DeCarlo
@@ -723,8 +595,6 @@ profiles:
     alt: "Paul DeCarlo Cloud Developer Advocate"
   location: 
     display: Houston, Texas, US
-    lat: 29.726948
-    long: -95.609268
   twitter: pjdecarlo
 - uid: advocates.paul-yu
   name: Paul Yu
@@ -733,8 +603,6 @@ profiles:
     alt: "Paul Yu Cloud Advocate"
   location: 
     display: Los Angeles, California, United States
-    lat: 34.0549
-    long: 118.2426
   twitter: pauldotyu
 - uid: advocates.pierre-roman
   name: Pierre Roman
@@ -744,8 +612,6 @@ profiles:
     alt: "Pierre Roman Senior Cloud Advocate"
   location: 
     display: Ottawa, Ontario, Canada
-    lat: 45.42178
-    long: -75.69119
   twitter: WiredCanuck
 - uid: advocates.rabia-williams
   name: Rabia Williams
@@ -755,8 +621,6 @@ profiles:
     alt: "Rabia Williams"
   location: 
     display: Brisbane, QLD, Australia
-    lat: 27.4698
-    long: 153.0251
   twitter: williamsrabia
 - uid: advocates.renee-noble
   name: Renee Noble
@@ -766,8 +630,6 @@ profiles:
     alt: "Renee Noble Cloud Advocate"
   location: 
     display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
   twitter: noble_renee
 - uid: advocates.rick-claus
   name: Rick Claus
@@ -777,8 +639,6 @@ profiles:
     alt: "Rick Claus Cloud Advocate"
   location: 
     display: Redmond, Washington, United States
-    lat: 47.645171
-    long: -122.130696
   twitter: RicksterCDN
 - uid: advocates.rob-conery
   name: Rob Conery
@@ -787,8 +647,6 @@ profiles:
     alt: "Rob Conery Cloud Advocate"
   location: 
     display: Redmond, Washington, United States
-    lat: 47.645171
-    long: -122.130696
   twitter: robconery
 - uid: advocates.rod-trent
   name: Rod Trent
@@ -798,8 +656,6 @@ profiles:
     alt: "Rod Trent - Cloud Security Advocate"
   location: 
     display: Middletown, OH, United States
-    lat: 39.5068
-    long: -84.39108
   twitter: rodtrent
 - uid: advocates.rory-preddy
   name: Rory Preddy
@@ -809,8 +665,6 @@ profiles:
     alt: "Rory Preddy Cloud Advocate"
   location: 
     display: Johannesburg, South Africa
-    lat: -26.204103
-    long: 28.047304
   twitter: rorypreddy
 - uid: advocates.sandra-ahlgrimm
   name: Sandra Ahlgrimm
@@ -820,8 +674,6 @@ profiles:
     alt: "Sandra Ahlgrimm Cloud Developer Advocate"
   location: 
     display: Berlin, Germany
-    lat: 52.515816
-    long: 13.45429
   twitter: skriemhild).
 - uid: advocates.sarah-kaiser
   name: Sarah Kaiser
@@ -831,8 +683,6 @@ profiles:
     alt: "Sarah Kaiser Cloud Advocate"
   location: 
     display: Seattle, Washington, USA
-    lat: 47.60357
-    long: -122.32945
   twitter: crazy4pi314
 - uid: advocates.sarah-young
   name: Sarah Young
@@ -842,8 +692,6 @@ profiles:
     alt: "Sarah Young Cloud Security Advocate"
   location: 
     display: Melbourne, Victoria, Australia
-    lat: -37.48
-    long: 144.57
   twitter: _sarahyo
 - uid: advocates.scott-durow
   name: Scott Durow
@@ -853,8 +701,6 @@ profiles:
     alt: "Scott Durow"
   location: 
     display: Vancouver, Canada
-    lat: 49.246292
-    long: -123.116226
   twitter: ScottDurow
 - uid: advocates.someleze-diko
   name: Someleze Diko
@@ -864,8 +710,6 @@ profiles:
     alt: "Someleze Diko - Cloud Advocate"
   location: 
     display: Durban, South Africa
-    lat: -29.858681
-    long: 31.021839
   twitter: DikoSomeleze
 - uid: advocates.sonia-cuff
   name: Sonia Cuff
@@ -875,8 +719,6 @@ profiles:
     alt: "Sonia Cuff Cloud Advocate Lead"
   location: 
     display: Brisbane, Queensland, Australia
-    lat: -27.47126
-    long: 153.02385
   twitter: SoniaCuff
 - uid: advocates.steven-murawski
   name: Steven Murawski
@@ -886,8 +728,6 @@ profiles:
     alt: "Steven Murawski Cloud Developer Advocate"
   location: 
     display: New Berlin, Wisconsin, United States
-    lat: 42.976402
-    long: -88.108422
   twitter: stevenmurawski
 - uid: advocates.thomas-lewis
   name: Thomas Lewis
@@ -897,8 +737,6 @@ profiles:
     alt: "Thomas Lewis Cloud Advocate"
   location: 
     display: Seattle, WA
-    lat: 47.6062
-    long: -122.3321
   twitter: tommylee
 - uid: advocates.todd-anglin
   name: Todd Anglin
@@ -908,8 +746,6 @@ profiles:
     alt: "Todd Anglin Cloud Advocate"
   location: 
     display: The Woodlands, Texas, United States
-    lat: 30.168403
-    long: -95.558956
   twitter: toddanglin
 - uid: advocates.tomomi-imura
   name: Tomomi Imura
@@ -919,8 +755,6 @@ profiles:
     alt: "Tomomi Imura Cloud Advocate"
   location: 
     display: San Francisco, California, United States
-    lat: 37.773972
-    long: -122.431297
   twitter: girlie_mac
 - uid: advocates.vinayak-hegde
   name: Vinayak Hegde
@@ -930,8 +764,6 @@ profiles:
     alt: "Vinayak Hegde"
   location: 
     display: Bangalore, India
-    lat: 12.97254
-    long: 77.63344
   twitter: vinayakh
 - uid: advocates.vinicius-apolinario
   name: Vinicius Apolinario
@@ -941,8 +773,6 @@ profiles:
     alt: "Vinicius Apolinario Cloud Advocate"
   location: 
     display: Redmond, Washington, United States
-    lat: 47.645152
-    long: -122.140760
   twitter: vrapolinario
 - uid: advocates.waldek-mastykarz
   name: Waldek Mastykarz
@@ -952,8 +782,6 @@ profiles:
     alt: "Waldek Mastykarz Cloud Developer Advocate"
   location: 
     display: Alphen aan den Rijn, The Netherlands
-    lat: 52.13476
-    long: 4.658296
   twitter: waldekm
 - uid: advocates.wassim-chegham
   name: Wassim Chegham
@@ -963,8 +791,6 @@ profiles:
     alt: "Wassim Chegham Cloud Advocate"
   location: 
     display: Paris, France
-    lat: 48.8566
-    long: 2.3522
   twitter: manekinekko
 - uid: advocates.yohan-lasorsa
   name: Yohan Lasorsa
@@ -974,8 +800,6 @@ profiles:
     alt: "Yohan Lasorsa Cloud Developer Advocate"
   location: 
     display: Grenoble, France
-    lat: 45.186494
-    long: 5.726626
   twitter: sinedied
 - uid: advocates.yoshio-terada
   name: Yoshio Terada
@@ -985,8 +809,6 @@ profiles:
     alt: "Yoshio Terada Cloud Developer Advocate"
   location: 
     display: Minato-ku Tokyo, Japan
-    lat: 35.626610
-    long: 139.740982
   twitter: yoshioterada
 - uid: advocates.yoshua-wuyts
   name: Yoshua Wuyts
@@ -996,6 +818,4 @@ profiles:
     alt: "Yoshua Wuyts, Rust Developer Advocate"
   location: 
     display: Copenhagen, Denmark
-    lat: 55.676098
-    long: 12.568337
   twitter: yoshuawuyts).
