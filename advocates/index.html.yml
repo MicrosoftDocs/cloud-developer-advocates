@@ -463,7 +463,7 @@ profiles:
     display: Orlando, Florida, United States
     lat: 28.5029917
     long: -81.5538575
-  twitter: "webrush.io"
+  twitter: "john_papa"
 - uid: advocates.jorge-arteiro
   name: Jorge Arteiro
   tagline: Containers / Kubernetes / Open Source / Linux
@@ -822,7 +822,7 @@ profiles:
     display: Berlin, Germany
     lat: 52.515816
     long: 13.45429
-  twitter: "skriemhild)."
+  twitter: "skriemhild"
 - uid: advocates.sarah-kaiser
   name: Sarah Kaiser
   tagline: Python
@@ -998,4 +998,4 @@ profiles:
     display: Copenhagen, Denmark
     lat: 55.676098
     long: 12.568337
-  twitter: "yoshuawuyts)."
+  twitter: "yoshuawuyts"

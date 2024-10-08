@@ -123,7 +123,7 @@ function Get-Twitter {
     )
 
     foreach ($linegroup in (Get-Content $file.FullName -ReadCount 1000)) {
-        if ($linegroup -match '\s*https\:\/\/twitter\.com.*') {
+        if ($linegroup -match '\s*url\: https\:\/\/twitter\.com.*') {
             return ($linegroup -split '/')[-1]
         }
     }
