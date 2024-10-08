@@ -17,7 +17,7 @@ filterText: Cloud Advocates
 profiles:
 - uid: advocates.aaron-powell
   name: Aaron Powell
-  tagline: .NET / JavaScript / Web<br />Test on a new line.
+  tagline: .NET / JavaScript / Web | Docker Captain
   image:
     src: media/profiles/aaron-powell.png
     alt: "Aaron Powell Cloud Advocate"

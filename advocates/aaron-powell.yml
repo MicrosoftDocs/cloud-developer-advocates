@@ -6,6 +6,7 @@ metadata:
   description: Home page for Aaron Powell, a Microsoft Cloud Advocate
   ms.author: aapowell
   team: dotnet
+  dockerCaptain: true
 remarks: |
   ## Bio
   Hi, I'm CDA Aaron Powell, you might remember me from such roles as a [Readify](https://readify.net) consultant, organiser of [DDD Sydney](https://www.dddsydney.com.au) or presenting at events.
@@ -30,7 +31,7 @@ remarks: |
   - "Docker, FROM scratch" [talk](https://www.youtube.com/watch?v=RBnPvQQ36mA) + [exercises](https://github.com/aaronpowell/docker-from-scratch)
   - [LINQ in JavaScript](https://github.com/aaronpowell/linq-in-javascript)
 
-tagline: .NET / JavaScript / Web<br />Test on a new line.
+tagline: .NET / JavaScript / Web
 image:
   alt: "Aaron Powell Cloud Advocate"
   src: media/profiles/aaron-powell.png

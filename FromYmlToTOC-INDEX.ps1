@@ -10,39 +10,40 @@ function Get-DocumentMetadata {
     )
 
     $properties = @{
-        'Title' = ''
-		'UID' = ''
+        'Title'        = ''
+        'UID'          = ''
         'RelativePath' = $relativepath.TrimStart('/')
-        'Parent' = $file.DirectoryName
-        'FileName' = $file.Name
-        'tagline' = ''
-        'imageAlt' = ''
-        'imageSrc' = ''
-        'twitter' = ''
-        'location' = ''
-        'display' = ''
-        'lat' = ''
-        'long' = ''
+        'Parent'       = $file.DirectoryName
+        'FileName'     = $file.Name
+        'tagline'      = ''
+        'imageAlt'     = ''
+        'imageSrc'     = ''
+        'twitter'      = ''
+        'location'     = ''
+        'display'      = ''
+        'lat'          = ''
+        'long'         = ''
+    }
 
-
+    $awards = @{
+        'dockerCaptain'             = "Docker Captain"
+        'langchainCommunityCampion' = "Langchain Community Campion"
     }
 
     $metadata = New-Object -TypeName PSObject -Prop $properties
-    $metadata.PSObject.TypeNames.Insert(0,'DocFX.DocumentMetadata')
+    $metadata.PSObject.TypeNames.Insert(0, 'DocFX.DocumentMetadata')
 
 
 
     if ($file.Extension -eq '.yml') {
-        
-        if($file.Name -eq 'index.html.yml')
-        {
-			$script:indexTitle = Get-IndexTitle -file $file
+        if ($file.Name -eq 'index.html.yml') {
+            $script:indexTitle = Get-IndexTitle -file $file
         }
         
         $title = Get-YamlProp -file $file -propName 'name'
         $metadata.Title = if ($title) { $title } 
 		
-		$uid = Get-YamlProp -file $file -propName 'uid'
+        $uid = Get-YamlProp -file $file -propName 'uid'
         $metadata.UID = if ($uid) { $uid }
 
         $metadata.tagline = Get-YamlProp -file $file -propName 'tagline'
@@ -54,21 +55,28 @@ function Get-DocumentMetadata {
         $metadata.lat = Get-YamlProp -file $file -propName '  lat'
         $metadata.long = Get-YamlProp -file $file -propName '  long'
 
+        # iterate through awards and append to the metadata.tagline property
+        foreach ($award in $awards.Keys) {
+            $awardValue = Get-YamlProp -file $file -propName $award
+            if ($awardValue) {
+                $metadata.tagline = $metadata.tagline + " | " + $awards[$award]
+            }
+        }
+
         return $metadata
     }
 
     if ($file.Extension -eq '.md') {
-		#$title = Get-MarkdownMetadata -file $file
-		#$metadata.Title = if ($title) { $title } else { $file.Name }
+        #$title = Get-MarkdownMetadata -file $file
+        #$metadata.Title = if ($title) { $title } else { $file.Name }
 
-        if($file.Name -eq 'index.md')
-            {
-			    $script:indexTitle = Get-IndexTitle -file $file
-            }
+        if ($file.Name -eq 'index.md') {
+            $script:indexTitle = Get-IndexTitle -file $file
+        }
         
         $title = Get-YamlProp -file $file -propName 'name'
         $metadata.Title = if ($title) { $title } 
-		return $metadata
+        return $metadata
     }
 }
 
@@ -132,9 +140,8 @@ function Get-YamlProp {
     foreach ($linegroup in (Get-Content $file.FullName -ReadCount 1000 -encoding UTF8)) {
 		
         #if ($propRegex.Match($linegroup).Success) {
-        if ($linegroup -match '^'+$propName+'\:.+') 
-        {    
-            return $linegroup.Replace($propName+':', '').TrimStart(' ')
+        if ($linegroup -match '^\s*' + $propName + '\:.+') {    
+            return $linegroup.Replace($propName + ':', '').TrimStart(' ')
         }
     } 
     return "";   
@@ -160,9 +167,8 @@ function Check-GlobMatch {
         $match = $matchpath -match $pattern_regex
 
         Write-Verbose "Path $matchpath matches $pattern_regex : $match"
-        if($match -eq $true)
-        {
-        return $match
+        if ($match -eq $true) {
+            return $match
         }
     }
 
@@ -182,7 +188,7 @@ function Format-Yaml {
         $indent = '  ' * $depth
         $startobject = ('  ' * ($depth - 1)) + '- '
         
-		$uid = if ($index) { $index.UID } else { $item.Name.Split('/') | Select-Object -Last 1 }
+        $uid = if ($index) { $index.UID } else { $item.Name.Split('/') | Select-Object -Last 1 }
         Write-Host $index
         $name = $startobject + 'name: Cloud Advocates'
         $href = if ($index.RelativePath) { $indent, 'href: ', $index.RelativePath -join '' } else { "" } 
@@ -198,13 +204,14 @@ function Format-Yaml {
             $startobject = ('  ' * ($depth)) + '- '
     
             $contents += $children `
-                | ForEach-Object {
-                    $name = $startobject + 'name: ' + $_.Title
-                    $uid = $indent + 'uid: ' + $_.UID
+            | ForEach-Object {
+                $name = $startobject + 'name: ' + $_.Title
+                $uid = $indent + 'uid: ' + $_.UID
                 
-                    return $name, $uid -join [Environment]::NewLine
-                }
-        } else {
+                return $name, $uid -join [Environment]::NewLine
+            }
+        }
+        else {
             $contents = @(
                 ($name, $uid | Where-Object { $_.Length -gt 0 }) -join [Environment]::NewLine
             )
@@ -228,7 +235,7 @@ function Format-Index-Yaml {
         $indent = '  ' * $depth
         $startobject = ('  ' * ($depth - 1)) + '- '
         
-		$uid = if ($index) { $index.UID } else { $item.Name.Split('/') | Select-Object -Last 1 }
+        $uid = if ($index) { $index.UID } else { $item.Name.Split('/') | Select-Object -Last 1 }
         
         if (([array]$children).Length -gt 0) {
             
@@ -236,121 +243,100 @@ function Format-Index-Yaml {
             $startobject = ('' * ($depth)) + '- '
     
             $IndexFilecontent = $children `
-                | ForEach-Object {
+            | ForEach-Object {
 
-                    $uidVal =  $_.UID
-                    IF([string]::IsNullOrEmpty($uidVal))
-                    {
-                        $uid = ''
-                    }
-                    else
-                    {
-                        $uid =  $startobject + 'uid: ' + $_.UID 
-                    }
-                    
-                    $nameVal = $_.Title
-                    IF([string]::IsNullOrEmpty($nameVal))
-                    {
-                        $name = ''
-                    }
-                    else
-                    {
-                        $name = $indent + 'name: ' + $_.Title 
-                    }
-
-                    $taglineVal = $_.tagline
-                    IF([string]::IsNullOrEmpty($taglineVal))
-                    {
-                        $tagline = ''
-                    }
-                    else
-                    {
-                        $tagline = $indent + 'tagline: ' + $_.tagline
-                    }
-
-                    ### Image properties
-                    $imageSrcVal = $_.imageSrc
-                    IF([string]::IsNullOrEmpty($imageSrcVal))
-                    {
-                        $imageSrc = ''
-                    }
-                    else
-                    {
-                        $imageSrc = $indent + '  src: ' + $_.imageSrc 
-                    }
-
-                    $imageAltVal = $_.imageAlt
-                    IF([string]::IsNullOrEmpty($imageAltVal))
-                    {
-                        $imageAlt = ''
-                    }
-                    else
-                    {
-                        $imageAlt = $indent + '  alt: ' + $_.imageAlt
-                    }
-
-                    IF([string]::IsNullOrEmpty($imageAltVal) -and [string]::IsNullOrEmpty($imageSrcVal))
-                    {
-                        $image = ''
-                    }
-                    else
-                    {
-                        $image = $indent + 'image:' 
-                    }
-
-                    ### Location properties
-                    $displayVal = $_.display
-                    IF([string]::IsNullOrEmpty($displayVal))
-                    {
-                        $display = ''
-                    }
-                    else
-                    {
-                        $display = $indent + '  display: ' + $_.display 
-                    }
-
-
-                    $latVal = $_.lat
-                    IF([string]::IsNullOrEmpty($latVal))
-                    {
-                        $lat = ''
-                    }
-                    else
-                    {
-                        $lat = $indent + '  lat: ' + $_.lat 
-                    }
-
-                    $longVal = $_.long
-                    IF([string]::IsNullOrEmpty($longVal))
-                    {
-                        $long = ''
-                    }
-                    else
-                    {
-                        $long = $indent + '  long: ' + $_.long 
-                    }
-                    
-                    IF([string]::IsNullOrEmpty($displayVal) -and [string]::IsNullOrEmpty($latVal) -and [string]::IsNullOrEmpty($longVal))
-                    {
-                        $location = $null
-                    }
-                    else
-                    {
-                        $location = $indent + 'location: ' 
-                    }
-
-                    $twitterval = $_.twitter
-                    IF([string]::IsNullOrEmpty($twitterval))
-                    {
-                        $twitter = ''
-                    }
-                    else
-                    {
-                        $twitter = $indent + 'twitter: '  + $_.twitter.Replace('https://twitter.com/', '')
-                    }
-                    return ($uid , $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long, $twitter | Where-Object { $_.Length -gt 0 } )-join [Environment]::NewLine
+                $uidVal = $_.UID
+                IF ([string]::IsNullOrEmpty($uidVal)) {
+                    $uid = ''
                 }
-        } else {
+                else {
+                    $uid = $startobject + 'uid: ' + $_.UID 
+                }
+                    
+                $nameVal = $_.Title
+                IF ([string]::IsNullOrEmpty($nameVal)) {
+                    $name = ''
+                }
+                else {
+                    $name = $indent + 'name: ' + $_.Title 
+                }
+
+                $taglineVal = $_.tagline
+                IF ([string]::IsNullOrEmpty($taglineVal)) {
+                    $tagline = ''
+                }
+                else {
+                    $tagline = $indent + 'tagline: ' + $_.tagline
+                }
+
+                ### Image properties
+                $imageSrcVal = $_.imageSrc
+                IF ([string]::IsNullOrEmpty($imageSrcVal)) {
+                    $imageSrc = ''
+                }
+                else {
+                    $imageSrc = $indent + '  src: ' + $_.imageSrc 
+                }
+
+                $imageAltVal = $_.imageAlt
+                IF ([string]::IsNullOrEmpty($imageAltVal)) {
+                    $imageAlt = ''
+                }
+                else {
+                    $imageAlt = $indent + '  alt: ' + $_.imageAlt
+                }
+
+                IF ([string]::IsNullOrEmpty($imageAltVal) -and [string]::IsNullOrEmpty($imageSrcVal)) {
+                    $image = ''
+                }
+                else {
+                    $image = $indent + 'image:' 
+                }
+
+                ### Location properties
+                $displayVal = $_.display
+                IF ([string]::IsNullOrEmpty($displayVal)) {
+                    $display = ''
+                }
+                else {
+                    $display = $indent + '  display: ' + $_.display 
+                }
+
+
+                $latVal = $_.lat
+                IF ([string]::IsNullOrEmpty($latVal)) {
+                    $lat = ''
+                }
+                else {
+                    $lat = $indent + '  lat: ' + $_.lat 
+                }
+
+                $longVal = $_.long
+                IF ([string]::IsNullOrEmpty($longVal)) {
+                    $long = ''
+                }
+                else {
+                    $long = $indent + '  long: ' + $_.long 
+                }
+                    
+                IF ([string]::IsNullOrEmpty($displayVal) -and [string]::IsNullOrEmpty($latVal) -and [string]::IsNullOrEmpty($longVal)) {
+                    $location = $null
+                }
+                else {
+                    $location = $indent + 'location: ' 
+                }
+
+                $twitterval = $_.twitter
+                IF ([string]::IsNullOrEmpty($twitterval)) {
+                    $twitter = ''
+                }
+                else {
+                    $twitter = $indent + 'twitter: ' + $_.twitter.Replace('https://twitter.com/', '')
+                }
+                return ($uid , $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long, $twitter | Where-Object { $_.Length -gt 0 } ) -join [Environment]::NewLine
+            }
+        }
+        else {
             Write-Host "No children found"
         }
 
@@ -429,7 +415,7 @@ filterText: Cloud Advocates
 profiles:
 '@
 
- $MapFilecontent = @' 
+    $MapFilecontent = @' 
 ########################################################################
 #############  AUTO-GENERATED FROM FromYmlToTOC-INDEX.ps1  #############
 ########################################################################
@@ -451,20 +437,20 @@ profiles:
 '@
 
     $objects = Get-ChildItem -Path $docfx_dir -Recurse -File `
-        | Where-Object { (-Not (Check-GlobMatch -patterns $excludes -matchpath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName ))) -and (Check-GlobMatch -patterns $includes -matchpath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName )) } `
-        | Sort-Object FullName `
-        | ForEach-Object { Get-DocumentMetadata -file $_ -relativepath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName ) } `
-        | Group-Object { Remove-RootPath -rootpath $docfx_dir -fullpath $_.Parent } `
-        | Sort-Object Name `
+    | Where-Object { (-Not (Check-GlobMatch -patterns $excludes -matchpath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName ))) -and (Check-GlobMatch -patterns $includes -matchpath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName )) } `
+    | Sort-Object FullName `
+    | ForEach-Object { Get-DocumentMetadata -file $_ -relativepath ( Remove-RootPath -rootpath $docfx_dir -fullpath $_.FullName ) } `
+    | Group-Object { Remove-RootPath -rootpath $docfx_dir -fullpath $_.Parent } `
+    | Sort-Object Name `
     
     
     # writing to TOC file    
     ForEach-Object -Begin { return $content } -Process { Format-Yaml -object $objects } `
-        | Out-File -filepath $toc_path -encoding utf8
+    | Out-File -filepath $toc_path -encoding utf8
 
     # writing to Index file 
     ForEach-Object -Begin { return $IndexFilecontent } -Process { Format-Index-Yaml -object $objects } `
-        | Out-File -filepath $index_path -encoding utf8
+    | Out-File -filepath $index_path -encoding utf8
 
     #     # writing to map file 
     # ForEach-Object -Begin { return $MapFilecontent } -Process { Format-Index-Yaml -object $objects } `
