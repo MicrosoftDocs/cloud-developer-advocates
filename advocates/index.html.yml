@@ -23,7 +23,7 @@ profiles:
     alt: "Aaron Powell Cloud Advocate"
   location: 
     display: Sydney, Australia
-  twitter: slace
+  twitter: "slace"
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
   tagline: Linux
@@ -32,7 +32,7 @@ profiles:
     alt: "Aaron Wislang Cloud Developer Advocate"
   location: 
     display: Toronto, Ontario, Canada
-  twitter: as_w
+  twitter: "as_w"
 - uid: advocates.abril-ureña
   name: Abril Ureña
   tagline: VS Code / Front-end Development / UX Design
@@ -41,7 +41,7 @@ profiles:
     alt: "Abril Urena Cloud Advocate"
   location: 
     display: Monterrey, Nuevo Leon, Mexico.
-  twitter: abrildaur
+  twitter: "abrildaur"
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
   tagline: Python / MLOps / DevOps
@@ -50,7 +50,7 @@ profiles:
     alt: "Alfredo Deza - Cloud Advocate"
   location: 
     display: Marieta, Georgia, United States
-  twitter: alfredodeza
+  twitter: "alfredodeza"
 - uid: advocates.alvaro-videla
   name: Alvaro Videla
   tagline: RabbitMQ / Functional Programming / Architecture
@@ -59,7 +59,7 @@ profiles:
     alt: "Alvaro Videla Cloud Advocate"
   location: 
     display: Dübendorf, Switzerland
-  twitter: old_sound
+  twitter: "old_sound"
 - uid: advocates.amy-boyd
   name: Amy Boyd
   tagline: AI / ML
@@ -68,7 +68,7 @@ profiles:
     alt: "Amy Boyd Principal Cloud Advocate"
   location: 
     display: United Kingdom
-  twitter: AmyKateNicho
+  twitter: "AmyKateNicho"
 - uid: advocates.amy-colyer
   name: Amy Colyer
   tagline: Infrastructure / Azure / Hybrid / Operations / IT Pro
@@ -77,7 +77,7 @@ profiles:
     alt: "Amy Colyer Senior Cloud Advocate"
   location: 
     display: Chicago, Illinois
-  twitter: wyrdgirl
+  twitter: "wyrdgirl"
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
   tagline: Developer Tools / AI / Infrastructure / Security
@@ -86,7 +86,7 @@ profiles:
     alt: "Anthony Bartolo Principal Cloud Advocate"
   location: 
     display: Toronto, Ontario, Canada
-  twitter: wirelesslife
+  twitter: "wirelesslife"
 - uid: advocates.anthony-shaw
   name: Anthony Shaw
   tagline: Python
@@ -95,7 +95,7 @@ profiles:
     alt: "Anthony Shaw Cloud Advocate"
   location: 
     display: Sydney, Australia
-  twitter: anthonypjshaw
+  twitter: "anthonypjshaw"
 - uid: advocates.april-dunnam
   name: April Dunnam
   tagline: Power Platform
@@ -104,7 +104,7 @@ profiles:
     alt: "April Dunnam"
   location: 
     display: Tulsa, OK, USA
-  twitter: aprildunnam
+  twitter: "aprildunnam"
 - uid: advocates.april-speight
   name: April Speight
   tagline: AI / Responsible AI / Python
@@ -113,7 +113,7 @@ profiles:
     alt: "April Speight Cloud Advocate"
   location: 
     display: United States
-  twitter: vogueandcode
+  twitter: "vogueandcode"
 - uid: advocates.ayca-bas
   name: Ayca Bas
   tagline: Microsoft Graph
@@ -122,7 +122,7 @@ profiles:
     alt: "Ayca Bas Cloud Advocate"
   location: 
     display: Dubai, United Arab Emirates
-  twitter: aycabs
+  twitter: "aycabs"
 - uid: advocates.barnam-bora
   name: Barnam Bora
   tagline: AI / ML / Microsoft Teams / Microsoft Graph / CTO Advisory
@@ -131,7 +131,7 @@ profiles:
     alt: "Barnam Bora - Cloud Advocacy Lead for Microsoft Teams & Graph"
   location: 
     display: Melbourne, Australia
-  twitter: barnambora
+  twitter: "barnambora"
 - uid: advocates.bethany-cheum
   name: Bethany Cheum
   tagline: Python / Data Science / AI & ML
@@ -140,7 +140,7 @@ profiles:
     alt: "Bethany Cheum Cloud Advocate"
   location: 
     display: Nairobi, Kenya
-  twitter: bethanyjep
+  twitter: "bethanyjep"
 - uid: advocates.bob-german
   name: Bob German
   tagline: Development on Microsoft 365 with Azure
@@ -149,7 +149,7 @@ profiles:
     alt: "Bob German"
   location: 
     display: Boston, MA, USA
-  twitter: Bob1German
+  twitter: "Bob1German"
 - uid: advocates.brian-benz
   name: Brian Benz
   tagline: Java
@@ -158,7 +158,7 @@ profiles:
     alt: "Brian Benz Cloud Developer Advocate"
   location: 
     display: Las Vegas, Nevada, United States
-  twitter: bbenz
+  twitter: "bbenz"
 - uid: advocates.bruno-capuano
   name: Bruno Capuano
   tagline: AI / ML / .NET
@@ -167,7 +167,7 @@ profiles:
     alt: "Bruno Capuano Principal Cloud Advocate"
   location: 
     display: Dundas, Canada
-  twitter: elbruno
+  twitter: "elbruno"
 - uid: advocates.burke-holland
   name: Burke Holland
   tagline: JavaScript / VS Code
@@ -176,7 +176,7 @@ profiles:
     alt: "Burke Holland Cloud Developer Advocate"
   location: 
     display: Franklin, TN, USA
-  twitter: burkeholland
+  twitter: "burkeholland"
 - uid: advocates.carlotta-castelluccio
   name: Carlotta Castelluccio
   tagline: Data Science / Azure / Artificial Intelligence
@@ -201,7 +201,7 @@ profiles:
     alt: "Chris Noring Cloud Developer Advocate"
   location: 
     display: London, United Kingdom
-  twitter: chris_noring
+  twitter: "chris_noring"
 - uid: advocates.christopher-maneu
   name: Christopher Maneu
   tagline: Data Engineering & Analytics
@@ -210,7 +210,7 @@ profiles:
     alt: "Christopher Maneu Cloud Developer Advocate"
   location: 
     display: France
-  twitter: cmaneu
+  twitter: "cmaneu"
 - uid: advocates.cynthia-zanoni
   name: Cynthia Zanoni
   tagline: JavaScript / GitHub / VSCode 
@@ -219,7 +219,7 @@ profiles:
     alt: "Cynthia Zanoni - Cloud Advocate"
   location: 
     display: São Paulo, Brazil
-  twitter: cynthia_zanoni
+  twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
   tagline: Fluid / Microsoft 365 / Azure
@@ -228,7 +228,7 @@ profiles:
     alt: "Dan Wahlin Cloud Developer Advocate"
   location: 
     display: Chandler, AZ, USA
-  twitter: danwahlin
+  twitter: "danwahlin"
 - uid: advocates.daniel-laskewitz
   name: Daniel Laskewitz
   tagline: Power Platform
@@ -237,7 +237,7 @@ profiles:
     alt: "Daniel Laskewitz"
   location: 
     display: Utrecht, The Netherlands
-  twitter: laskewitz
+  twitter: "laskewitz"
 - uid: advocates.dave-glover
   name: Dave Glover
   tagline: IoT and Cloud
@@ -246,7 +246,7 @@ profiles:
     alt: "Dave Glover Cloud Developer Advocate"
   location: 
     display: Sydney, Australia
-  twitter: dglover
+  twitter: "dglover"
 - uid: advocates.david-smith
   name: David Smith
   tagline: AI / ML / Data Science / R
@@ -255,7 +255,7 @@ profiles:
     alt: "David Smith Cloud Developer Advocate"
   location: 
     display: Napa, CA, USA
-  twitter: revodavid
+  twitter: "revodavid"
 - uid: advocates.elaiza-benitez
   name: Elaiza Benitez
   tagline: Power Platform
@@ -264,7 +264,7 @@ profiles:
     alt: "Elaiza Benitez"
   location: 
     display: Wellington, New Zealand
-  twitter: benitezhere
+  twitter: "benitezhere"
 - uid: advocates.em-lazerwalker
   name: Em Lazer-Walker
   tagline: Games / Mobile / JavaScript / IoT / Mixed Reality / HoloLens
@@ -273,7 +273,7 @@ profiles:
     alt: "Em Lazer-Walker - Cloud Advocate"
   location: 
     display: San Francisco, California, United States
-  twitter: lazerwalker
+  twitter: "lazerwalker"
 - uid: advocates.frank-boucher
   name: Frank Boucher
   tagline: Development / DevOps / Serverless
@@ -282,7 +282,7 @@ profiles:
     alt: "Frank Boucher - Cloud Advocate"
   location: 
     display: Montreal, Quebec, Canada
-  twitter: fboucheros
+  twitter: "fboucheros"
 - uid: advocates.garry-trinder
   name: Garry Trinder
   tagline: Development on Microsoft 365
@@ -291,7 +291,7 @@ profiles:
     alt: "Garry Trinder Cloud Developer Advocate"
   location: 
     display: Doncaster, United Kingdom
-  twitter: garrytrinder
+  twitter: "garrytrinder"
 - uid: advocates.glaucia-lemos
   name: Glaucia Lemos
   tagline: JavaScript / Node.js / A.I
@@ -300,7 +300,7 @@ profiles:
     alt: "Glaucia Lemos - Developer Advocate"
   location: 
     display: Rio de Janeiro, Brazil
-  twitter: glaucia_lemos86
+  twitter: "glaucia_lemos86"
 - uid: advocates.gomolemo-mohapi
   name: Gomolemo Mohapi
   tagline: Power Apps / Fusion Development
@@ -309,7 +309,7 @@ profiles:
     alt: "Gomolemo Mohapi - Cloud Advocate"
   location: 
     display: Durban, South Africa
-  twitter: GomoMohapi
+  twitter: "GomoMohapi"
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
   tagline: Spatial Computing / Mixed Reality / AI
@@ -318,7 +318,7 @@ profiles:
     alt: "Gustavo Cordido Cloud Advocate "
   location: 
     display: Redmond, Washington, United States
-  twitter: gcordidoa
+  twitter: "gcordidoa"
 - uid: advocates.gwyneth-penasiguenza
   name: Gwyneth Peña-Siguenza
   tagline: Developer Tools
@@ -327,7 +327,7 @@ profiles:
     alt: "Gwyneth Peña-Siguenza Cloud Advocate"
   location: 
     display: New York,  New York, United States
-  twitter: madebygps
+  twitter: "madebygps"
 - uid: advocates.henk-boelman
   name: Henk Boelman
   tagline: AI / ML / Azure / DevOps
@@ -336,7 +336,7 @@ profiles:
     alt: "Henk Boelman"
   location: 
     display: Driebergen, The Netherlands
-  twitter: hboelman
+  twitter: "hboelman"
 - uid: advocates.ismael-mejia
   name: Ismaël Mejía
   tagline: Big Data / Data Engineering
@@ -345,7 +345,7 @@ profiles:
     alt: "Ismaël Mejía Cloud Developer Advocate"
   location: 
     display: Nantes, France
-  twitter: iemejia
+  twitter: "iemejia"
 - uid: advocates.japhlet-nwamu
   name: Japhlet Nwamu
   tagline: AI / Power Platform / Microsoft 365 / Students / Faculty
@@ -354,7 +354,7 @@ profiles:
     alt: "Japhlet Nwamu Cloud Advocate"
   location: 
     display: Abuja, Nigeria
-  twitter: japhletnwamu
+  twitter: "japhletnwamu"
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: AI, Data
@@ -363,7 +363,7 @@ profiles:
     alt: "Jasmine Greenaway Cloud Developer Advocate"
   location: 
     display: Brooklyn,  New York, United States
-  twitter: paladique
+  twitter: "paladique"
 - uid: advocates.joey-snow
   name: Joey Snow
   tagline: Common sense security for all.
@@ -372,7 +372,7 @@ profiles:
     alt: "Joey Snow Principal Cloud Advocate"
   location: 
     display: Redmond, WA, USA
-  twitter: joeysnow
+  twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
   tagline: Web technologist, engineering leader, and storyteller
@@ -381,7 +381,7 @@ profiles:
     alt: "John Papa Principal Cloud Advocate Lead"
   location: 
     display: Orlando, Florida, United States
-  twitter: webrush.io
+  twitter: "webrush.io"
 - uid: advocates.jorge-arteiro
   name: Jorge Arteiro
   tagline: Containers / Kubernetes / Open Source / Linux
@@ -390,7 +390,7 @@ profiles:
     alt: "Jorge Arteiro Cloud Developer Advocate"
   location: 
     display: Melbourne, Australia
-  twitter: jorgearteiro
+  twitter: "jorgearteiro"
 - uid: advocates.josh-ndemenge
   name: Josh Ndemenge
   tagline: Data Engineering and Analytics
@@ -399,7 +399,7 @@ profiles:
     alt: "Josh Ndemenge Cloud Advocate"
   location: 
     display: Nairobi, Kenya
-  twitter: Jcardif254
+  twitter: "Jcardif254"
 - uid: advocates.joshua-duffney
   name: Joshua Duffney
   tagline: Secure Software Supply Chain
@@ -416,7 +416,7 @@ profiles:
     alt: "Joylynn Kirui Cloud Advocate"
   location: 
     display: Nairobi, Kenya
-  twitter: joylynn_kirui
+  twitter: "joylynn_kirui"
 - uid: advocates.julia-muiruri
   name: Julia Muiruri
   tagline: Students/Educators/VS Code
@@ -425,7 +425,7 @@ profiles:
     alt: "Julia Muiruri Cloud Advocate"
   location: 
     display: Nairobi, Kenya
-  twitter: juliamuiruri4
+  twitter: "juliamuiruri4"
 - uid: advocates.julien-dubois
   name: Julien Dubois
   tagline: Java
@@ -434,7 +434,7 @@ profiles:
     alt: "Julien Dubois Cloud Advocate"
   location: 
     display: Suresnes, France
-  twitter: juliendubois
+  twitter: "juliendubois"
 - uid: advocates.justin-yoo
   name: Justin Yoo
   tagline: .NET / Power Platform / Serverless / DevOps / Messaging
@@ -443,7 +443,7 @@ profiles:
     alt: "Justin Yoo Cloud Advocate"
   location: 
     display: Daegu, South Korea
-  twitter: justinchronicle
+  twitter: "justinchronicle"
 - uid: advocates.kamalshree-soundirapandian
   name: Kamal Shree Soundirapandian
   tagline: Microsoft 365 / Flutter & Dart / Android
@@ -452,7 +452,7 @@ profiles:
     alt: "Kamal Shree - Developer Advocate for Microsoft 365"
   location: 
     display: Bengaluru (Bangalore)
-  twitter: whatsupcoders
+  twitter: "whatsupcoders"
 - uid: advocates.kinfey-lo
   name: Kinfey Lo
   tagline: AzureOpenAIService / AzureAI / GitHub
@@ -461,7 +461,7 @@ profiles:
     alt: "Kinfey Lo - Senior Cloud Advocate"
   location: 
     display: Guangzhou, China
-  twitter: Ljh8304
+  twitter: "Ljh8304"
 - uid: advocates.Korey-stegared-pace
   name: Korey Stegared-Pace
   tagline: Data Science / Azure / Artificial Intelligence
@@ -470,7 +470,7 @@ profiles:
     alt: "Korey Stegared-Pace Cloud Developer Advocate"
   location: 
     display: Stockholm, Sweden
-  twitter: koreyspace
+  twitter: "koreyspace"
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Azure / AI
@@ -479,7 +479,7 @@ profiles:
     alt: "Laurent Bugnion Cloud Advocate"
   location: 
     display: The Circle, Zurich Airport, Switzerland
-  twitter: LBugnion
+  twitter: "LBugnion"
 - uid: advocates.lee-stott
   name: Lee Stott
   tagline: AI / ML 
@@ -488,7 +488,7 @@ profiles:
     alt: "Lee Stott Cloud Advocate"
   location: 
     display: Manchester, United Kingdom
-  twitter: lee_stott
+  twitter: "lee_stott"
 - uid: advocates.liam-hampton
   name: Liam Hampton
   tagline: Go / DevOps / Containers
@@ -497,7 +497,7 @@ profiles:
     alt: "Liam Hampton Cloud Advocate"
   location: 
     display: London, UK
-  twitter: liamchampton
+  twitter: "liamchampton"
 - uid: advocates.madoka-chiyoda
   name: Madoka Chiyoda
   tagline: Mixed Reality / HoloLens / C# / Conversational AI / (Manga)
@@ -506,7 +506,7 @@ profiles:
     alt: "Madoka Chiyoda Cloud Developer Advocate"
   location: 
     display: Minato-ku Tokyo, Japan
-  twitter: chomado
+  twitter: "chomado"
 - uid: advocates.markheckler
   name: Mark Heckler
   tagline: Java
@@ -515,7 +515,7 @@ profiles:
     alt: "Mark Heckler, Principal Cloud Advocate"
   location: 
     display: St. Louis, MO, USA
-  twitter: mkheck
+  twitter: "mkheck"
 - uid: advocates.marlene-mhangami
   name: Marlene Mhangami
   tagline: Python 
@@ -524,7 +524,7 @@ profiles:
     alt: "Marlene Mhangami, Senior Cloud Advocate"
   location: 
     display: London, UK
-  twitter: marlene_zw
+  twitter: "marlene_zw"
 - uid: advocates.matthew-soucoup
   name: Matthew Soucoup
   tagline: .NET / Xamarin
@@ -533,7 +533,7 @@ profiles:
     alt: "Matthew Soucoup Cloud Developer Advocate"
   location: 
     display: Seattle, WA, USA
-  twitter: codemillmatt
+  twitter: "codemillmatt"
 - uid: advocates.nitya-narasimhan
   name: Nitya Narasimhan
   tagline: Mobile, Multi-Platform, Azure, PWA
@@ -542,7 +542,7 @@ profiles:
     alt: "Nitya Narasimhan, Senior Cloud Advocate"
   location: 
     display: New York City, NY, United States
-  twitter: nitya
+  twitter: "nitya"
 - uid: advocates.olivia-guzzardo
   name: Olivia Guzzardo
   tagline: VS Code / Azure / GitHub
@@ -551,7 +551,7 @@ profiles:
     alt: "Olivia Guzzardo Cloud Advocate"
   location: 
     display: Charleston, SC, USA
-  twitter: @oliviaguzzardo
+  twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
@@ -560,7 +560,7 @@ profiles:
     alt: "Orin Thomas Cloud Operations Advocate"
   location: 
     display: Melbourne, Victoria, Australia
-  twitter: orinthomas
+  twitter: "orinthomas"
 - uid: advocates.pablo-lopes
   name: Pablo Lopes
   tagline: Azure / Python / Dot Net / VS Code / AI
@@ -577,7 +577,7 @@ profiles:
     alt: "Pamela Fox Cloud Advocate"
   location: 
     display: El Cerrito, CA
-  twitter: pamelafox
+  twitter: "pamelafox"
 - uid: advocates.patrick-chanezon
   name: Patrick Chanezon
   tagline: Containers
@@ -586,7 +586,7 @@ profiles:
     alt: "Patrick Chanezon Cloud Advocate"
   location: 
     display: San Francisco, California, United States
-  twitter: chanezon
+  twitter: "chanezon"
 - uid: advocates.paul-decarlo
   name: Paul DeCarlo
   tagline: AI, ML, Data, IoT
@@ -595,7 +595,7 @@ profiles:
     alt: "Paul DeCarlo Cloud Developer Advocate"
   location: 
     display: Houston, Texas, US
-  twitter: pjdecarlo
+  twitter: "pjdecarlo"
 - uid: advocates.paul-yu
   name: Paul Yu
   image:
@@ -603,7 +603,7 @@ profiles:
     alt: "Paul Yu Cloud Advocate"
   location: 
     display: Los Angeles, California, United States
-  twitter: pauldotyu
+  twitter: "pauldotyu"
 - uid: advocates.pierre-roman
   name: Pierre Roman
   tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
@@ -612,7 +612,7 @@ profiles:
     alt: "Pierre Roman Senior Cloud Advocate"
   location: 
     display: Ottawa, Ontario, Canada
-  twitter: WiredCanuck
+  twitter: "WiredCanuck"
 - uid: advocates.rabia-williams
   name: Rabia Williams
   tagline: Development on Microsoft 365
@@ -621,7 +621,7 @@ profiles:
     alt: "Rabia Williams"
   location: 
     display: Brisbane, QLD, Australia
-  twitter: williamsrabia
+  twitter: "williamsrabia"
 - uid: advocates.renee-noble
   name: Renee Noble
   tagline: Python / AI / ML
@@ -630,7 +630,7 @@ profiles:
     alt: "Renee Noble Cloud Advocate"
   location: 
     display: Sydney, Australia
-  twitter: noble_renee
+  twitter: "noble_renee"
 - uid: advocates.rick-claus
   name: Rick Claus
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
@@ -639,7 +639,7 @@ profiles:
     alt: "Rick Claus Cloud Advocate"
   location: 
     display: Redmond, Washington, United States
-  twitter: RicksterCDN
+  twitter: "RicksterCDN"
 - uid: advocates.rob-conery
   name: Rob Conery
   image:
@@ -647,7 +647,7 @@ profiles:
     alt: "Rob Conery Cloud Advocate"
   location: 
     display: Redmond, Washington, United States
-  twitter: robconery
+  twitter: "robconery"
 - uid: advocates.rod-trent
   name: Rod Trent
   tagline: Cloud Security / Cyber 
@@ -656,7 +656,7 @@ profiles:
     alt: "Rod Trent - Cloud Security Advocate"
   location: 
     display: Middletown, OH, United States
-  twitter: rodtrent
+  twitter: "rodtrent"
 - uid: advocates.rory-preddy
   name: Rory Preddy
   tagline: Java
@@ -665,7 +665,7 @@ profiles:
     alt: "Rory Preddy Cloud Advocate"
   location: 
     display: Johannesburg, South Africa
-  twitter: rorypreddy
+  twitter: "rorypreddy"
 - uid: advocates.sandra-ahlgrimm
   name: Sandra Ahlgrimm
   tagline: Container / Java / DevOps
@@ -674,7 +674,7 @@ profiles:
     alt: "Sandra Ahlgrimm Cloud Developer Advocate"
   location: 
     display: Berlin, Germany
-  twitter: skriemhild).
+  twitter: "skriemhild)."
 - uid: advocates.sarah-kaiser
   name: Sarah Kaiser
   tagline: Python
@@ -683,7 +683,7 @@ profiles:
     alt: "Sarah Kaiser Cloud Advocate"
   location: 
     display: Seattle, Washington, USA
-  twitter: crazy4pi314
+  twitter: "crazy4pi314"
 - uid: advocates.sarah-young
   name: Sarah Young
   tagline: Security for all the things
@@ -692,7 +692,7 @@ profiles:
     alt: "Sarah Young Cloud Security Advocate"
   location: 
     display: Melbourne, Victoria, Australia
-  twitter: _sarahyo
+  twitter: "_sarahyo"
 - uid: advocates.scott-durow
   name: Scott Durow
   tagline: Power Platform
@@ -701,7 +701,7 @@ profiles:
     alt: "Scott Durow"
   location: 
     display: Vancouver, Canada
-  twitter: ScottDurow
+  twitter: "ScottDurow"
 - uid: advocates.someleze-diko
   name: Someleze Diko
   tagline: Power Platform
@@ -710,7 +710,7 @@ profiles:
     alt: "Someleze Diko - Cloud Advocate"
   location: 
     display: Durban, South Africa
-  twitter: DikoSomeleze
+  twitter: "DikoSomeleze"
 - uid: advocates.sonia-cuff
   name: Sonia Cuff
   tagline: IT Infrastructure / Operations / IT Pro / Azure   
@@ -719,7 +719,7 @@ profiles:
     alt: "Sonia Cuff Cloud Advocate Lead"
   location: 
     display: Brisbane, Queensland, Australia
-  twitter: SoniaCuff
+  twitter: "SoniaCuff"
 - uid: advocates.steven-murawski
   name: Steven Murawski
   tagline: Cloud Native
@@ -728,7 +728,7 @@ profiles:
     alt: "Steven Murawski Cloud Developer Advocate"
   location: 
     display: New Berlin, Wisconsin, United States
-  twitter: stevenmurawski
+  twitter: "stevenmurawski"
 - uid: advocates.thomas-lewis
   name: Thomas Lewis
   tagline: Mixed Reality / HoloLens
@@ -737,7 +737,7 @@ profiles:
     alt: "Thomas Lewis Cloud Advocate"
   location: 
     display: Seattle, WA
-  twitter: tommylee
+  twitter: "tommylee"
 - uid: advocates.todd-anglin
   name: Todd Anglin
   tagline: Web / Mobile Development
@@ -746,7 +746,7 @@ profiles:
     alt: "Todd Anglin Cloud Advocate"
   location: 
     display: The Woodlands, Texas, United States
-  twitter: toddanglin
+  twitter: "toddanglin"
 - uid: advocates.tomomi-imura
   name: Tomomi Imura
   tagline: JavaScript / UX
@@ -755,7 +755,7 @@ profiles:
     alt: "Tomomi Imura Cloud Advocate"
   location: 
     display: San Francisco, California, United States
-  twitter: girlie_mac
+  twitter: "girlie_mac"
 - uid: advocates.vinayak-hegde
   name: Vinayak Hegde
   tagline: AI / ML 
@@ -764,7 +764,7 @@ profiles:
     alt: "Vinayak Hegde"
   location: 
     display: Bangalore, India
-  twitter: vinayakh
+  twitter: "vinayakh"
 - uid: advocates.vinicius-apolinario
   name: Vinicius Apolinario
   tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
@@ -773,7 +773,7 @@ profiles:
     alt: "Vinicius Apolinario Cloud Advocate"
   location: 
     display: Redmond, Washington, United States
-  twitter: vrapolinario
+  twitter: "vrapolinario"
 - uid: advocates.waldek-mastykarz
   name: Waldek Mastykarz
   tagline: Microsoft 365
@@ -782,7 +782,7 @@ profiles:
     alt: "Waldek Mastykarz Cloud Developer Advocate"
   location: 
     display: Alphen aan den Rijn, The Netherlands
-  twitter: waldekm
+  twitter: "waldekm"
 - uid: advocates.wassim-chegham
   name: Wassim Chegham
   tagline: Node.js / JavaScript / Web
@@ -791,7 +791,7 @@ profiles:
     alt: "Wassim Chegham Cloud Advocate"
   location: 
     display: Paris, France
-  twitter: manekinekko
+  twitter: "manekinekko"
 - uid: advocates.yohan-lasorsa
   name: Yohan Lasorsa
   tagline: JavaScript / Node.js / Web / Mobile
@@ -800,7 +800,7 @@ profiles:
     alt: "Yohan Lasorsa Cloud Developer Advocate"
   location: 
     display: Grenoble, France
-  twitter: sinedied
+  twitter: "sinedied"
 - uid: advocates.yoshio-terada
   name: Yoshio Terada
   tagline: Java
@@ -809,7 +809,7 @@ profiles:
     alt: "Yoshio Terada Cloud Developer Advocate"
   location: 
     display: Minato-ku Tokyo, Japan
-  twitter: yoshioterada
+  twitter: "yoshioterada"
 - uid: advocates.yoshua-wuyts
   name: Yoshua Wuyts
   tagline: Rust
@@ -818,4 +818,4 @@ profiles:
     alt: "Yoshua Wuyts, Rust Developer Advocate"
   location: 
     display: Copenhagen, Denmark
-  twitter: yoshuawuyts).
+  twitter: "yoshuawuyts)."
