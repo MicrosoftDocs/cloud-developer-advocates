@@ -17,7 +17,7 @@ filterText: Cloud Advocates
 profiles:
 - uid: advocates.aaron-powell
   name: Aaron Powell
-  tagline: .NET / JavaScript / Web
+  tagline: .NET / JavaScript / Web<br />Test on a new line.
   image:
     src: media/profiles/aaron-powell.png
     alt: "Aaron Powell Cloud Advocate"
@@ -177,10 +177,10 @@ profiles:
     long: -115.544269
 - uid: advocates.bruno-capuano
   name: Bruno Capuano
-  tagline: AI / ML / IoT
+  tagline: AI / ML / .NET
   image:
     src: media/profiles/bruno-capuano.png
-    alt: "Bruno Capuano Senior Cloud Advocate"
+    alt: "Bruno Capuano Principal Cloud Advocate"
   location: 
     display: Dundas, Canada
     lat: 43.262123319339025
