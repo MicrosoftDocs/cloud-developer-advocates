@@ -27,7 +27,10 @@ function Get-DocumentMetadata {
 
     $awards = @{
         'dockerCaptain'             = "Docker Captain"
-        'langchainCommunityCampion' = "Langchain Community Campion"
+        'langchainCommunityCampion' = "Langchain Community Champion"
+        'hashicorpAmbassador'       = "HashiCorp Ambassador"
+        'gde'                       = "Google Developer Expert"
+        'javaChampion'              = "Java Champion"
     }
 
     $metadata = New-Object -TypeName PSObject -Prop $properties
