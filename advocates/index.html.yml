@@ -25,6 +25,7 @@ profiles:
     display: Sydney, Australia
     lat: -33.8652521
     long: 151.2029634
+  twitter: slace
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
   tagline: Linux
