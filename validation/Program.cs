@@ -76,6 +76,10 @@ await foreach ((string filePath, CloudAdvocateYamlModel advocate) in GetAdvocate
         {
             parsingWarnings.Add((filePath, ex.Message));
         }
+        catch (Exception ex)
+        {
+            logger.LogError(ex, "Unexpected Error with {Title} Url: {Url}", connect.Title, connect.Url);
+        }
     }
 
     try
