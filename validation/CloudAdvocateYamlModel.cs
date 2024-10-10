@@ -74,5 +74,32 @@ namespace AdvocateValidation
 
         [YamlMember(Alias = "team")]
         public string Team { get; init; } = string.Empty;
+
+        [YamlMember(Alias = "dockerCaptain")]
+        public bool DockerCaptain { get; init; }
+
+        [YamlMember(Alias = "langchainCommunityCampion")]
+        public bool LangchainCommunityCampion { get; init; }
+
+        [YamlMember(Alias = "hasiCorpAmbassador")]
+        public bool HasiCorpAmbassador { get; init; }
+
+        [YamlMember(Alias = "gde")]
+        public bool Gde { get; init; }
+
+        [YamlMember(Alias = "javaChampion")]
+        public bool JavaChampion { get; init; }
+
+        [YamlMember(Alias = "cncfAmbassador")]
+        public bool CncfAmbassador { get; init; }
+
+        [YamlMember(Alias = "mvp")]
+        public bool Mvp { get; init; }
+
+        [YamlMember(Alias = "rd")]
+        public bool Rd { get; init; }
+
+        [YamlMember(Alias = "finops")]
+        public bool Finops { get; init; }
     }
 }
