@@ -25,14 +25,28 @@ function Get-DocumentMetadata {
         'long'         = ''
     }
 
+    $awards = @{
+        'dockerCaptain'             = "Docker Captain"
+        'langchainCommunityCampion' = "Langchain Community Champion"
+        'hashicorpAmbassador'       = "HashiCorp Ambassador"
+        'gde'                       = "Google Developer Expert"
+        'javaChampion'              = "Java Champion"
+        'cncfAmbassador'            = "CNCF Ambassador"
+        'mvp'                       = "MVP Alumni"
+        'rd'                        = "RD Alumni"
+        'finops'                    = "FinOps Certified Practitioner"
+    }
+
     $metadata = New-Object -TypeName PSObject -Prop $properties
     $metadata.PSObject.TypeNames.Insert(0, 'DocFX.DocumentMetadata')
+
+
 
     if ($file.Extension -eq '.yml') {
         if ($file.Name -eq 'index.html.yml') {
             $script:indexTitle = Get-IndexTitle -file $file
         }
-        
+
         $title = Get-YamlProp -file $file -propName 'name'
         $metadata.Title = if ($title) { $title } 
 
@@ -40,13 +54,21 @@ function Get-DocumentMetadata {
         $metadata.UID = if ($uid) { $uid }
 
         $metadata.tagline = Get-YamlProp -file $file -propName 'tagline'
-        $metadata.twitter = Get-YamlProp -file $file -propName 'twitter'
-        #$metadata.location = Get-YamlProp -file $file -propName 'location'
         $metadata.imageAlt = Get-YamlProp -file $file -propName '  alt'
         $metadata.imageSrc = Get-YamlProp -file $file -propName '  src'
         $metadata.display = Get-YamlProp -file $file -propName '  display'
         $metadata.lat = Get-YamlProp -file $file -propName '  lat'
         $metadata.long = Get-YamlProp -file $file -propName '  long'
+
+        # iterate through awards and append to the metadata.tagline property
+        foreach ($award in $awards.Keys) {
+            $awardValue = Get-YamlProp -file $file -propName $award
+            if ($awardValue) {
+                $metadata.tagline = $metadata.tagline + " | " + $awards[$award]
+            }
+        }
+
+        $metadata.twitter = Get-Twitter -file $file
 
         return $metadata
     }
@@ -95,6 +117,17 @@ function Get-YamlName {
     }    
 }
 
+function Get-Twitter {
+    param (
+        [System.IO.FileInfo] $file
+    )
+
+    foreach ($linegroup in (Get-Content $file.FullName -ReadCount 1000)) {
+        if ($linegroup -match '\s*url\: https\:\/\/twitter\.com.*') {
+            return ($linegroup -split '/')[-1]
+        }
+    }
+}
 
 function Get-YamlUID {
     param (
@@ -116,14 +149,11 @@ function Get-YamlProp {
     param (
         [System.IO.FileInfo] $file,
         [System.String] $propName
-
     )
 
     # Look for the metadata.title property.
     foreach ($linegroup in (Get-Content $file.FullName -ReadCount 1000 -encoding UTF8)) {
-		
-        #if ($propRegex.Match($linegroup).Success) {
-        if ($linegroup -match '^' + $propName + '\:.+') {
+        if ($linegroup -match '^\s*' + $propName + '\:.+') {    
             return $linegroup.Replace($propName + ':', '').TrimStart(' ')
         }
     } 
@@ -169,7 +199,6 @@ function Format-Yaml {
         $children = $item.Group | Where-Object { -Not ($_.FileName -match "index.*") }
         $indent = '  ' * $depth
         $startobject = ('  ' * ($depth - 1)) + '- '
-
         $uid = if ($index) { $index.UID } else { $item.Name.Split('/') | Select-Object -Last 1 }
         Write-Host $index
         $name = $startobject + 'name: Cloud Advocates'
@@ -312,7 +341,7 @@ function Format-Index-Yaml {
                     $twitter = ''
                 }
                 else {
-                    $twitter = $indent + 'twitter: ' + $_.twitter.Replace('https://twitter.com/', '')
+                    $twitter = $indent + 'twitter: "' + $_.twitter.Replace('https://twitter.com/', '') + '"'
                 }
                 return ($uid , $name, $tagline, $image, $imageSrc, $imageAlt, $location, $display, $lat, $long, $twitter | Where-Object { $_.Length -gt 0 } ) -join [Environment]::NewLine
             }
