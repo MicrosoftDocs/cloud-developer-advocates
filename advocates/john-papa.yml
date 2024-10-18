@@ -6,8 +6,8 @@ metadata:
   description: Home page for John Papa, a Microsoft Principal Cloud Advocate
   ms.author: jopapa
   team: App Dev
-  gde: true,
-  mvp: true,
+  gde: true
+  mvp: true
   rd: true
 remarks: |
   ## Bio
