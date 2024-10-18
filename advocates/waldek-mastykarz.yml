@@ -8,11 +8,12 @@ metadata:
   team: m365
 remarks: |
   ## Bio
-  Waldek is a Cloud Developer Advocate at Microsoft focusing on Microsoft 365. In this role he helps developers build applications on top of Microsoft 365. He's also a part of Microsoft 365 Patterns and Practices where he builds developer guidance and tooling for extending Microsoft 365 together with the community.
+  Waldek is a Cloud Developer Advocate at Microsoft focusing on Microsoft 365. In this role he helps developers build applications on top of Microsoft 365. He's also a part of the Microsoft 365 community where he builds developer guidance and tooling for extending Microsoft 365 together with the community.
   
   Before joining Microsoft, Waldek was working with different Microsoft partners in the Microsoft 365 space. For sharing his experience through his blog, speaking and social media, Waldek was a 12-time Microsoft MVP.
 
   ## Skills 💡
+  * Microsoft 365 Copilot
   * Microsoft Graph
   * Microsoft Teams
   * SharePoint Framework (SPFx)
@@ -27,6 +28,7 @@ remarks: |
   * Docker
 
   ## My Projects 👨‍💻
+  * [Dev Proxy](https://aka.ms/devproxy)
   * [CLI for Microsoft 365](https://github.com/pnp/cli-microsoft365)
   * [SPFx docker image](https://hub.docker.com/r/waldekm/spfx)
 
