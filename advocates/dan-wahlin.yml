@@ -3,27 +3,32 @@ uid: advocates.dan-wahlin
 name: Dan Wahlin
 metadata:
   title: Dan Wahlin - Cloud Developer Advocate
-  description: Home page for Dan Wahlin, a Microsoft Cloud Developer Advocate
+  description: Cloud Developer Advocate working with JavaScript, AI, and Azure.
   ms.author: dwahlin
-  team: m365
+  team: javascript
+  mvp: true
+  rd: true
+  gde: true
+  dockerCaptain: true
 remarks: |
   ## Bio
-  Dan is a web developer, architect, and Principal Cloud Developer Advocate living in Chandler, AZ. He works with JavaScript/TypeScript, C#, ASP.NET Core, Node.js, Azure, Microsoft 365, and Docker/Kubernetes. Prior to joining Microsoft Dan ran a consulting, training, and architecture company for 20 years called Wahlin Consulting and provided technology services to developers and corporations around the world.
+  Dan is a web developer, architect, and Principal Cloud Developer Advocate based in Arizona. He works with AI, JavaScript/TypeScript, Node.js, C#, ASP.NET, Azure, Microsoft 365, Docker, Kubernetes, and several other technologies. Prior to joining Microsoft, Dan ran a consulting, training, and architecture company for 20 years called Wahlin Consulting and provided technology services to developers and corporations around the world.
   
-  Dan is focused on helping developers integrate real-time collabration solutions into their apps using the Fluid Framework and helping to bridge Microsoft 365 and Azure services. 
+  Dan is currently focused on helping developers build end-to-end AI and Azure solutions using JavaScript and TypeScript.
   
-  When he's not staring at a computer screen Dan enjoys hanging out with his family, getting outdoors, playing golf or basketball, and jetskiing at the one of the many lakes in Arizona (especially during the summer).
+  When he's not staring at a computer screen, Dan enjoys hanging out with his family, getting outdoors, playing golf or basketball, and jetskiing at the one of the many lakes in Arizona (especially during the summer).
   
   Check out Dan's blog at <a href="https://blog.codewithdan.com">blog.codewithdan.com</a>.
 
   ## Skills 
+  * AI
+  * Azure
   * JavaScript
   * TypeScript
   * Node.js
-  * C# and ASP.NET Core
+  * C# and ASP.NET
   * Docker and Kubernetes
   * React/Angular/Vue
-  * Fluid Framework
 
   ## My Projects
   * [Observable Store](https://github.com/danwahlin/observable-store)
@@ -32,8 +37,10 @@ remarks: |
   * [So You Want To Be a Web Developer?](https://github.com/DanWahlin/So-You-Want-To-Be-A-Web-Developer)
   * [TypeScript Demos](https://github.com/DanWahlin/TypeScriptDemos)
   * [Docker and Kubernetes Samples](https://github.com/DanWahlin/DockerAndKubernetesCourseCode)
+  * [C# Events, Delegates, and Lambdas](https://github.com/DanWahlin/CSharp-Events-Delegates-Lambdas)
+  * [Pluralsight Courses](https://www.pluralsight.com/authors/dan-wahlin)
 
-tagline: Fluid / Microsoft 365 / Azure
+tagline: AI / Azure / JavaScript
 image:
   alt: "Dan Wahlin Cloud Developer Advocate"
   src: media/profiles/dan-wahlin.jpg
@@ -47,6 +54,6 @@ connect:
   - title: Blog
     url: https://blog.codewithdan.com
 location:
-  display: Chandler, AZ, USA
+  display: Arizona, USA
   lat: 33.302284
   long: -111.8401
