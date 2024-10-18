@@ -17,7 +17,7 @@ filterText: Cloud Advocates
 profiles:
 - uid: advocates.aaron-powell
   name: Aaron Powell
-  tagline: .NET / JavaScript / Web | MVP Alumni
+  tagline: .NET / JavaScript / Web | Microsoft MVP Alumni
   image:
     src: media/profiles/aaron-powell.png
     alt: "Aaron Powell Cloud Advocate"
