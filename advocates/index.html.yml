@@ -94,7 +94,7 @@ profiles:
   twitter: "wyrdgirl"
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
-  tagline: Developer Tools / AI / Infrastructure / Security
+  tagline: Developer Tools / AI / Infrastructure / Security | Microsoft MVP Alumni
   image:
     src: media/profiles/anthony-bartolo.png
     alt: "Anthony Bartolo Principal Cloud Advocate"
@@ -268,12 +268,12 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: Fluid / Microsoft 365 / Azure
+  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert | Docker Captain
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
   location: 
-    display: Chandler, AZ, USA
+    display: Arizona, USA
     lat: 33.302284
     long: -111.8401
   twitter: "danwahlin"
@@ -455,10 +455,10 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: Web technologist, engineering leader, and storyteller
+  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert
   image:
     src: media/profiles/john-papa.png
-    alt: "John Papa Principal Cloud Advocate Lead"
+    alt: "John Papa - Partner/GM DevRel"
   location: 
     display: Orlando, Florida, United States
     lat: 28.5029917
@@ -792,15 +792,14 @@ profiles:
   twitter: "robconery"
 - uid: advocates.rod-trent
   name: Rod Trent
-  tagline: Cloud Security / Cyber 
+  tagline: Cybersecurity / AI
   image:
-    src: media/profiles/rod-trent.png
+    src: https://avatars.githubusercontent.com/u/56966432?s=400&u=611f50f3981fc68c194c14cfa76e0642c9edf524&v=4
     alt: "Rod Trent - Cloud Security Advocate"
   location: 
     display: Middletown, OH, United States
     lat: 39.5068
     long: -84.39108
-  twitter: "rodtrent"
 - uid: advocates.rory-preddy
   name: Rory Preddy
   tagline: Java
@@ -869,7 +868,7 @@ profiles:
   twitter: "DikoSomeleze"
 - uid: advocates.sonia-cuff
   name: Sonia Cuff
-  tagline: IT Infrastructure / Operations / IT Pro / Azure   
+  tagline: IT Infrastructure / IT Pro / FinOps / Azure    | Microsoft MVP Alumni
   image:
     src: media/profiles/sonia-cuff.png
     alt: "Sonia Cuff Cloud Advocate Lead"
@@ -902,7 +901,7 @@ profiles:
   twitter: "tommylee"
 - uid: advocates.todd-anglin
   name: Todd Anglin
-  tagline: Web / Mobile Development
+  tagline: DevRel Leadership | Web / Mobile Development | Microsoft MVP Alumni
   image:
     src: media/profiles/todd-anglin.png
     alt: "Todd Anglin Cloud Advocate"
@@ -946,7 +945,7 @@ profiles:
   twitter: "vrapolinario"
 - uid: advocates.waldek-mastykarz
   name: Waldek Mastykarz
-  tagline: Microsoft 365
+  tagline: Microsoft 365 | Microsoft MVP Alumni
   image:
     src: media/profiles/waldek-mastykarz.png
     alt: "Waldek Mastykarz Cloud Developer Advocate"
