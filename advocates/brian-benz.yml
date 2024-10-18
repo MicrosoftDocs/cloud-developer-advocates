@@ -17,19 +17,21 @@ remarks: |
   * Docker and Kubernetes
   * DevOps
 
-tagline: Java AND AI
+tagline: Java / AI / DevOps / Cloud
 image:
   alt: "Brian Benz Principal Cloud Developer Advocate"
   src: media/profiles/brian-benz.png 
 connect:
-  - title: Twitter
-    url: https://twitter.com/bbenz
   - title: GitHub
     url: https://github.com/bbenz
   - title: Blog
     url: https://brianbenz.com/
   - title: LinkedIn
     url: https://linkedin.com/in/brianbenz
+  - title: Threads
+    url: https://www.threads.net/@brianbenz
+  - title: Twitter
+    url: https://twitter.com/bbenz
 location:
   display: Las Vegas, Nevada, United States
   lat: 36.23005
