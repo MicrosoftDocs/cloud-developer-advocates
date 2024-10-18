@@ -383,7 +383,7 @@ foreach ($source_folder in $source_folders) {
     $docfx_dir = [System.IO.Path]::GetFullPath((Join-Path $directory $source_folder))
     $docfx_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'docfx.json'))
     $toc_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'toc.yml'))
-    $index_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'index.html.yml'))
+    $index_html_path = [System.IO.Path]::GetFullPath((Join-Path $docfx_dir 'index.html.yml'))
 
     Write-Verbose "Found docfx json: $docfx_path"
 
@@ -436,8 +436,8 @@ profiles:
 
     # writing to Index file 
     ForEach-Object -Begin { return $IndexFilecontent } -Process { Format-Index-Yaml -object $objects }
-    | Out-File -filepath $index_path -encoding utf8
+    | Out-File -filepath $index_html_path -encoding utf8
 
     Write-Verbose "Generated table of contents at $toc_path"
-    Write-Verbose "Generated Index file at $index_path"
+    Write-Verbose "Generated Index file at $index_html_path"
 }
