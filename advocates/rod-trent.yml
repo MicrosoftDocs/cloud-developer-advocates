@@ -8,15 +8,11 @@ metadata:
   team: security
 remarks: |
   ## Bio
-  As a Customer Engineer and a Security CSA, I spent my first years at Microsoft delivering for our largest Microsoft Sentinel customers. I've presented over 70 Azure Sentinel workshops in the last year alone. This has afforded me the opportunity to become very deep level on this amazing and breakthrough security platform and to understand what our customers require. And, on the side, I have built strong community over various social platforms for Azure Sentinel. I look forward to turning my side hustle into my day job as I take this new role in Cloud Security Advocacy to deliver and develop this one-to-many relationship with our customers. 
-  
-  Prior to joining Microsoft in 2019, I have worked in IT operations, performed marketing for a few technology companies, ran some of the largest Microsoft-focused communities in the world (myITforum anyone?), helped invent and managed the original Microsoft Management Summit (MMS), ran the community outreach efforts for TechEd, owned and operated IT/Dev Connections (another IT-focused conference), owned and sold businesses, and worked as a program manager and Editor-in-Chief for Penton Publishing (WindowsITPro Magazine, et al). 
-  
-  On the personal side, I'm a husband, dad of 4, and a first-time grandfather (so speak slow and loud). I spend my spare time simultaneously watching Six Million Dollar Man TV show episodes and writing KQL queries. I'm also an avid runner, have run over 2,100 days-in-a-row (that’s over 6 years to you and me), and my longest, non-stop run is ~52 miles.
-
+  Rod Trent is a Senior Program Manager for Microsoft. He has spoken many times at many conferences over the past 30-some years and has several written books and hundreds of articles. He is a husband, dad, and g-pop. In his spare time (if such a thing does truly exist), you can regularly find him simultaneously watching Six Million Dollar Man TV show episodes, writing KQL queries, and teaching AI to be kind and honest.
 
   ## Skills
   * Azure Open AI
+  * Security Copilot
   * Microsoft Sentinel  
   * Defender for Cloud  
   * M365 Security/Defender
@@ -25,13 +21,13 @@ remarks: |
   * Log Analytics    
   * Azure
   
-tagline: Cloud Security / Cyber 
+tagline: Cybersecurity / AI
 image:
   alt: "Rod Trent - Cloud Security Advocate"
-  src: media/profiles/rod-trent.png
+  src: https://avatars.githubusercontent.com/u/56966432?s=400&u=611f50f3981fc68c194c14cfa76e0642c9edf524&v=4
 connect:
   - title: Twitter
-    url: https://twitter.com/rodtrent
+    url: https://x.com/rodtrent
   - title: GitHub
     url: https://github.com/rod-trent
   - title: Blog
@@ -40,12 +36,16 @@ connect:
     url: https://www.linkedin.com/in/rodtrent
   - title: YouTube
     url: https://www.youtube.com/c/RodTrent
-  - title: Weekly Microsoft Sentinel Newsletter
-    url: https://sentinelthisweek.substack.com/
-  - title: Weekly Microsoft Defender Newsletter
+  - title: Weekly SIEM and XDR Newsletter
     url: https://microsoftdefender.substack.com/
+  - title: Bi-weekly Security Copilot Newsletter
+    url: https://thecfsprompt.substack.com/
   - title: Learn KQL!
     url: https://aka.ms/MustLearnKQL    
+  - title: The Microsoft Security Insights Show
+    url: https://microsoftsecurityinsights.com/
+  - title: My Fictions Books
+    url: https://rodsfictionbooks.com/
 location:
   display: Middletown, OH, United States
   lat: 39.5068

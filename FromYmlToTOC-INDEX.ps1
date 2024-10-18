@@ -32,8 +32,8 @@ function Get-DocumentMetadata {
         'gde'                       = "Google Developer Expert"
         'javaChampion'              = "Java Champion"
         'cncfAmbassador'            = "CNCF Ambassador"
-        'mvp'                       = "MVP Alumni"
-        'rd'                        = "RD Alumni"
+        'mvp'                       = "Microsoft MVP Alumni"
+        'rd'                        = "Microsoft RD Alumni"
         'finops'                    = "FinOps Certified Practitioner"
     }
 
