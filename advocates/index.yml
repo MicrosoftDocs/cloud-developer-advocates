@@ -674,7 +674,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure   
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft MVP Alumni | Microsoft RD Alumni
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
@@ -794,7 +794,7 @@ profiles:
   name: Rod Trent
   tagline: Cybersecurity / AI
   image:
-    src: https://avatars.githubusercontent.com/u/56966432?s=400&u=611f50f3981fc68c194c14cfa76e0642c9edf524&v=4
+    src: media/profiles/rod-trent.png
     alt: "Rod Trent - Cloud Security Advocate"
   location: 
     display: Middletown, OH, United States
