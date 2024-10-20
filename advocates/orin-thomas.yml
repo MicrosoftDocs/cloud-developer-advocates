@@ -6,6 +6,8 @@ metadata:
   description: Home page for Orin Thomas, a Microsoft Cloud Operations Advocate
   ms.author: orthomas
   team: modops
+  mvp: true
+  rd: true
 remarks: |
   ## Bio
   Orin Thomas is a Principal Cloud Operations Advocate at Microsoft and has written more than 3 dozen books for Microsoft Press on topics including Windows Server, Windows Client, Azure, Microsoft 365, Office 365, System Center, Exchange Server, Security, and SQL Server. 
@@ -17,8 +19,8 @@ remarks: |
   * Hybrid Cloud
   * Security
   * Cloud Architecture
-  
-tagline: IT Infrastructure / Operations / IT Pro / Azure   
+
+tagline: IT Infrastructure / Operations / IT Pro / Azure
 image:
   alt: "Orin Thomas Cloud Operations Advocate"
   src: media/profiles/orin-thomas.png

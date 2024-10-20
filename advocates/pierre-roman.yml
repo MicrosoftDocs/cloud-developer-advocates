@@ -24,8 +24,8 @@ image:
 connect:
   - title: Twitter
     url: https://twitter.com/WiredCanuck
-  - title: Blog
-    url: https://itopstalk.com/
+  # - title: Blog
+  #   url: https://itopstalk.com/
   - title: LinkedIn
     url: https://www.linkedin.com/in/pierreroman/
   - title: GitHub
