@@ -28,8 +28,8 @@ connect:
     url: https://twitter.com/RicksterCDN
   - title: GitHub
     url: https://github.com/RicksterCDN
-  - title: Blog
-    url: https://itOpsTalk.com
+  # - title: Blog
+  #   url: https://itOpsTalk.com
   - title: LinkedIn
     url: https://www.linkedin.com/in/rickclaus
   - title: Twitch
