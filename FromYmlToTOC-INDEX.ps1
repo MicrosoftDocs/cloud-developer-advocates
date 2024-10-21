@@ -32,9 +32,11 @@ function Get-DocumentMetadata {
         'gde'                       = "Google Developer Expert"
         'javaChampion'              = "Java Champion"
         'cncfAmbassador'            = "CNCF Ambassador"
+	'vExpert'            	    = "vExpert"
         'mvp'                       = "Microsoft MVP Alumni"
         'rd'                        = "Microsoft RD Alumni"
-        'finops'                    = "FinOps Certified Practitioner"
+        'mlsa'                      = "Microsoft Learn Student Ambassador Alumni"
+	'mct'			    = "Microsoft Certified Trainer" 
     }
 
     $metadata = New-Object -TypeName PSObject -Prop $properties
