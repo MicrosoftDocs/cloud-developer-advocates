@@ -31,6 +31,7 @@ function Get-DocumentMetadata {
         'hashicorpAmbassador'       = "HashiCorp Ambassador"
         'gde'                       = "Google Developer Expert"
         'javaChampion'              = "Java Champion"
+        'jakartaEEAmbassador'       = "Jakarta EE Ambassador"
         'cncfAmbassador'            = "CNCF Ambassador"
         'mvp'                       = "Microsoft MVP Alumni"
         'rd'                        = "Microsoft RD Alumni"
