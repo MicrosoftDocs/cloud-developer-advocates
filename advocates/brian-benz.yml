@@ -6,6 +6,9 @@ metadata:
   description: Home page for Brian Benz, a Microsoft Principal Cloud Developer Advocate
   ms.author: bbenz
   team: java
+  javaChampion: true
+  jakartaEEAmbassador: true
+
 remarks: |
   ## Bio
   Brian is a Principal Cloud Advocate at Microsoft, a Java champion, and a Jakarta EE ambassador, helping developers get the most out of Azure. Before Joining Microsoft, he was a solution architect, consultant, developer, author and presenter at IBM, Deloitte, and other companies. Find him on most of the socials and GitHub @bbenz.
@@ -24,14 +27,15 @@ image:
 connect:
   - title: GitHub
     url: https://github.com/bbenz
-  - title: Blog
-    url: https://brianbenz.com/
   - title: LinkedIn
     url: https://linkedin.com/in/brianbenz
   - title: Threads
     url: https://www.threads.net/@brianbenz
   - title: Twitter
     url: https://twitter.com/bbenz
+  - title: Blog
+    url: https://brianbenz.com/
+    
 location:
   display: Las Vegas, Nevada, United States
   lat: 36.23005

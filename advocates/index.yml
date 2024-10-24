@@ -182,7 +182,7 @@ profiles:
   twitter: "Bob1German"
 - uid: advocates.brian-benz
   name: Brian Benz
-  tagline: Java / AI / DevOps / Cloud
+  tagline: Java / AI / DevOps / Cloud | Jakarta EE Ambassador | Java Champion
   image:
     src: media/profiles/brian-benz.png 
     alt: "Brian Benz Principal Cloud Developer Advocate"
@@ -268,7 +268,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert | Docker Captain
+  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Docker Captain | Google Developer Expert | Microsoft RD Alumni
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -455,7 +455,7 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert
+  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -674,7 +674,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft MVP Alumni | Microsoft RD Alumni
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft MVP Alumni | Microsoft RD Alumni | Microsoft Certified Trainer
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
@@ -685,10 +685,10 @@ profiles:
   twitter: "orinthomas"
 - uid: advocates.pablo-lopes
   name: Pablo Lopes
-  tagline: Azure / Python / Dot Net / VS Code / AI
+  tagline: Azure / DotNet / Visual Studio / AI | Microsoft Learn Student Ambassador Alumni
   image:
     src: media/profiles/pablo-lopes.jpg
-    alt: "Pablo Lopes Cloud Advocate"
+    alt: "Pablo Lopes - Cloud Advocate - Profile Photo"
   location: 
     display: São Paulo, São Paulo, Brazil
     lat: -23.5475
