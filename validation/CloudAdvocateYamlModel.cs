@@ -99,7 +99,16 @@ namespace AdvocateValidation
         [YamlMember(Alias = "rd")]
         public bool Rd { get; init; }
 
-        [YamlMember(Alias = "finops")]
-        public bool Finops { get; init; }
+        [YamlMember(Alias = "vExpert")]
+        public bool VExpert { get; init; }
+
+        [YamlMember(Alias = "mct")]
+        public bool Mct { get; init; }
+
+        [YamlMember(Alias = "mlsa")]
+        public bool Mlsa { get; init; }
+
+        [YamlMember(Alias = "jakartaEEAmbassador")]
+        public bool JakartaEEAmbassador { get; init; }
     }
 }

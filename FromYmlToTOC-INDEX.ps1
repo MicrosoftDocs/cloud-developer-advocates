@@ -30,12 +30,15 @@ function Get-DocumentMetadata {
         'langchainCommunityCampion' = "Langchain Community Champion"
         'hashicorpAmbassador'       = "HashiCorp Ambassador"
         'gde'                       = "Google Developer Expert"
+        'jakartaEEAmbassador'       = "Jakarta EE Ambassador"
         'javaChampion'              = "Java Champion"
         'jakartaEEAmbassador'       = "Jakarta EE Ambassador"
         'cncfAmbassador'            = "CNCF Ambassador"
+        'vExpert'                   = "vExpert"
         'mvp'                       = "Microsoft MVP Alumni"
         'rd'                        = "Microsoft RD Alumni"
-        'finops'                    = "FinOps Certified Practitioner"
+        'mlsa'                      = "Microsoft Learn Student Ambassador Alumni"
+        'mct'                       = "Microsoft Certified Trainer" 
     }
 
     $metadata = New-Object -TypeName PSObject -Prop $properties
