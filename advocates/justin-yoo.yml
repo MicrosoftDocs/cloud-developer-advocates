@@ -6,6 +6,8 @@ metadata:
   description: Home page for Justin Yoo, a Microsoft Cloud Advocate
   ms.author: juyoo
   team: dotnet
+  mvp: true
+  dockerCaptain: true
 remarks: |
   ## Bio ##
   I started my career as an HR consultant at Samsung for a few years. It was specialising in internal career development for engineers. Funnily enough, their successful career development influenced mine, and I changed my job to become a developer!
@@ -19,12 +21,11 @@ remarks: |
   ## Skills ##
   * .NET
   * Power Platform
-  * Serverless
-  * Integration
+  * Cloud-native
   * DevOps
-  * Messaging
+  * Integration
 
-tagline: .NET / Power Platform / Serverless / DevOps / Messaging
+tagline: .NET / Power Platform / Cloud-native / DevOps / Integration
 image:
   alt: "Justin Yoo Cloud Advocate"
   src: media/profiles/justin-yoo.png 
@@ -33,12 +34,10 @@ connect:
     url: https://twitter.com/justinchronicle
   - title: GitHub
     url: https://github.com/justinyoo
-  - title: StackOverflow
-    url: https://stackoverflow.com/users/642251/justinyoo
   - title: LinkedIn
     url: https://linkedin.com/in/justinyoo
-  - title: Twitch
-    url: https://twitch.tv/aliencubeorg
+  - title: StackOverflow
+    url: https://stackoverflow.com/users/642251/justinyoo
 location:
   display: Daegu, South Korea
   lat: 35.8797297
