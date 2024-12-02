@@ -2,25 +2,30 @@
 uid: advocates.someleze-diko
 name: Someleze Diko
 metadata:
-  title: Someleze Diko - M365 & Power Platform Cloud Advocate
-  description: Home page for Someleze Diko, a Microsoft M365 & Power Platform Cloud Advocate
+  title: Someleze Diko - Data Cloud Advocate
+  description: Home page for Someleze Diko, a Data Cloud Advocate
   ms.author: somelezediko
-  team: academic
+  team: data
+  mlsa: true
 remarks: |
   ## Bio
-  Someleze is a young individual that is passionate about upskilling people from different communities using
-  the different technologies at his disposal through being involved with initiatives that upskill and empower people.
-
-  Today, he is an M365 and Power Platform Cloud Advocate at Microsoft focusing on upskilling students and communities
-  through the Microsoft Power Platform.
+  Someleze is a Cloud Advocate at Microsoft, where he assists developers and data professionals to leverage
+  the power of the cloud and AI for their projects. He is part of the Data Advocacy team, which focuses on
+  empowering data communities with the latest tools and technologies for data analysis, vizualization, and
+  machine learning using Microsoft Fabric. He is also an active speaker, blogger, and mentor who shares his
+  knowledge and experience with various audiences across Africa and beyond.
 
   ## Skills
   - Power Apps
   - Power Automate
-  - Power Virtual Agents
-  - .NET
+  - C#/.NET
+  - Python
+  - Data Science
+  - Data Engineering
+  - Data Analysis
+  - AI
 
-tagline: Power Platform
+tagline: Data & AI
 image:
   alt: "Someleze Diko - Cloud Advocate"
   src: media/profiles/someleze-diko.png
