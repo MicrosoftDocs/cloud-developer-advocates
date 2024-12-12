@@ -268,7 +268,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Microsoft RD Alumni | Microsoft MVP Alumni | Docker Captain | Google Developer Expert
+  tagline: AI / Azure / JavaScript | Microsoft RD Alumni | Google Developer Expert | Microsoft MVP Alumni | Docker Captain
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -455,7 +455,7 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft RD Alumni | Microsoft MVP Alumni | Google Developer Expert
+  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft RD Alumni | Google Developer Expert | Microsoft MVP Alumni
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -674,7 +674,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft RD Alumni | Microsoft Certified Trainer | Microsoft MVP Alumni
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft Certified Trainer | Microsoft RD Alumni | Microsoft MVP Alumni
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
