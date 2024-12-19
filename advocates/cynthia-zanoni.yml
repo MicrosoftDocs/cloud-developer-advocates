@@ -8,29 +8,31 @@ metadata:
   team: academic
 remarks: |
   ## Bio
-  Cynthia Zanoni is a developer passionate about education, communities, and kitten gifs. Currently, she works as a Cloud Advocate at Microsoft in the Developer Tools team, helping developers learn more about Azure, VSCode, and GitHub to take the next step in their professional careers. She is also the leader of the Gender Equity and Women in Technology Committee for LATAM at Microsoft.
+  Cynthia Zanoni is a Cloud Advocate at Microsoft, specializing in Developer Tools and Artificial Intelligence. She is the co-author of the book #TPM Tech Para Mulheres (Tech for Women) and brings over 15 years of experience in technology. As the founder of WoMakersCode, a social impact initiative, Cynthia has been instrumental in advancing the education and employability of women in the IT sector, making a significant impact across Brazil and Latin America.
 
-  In addition to her work at Microsoft, Cynthia is the founder of WoMakersCode, a social impact initiative that aims to support the empowerment and employability of women in technology. WoMakersCode is a member of the UN Global Compact in Brazil and has been awarded the "Seal of Racial Equality" by the São Paulo City Council.
+  Under her leadership, WoMakersCode became an official partner of the UN Global Compact in Brazil and received prestigious recognitions, including the Municipal Seal of Human Rights and Diversity, the Racial Equality Seal of São Paulo, and the Nelson Mandela Award. In March 2024, Cynthia was recognized by the UN Global Compact Brazil as one of the most influential leaders advancing gender and racial equity in the technology sector.
   
   ## Skills
   - Azure
-  - Front-end Development
+  - JavaScript
   - Python
-  - Linux & Open Source
-  - VS Code
   - DevOps
-  - Microsoft Power Platform
-  - Artificial Intelligence for developers
+  - VS Code
+  - GitHub
+  - Artificial Intelligence
 
   ## My Projects
   - [WoMakersCode](https://womakerscode.org/)
-  - [#MaisMulheresTech](https://maismulheres.tech/)
+  - [Mais Mulheres em Tech](https://maismulheres.tech/)
+  - [Developer Pulse Newsletter](https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7204136269889638401)
 
 tagline: JavaScript / GitHub / VSCode 
 image:
   alt: "Cynthia Zanoni - Cloud Advocate"
   src: media/profiles/cynthia-zanoni.png
 connect:
+  - title: Instagram
+    url: https://www.instagram.com/cynthia.zanoni/
   - title: GitHub
     url: https://github.com/cyz
   - title: LinkedIn
@@ -39,7 +41,7 @@ connect:
     url: https://twitter.com/cynthia_zanoni
   - title: YouTube
     url: https://youtube.com/womakerscode
-  - title: Newsletter
+  - title: Substack
     url: https://womakerscode.substack.com/
 
 location:
