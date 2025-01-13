@@ -10,8 +10,7 @@ remarks: |
 
   
   ## Bio
-  Gwyn is a Senior Cloud Advocate at Microsoft focused on Azure developer tools, founder of LearnToCloud and YouTuber, blending her dedication to community with a passion for cloud engineering. Beyond tech, she enjoys reading, time with loved ones, and mint chocolate chip ice cream.
- 
+ Gwen is a Cloud Advocate at Microsoft, focused on helping others build on Azure. In her spare time, she builds the open-source courseware LearnToCloud, documents her learnings and career on YouTube, reads, and spends time with her family, friends, and cats.
   ## Skills
   * .NET
   * Python
@@ -25,6 +24,8 @@ image:
 connect:
   - title: Twitter
     url: https://twitter.com/madebygps
+  - title: BlueSky
+    url: https://bsky.app/profile/madebygps.com
   - title: GitHub
     url: https://github.com/madebygps
   - title: LinkedIn
