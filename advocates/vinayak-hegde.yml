@@ -1,0 +1,44 @@
+### YamlMime:Profile
+uid: advocates.vinayak-hegde
+name: Vinayak Hegde
+metadata:
+  title: Vinayak Hegde - Principal AI Advocate
+  description: Home page for Vinayak Hegde, a Principal AI Advocate
+  ms.author: viheg
+  team: AIML
+remarks: |
+  ## Bio
+  Vinayak Hegde is a Principal AI advocate focussing on Generative AI and Machine Learning. Earlier at Microsoft, I worked in startups team helping startups bring their AI products to market and scale them. I use my experience in this field to educate and mentor startups, students and enterprises to adopt latest AI technoligies and build scalable products.
+  
+  Overall, I have more than 20 years of experience in product development & software architecture. My areas of expertise are IoT (and embedded systems), Large scale networks (and internet protocols) and large scale data processing and management, Artificial Intelligence and Machine Learning. I have worked both as a technical contributor (IC roles) and also leadership leading large teams across continents that developed complex software products in Ad-tech, developer tools, Content delivery networks, Analytics, IoT, e-commerce and logistics.
+
+  Outside of work, I like to read science fiction, graphic novels, economics and history books, photograph (landscape, people and architecture), listen to eclectic music and travel the world. 
+
+  ## Skills
+  * AI / ML 
+  * Data Science 
+  * Cloud Architecture / Large scale data / Large scale networks 
+  * Python / Java / C & C++
+  * Postgres
+
+  ## Projects
+  * [Scaleup Thursday - A podcast series on startups building on Azure](https://www.youtube.com/playlist?list=PLmsFUfdnGr3xWQX_On2Bqz8StsOZuDac7)
+  * [Tech Espresso - A curated tech webinar series for startups](https://www.youtube.com/playlist?list=PLmsFUfdnGr3wYSzwwH_m6CxUKsBUsTRir)
+
+tagline: AI / ML 
+image:
+  alt: "Vinayak Hegde"
+  src: media/profiles/vinayak-hegde.png
+connect:
+  - title: Twitter
+    url: https://twitter.com/vinayakh
+  - title: GitHub
+    url: https://github.com/vinayakh
+  - title: Website
+    url: https://www.vinayakhegde.com
+  - title: LinkedIn
+    url: https://linkedin.com/in/vinayakh
+location:
+  display: Bangalore, India
+  lat: 12.97254
+  long:  77.63344

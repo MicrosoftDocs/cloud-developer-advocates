@@ -2,45 +2,46 @@
 uid: advocates.amy-boyd
 name: Amy Boyd
 metadata:
-  title: Amy Boyd - Cloud Developer Advocate 
-  description: Home page for Amy Boyd, a Microsoft Cloud Developer Advocate
+  title: Amy Boyd - Principal Cloud Advocate - AI Advocacy Lead
+  description: Home page for Amy Boyd, a Principal Cloud Advocate
   ms.author: amynic
   team: aiml
 remarks: |
   ## Bio
-  I am a Cloud Developer Advocate at Microsoft, after studying Computer Science and completing a research project in Natural Language Processing/Machine Learning and an internship at Microsoft’s search engine, Bing. 
+  Amy Boyd, with a background in Computer Science and a focus on Natural Language Processing and Machine Learning, is a Principal Cloud Advocate at Microsoft. 
   
-  I am passionate about Data Science and Machine Learning and my previous roles have allowed me to work in many different areas of data science (Visualisation, ML, Big Data and IoT) as well as working on projects with customers across the globe. 
+  Her passion for AI and Machine Learning has led her to work on global projects, engage with developer communities, and devise strategies for AI Developer community engagement. 
   
-  In my role as a Cloud Developer Advocate, I help developers to engage with Microsoft technology, especially the AI services on Azure, by providing content, learnings, and sample code. You can find me online using the links above or at in-person events.
-
+  In her role, Amy not only creates and delivers content but also shapes the product experience for developers, drawing on her extensive experience in the field.
+  
   ## Skills
   * Machine Learning
-  * Python
-  * Cognitive Services
-  * Bots
+  * Generative AI
+  * Azure AI Studio
+  * Responsible AI
+  * Python / Jupyter Notebooks
+  * Azure AI Services
   * Power BI
 
   ## Projects
-  * [Microsoft Cognitive Services Python Plugins](https://github.com/baileye/azure-machine-learning-pixstor-siggraph) - Sample code for Microsoft Cognitive Services Python plugins. Worked with customers and partners in the media industry but this could be applied anywhere
-  * [A Data Science Repository for the TechHer events](https://github.com/amynic/TechHer) Walk-throughs, samples and content for Azure Data Services
-  * [Talks on Channel 9](https://channel9.msdn.com/Events/Speakers/amy-nicholson) - A collection of presentations on [Channel 9](https://channel9.msdn.com)
-  * [Women in Engineering Interview with Sheffield University](https://wow.group.shef.ac.uk/profiles/amy-nicholson.html) I was interviewed for Sheffield University, UK, Wall of Women in Engineering initiative
-
-tagline: Data / AI / ML
+  * [Hosted many online shows such as A bit of AI with Amy and Henk](https://www.youtube.com/playlist?list=PLmsFUfdnGr3yOvVOZSnM8oobBTUiySQQ4) - A 30-minute show hosted by cloud advocates Henk and Amy. In this show we will enter a conversation with our guest who works with AI daily, and challenge you to expand your skill set with a recommended weekly MS Learn module.
+  * [Applying my personal passions to my data work - Analysis of TV program Love Island](https://github.com/amynic/love-island-project) Data, storyline and findings from analyzing popular UK TV show, Love Island using Microsoft Tooling
+  * [I love being a part of the Global AI Community](https://www.youtube.com/watch?v=hrSYwRdAEio) - speaking with community members, asking questions and sharing content
+  
+tagline: AI / ML
 image:
-  alt: "Amy Boyd Cloud Developer Advocate"
+  alt: "Amy Boyd Principal Cloud Advocate"
   src: media/profiles/amy-boyd.png
 connect:
-  - title: Twitter
-    url: https://twitter.com/AmyKateNicho
-  - title: GitHub
-    url: https://github.com/amynic
   - title: LinkedIn
     url: https://www.linkedin.com/in/amykatenicho/
-  - title: Twitch
-    url: https://www.twitch.tv/amykateboyd
+  - title: GitHub
+    url: https://github.com/amynic
+  - title: Twitter
+    url: https://twitter.com/AmyKateNicho
+
+
 location:
-  display: London, United Kingdom
+  display: United Kingdom
   lat: 51.52814
   long: -0.1339

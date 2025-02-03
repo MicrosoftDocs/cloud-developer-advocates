@@ -9,14 +9,14 @@ metadata:
 remarks: |
   ## Bio
   Vinicius has been working with IT for 20+ years. He has a passion for helping ITPros/Ops and whenever possible, you'll see him on conferences engaging with customers and community. Vinicius holds many Microsoft certifications, has 2 books published ([Learning Hyper-V](https://www.amazon.com/Learning-Hyper-V-Vin%C3%ADcius-R-Apolin%C3%A1rio-ebook/dp/B00YN5T37Y/), and [Windows Containers for ITPros](https://www.amazon.com/Windows-Containers-Pros-Transitioning-premises/dp/1484266854)), is an MCT since 2009, has worked as a Program Manager in the Windows Containers team, and blogs about anything he thinks will help customers be sucessful.
- 
+
   ## Skills
   * Microsoft Azure
   * IT Operations
   * Windows Server
   * Windows Containers
   * Azure Kubernetes Service
- 
+
 tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
 image:
   alt: "Vinicius Apolinario Cloud Advocate"
@@ -26,8 +26,8 @@ connect:
     url: https://twitter.com/vrapolinario
   - title: GitHub
     url: https://github.com/vrapolinario
-  - title: Blog
-    url: https://itOpsTalk.com
+  # - title: Blog
+  #   url: https://itOpsTalk.com
   - title: LinkedIn
     url: https://www.linkedin.com/in/vrapolinario
 location:
