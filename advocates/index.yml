@@ -182,7 +182,7 @@ profiles:
   twitter: "Bob1German"
 - uid: advocates.brian-benz
   name: Brian Benz
-  tagline: Java / AI / DevOps / Cloud | Jakarta EE Ambassador | Java Champion
+  tagline: Java / AI / DevOps / Cloud | Java Champion | Jakarta EE Ambassador
   image:
     src: media/profiles/brian-benz.png 
     alt: "Brian Benz Principal Cloud Developer Advocate"
@@ -193,7 +193,7 @@ profiles:
   twitter: "bbenz"
 - uid: advocates.bruno-capuano
   name: Bruno Capuano
-  tagline: AI / ML / .NET
+  tagline: AI / ML / .NET | Microsoft MVP Alumni
   image:
     src: media/profiles/bruno-capuano.png
     alt: "Bruno Capuano Principal Cloud Advocate"
@@ -268,7 +268,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Microsoft RD Alumni | Microsoft MVP Alumni | Docker Captain | Google Developer Expert
+  tagline: AI / Azure / JavaScript | Google Developer Expert | Microsoft MVP Alumni | Microsoft RD Alumni | Docker Captain
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -389,7 +389,7 @@ profiles:
   twitter: "gcordidoa"
 - uid: advocates.gwyneth-penasiguenza
   name: Gwyneth Peña-Siguenza
-  tagline: Developer Tools
+  tagline: Cloud Engineering
   image:
     src: media/profiles/gwyneth-penasiguenza.jpg
     alt: "Gwyneth Peña-Siguenza Cloud Advocate"
@@ -455,7 +455,7 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft RD Alumni | Microsoft MVP Alumni | Google Developer Expert
+  tagline: DevRel leadership, Web technologist, Engineering leader | Google Developer Expert | Microsoft MVP Alumni | Microsoft RD Alumni
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -477,7 +477,7 @@ profiles:
   twitter: "jorgearteiro"
 - uid: advocates.josh-ndemenge
   name: Josh Ndemenge
-  tagline: Data Engineering and Analytics
+  tagline: Data & Analytics / Big Data 
   image:
     src: media/profiles/josh-ndemenge.JPG
     alt: "Josh Ndemenge Cloud Advocate"
@@ -674,7 +674,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft RD Alumni | Microsoft Certified Trainer | Microsoft MVP Alumni
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft MVP Alumni | Microsoft RD Alumni | Microsoft Certified Trainer
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
@@ -857,7 +857,7 @@ profiles:
   twitter: "ScottDurow"
 - uid: advocates.someleze-diko
   name: Someleze Diko
-  tagline: Power Platform
+  tagline: Data & AI | Microsoft Learn Student Ambassador Alumni
   image:
     src: media/profiles/someleze-diko.png
     alt: "Someleze Diko - Cloud Advocate"

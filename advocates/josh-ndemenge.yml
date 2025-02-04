@@ -8,17 +8,18 @@ metadata:
   team: data
 remarks: |
   ## Bio
-  Josh is a Cloud Developer Advocate at Microsoft in the Data Engineering and Analytics team with experience in data tools having spent his early career days in the IoT (internet of things) & AI (artificial intelligence) space. He is a passionate community tech lead who is passionate to teach and guide individuals interested in tech, especially around Data and Cloud Computing.
-
-  Outside works Josh focuses on mentoring young individuals interested in tech. He is a firm believer that the younger generation should be involved in tech, if not actively building the next generation tech solutions, then at least understand what is happening in the tech space, because technology is directly influencing our lives and livelihoods. 
+  Josh is a Cloud Developer Advocate at Microsoft, focusing on Azure Data, particularly Microsoft Fabric and operational databases. He works closely with engineering teams to provide valuable product feedback and develops content and code that helps developers get the most out of these technologies. He is Passionate about empowering developer communities, sharing knowledge and fostering collaboration. His goal is to help developers leverage technology to innovate and succeed.
 
   ## Skills
-  - Data Engineering & Analytics (Microsoft Purview, Azure Synapse analytics, Azure SQL)
-  - Internet of Things (Iot)
+  - Microsoft Fabric
+  - Data & Analytics
+  - Cloud Architecture
+  - AI
+  - IoT
   - .NET
-  - Artificial Intelligence (AI)
+  - Rust
 
-tagline: Data Engineering and Analytics
+tagline: Data & Analytics / Big Data 
 image:
   alt: "Josh Ndemenge Cloud Advocate"
   src: media/profiles/josh-ndemenge.JPG
