@@ -20,7 +20,7 @@ remarks: |
 
   On the private side, I am a Harley rider and ride often with my wife Vanch in the Swiss alps, in Europe and sometimes the US. I love to garden (we have a fish pond with water lilies, toads, newts, and many fishes of many kinds), go hiking in the Swiss mountains that I call home, kayak on the lakes and rivers (we have two foldable kayaks), travel all around the world and explore. I also create a lot of content with our travel, my drone, or when riding the Harley. I publish content occasionally on my private [YouTube channel](https://gslb.ch/youtube) as well [on Flickr](https://gslb.ch/flickr) of the amazing places I am lucky to visit. I love to spend time with my family and friends. A big part of my professional activity is speaking at conferences worldwide, and I love to travel and meet, train, teach people everywhere I can.
 
-  Oh, and if you want to know more, you can check [this podcast](https://wildermuth.com/hwpod/26/Laurent-Bugnion) or [my blog](https://galasoft.ch/posts/).
+  Oh, and if you want to know more, you can check [this podcast](https://shows.acast.com/65e26dffd3026b0017a9a33f/65e26e05be190800178754bf) or [my blog](https://galasoft.ch/posts/).
 
   ## Skills
   * .NET
@@ -48,17 +48,15 @@ image:
   src: media/profiles/laurent-bugnion.png 
 connect:
   - title: Blog
-    url: https://blog.galasoft.ch
+    url: https://galasoft.ch/posts
+  - title: GitHub
+    url: https://github.com/LBugnion
   - title: LinkedIn
     url: https://linkedin.com/in/LBugnion
   - title: Threads
     url: https://www.threads.net/@lbugnion
-  - title: GitHub
-    url: https://github.com/LBugnion
-  - title: Twitter
-    url: https://twitter.com/LBugnion
-  - title: StackOverflow
-    url: https://stackoverflow.com/users/12233/lbugnion
+  - title: Bluesky
+    url: https://bsky.app/profile/lbugnion.ch/
 location:
   display: The Circle, Zurich Airport, Switzerland
   lat: 47.45144
