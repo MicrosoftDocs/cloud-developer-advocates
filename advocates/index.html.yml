@@ -583,7 +583,6 @@ profiles:
     display: The Circle, Zurich Airport, Switzerland
     lat: 47.45144
     long: 8.56559
-  twitter: "LBugnion"
 - uid: advocates.lee-stott
   name: Lee Stott
   tagline: AI / ML 
