@@ -182,7 +182,7 @@ profiles:
   twitter: "Bob1German"
 - uid: advocates.brian-benz
   name: Brian Benz
-  tagline: Java / AI / DevOps / Cloud | Jakarta EE Ambassador | Java Champion
+  tagline: Java / AI / DevOps / Cloud | Java Champion | Jakarta EE Ambassador
   image:
     src: media/profiles/brian-benz.png 
     alt: "Brian Benz Principal Cloud Developer Advocate"
@@ -268,7 +268,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Docker Captain | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert
+  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni | Docker Captain
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -455,7 +455,7 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert
+  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -509,7 +509,7 @@ profiles:
   twitter: "joylynn_kirui"
 - uid: advocates.julia-muiruri
   name: Julia Muiruri
-  tagline: Students/Educators/VS Code
+  tagline: Students / Educators / VS Code
   image:
     src: media/profiles/julia-muiruri.jpg
     alt: "Julia Muiruri Cloud Advocate"
@@ -531,7 +531,7 @@ profiles:
   twitter: "juliendubois"
 - uid: advocates.justin-yoo
   name: Justin Yoo
-  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Docker Captain | Microsoft MVP Alumni
+  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Microsoft MVP Alumni | Docker Captain
   image:
     src: media/profiles/justin-yoo.png 
     alt: "Justin Yoo Cloud Advocate"
@@ -583,7 +583,6 @@ profiles:
     display: The Circle, Zurich Airport, Switzerland
     lat: 47.45144
     long: 8.56559
-  twitter: "LBugnion"
 - uid: advocates.lee-stott
   name: Lee Stott
   tagline: AI / ML 
