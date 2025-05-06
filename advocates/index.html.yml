@@ -268,7 +268,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni | Docker Captain
+  tagline: AI / Azure / JavaScript | Microsoft RD Alumni | Google Developer Expert | Docker Captain | Microsoft MVP Alumni
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -455,7 +455,7 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni
+  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft RD Alumni | Google Developer Expert | Microsoft MVP Alumni
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -531,7 +531,7 @@ profiles:
   twitter: "juliendubois"
 - uid: advocates.justin-yoo
   name: Justin Yoo
-  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Microsoft MVP Alumni | Docker Captain
+  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Docker Captain | Microsoft MVP Alumni
   image:
     src: media/profiles/justin-yoo.png 
     alt: "Justin Yoo Cloud Advocate"
@@ -673,7 +673,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft Certified Trainer | Microsoft MVP Alumni | Microsoft RD Alumni
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft RD Alumni | Microsoft Certified Trainer | Microsoft MVP Alumni
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
@@ -789,16 +789,6 @@ profiles:
     lat: 47.645171
     long: -122.130696
   twitter: "robconery"
-- uid: advocates.rod-trent
-  name: Rod Trent
-  tagline: Cybersecurity / AI
-  image:
-    src: media/profiles/rod-trent.png
-    alt: "Rod Trent - Cloud Security Advocate"
-  location: 
-    display: Middletown, OH, United States
-    lat: 39.5068
-    long: -84.39108
 - uid: advocates.rory-preddy
   name: Rory Preddy
   tagline: Java
