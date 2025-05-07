@@ -789,16 +789,6 @@ profiles:
     lat: 47.645171
     long: -122.130696
   twitter: "robconery"
-- uid: advocates.rod-trent
-  name: Rod Trent
-  tagline: Cybersecurity / AI
-  image:
-    src: media/profiles/rod-trent.png
-    alt: "Rod Trent - Cloud Security Advocate"
-  location: 
-    display: Middletown, OH, United States
-    lat: 39.5068
-    long: -84.39108
 - uid: advocates.rory-preddy
   name: Rory Preddy
   tagline: Java
