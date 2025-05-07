@@ -182,7 +182,7 @@ profiles:
   twitter: "Bob1German"
 - uid: advocates.brian-benz
   name: Brian Benz
-  tagline: Java / AI / DevOps / Cloud | Java Champion | Jakarta EE Ambassador
+  tagline: Java / AI / DevOps / Cloud | Jakarta EE Ambassador | Java Champion
   image:
     src: media/profiles/brian-benz.png 
     alt: "Brian Benz Principal Cloud Developer Advocate"
@@ -870,7 +870,7 @@ profiles:
   name: Steven Murawski
   tagline: Cloud Native
   image:
-    src: media/profiles/steven-murawski.png 
+    src: media/profiles/steven-murawski.png
     alt: "Steven Murawski Cloud Developer Advocate"
   location: 
     display: New Berlin, Wisconsin, United States
