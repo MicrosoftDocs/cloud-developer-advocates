@@ -37,7 +37,8 @@ function Get-DocumentMetadata {
         'mvp'                       = "Microsoft MVP Alumni"
         'rd'                        = "Microsoft RD Alumni"
         'mlsa'                      = "Microsoft Learn Student Ambassador Alumni"
-        'mct'                       = "Microsoft Certified Trainer" 
+        'mct'                       = "Microsoft Certified Trainer"
+        'psfFellow'                 = "Python Software Foundation Fellow"
     }
 
     $metadata = New-Object -TypeName PSObject -Prop $properties
