@@ -34,14 +34,14 @@ remarks: |
 tagline: Cloud Native
 image:
   alt: "Steven Murawski Cloud Developer Advocate"
-  src: media/profiles/steven-murawski.png 
+  src: media/profiles/steven-murawski.png
 connect:
   - title: Twitter
     url: https://twitter.com/stevenmurawski
   - title: GitHub
     url: https://github.com/smurawski
-  - title: Blog
-    url: https://stevenmurawski.com
+  # - title: Blog
+  #   url: https://stevenmurawski.com
   - title: StackOverflow
     url: https://stackoverflow.com/users/1233/steven-murawski
   - title: LinkedIn
