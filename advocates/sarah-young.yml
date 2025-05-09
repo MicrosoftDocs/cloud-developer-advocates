@@ -2,24 +2,24 @@
 uid: advocates.sarah-young
 name: Sarah Young
 metadata:
-  title: Sarah Young - Cloud Security Advocate
-  description: Home page for Sarah Young, a Microsoft Cloud Security Advocate
+  title: Sarah Young - Security Advocate
+  description: Home page for Sarah Young, a Microsoft Security Advocate
   ms.author: sayoung
   team: modops
 remarks: |
   ## Bio
-  Sarah has worked in security since before it was cool. She loves to connect and engage with security communities all over the globe. Security affects every single one of us and it is Sarah's firm belief that everyone can (and should) know things about security to keep themselves (both on a professional and personal level) safe from security threats.  
+  Talks about and does security things.  
  
   ## Skills
+  * AI Security
   * Cloud Security
   * Security Operations
-  * Posture Management
   * Security Architecture
   * Zero Trust
  
 tagline: Security for all the things
 image:
-  alt: "Sarah Young Cloud Security Advocate"
+  alt: "Sarah Young Security Advocate"
   src: media/profiles/sarah-young.png 
 connect:
   - title: Twitter
