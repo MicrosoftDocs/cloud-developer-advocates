@@ -182,7 +182,7 @@ profiles:
   twitter: "Bob1German"
 - uid: advocates.brian-benz
   name: Brian Benz
-  tagline: Java / AI / DevOps / Cloud | Java Champion | Jakarta EE Ambassador
+  tagline: Java / AI / DevOps / Cloud | Jakarta EE Ambassador | Java Champion
   image:
     src: media/profiles/brian-benz.png 
     alt: "Brian Benz Principal Cloud Developer Advocate"
@@ -268,7 +268,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Docker Captain | Microsoft RD Alumni | Google Developer Expert
+  tagline: AI / Azure / JavaScript | Google Developer Expert | Docker Captain | Microsoft RD Alumni | Microsoft MVP Alumni
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -455,7 +455,7 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert
+  tagline: DevRel leadership, Web technologist, Engineering leader | Google Developer Expert | Microsoft RD Alumni | Microsoft MVP Alumni
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -531,7 +531,7 @@ profiles:
   twitter: "juliendubois"
 - uid: advocates.justin-yoo
   name: Justin Yoo
-  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Microsoft MVP Alumni | Docker Captain
+  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Docker Captain | Microsoft MVP Alumni
   image:
     src: media/profiles/justin-yoo.png 
     alt: "Justin Yoo Cloud Advocate"
@@ -673,7 +673,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft MVP Alumni | Microsoft RD Alumni | Microsoft Certified Trainer
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft Certified Trainer | Microsoft RD Alumni | Microsoft MVP Alumni
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
@@ -827,7 +827,7 @@ profiles:
   tagline: Security for all the things
   image:
     src: media/profiles/sarah-young.png 
-    alt: "Sarah Young Cloud Security Advocate"
+    alt: "Sarah Young Security Advocate"
   location: 
     display: Melbourne, Victoria, Australia
     lat: -37.48
