@@ -8,7 +8,7 @@ metadata:
   team: java
 remarks: |
   ## Bio
-  Julien manages the Java Developer Advocacy team and the JavaScript Developer Advocacy team at Microsoft. Julien is a Java Champion, and is mostly known in the Java community as the creator and lead developer of [JHipster](https://www.jhipster.tech/).
+  Julien manages the Java Developer Advocacy team at Microsoft. Julien is a Java Champion, and is mostly known in the Java community as the creator and lead developer of [JHipster](https://www.jhipster.tech/).
   ## Skills
   * Java
   * Full stack development
@@ -19,8 +19,8 @@ image:
   alt: "Julien Dubois Cloud Advocate"
   src: media/profiles/julien-dubois.jpg 
 connect:
-  - title: Twitter
-    url: https://twitter.com/juliendubois
+  - title: X
+    url: https://x.com/juliendubois
   - title: GitHub
     url: https://github.com/jdubois
   - title: LinkedIn
