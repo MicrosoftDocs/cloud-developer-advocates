@@ -37,17 +37,6 @@ profiles:
     lat: 43.712053
     long: -79.561556
   twitter: "as_w"
-- uid: advocates.abril-ureña
-  name: Abril Ureña
-  tagline: VS Code / Front-end Development / UX Design
-  image:
-    src: media/profiles/abril-urena.png
-    alt: "Abril Urena Cloud Advocate"
-  location: 
-    display: Monterrey, Nuevo Leon, Mexico.
-    lat: 25.67507
-    long: -100.31847
-  twitter: "abrildaur"
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
   tagline: Python / MLOps / DevOps
@@ -125,17 +114,16 @@ profiles:
     lat: 36.155327
     long: -95.99208
   twitter: "aprildunnam"
-- uid: advocates.april-speight
-  name: April Speight
+- uid: advocates.april-gittens
+  name: April Gittens
   tagline: AI / Responsible AI / Python
   image:
-    src: media/profiles/april-speight.png
-    alt: "April Speight Cloud Advocate"
+    src: media/profiles/april-gittens.png
+    alt: "April Gittens Cloud Advocate"
   location: 
     display: United States
     lat: 34.0736
     long: -118.4004
-  twitter: "vogueandcode"
 - uid: advocates.ayca-bas
   name: Ayca Bas
   tagline: Microsoft Graph
@@ -182,7 +170,7 @@ profiles:
   twitter: "Bob1German"
 - uid: advocates.brian-benz
   name: Brian Benz
-  tagline: Java / AI / DevOps / Cloud | Jakarta EE Ambassador | Java Champion
+  tagline: Java / AI / DevOps / Cloud | Java Champion | Jakarta EE Ambassador
   image:
     src: media/profiles/brian-benz.png 
     alt: "Brian Benz Principal Cloud Developer Advocate"
@@ -268,7 +256,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Google Developer Expert | Docker Captain | Microsoft RD Alumni | Microsoft MVP Alumni
+  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert | Docker Captain
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -332,17 +320,6 @@ profiles:
     lat: 37.815141999999994
     long: -122.518271
   twitter: "lazerwalker"
-- uid: advocates.frank-boucher
-  name: Frank Boucher
-  tagline: Development / DevOps / Serverless
-  image:
-    src: media/profiles/frank-boucher.png
-    alt: "Frank Boucher - Cloud Advocate"
-  location: 
-    display: Montreal, Quebec, Canada
-    lat: 45.5017
-    long: -73.5673
-  twitter: "fboucheros"
 - uid: advocates.garry-trinder
   name: Garry Trinder
   tagline: Development on Microsoft 365
@@ -354,17 +331,6 @@ profiles:
     lat: 53.52101
     long: 1.13066
   twitter: "garrytrinder"
-- uid: advocates.glaucia-lemos
-  name: Glaucia Lemos
-  tagline: JavaScript / Node.js / A.I
-  image:
-    src: media/profiles/glaucia-lemos.png
-    alt: "Glaucia Lemos - Developer Advocate"
-  location: 
-    display: Rio de Janeiro, Brazil
-    lat: -22.904491
-    long: -43.190777
-  twitter: "glaucia_lemos86"
 - uid: advocates.gomolemo-mohapi
   name: Gomolemo Mohapi
   tagline: Power Apps / Fusion Development
@@ -420,17 +386,6 @@ profiles:
     lat: 47.2184
     long: 1.5536
   twitter: "iemejia"
-- uid: advocates.japhlet-nwamu
-  name: Japhlet Nwamu
-  tagline: AI / Power Platform / Microsoft 365 / Students / Faculty
-  image:
-    src: media/profiles/japhlet-nwamu.jpg
-    alt: "Japhlet Nwamu Cloud Advocate"
-  location: 
-    display: Abuja, Nigeria
-    lat: 9.072264
-    long: 7.491302
-  twitter: "japhletnwamu"
 - uid: advocates.jasmine-greenaway
   name: Jasmine Greenaway
   tagline: AI, Data
@@ -455,7 +410,7 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Google Developer Expert | Microsoft RD Alumni | Microsoft MVP Alumni
+  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -528,10 +483,9 @@ profiles:
     display: Suresnes, France
     lat: 48.8712
     long: 2.22707
-  twitter: "juliendubois"
 - uid: advocates.justin-yoo
   name: Justin Yoo
-  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Docker Captain | Microsoft MVP Alumni
+  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Microsoft MVP Alumni | Docker Captain
   image:
     src: media/profiles/justin-yoo.png 
     alt: "Justin Yoo Cloud Advocate"
@@ -566,7 +520,7 @@ profiles:
   name: Korey Stegared-Pace
   tagline: Data Science / Azure / Artificial Intelligence
   image:
-    src: media/profiles/korey-stegaredpace.png
+    src: media/profiles/korey-stegared-pace.png
     alt: "Korey Stegared-Pace Cloud Developer Advocate"
   location: 
     display: Stockholm, Sweden
@@ -616,17 +570,6 @@ profiles:
     lat: 35.626610
     long: 139.740982
   twitter: "chomado"
-- uid: advocates.markheckler
-  name: Mark Heckler
-  tagline: Java
-  image:
-    src: media/profiles/mark-heckler.png
-    alt: "Mark Heckler, Principal Cloud Advocate"
-  location: 
-    display: St. Louis, MO, USA
-    lat: 38.7588171
-    long: -90.4011274
-  twitter: "mkheck"
 - uid: advocates.marlene-mhangami
   name: Marlene Mhangami
   tagline: Python 
@@ -673,7 +616,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft Certified Trainer | Microsoft RD Alumni | Microsoft MVP Alumni
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft MVP Alumni | Microsoft RD Alumni | Microsoft Certified Trainer
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
@@ -779,16 +722,6 @@ profiles:
     lat: 47.645171
     long: -122.130696
   twitter: "RicksterCDN"
-- uid: advocates.rob-conery
-  name: Rob Conery
-  image:
-    src: media/profiles/rob-conery.jpg 
-    alt: "Rob Conery Cloud Advocate"
-  location: 
-    display: Redmond, Washington, United States
-    lat: 47.645171
-    long: -122.130696
-  twitter: "robconery"
 - uid: advocates.rory-preddy
   name: Rory Preddy
   tagline: Java
@@ -822,17 +755,6 @@ profiles:
     lat: 47.60357
     long: -122.32945
   twitter: "crazy4pi314"
-- uid: advocates.sarah-young
-  name: Sarah Young
-  tagline: Security for all the things
-  image:
-    src: media/profiles/sarah-young.png 
-    alt: "Sarah Young Security Advocate"
-  location: 
-    display: Melbourne, Victoria, Australia
-    lat: -37.48
-    long: 144.57
-  twitter: "_sarahyo"
 - uid: advocates.scott-durow
   name: Scott Durow
   tagline: Power Platform
@@ -877,17 +799,6 @@ profiles:
     lat: 42.976402
     long: -88.108422
   twitter: "stevenmurawski"
-- uid: advocates.thomas-lewis
-  name: Thomas Lewis
-  tagline: Mixed Reality / HoloLens
-  image:
-    src: media/profiles/thomas-lewis.png
-    alt: "Thomas Lewis Cloud Advocate"
-  location: 
-    display: Seattle, WA
-    lat: 47.6062
-    long: -122.3321
-  twitter: "tommylee"
 - uid: advocates.todd-anglin
   name: Todd Anglin
   tagline: DevRel Leadership | Web / Mobile Development | Microsoft MVP Alumni
