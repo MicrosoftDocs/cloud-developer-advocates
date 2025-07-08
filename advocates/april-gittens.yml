@@ -1,14 +1,14 @@
 ### YamlMime:Profile
-uid: advocates.april-speight
-name: April Speight
+uid: advocates.april-gittens
+name: April Gittens
 metadata:
-  title: April Speight - Cloud Advocate
-  description: Home page for April Speight, a Microsoft Cloud Advocate
-  ms.author: apspeigh
+  title: April Gittens - Cloud Advocate
+  description: Home page for April Gittens, a Microsoft Cloud Advocate
+  ms.author: apgittens
   team: aiml
 remarks: |
   ## Bio
-    April Speight's career began in the fashion industry, where she worked as a menswear stylist and visual merchandiser for prestigious brands like Club Monaco, Saks, and Neiman Marcus. She holds a BS in Global Business & Public Policy from the University of Maryland. Her transition to tech started with project management roles at the Consumer Technology Association, Lidl US, Impexium, and The Milken Institute.
+    April Gittens's career began in the fashion industry, where she worked as a menswear stylist and visual merchandiser for prestigious brands like Club Monaco, Saks, and Neiman Marcus. She holds a BS in Global Business & Public Policy from the University of Maryland. Her transition to tech started with project management roles at the Consumer Technology Association, Lidl US, Impexium, and The Milken Institute.
 
     April completed her Masters in Luxury & Fashion Management at the Savannah College of Art and Design. During her leisure time, she learned Python with an initial aim to become a data scientist but later shifted her focus to AI assistants, chat bots, and conversational design. Her innovative work in this field was showcased at Twilio’s annual developer conference, SIGNAL, earning her the Twilio Champion and the Twilio Doer award in 2019.
 
@@ -27,17 +27,17 @@ remarks: |
 
 tagline: AI / Responsible AI / Python
 image:
-  alt: "April Speight Cloud Advocate"
-  src: media/profiles/april-speight.png
+  alt: "April Gittens Cloud Advocate"
+  src: media/profiles/april-gittens.png
 connect:
-  - title: Twitter
-    url: https://twitter.com/vogueandcode
+  - title: BlueSky
+    url: https://bsky.app/profile/prettywiredbuilds.bsky.social
   - title: Blog
-    url: https://www.millennialworkweek.com/
+    url: https://www.prettywiredbuilds.com/
   - title: GitHub
-    url: https://github.com/aprilspeight
+    url: https://github.com/aprilgittens
   - title: LinkedIn
-    url: https://www.linkedin.com/in/aprilspeight
+    url: https://www.linkedin.com/in/aprilgittens
 
 location:
   display: United States
