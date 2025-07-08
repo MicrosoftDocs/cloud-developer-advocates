@@ -12,8 +12,6 @@ items:
     uid: advocates.aaron-powell
   - name: Aaron Wislang
     uid: advocates.aaron-wislang
-  - name: Abril Ureña
-    uid: advocates.abril-ureña
   - name: Alfredo Deza
     uid: advocates.alfredo-deza
   - name: Alvaro Videla
@@ -66,12 +64,8 @@ items:
     uid: advocates.elaiza-benitez
   - name: Em Lazer-Walker
     uid: advocates.em-lazerwalker
-  - name: Frank Boucher
-    uid: advocates.frank-boucher
   - name: Garry Trinder
     uid: advocates.garry-trinder
-  - name: Glaucia Lemos
-    uid: advocates.glaucia-lemos
   - name: Gomolemo Mohapi
     uid: advocates.gomolemo-mohapi
   - name: Gustavo Cordido
@@ -82,8 +76,6 @@ items:
     uid: advocates.henk-boelman
   - name: Ismaël Mejía
     uid: advocates.ismael-mejia
-  - name: Japhlet Nwamu
-    uid: advocates.japhlet-nwamu
   - name: Jasmine Greenaway
     uid: advocates.jasmine-greenaway
   - name: Joey Snow
@@ -146,16 +138,12 @@ items:
     uid: advocates.renee-noble
   - name: Rick Claus
     uid: advocates.rick-claus
-  - name: Rob Conery
-    uid: advocates.rob-conery
   - name: Rory Preddy
     uid: advocates.rory-preddy
   - name: Sandra Ahlgrimm
     uid: advocates.sandra-ahlgrimm
   - name: Sarah Kaiser
     uid: advocates.sarah-kaiser
-  - name: Sarah Young
-    uid: advocates.sarah-young
   - name: Scott Durow
     uid: advocates.scott-durow
   - name: Someleze Diko
@@ -164,8 +152,6 @@ items:
     uid: advocates.sonia-cuff
   - name: Steven Murawski
     uid: advocates.steven-murawski
-  - name: Thomas Lewis
-    uid: advocates.thomas-lewis
   - name: Todd Anglin
     uid: advocates.todd-anglin
   - name: Tomomi Imura

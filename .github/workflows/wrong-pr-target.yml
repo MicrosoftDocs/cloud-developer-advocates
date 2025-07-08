@@ -3,23 +3,33 @@ on:
   pull_request_target: # Please read https://securitylab.github.com/research/github-actions-preventing-pwn-requests/ before using
     types: [opened, edited]
 
-jobs:  
-  build:
+jobs:
+  check_target_branch:
     runs-on: ubuntu-latest
     steps:
-      - name: Ensure Target Branch is valid
-        uses: Vankka/pr-target-branch-action@v2
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check PR target branch
+        if: github.event.pull_request.base.ref == 'live'
+        uses: actions/github-script@v6
         with:
-          # The target branch
-          target: live
-          # A list (space separated string) of base branches which are allowed to PR the given target (cannot be used with include)
-          exclude: main
-          # The branch the PR's target should be changed to if the target is incorrect
-          change-to: main
-          comment: |
-            All pull requests needs to be targeted to main for validation.
-            
-            Please open pull requests against `main` in the future.
-          already-exists-action: nothing
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            // Get PR information
+            const pr = context.payload.pull_request;
+
+            // Update PR to target 'main' branch
+            await github.rest.pulls.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+              base: 'main'
+            });
+
+            // Create comment on PR
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: pr.number,
+              body: 'All pull requests needs to be targeted to main for validation.\n\nPlease open pull requests against `main` in the future.'
+            });
+
+            console.log('PR target branch was updated from live to main');

@@ -2,7 +2,7 @@
 uid: advocates.Korey-stegared-pace
 name: Korey Stegared-Pace
 metadata:
-  title: Korey Stegared-Pace - Cloud Developer Advocate 
+  title: Korey Stegared-Pace - Cloud Developer Advocate
   description: Home page for Korey Stegared Pace, a Microsoft Cloud Developer Advocate
   ms.author: koreyst
   team: AIML
@@ -21,13 +21,13 @@ remarks: |
 tagline: Data Science / Azure / Artificial Intelligence
 image:
   alt: "Korey Stegared-Pace Cloud Developer Advocate"
-  src: media/profiles/korey-stegaredpace.png
-connect: 
+  src: media/profiles/korey-stegared-pace.png
+connect:
   - title: GitHub
     url: https://github.com/koreyspace
   - title: LinkedIn
     url: https://www.linkedin.com/in/koreyspace/
-  - title: X 
+  - title: X
     url: https://twitter.com/koreyspace
 location:
   display: Stockholm, Sweden
