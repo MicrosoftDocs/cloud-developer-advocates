@@ -114,17 +114,16 @@ profiles:
     lat: 36.155327
     long: -95.99208
   twitter: "aprildunnam"
-- uid: advocates.april-speight
-  name: April Speight
+- uid: advocates.april-gittens
+  name: April Gittens
   tagline: AI / Responsible AI / Python
   image:
-    src: media/profiles/april-speight.png
-    alt: "April Speight Cloud Advocate"
+    src: media/profiles/april-gittens.png
+    alt: "April Gittens Cloud Advocate"
   location: 
     display: United States
     lat: 34.0736
     long: -118.4004
-  twitter: "vogueandcode"
 - uid: advocates.ayca-bas
   name: Ayca Bas
   tagline: Microsoft Graph
