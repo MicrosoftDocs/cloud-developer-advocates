@@ -1,7 +1,14 @@
 {
-    "redirections": [{
-        "source_path": "advocates/azure-developer-tour-2018/index.md",
-        "redirect_url": "https://www.microsoft.com/ignite-the-tour",
-        "redirect_document_id": false
-    }]
+  "redirections": [
+    {
+      "source_path": "advocates/azure-developer-tour-2018/index.md",
+      "redirect_url": "https://www.microsoft.com/ignite-the-tour",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/april-speight/index.md",
+      "redirect_url": "advocates/april-gittens/",
+      "redirect_document_id": false
+    }
+  ]
 }
