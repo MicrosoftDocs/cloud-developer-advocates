@@ -615,17 +615,6 @@ profiles:
     lat: 35.626610
     long: 139.740982
   twitter: "chomado"
-- uid: advocates.markheckler
-  name: Mark Heckler
-  tagline: Java
-  image:
-    src: media/profiles/mark-heckler.png
-    alt: "Mark Heckler, Principal Cloud Advocate"
-  location: 
-    display: St. Louis, MO, USA
-    lat: 38.7588171
-    long: -90.4011274
-  twitter: "mkheck"
 - uid: advocates.marlene-mhangami
   name: Marlene Mhangami
   tagline: Python 
