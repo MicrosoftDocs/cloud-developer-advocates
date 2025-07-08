@@ -483,7 +483,6 @@ profiles:
     display: Suresnes, France
     lat: 48.8712
     long: 2.22707
-  twitter: "juliendubois"
 - uid: advocates.justin-yoo
   name: Justin Yoo
   tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Microsoft MVP Alumni | Docker Captain
