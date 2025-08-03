@@ -28,14 +28,14 @@ profiles:
   twitter: "slace"
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
-  tagline: Linux
+  tagline: Cloud Native & Linux
   image:
-    src: media/profiles/aaron-wislang.png
-    alt: "Aaron Wislang Cloud Developer Advocate"
+    src: media/profiles/aaron-wislang.jpg
+    alt: "Aaron Wislang, Cloud Advocate"
   location: 
     display: Toronto, Ontario, Canada
-    lat: 43.712053
-    long: -79.561556
+    lat: 43.6532
+    long: -79.3832
   twitter: "as_w"
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
@@ -256,7 +256,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert | Docker Captain
+  tagline: AI / Azure / JavaScript | Docker Captain | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -410,7 +410,7 @@ profiles:
   twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert
+  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -485,7 +485,7 @@ profiles:
     long: 2.22707
 - uid: advocates.justin-yoo
   name: Justin Yoo
-  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Microsoft MVP Alumni | Docker Captain
+  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Docker Captain | Microsoft MVP Alumni
   image:
     src: media/profiles/justin-yoo.png 
     alt: "Justin Yoo Cloud Advocate"
@@ -616,7 +616,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft MVP Alumni | Microsoft RD Alumni | Microsoft Certified Trainer
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft Certified Trainer | Microsoft MVP Alumni | Microsoft RD Alumni
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
