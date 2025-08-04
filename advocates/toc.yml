@@ -18,8 +18,6 @@ items:
     uid: advocates.alvaro-videla
   - name: Amy Boyd
     uid: advocates.amy-boyd
-  - name: Amy Colyer
-    uid: advocates.amy-colyer
   - name: Anthony Bartolo
     uid: advocates.anthony-bartolo
   - name: Anthony Shaw
@@ -78,8 +76,6 @@ items:
     uid: advocates.ismael-mejia
   - name: Jasmine Greenaway
     uid: advocates.jasmine-greenaway
-  - name: Joey Snow
-    uid: advocates.joey-snow
   - name: John Papa
     uid: advocates.john-papa
   - name: Jorge Arteiro
@@ -88,8 +84,6 @@ items:
     uid: advocates.josh-ndemenge
   - name: Joshua Duffney
     uid: advocates.joshua-duffney
-  - name: Joylynn Kirui
-    uid: advocates.joylynn-kirui
   - name: Julia Muiruri
     uid: advocates.julia-muiruri
   - name: Julien Dubois
@@ -152,12 +146,8 @@ items:
     uid: advocates.sonia-cuff
   - name: Steven Murawski
     uid: advocates.steven-murawski
-  - name: Todd Anglin
-    uid: advocates.todd-anglin
   - name: Tomomi Imura
     uid: advocates.tomomi-imura
-  - name: Vinayak Hegde
-    uid: advocates.vinayak-hegde
   - name: Vinicius Apolinario
     uid: advocates.vinicius-apolinario
   - name: Waldek Mastykarz
