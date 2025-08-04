@@ -245,7 +245,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Docker Captain | Google Developer Expert | Microsoft RD Alumni | Microsoft MVP Alumni
+  tagline: AI / Azure / JavaScript | Docker Captain | Microsoft RD Alumni | Microsoft MVP Alumni | Google Developer Expert
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -388,7 +388,7 @@ profiles:
   twitter: "paladique"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Google Developer Expert | Microsoft RD Alumni | Microsoft MVP Alumni
+  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft RD Alumni | Microsoft MVP Alumni | Google Developer Expert
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -583,7 +583,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft Certified Trainer | Microsoft RD Alumni | Microsoft MVP Alumni
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft RD Alumni | Microsoft MVP Alumni | Microsoft Certified Trainer
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
@@ -788,17 +788,6 @@ profiles:
     lat: 37.773972
     long: -122.431297
   twitter: "girlie_mac"
-- uid: advocates.vinayak-hegde
-  name: Vinayak Hegde
-  tagline: AI / ML 
-  image:
-    src: media/profiles/vinayak-hegde.png
-    alt: "Vinayak Hegde"
-  location: 
-    display: Bangalore, India
-    lat: 12.97254
-    long: 77.63344
-  twitter: "vinayakh"
 - uid: advocates.vinicius-apolinario
   name: Vinicius Apolinario
   tagline: Azure / IaaS / Windows Server / Containers / Kubernetes / IT Pro
