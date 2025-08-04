@@ -20,8 +20,6 @@ items:
     uid: advocates.alvaro-videla
   - name: Amy Boyd
     uid: advocates.amy-boyd
-  - name: Amy Colyer
-    uid: advocates.amy-colyer
   - name: Anthony Bartolo
     uid: advocates.anthony-bartolo
   - name: Anthony Shaw
@@ -94,16 +92,12 @@ items:
     uid: advocates.jay-miller
   - name: Jim Bennett
     uid: advocates.jim-bennett
-  - name: Joey Snow
-    uid: advocates.joey-snow
   - name: John Papa
     uid: advocates.john-papa
   - name: Jorge Arteiro
     uid: advocates.jorge-arteiro
   - name: Josh Ndemenge
     uid: advocates.josh-ndemenge
-  - name: Joylynn Kirui
-    uid: advocates.joylynn-kirui
   - name: Julia Muiruri
     uid: advocates.julia-muiruri
   - name: Julien Dubois
