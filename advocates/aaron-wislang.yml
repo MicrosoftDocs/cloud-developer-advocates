@@ -3,33 +3,37 @@ uid: advocates.aaron-wislang
 name: Aaron Wislang
 metadata:
   title: Aaron Wislang - Cloud Advocate
-  description: Home page for Aaron Wislang, a Microsoft Cloud Developer Advocate
+  description: Home page for Aaron Wislang, a Microsoft Cloud Advocate
   ms.author: aawislan
   team: opensource
 remarks: |
   ## Bio
-  Aaron is a Senior Cloud Developer Advocate at Microsoft with well over a decade of software development, systems architecture & security experience across the major clouds, development platforms and industries. His current areas of focus include Code (Go, .NET. python), Clouds, Containers (Docker, Kubernetes) & Security as well as Microsoft, Linux & other Open Source platforms. He joined Microsoft from Rackspace where he was a Senior Systems Architect & Software Developer on the Azure Product & Engineering team. Aaron and his wife currently live in Toronto, Canada with their two boys and their turtle.
+  Aaron is Senior Cloud Advocate at Microsoft with a focus on Cloud Native, Linux, Go & Open Source. He has decades of experience across software development, distributed systems, and security. He currently lives in Toronto, Canada with his wife and their two boys, and occasionally manages to combine three of his favorite things by taking photographs, outdoors, while drinking coffee.
   
   ## Skills
-  - Linux & Open Source
-  - Containers & Kubernetes
-  - Go
-  - Python
-  - .NET
-tagline: Linux
+  - Cloud Native & Linux
+  - Open Source, Security
+  - Go, Python, Postgres & More
+
+tagline: Cloud Native & Linux
 image:
-  alt: "Aaron Wislang Cloud Developer Advocate"
-  src: media/profiles/aaron-wislang.png
+  alt: "Aaron Wislang, Cloud Advocate"
+  src: media/profiles/aaron-wislang.jpg
 connect:
-  - title: Twitter
-    url: https://twitter.com/as_w
   - title: GitHub
     url: https://github.com/asw101
-  - title: StackOverflow
-    url: https://stackoverflow.com/users/334117/aaron
   - title: LinkedIn
     url: https://linkedin.com/in/aaron-wislang
+  - title: Web (aaronw.dev)
+    url: https://aaronw.dev/
+  - title: Bluesky
+    url: https://bsky.app/profile/aaronw.dev
+  - title: Threads
+    url: https://www.threads.com/@aaronw.dev
+  - title: Twitter
+    url: https://twitter.com/as_w
+
 location:
   display: Toronto, Ontario, Canada
-  lat: 43.712053
-  long: -79.561556
+  lat: 43.6532
+  long: -79.3832

@@ -28,14 +28,14 @@ profiles:
   twitter: "slace"
 - uid: advocates.aaron-wislang
   name: Aaron Wislang
-  tagline: Linux
+  tagline: Cloud Native & Linux
   image:
-    src: media/profiles/aaron-wislang.png
-    alt: "Aaron Wislang Cloud Developer Advocate"
+    src: media/profiles/aaron-wislang.jpg
+    alt: "Aaron Wislang, Cloud Advocate"
   location: 
     display: Toronto, Ontario, Canada
-    lat: 43.712053
-    long: -79.561556
+    lat: 43.6532
+    long: -79.3832
   twitter: "as_w"
 - uid: advocates.alfredo-deza
   name: Alfredo Deza
@@ -70,17 +70,6 @@ profiles:
     lat: 51.52814
     long: -0.1339
   twitter: "AmyKateNicho"
-- uid: advocates.amy-colyer
-  name: Amy Colyer
-  tagline: Infrastructure / Azure / Hybrid / Operations / IT Pro
-  image:
-    src: media/profiles/amy-colyer.jpg
-    alt: "Amy Colyer Senior Cloud Advocate"
-  location: 
-    display: Chicago, Illinois
-    lat: 41.88425
-    long: -87.63245
-  twitter: "wyrdgirl"
 - uid: advocates.anthony-bartolo
   name: Anthony Bartolo
   tagline: Developer Tools / AI / Infrastructure / Security | Microsoft MVP Alumni
@@ -256,7 +245,7 @@ profiles:
   twitter: "cynthia_zanoni"
 - uid: advocates.dan-wahlin
   name: Dan Wahlin
-  tagline: AI / Azure / JavaScript | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert | Docker Captain
+  tagline: AI / Azure / JavaScript | Docker Captain | Google Developer Expert | Microsoft RD Alumni | Microsoft MVP Alumni
   image:
     src: media/profiles/dan-wahlin.jpg
     alt: "Dan Wahlin Cloud Developer Advocate"
@@ -397,20 +386,9 @@ profiles:
     lat: 40.67417
     long: -74.025653
   twitter: "paladique"
-- uid: advocates.joey-snow
-  name: Joey Snow
-  tagline: Common sense security for all.
-  image:
-    src: media/profiles/joey-snow.jpg
-    alt: "Joey Snow Principal Cloud Advocate"
-  location: 
-    display: Redmond, WA, USA
-    lat: 47.673988
-    long: -122.121513
-  twitter: "joeysnow"
 - uid: advocates.john-papa
   name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Microsoft RD Alumni | Google Developer Expert
+  tagline: DevRel leadership, Web technologist, Engineering leader | Google Developer Expert | Microsoft RD Alumni | Microsoft MVP Alumni
   image:
     src: media/profiles/john-papa.png
     alt: "John Papa - Partner/GM DevRel"
@@ -451,17 +429,6 @@ profiles:
     display: Bellevue, NE
     lat: 41.1543623
     long: -95.914556
-- uid: advocates.joylynn-kirui
-  name: Joylynn Kirui
-  tagline: Cybersecurity
-  image:
-    src: media/profiles/joylynn-kirui.jpg
-    alt: "Joylynn Kirui Cloud Advocate"
-  location: 
-    display: Nairobi, Kenya
-    lat: -1.286389
-    long: 36.817223
-  twitter: "joylynn_kirui"
 - uid: advocates.julia-muiruri
   name: Julia Muiruri
   tagline: Students / Educators / VS Code
@@ -485,7 +452,7 @@ profiles:
     long: 2.22707
 - uid: advocates.justin-yoo
   name: Justin Yoo
-  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Microsoft MVP Alumni | Docker Captain
+  tagline: .NET / Power Platform / Cloud-native / DevOps / Integration | Docker Captain | Microsoft MVP Alumni
   image:
     src: media/profiles/justin-yoo.png 
     alt: "Justin Yoo Cloud Advocate"
@@ -616,7 +583,7 @@ profiles:
   twitter: "@oliviaguzzardo"
 - uid: advocates.orin-thomas
   name: Orin Thomas
-  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft MVP Alumni | Microsoft RD Alumni | Microsoft Certified Trainer
+  tagline: IT Infrastructure / Operations / IT Pro / Azure | Microsoft Certified Trainer | Microsoft RD Alumni | Microsoft MVP Alumni
   image:
     src: media/profiles/orin-thomas.png
     alt: "Orin Thomas Cloud Operations Advocate"
