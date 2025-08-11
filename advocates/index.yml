@@ -14,6 +14,7 @@ metadata:
   twitterWidgets: true
   hide_bc: true
 filterText: Cloud Advocates
+
 profiles:
 - uid: advocates.aaron-powell
   name: Aaron Powell
@@ -320,17 +321,6 @@ profiles:
     lat: 53.52101
     long: 1.13066
   twitter: "garrytrinder"
-- uid: advocates.gomolemo-mohapi
-  name: Gomolemo Mohapi
-  tagline: Power Apps / Fusion Development
-  image:
-    src: media/profiles/gomolemo-mohapi.png
-    alt: "Gomolemo Mohapi - Cloud Advocate"
-  location: 
-    display: Durban, South Africa
-    lat: -29.858681
-    long: 31.021839
-  twitter: "GomoMohapi"
 - uid: advocates.gustavo-cordido
   name: Gustavo Cordido
   tagline: Spatial Computing / Mixed Reality / AI
