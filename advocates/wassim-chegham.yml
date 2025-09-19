@@ -8,22 +8,38 @@ metadata:
   team: javascript
 remarks: |
   ## Bio
-  Wassim is a member of the Angular team, an open source advocate and a Senior Cloud Advocate at Microsoft.
+  Wassim is an engineer and thought leader working on helping developers build a faster Web. Wassim loves teaching about the Web Platform, AI, and JavaScript.
 
-  He is the author of many open source projects such as xlayers.dev, ngx.tools and letme.vision. He is also a GDE for the Angular team, the Google Assistant and the GCP teams at Google. 
+  As a Senior Cloud Advocate at Microsoft, Wassim leads AI-driven initiatives that empower developers to build intelligent applications using Azure’s cutting-edge technologies. 
+  His work on multi-agent orchestration, including the AI Travel Agent and LlamaIndex.ts integrations, has enabled over 3 million LLM invocations across 40+ enterprise apps. 
+  Through open-source leadership and cross-team collaboration, He's helped shape the future of AI tooling with measurable impact and developer reach.
 
-  Wassim is a member of the Node.js Foundation. A former member of the Angular Universal core team and the Angular Console core team.
-
-  In his free time, Wassim is hacking on DIY projects, learning about EDM and digital drawing.
+  ## Featured Projects and Content
+  - [**LL(k) Parser for TAP stream in Node.js**](https://github.com/nodejs/node/commit/016749ba5d): I implemented a complete handwritten LL(1) parser that parses and transforms the TAP output stream in Node.js's test runner.
+  - [**Azure Static Web Apps CLI**](https://azure.github.io/static-web-apps-cli/): I built the official Azure Static Web Apps CLI.
+  - [**World's 1st Brain-Controlled coffee machine**](https://www.youtube.com/watch?v=bd159jmJfGE): This is the world's 1st Brain-Controlled coffee machine (working proof of concept). It is a coffee machine that can be controlled by a brain. It is a proof of concept, but it is also a real world example of how a machine can be controlled by a brain, by people with disabilities.
+  - [**Windows NT/2000 Theme for VS Code**](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme&ssr=true): A Windows NT/2000 theme for VS Code. For nostalgic people.
+  - [**What happens when you type an URL in an address bar**](https://twitter.com/manekinekko/status/1281704000572858375): A sketch that went viral providing a high level explanation about what happens when you type an URL in an address bar in a Web browser.
+  - [**Understanding async/await in 7 seconds**](https://twitter.com/manekinekko/status/855824609299636230): A tweet that went viral providing a simple explanation how async/await works in JavaScript, in 7 seconds.  
+  - [**The Subtle Art of Being A Developer Advocate!**](https://dev.to/wassimchegham/the-subtle-art-of-being-a-developer-advocate-gdg): A reference explanation of Developer Advocacy and DevRel.
+  - [**The missing Web Bluetooth module for Angular**](https://dev.to/angular/the-web-bluetooth-module-for-angular-314b): The Web Bluetooth module for Angular enables Angular developers to use the Web Bluetooth API to interact with Bluetooth devices, directly from an Angular application. 
+  - [**Hexa CLI for Azure: Deploy in seconds**](https://github.com/manekinekko/hexa): A prototype companion for the Azure CLI. Setup and deploy to Azure in seconds.  
+  - [**Angular package repository**](https://ngx.tools): An Angular package repository built on top of npm registry. It provides a way to search for Angular packages, libraries and schematics. It uses Algolia as a search engine. Project sponsored by Algolia.
 
   ## Skills
-  - Node.js
   - JavaScript
+  - TypeScript
+  - Node.js
+  - Web Development
+  - AI / Agentic Apps
+  - WebAssembly
   - Angular
-  - IoT
-  - Chatbots
+  - Containers
+  - Azure
+  - Developer Advocacy
+  
 
-tagline: Node.js / JavaScript / Web
+tagline: JavaScript / AI / AX
 image:
   alt: "Wassim Chegham Cloud Advocate"
   src: media/profiles/wassim-chegham.jpeg 
@@ -37,8 +53,8 @@ connect:
   - title: Instagram
     url: https://www.instagram.com/wassimchegham
   - title: Blog
-    url: https://dev.to/wassimchegham
+    url: https://wassim.dev
 location:
   display: Paris, France
-  lat: 48.8566
-  long: 2.3522
+  lat: 48.1173
+  long: -1.6778
