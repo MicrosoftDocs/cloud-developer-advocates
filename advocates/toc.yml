@@ -32,8 +32,6 @@ items:
     uid: advocates.barnam-bora
   - name: Bethany Cheum
     uid: advocates.bethany-cheum
-  - name: Bob German
-    uid: advocates.bob-german
   - name: Brian Benz
     uid: advocates.brian-benz
   - name: Bruno Capuano
@@ -64,8 +62,6 @@ items:
     uid: advocates.em-lazerwalker
   - name: Garry Trinder
     uid: advocates.garry-trinder
-  - name: Gomolemo Mohapi
-    uid: advocates.gomolemo-mohapi
   - name: Gustavo Cordido
     uid: advocates.gustavo-cordido
   - name: Gwyneth Peña-Siguenza
