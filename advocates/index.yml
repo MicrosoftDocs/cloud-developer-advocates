@@ -26,28 +26,6 @@ profiles:
     lat: -33.8652521
     long: 151.2029634
   twitter: "slace"
-- uid: advocates.aaron-wislang
-  name: Aaron Wislang
-  tagline: Cloud Native & Linux
-  image:
-    src: media/profiles/aaron-wislang.jpg
-    alt: "Aaron Wislang, Cloud Advocate"
-  location: 
-    display: Toronto, Ontario, Canada
-    lat: 43.6532
-    long: -79.3832
-  twitter: "as_w"
-- uid: advocates.alfredo-deza
-  name: Alfredo Deza
-  tagline: Python / MLOps / DevOps
-  image:
-    src: media/profiles/alfredo-deza.png
-    alt: "Alfredo Deza - Cloud Advocate"
-  location: 
-    display: Marieta, Georgia, United States
-    lat: 33.9483855
-    long: -84.5773912
-  twitter: "alfredodeza"
 - uid: advocates.alvaro-videla
   name: Alvaro Videla
   tagline: RabbitMQ / Functional Programming / Architecture
@@ -81,17 +59,6 @@ profiles:
     lat: 43.653226
     long: -79.3831843
   twitter: "wirelesslife"
-- uid: advocates.anthony-shaw
-  name: Anthony Shaw
-  tagline: Python
-  image:
-    src: media/profiles/anthony-shaw.png
-    alt: "Anthony Shaw Cloud Advocate"
-  location: 
-    display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
-  twitter: "anthonypjshaw"
 - uid: advocates.april-dunnam
   name: April Dunnam
   tagline: Power Platform
@@ -135,17 +102,6 @@ profiles:
     lat: -37.840935
     long: 144.946457
   twitter: "barnambora"
-- uid: advocates.bethany-cheum
-  name: Bethany Cheum
-  tagline: Python / Data Science / AI & ML
-  image:
-    src: media/profiles/bethany-cheum.png
-    alt: "Bethany Cheum Cloud Advocate"
-  location: 
-    display: Nairobi, Kenya
-    lat: 1.2921
-    long: 36.8219
-  twitter: "bethanyjep"
 - uid: advocates.brian-benz
   name: Brian Benz
   tagline: Java / AI / DevOps / Cloud | Java Champion | Jakarta EE Ambassador
@@ -254,28 +210,6 @@ profiles:
     lat: 52.090736
     long: 5.121420
   twitter: "laskewitz"
-- uid: advocates.dave-glover
-  name: Dave Glover
-  tagline: IoT and Cloud
-  image:
-    src: media/profiles/dave-glover.png
-    alt: "Dave Glover Cloud Developer Advocate"
-  location: 
-    display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
-  twitter: "dglover"
-- uid: advocates.david-smith
-  name: David Smith
-  tagline: AI / ML / Data Science / R
-  image:
-    src: media/profiles/david-smith.png
-    alt: "David Smith Cloud Developer Advocate"
-  location: 
-    display: Napa, CA, USA
-    lat: 38.2975381  
-    long: -122.286865
-  twitter: "revodavid"
 - uid: advocates.elaiza-benitez
   name: Elaiza Benitez
   tagline: Power Platform
@@ -353,28 +287,6 @@ profiles:
     lat: 47.2184
     long: 1.5536
   twitter: "iemejia"
-- uid: advocates.jasmine-greenaway
-  name: Jasmine Greenaway
-  tagline: AI, Data
-  image:
-    src: media/profiles/jasmine-greenaway.jpg
-    alt: "Jasmine Greenaway Cloud Developer Advocate"
-  location: 
-    display: Brooklyn,  New York, United States
-    lat: 40.67417
-    long: -74.025653
-  twitter: "paladique"
-- uid: advocates.john-papa
-  name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni
-  image:
-    src: media/profiles/john-papa.png
-    alt: "John Papa - Partner/GM DevRel"
-  location: 
-    display: Orlando, Florida, United States
-    lat: 28.5029917
-    long: -81.5538575
-  twitter: "john_papa"
 - uid: advocates.jorge-arteiro
   name: Jorge Arteiro
   tagline: Containers / Kubernetes / Open Source / Linux
@@ -461,17 +373,6 @@ profiles:
     lat: 23.128994
     long: 113.253250
   twitter: "Ljh8304"
-- uid: advocates.Korey-stegared-pace
-  name: Korey Stegared-Pace
-  tagline: Data Science / Azure / Artificial Intelligence
-  image:
-    src: media/profiles/korey-stegared-pace.png
-    alt: "Korey Stegared-Pace Cloud Developer Advocate"
-  location: 
-    display: Stockholm, Sweden
-    lat: 59.334591
-    long: 18.063240
-  twitter: "koreyspace"
 - uid: advocates.laurent-bugnion
   name: Laurent Bugnion
   tagline: .NET / Azure / AI
@@ -613,16 +514,6 @@ profiles:
     lat: 29.726948
     long: -95.609268
   twitter: "pjdecarlo"
-- uid: advocates.paul-yu
-  name: Paul Yu
-  image:
-    src: media/profiles/paul-yu.jpg 
-    alt: "Paul Yu Cloud Advocate"
-  location: 
-    display: Los Angeles, California, United States
-    lat: 34.0549
-    long: 118.2426
-  twitter: "pauldotyu"
 - uid: advocates.pierre-roman
   name: Pierre Roman
   tagline: Infrastructure / Azure / IaaS / Hybrid / Operations / IT Pro
@@ -645,17 +536,6 @@ profiles:
     lat: 27.4698
     long: 153.0251
   twitter: "williamsrabia"
-- uid: advocates.renee-noble
-  name: Renee Noble
-  tagline: Python / AI / ML
-  image:
-    src: media/profiles/renee-noble.png
-    alt: "Renee Noble Cloud Advocate"
-  location: 
-    display: Sydney, Australia
-    lat: -33.8652521
-    long: 151.2029634
-  twitter: "noble_renee"
 - uid: advocates.rick-claus
   name: Rick Claus
   tagline: Azure / IaaS / Windows Server / On-Prem / IT Pro
@@ -733,17 +613,6 @@ profiles:
     lat: -27.47126
     long: 153.02385
   twitter: "SoniaCuff"
-- uid: advocates.steven-murawski
-  name: Steven Murawski
-  tagline: Cloud Native
-  image:
-    src: media/profiles/steven-murawski.png
-    alt: "Steven Murawski Cloud Developer Advocate"
-  location: 
-    display: New Berlin, Wisconsin, United States
-    lat: 42.976402
-    long: -88.108422
-  twitter: "stevenmurawski"
 - uid: advocates.todd-anglin
   name: Todd Anglin
   tagline: DevRel Leadership | Web / Mobile Development | Microsoft MVP Alumni
@@ -810,17 +679,6 @@ profiles:
     lat: 45.186494
     long: 5.726626
   twitter: "sinedied"
-- uid: advocates.yoshio-terada
-  name: Yoshio Terada
-  tagline: Java
-  image:
-    src: media/profiles/yoshio-terada.png
-    alt: "Yoshio Terada Cloud Developer Advocate"
-  location: 
-    display: Minato-ku Tokyo, Japan
-    lat: 35.626610
-    long: 139.740982
-  twitter: "yoshioterada"
 - uid: advocates.yoshua-wuyts
   name: Yoshua Wuyts
   tagline: Rust

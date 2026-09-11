@@ -9,6 +9,66 @@
       "source_path": "advocates/april-speight.yml",
       "redirect_url": "advocates/april-gittens/",
       "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/aaron-wislang.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/alfredo-deza.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/anthony-shaw.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/bethany-cheum.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/dave-glover.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/david-smith.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/john-papa.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/korey-stegared-pace.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/paul-yu.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/renee-noble.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/steven-murawski.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
+      "source_path": "advocates/yoshio-terada.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
     }
   ]
 }

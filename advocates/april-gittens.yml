@@ -32,8 +32,6 @@ image:
 connect:
   - title: BlueSky
     url: https://bsky.app/profile/prettywiredbuilds.bsky.social
-  - title: Blog
-    url: https://www.prettywiredbuilds.com/
   - title: GitHub
     url: https://github.com/aprilgittens
   - title: LinkedIn
