@@ -41,6 +41,11 @@
       "redirect_document_id": false
     },
     {
+      "source_path": "advocates/john-papa.yml",
+      "redirect_url": "advocates/",
+      "redirect_document_id": false
+    },
+    {
       "source_path": "advocates/korey-stegared-pace.yml",
       "redirect_url": "advocates/",
       "redirect_document_id": false
