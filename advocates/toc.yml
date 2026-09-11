@@ -10,18 +10,12 @@ items:
   items: 
   - name: Aaron Powell
     uid: advocates.aaron-powell
-  - name: Aaron Wislang
-    uid: advocates.aaron-wislang
-  - name: Alfredo Deza
-    uid: advocates.alfredo-deza
   - name: Alvaro Videla
     uid: advocates.alvaro-videla
   - name: Amy Boyd
     uid: advocates.amy-boyd
   - name: Anthony Bartolo
     uid: advocates.anthony-bartolo
-  - name: Anthony Shaw
-    uid: advocates.anthony-shaw
   - name: April Dunnam
     uid: advocates.april-dunnam
   - name: April Gittens
@@ -30,8 +24,6 @@ items:
     uid: advocates.ayca-bas
   - name: Barnam Bora
     uid: advocates.barnam-bora
-  - name: Bethany Cheum
-    uid: advocates.bethany-cheum
   - name: Brian Benz
     uid: advocates.brian-benz
   - name: Bruno Capuano
@@ -52,10 +44,6 @@ items:
     uid: advocates.dan-wahlin
   - name: Daniel Laskewitz
     uid: advocates.daniel-laskewitz
-  - name: Dave Glover
-    uid: advocates.dave-glover
-  - name: David Smith
-    uid: advocates.david-smith
   - name: Elaiza Benitez
     uid: advocates.elaiza-benitez
   - name: Em Lazer-Walker
@@ -90,8 +78,6 @@ items:
     uid: advocates.kamalshree-soundirapandian
   - name: Kinfey Lo
     uid: advocates.kinfey-lo
-  - name: Korey Stegared-Pace
-    uid: advocates.Korey-stegared-pace
   - name: Laurent Bugnion
     uid: advocates.laurent-bugnion
   - name: Lee Stott
@@ -118,14 +104,10 @@ items:
     uid: advocates.patrick-chanezon
   - name: Paul DeCarlo
     uid: advocates.paul-decarlo
-  - name: Paul Yu
-    uid: advocates.paul-yu
   - name: Pierre Roman
     uid: advocates.pierre-roman
   - name: Rabia Williams
     uid: advocates.rabia-williams
-  - name: Renee Noble
-    uid: advocates.renee-noble
   - name: Rick Claus
     uid: advocates.rick-claus
   - name: Rory Preddy
@@ -140,8 +122,6 @@ items:
     uid: advocates.someleze-diko
   - name: Sonia Cuff
     uid: advocates.sonia-cuff
-  - name: Steven Murawski
-    uid: advocates.steven-murawski
   - name: Todd Anglin
     uid: advocates.todd-anglin
   - name: Tomomi Imura
@@ -154,8 +134,6 @@ items:
     uid: advocates.wassim-chegham
   - name: Yohan Lasorsa
     uid: advocates.yohan-lasorsa
-  - name: Yoshio Terada
-    uid: advocates.yoshio-terada
   - name: Yoshua Wuyts
     uid: advocates.yoshua-wuyts
 # Add more to the list. Be careful to preserve spaces and hyphen format.
