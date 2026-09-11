@@ -298,17 +298,6 @@ profiles:
     lat: 40.67417
     long: -74.025653
   twitter: "paladique"
-- uid: advocates.john-papa
-  name: John Papa
-  tagline: DevRel leadership, Web technologist, Engineering leader | Microsoft MVP Alumni | Google Developer Expert | Microsoft RD Alumni
-  image:
-    src: media/profiles/john-papa.png
-    alt: "John Papa - Partner/GM DevRel"
-  location: 
-    display: Orlando, Florida, United States
-    lat: 28.5029917
-    long: -81.5538575
-  twitter: "john_papa"
 - uid: advocates.jorge-arteiro
   name: Jorge Arteiro
   tagline: Containers / Kubernetes / Open Source / Linux
