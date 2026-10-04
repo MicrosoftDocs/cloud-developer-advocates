@@ -23,7 +23,7 @@ remarks: |
 
   Yosh is always happy to grab a coffee and chat about Rust, programming
   languages, or tech in general. Times available are generally between 10:00 and
-  17:00 CET/CEST. Contact them via [Twitter](https://twitter.com/yoshuawuyts).
+  17:00 CET/CEST.
 
   ## Notable Projects
 
@@ -36,8 +36,6 @@ image:
   alt: "Yoshua Wuyts, Rust Developer Advocate"
   src: media/profiles/yoshua-wuyts.jpg
 connect:
-  - title: Twitter  
-    url: https://twitter.com/yoshuawuyts
   - title: GitHub
     url: https://github.com/yoshuawuyts
   - title: Blog
