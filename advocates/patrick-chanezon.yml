@@ -28,8 +28,6 @@ image:
   alt: "Patrick Chanezon Cloud Advocate"
   src: media/profiles/patrick-chanezon.png
 connect:
-  - title: Twitter
-    url: https://twitter.com/chanezon
   - title: GitHub
     url: https://github.com/chanezon
   - title: Facebook
