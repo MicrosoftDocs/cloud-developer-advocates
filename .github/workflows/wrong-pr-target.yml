@@ -1,6 +1,6 @@
 name: Ensure pull requests against main
 on:
-  pull_request_target: # Please read https://securitylab.github.com/research/github-actions-preventing-pwn-requests/ before using
+  pull_request: # Please read https://securitylab.github.com/research/github-actions-preventing-pwn-requests/ before using
     types: [opened, edited]
 
 jobs:
